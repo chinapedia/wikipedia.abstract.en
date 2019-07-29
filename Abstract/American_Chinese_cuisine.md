@@ -1,0 +1,1 @@
+AMERICAN CHINESE CUISINE is a style of Chinese cuisine developed by Americans of Chinese descent. The dishes served in many North American Chinese restaurants are adapted to American tastes and often differ significantly from those found in China.

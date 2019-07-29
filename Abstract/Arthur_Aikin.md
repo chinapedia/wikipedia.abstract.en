@@ -1,0 +1,1 @@
+ARTHUR AIKIN, FLS, FGS (19 May 177315 April 1854) was an English chemist, mineralogist and scientific writer, and was a founding member of the Chemical Society (now the Royal Society of Chemistry). He first became its Treasurer in 1841,[1] and later became the Society's second President.[2]

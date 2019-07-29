@@ -1,0 +1,1 @@
+Vivaldi.jpg is generally believed to be of Vivaldi and may be linked to the Morellon La Cave engraving, which appears to be a modified mirror reflection of it." Michael Talbot, _The Vivaldi Compendium_ (2011), p. 148.

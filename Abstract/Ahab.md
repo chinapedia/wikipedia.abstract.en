@@ -1,0 +1,1 @@
+AHAB (; ; ; ) was the seventh king of Israel since Jeroboam I, the son and successor of Omri, and the husband of Jezebel of Sidon, according to the Hebrew Scriptures.[1] The Hebrew Bible presents Ahab as a wicked king, particularly for condoning Jezebel's influence on religious policies and his principal role behind Naboth's arbitrary execution.

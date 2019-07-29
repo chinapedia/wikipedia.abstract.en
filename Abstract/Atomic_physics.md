@@ -1,0 +1,1 @@
+ATOMIC PHYSICS is the field of physics that studies atoms as an isolated system of electrons and an atomic nucleus. It is primarily concerned with the arrangement of electrons around the nucleus and the processes by which these arrangements change. This comprises ions, neutral atoms and, unless otherwise stated, it can be assumed that the term _atom_ includes ions.[1]

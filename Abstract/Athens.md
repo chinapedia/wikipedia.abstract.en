@@ -1,0 +1,1 @@
+ATHENS (;[1] , _Athína_ ; , _Athênai_ ) is the capital and largest city of Greece. Athens dominates the Attica region and is one of the world's oldest cities, with its recorded history spanning over 3,400 years[2] and its earliest human presence starting somewhere between the 11th and 7th millennium BC.[3]

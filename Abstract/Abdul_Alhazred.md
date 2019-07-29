@@ -1,0 +1,1 @@
+ABDUL ALHAZRED is a fictional character created by American horror writer H. P. Lovecraft. He is the so-called "Mad Arab" credited with authoring the fictional book _Kitab al-Azif_ (the _Necronomicon_), and as such is an integral part of Cthulhu Mythos lore.

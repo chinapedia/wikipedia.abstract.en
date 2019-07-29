@@ -1,0 +1,1 @@
+ADELAIDE ( )[1] is the capital city of the state of South Australia, and the fifth-most populous city of Australia. Adelaide is home to 77 percent of the South Australian population, making it the most centralised population of any state in Australia.

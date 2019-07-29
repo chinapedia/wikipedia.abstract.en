@@ -1,0 +1,1 @@
+An AMATEUR, from French _amateur_ "lover of", is generally considered a person who pursues a particular activity or field of study independently from their source of income. Amateurs and their pursuits are also described as popular, informal, self-taught, user-generated, DIY, and hobbyist.[1]

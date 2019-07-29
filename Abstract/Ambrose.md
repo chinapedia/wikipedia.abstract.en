@@ -1,0 +1,1 @@
+AURELIUS AMBROSIUS (), better known in English as AMBROSE (), was a bishop of Milan who became one of the most influential ecclesiastical figures of the 4th century. He was the Roman governor of Liguria and Emilia, headquartered in Milan, before being made bishop of Milan by popular acclamation in 374. Ambrose was a staunch opponent of Arianism.

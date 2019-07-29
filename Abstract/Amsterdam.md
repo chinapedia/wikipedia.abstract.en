@@ -1,0 +1,1 @@
+AMSTERDAM (, ;[1][2] ) is the capital and most populous city of the Netherlands, with a population of 866,737, 1,380,872 in the urban area,[3] and 2,410,960 in the metropolitan area.[4] Amsterdam is in the province of North Holland.[5][6]

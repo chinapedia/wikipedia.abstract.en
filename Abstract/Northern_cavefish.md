@@ -1,0 +1,1 @@
+The NORTHERN CAVEFISH or NORTHERN BLINDFISH, _Amblyopsis spelaea_, is found in caves through Kentucky and southern Indiana. It is listed as a threatened species in the United States and the IUCN lists the species as near threatened.

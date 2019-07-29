@@ -1,0 +1,1 @@
+ACTAEON (; _Aktaion_),[1] in Greek mythology, son of the priestly herdsman Aristaeus and Autonoe in Boeotia, was a famous Theban hero.[2] Like Achilles in a later generation, he was trained by the centaur Chiron.

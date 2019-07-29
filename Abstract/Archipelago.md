@@ -1,0 +1,1 @@
+Aegean_Sea_map_bathymetry-fr.jpg with its large number of islands is the origin of the term "Archipelago".]] MerguiArchipelagoMap.png in Myanmar.]]An ARCHIPELAGO ( ), sometimes called an ISLAND GROUP or ISLAND CHAIN, is a chain, cluster or collection of islands, or sometimes a sea containing a small number of scattered islands.

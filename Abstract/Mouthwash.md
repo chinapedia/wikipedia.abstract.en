@@ -1,0 +1,1 @@
+Listerine_products.jpg]] MOUTHWASH, MOUTH RINSE, ORAL RINSE, or MOUTH BATH[1] is a liquid which is held in the mouth passively or swilled around the mouth by contraction of the perioral muscles and/or movement of the head, and may be gargled, where the head is tilted back and the liquid bubbled at the back of the mouth.

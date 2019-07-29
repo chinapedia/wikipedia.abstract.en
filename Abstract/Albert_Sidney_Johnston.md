@@ -1,0 +1,1 @@
+ALBERT SIDNEY JOHNSTON (February 2, 1803 – April 6, 1862) served as a general in three different armies: the Texian Army, the United States Army, and the Confederate States Army. He saw extensive combat during his 34-year military career, fighting actions in the Black Hawk War, the Texas War of Independence, the Mexican–American War, the Utah War, and the American Civil War.

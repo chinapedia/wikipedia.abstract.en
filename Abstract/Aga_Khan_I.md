@@ -1,0 +1,1 @@
+AGA KHAN I ( or ), was the title accorded to HASAN ALI SHAH () (1804 – 1881), the governor of Kirman, 46th Imam of the Nizari Ismaili Muslims, and prominent Muslim leader in Iran and later in the Indian subcontinent.

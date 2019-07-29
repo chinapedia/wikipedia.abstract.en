@@ -1,0 +1,1 @@
+LANGLOIS(1861)_p507_-_VUE_DES_RUINES_D'_ANAZARBE.jpg Anazarbus_clikya_west_gate_and_anvarza_castle.JPG '''Anazarbus ''' (, medieval AIN ZARBA; modern ANAVARZA; ) was an ancient Cilician city. Under the late Roman Empire, it was the capital of Cilicia Secunda. It was destroyed in 1374.

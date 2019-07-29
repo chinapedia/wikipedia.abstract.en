@@ -1,0 +1,1 @@
+THE APACHE SOFTWARE FOUNDATION (ASF) is an American non-profit corporation (classified as a 501(c)(3) organization in the United States) to support Apache software projects, including the Apache HTTP Server. The ASF was formed from the Apache Group and incorporated on March 25, 1999.[1][2]

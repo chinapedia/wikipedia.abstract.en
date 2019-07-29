@@ -1,0 +1,1 @@
+ALEXANDER GRAHAM BELL ('Graham' pronounced ) (March 3, 1847 – August 2, 1922)[1] was a Scottish-born scientist, inventor, engineer, and innovator who is credited with inventing and patenting the first practical telephone. He also founded the American Telephone and Telegraph Company (AT&T) in 1885.[2][3]

@@ -1,0 +1,1 @@
+ANXIETY is an emotion characterized by an unpleasant state of inner turmoil, often accompanied by nervous behaviour such as pacing back and forth, somatic complaints, and rumination.[1] It is the subjectively unpleasant feelings of dread over anticipated events, such as the feeling of imminent death.[2]

@@ -1,0 +1,1 @@
+KIM RENARD NAZEL (born June 17, 1965),[1] better known by his stage names ARABIAN PRINCE or PROFESSOR X, is an American rapper, singer-songwriter, record producer, and DJ.[2][3][4][5][6][7] He is best known as a founding member of N.W.A.

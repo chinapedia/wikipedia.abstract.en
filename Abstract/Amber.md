@@ -1,0 +1,1 @@
+amber.pendants.800pix.050203.jpg is .]] Amber2.jpg Bernsteinzimmer01.jpg in the Catherine Palace, Saint Petersburg was reconstructed using new amber from Kaliningrad ]] Amber_Bernstein_many_stones.jpg Amber_miners2.jpg

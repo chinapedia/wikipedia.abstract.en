@@ -1,0 +1,1 @@
+Collection_of_military_aircraft.jpg test aircraft]] Mi-8_(RA-24477)_Helicopter_in_SPB.jpg is the most-produced helicopter in history.]] Cessna172-CatalinaTakeOff.JPG _Skyhawk_ is the most produced aircraft in history.]] Voodoo_P_51_2014_Gold_Champion_photo_D_Ramey_Logan.jpg, a modified P 51 Mustang, is the 2014 Reno Air Race Champion.]]

@@ -1,0 +1,1 @@
+_THE PLAGUE_ (French: _LA PESTE_) is a novel by Albert Camus, published in 1947, that tells the story of a plague sweeping the French Algerian city of Oran. It asks a number of questions relating to the nature of destiny and the human condition. The characters in the book, ranging from doctors to vacationers to fugitives, all help to show the effects the plague has on a populace.

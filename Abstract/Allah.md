@@ -1,0 +1,1 @@
+Allah3.svg]] ALLAH (;[1][2] , ) is the Arabic word for God in Abrahamic religions. In the English language, the word generally refers to God in Islam.[3][4][5] The word is thought to be derived by contraction from _al-ilāh_, which means "the god", and is related to _El_ and _Elah_, the Hebrew and Aramaic words for God.[6][7]

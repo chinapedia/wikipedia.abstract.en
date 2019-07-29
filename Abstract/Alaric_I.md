@@ -1,0 +1,1 @@
+ALARIC I (; , "ruler of all";[1] ; 370 (or 375)410 AD) was the first king of the Visigoths from 395–410, son (or paternal grandson) of chieftain Rothestes.[2] He is best known for his sack of Rome in 410, which marked a decisive event in the decline of the Western Roman Empire.

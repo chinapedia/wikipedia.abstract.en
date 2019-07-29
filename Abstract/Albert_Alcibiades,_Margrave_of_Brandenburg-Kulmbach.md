@@ -1,0 +1,1 @@
+ALBERT II (; 28 March 15228 January 1557) was the Margrave of Brandenburg-Kulmbach (Brandenburg-Bayreuth) from 1527 to 1553. He was a member of the Franconian branch of the House of Hohenzollern. Because of his bellicose nature, Albert during his lifetime was given the cognomen _Bellator_ ("the Warlike"). Posthumously, he became known as _Alcibiades_.

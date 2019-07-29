@@ -1,0 +1,1 @@
+_ACTRESSES_ (Catalan: _ACTRIUS_) is a 1997 Catalan language Spanish drama film produced and directed by Ventura Pons and based on the award-winning stage play _E.R._ by Josep Maria Benet i Jornet. The film has no male actors, with all roles played by females.[1] The film was produced in 1996.[2]
