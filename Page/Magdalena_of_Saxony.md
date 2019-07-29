@@ -1,0 +1,9 @@
+MAGDALENA OF SAXONY (7 March 1507 – 25 January 1534) was Margravine of Brandenburg, its "Electoral Princess", the Electoral equivalent of a crown princess.
+
+She was the daughter of George _the Bearded_, Duke of Saxony and his wife Barbara. Magdalena's maternal grandparents were Kazimierz IV Jagiellon and his wife queen Elisabeth of Austria, daughter of Albert II of Germany.
+
+She was a granddaughter of the Elisabeth aforementioned,mother of the Jagiellonians, queen of Poland, who had claimed the Duchy of Luxembourg in 1460s as being the younger daughter of the last Luxembourg heiress Elisabeth of Luxembourg, Queen of Bohemia. Though by no means an heiress of her grandmother, she was intended to wed the heir of her grandmother's older sister. Joachim (1505–1571), the future elector of Brandenburg, was the eldest son and heir of their current claimant of Luxembourg, Joachim I, Elector of Brandenburg (1484–1535), the eldest son and heir of Margaret of Thuringia (1449–1501), Dowager Electress of Brandenburg, herself the eldest daughter and heiress of Anna, Duchess of Luxembourg and William of Saxony, Landgrave of Thuringia.
+
+Magdalena was thus married, at Dresden, on 6 November 1524, to her second cousin's son Joachim Hector, the future Elector of Brandenburg. Their son was John George, another future Elector of Brandenburg. After Magdalena's death which occurred well before Joachim ascended the electorate, Joachim II Hector married Hedwig Jagiellon, daughter of King Sigismund I of Poland.
+
+Category:House of Wettin Category:People from Dresden Category:1507 births Category:1534 deaths Category:Electoral Princesses of Brandenburg Category:Margravines of Germany

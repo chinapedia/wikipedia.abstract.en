@@ -1,0 +1,43 @@
+JOACHIM I NESTOR (21 February 1484 – 11 July 1535) was a Prince-elector of the Margraviate of Brandenburg (1499–1535), the fifth member of the House of Hohenzollern. His nickname was taken from King Nestor of Greek mythology.
+
+
+Biography
+
+The eldest son of John Cicero, Elector of Brandenburg, Joachim received an excellent education under the supervision of Dietrich von Bülow, Bishop of Lebus and Chancellor of Frankfurt University. He became Elector of Brandenburg upon his father's death in January 1499, and soon afterwards married Elizabeth of Denmark, daughter of King John of Denmark. They had five children:
+
+1.  Joachim II Hektor (9 January 1505 – 3 January 1571)
+2.  Anna (1507 – 19 June 1567) married Albert VII, Duke of Mecklenburg-Güstrow
+3.  Elisabeth (24 August 1510 – 25 May 1558)
+4.  Margaret (29 September 1511 – 1577), married on 23 January 1530 George I, Duke of Pomerania and after his death in 1534 John V, Prince of Anhalt-Zerbst.
+5.  John (3 August 1513 – 13 January 1571)
+
+Joachim took some part in the political complications of the Scandinavian kingdoms, but the early years of his reign were mainly spent in the administration of his electorate, where he succeeded in restoring some degree of order through stern measures. He also improved the administration of justice, aided the development of commerce, and was sympathetic to the needs to the towns. On the approach of the imperial election of 1519, Joachim's vote was eagerly solicited by the partisans of King Francis I of France, and Charles of Burgundy. Having treated with both parties, and received lavish promises from them, he appears to have hoped to be Emperor himself; but when the election came, he turned to the winning side and voted for Charles. In spite of this, relations between the Emperor and the Elector were not friendly, and during the next few years Joachim was frequently in communication with Charles' enemies.
+
+In the course of Hohenzollern power politics Joachim Nestor and his brother managed to get the latter, Albert of Mainz, first onto the sees of Magdeburg and then its suffragan of Halberstadt, both prince-bishoprics also comprising princely territories. Since prince-episcopal sees were so influential, competing candidates usually ran for them. A candidature could turn into a bribery competition, without ever knowing exactly how much competitors paid to obtain office. The expenditures involved, as far as they exceeded one's own potential, were usually advanced by creditors and had then to be recovered by levying dues from the subjects and parishioners in the prince-bishoprics and dioceses that were just acquired. The acquisition in 1514 of the very influential Prince-Archbishopric-Electorate of Mainz for Albert was a coup that provided the Hohenzollerns with control over two of the seven electoral votes in imperial elections and many suffragan dioceses to levy dues.
+
+According to canon law, Albert was too young to hold such a position and since he would not give up the archiepiscopal see of Magdeburg (in order to terminate the accumulation of archdioceses, which was also prohibited by canon law), the Hohenzollerns had to dispense ever greater briberies at the Holy See. This exhausted their means and caused them to incur vast debts with the Fuggers.
+
+To assist in the recovery of the enormous expenditures employed to assist Albert, mediators stipulated with the Holy See that the pope would allow Albert to sell indulgences to the believers in his archdioceses and their suffragans. The sales proceeds had to cover the amortisation and servicing of the debts; a share for the Holy See, for allowing this exploitation of the believers; the expenditure paid from the Hohenzollerns own pockets; and the charges involved with the sales.[1]
+
+The neighbouring Electorate of Saxony also bid for the See of Mainz, but failed to secure it. The Saxon elector Frederick the Wise had debts of his own as a result, but no see to show for it and no privilege to sell indulgences to recover his expenditures. Frustrated, he forbade the sale of indulgences in his electorate and allowed Martin Luther to polemicize against them.
+
+Joachim Nestor, in contrast, became known as a pugnacious adherent of Roman Catholic orthodoxy who needed the sales of indulgences and the necessary intimidation of the believers in order to recover his expenditures. Joachim Nestor's brother, Archbishop Albert, was the initial object of Luther's attack. He urged on the Emperor the need to enforce the Edict of Worms, and at several diets was prominent among the enemies of the Reformers.
+
+A patron of learning, Joachim Nestor established the Viadrina university of Frankfurt (Oder) in 1506. He promoted Georg von Blumenthal, the "Pillar of Catholicism", as Chancellor of Frankfurt University, Bishop of Lebus and a Privy Counsellor. He was among those who met at Dessau in July 1525 and was a member of the league established at Halle in November 1533. But his wife, against his will, like her brother King Christian of Denmark, became Lutheran, and in 1528 fled for safety to Saxony. He experienced the mortification of seeing Protestantism also favoured by other members of his family. He died at Stendal in 1535.
+
+
+Ancestry
+
+
+References
+
+-   T. von Buttlar, _Der Kampf Joachims I. van Brandenburg gegen den Adel_ (1889)
+-   J. G. Droysen, _Geschichte ier Preussischen Politik_ (1855–1886)
+-
+
+
+Notes
+
+Category:1484 births Category:1535 deaths Joachim I Joachim I Category:German Roman Catholics
+
+[1] Fugger's accountants and preachers were travelling together from parish to parish. The preachers would sufficiently frighten the parishioners with the tortures of the purgatory, so that they would spend their scarce money for buying a reduction of years in the repurgatory - a so-called indulgence - for themselves, living and dead family and friends.

@@ -1,0 +1,195 @@
+Alumni_Hall_1889_Sun.jpg, a traditional New England liberal arts college.]]
+
+A LIBERAL ARTS COLLEGE or LIBERAL ARTS INSTITUTION OF HIGHER EDUCATION is a college with an emphasis on undergraduate study in the liberal arts and sciences. Such colleges aim to impart a broad general knowledge and develop general intellectual capacities, in contrast to a professional, vocational, or technical curriculum.[1] Students in a liberal arts college generally major in a particular discipline while receiving exposure to a wide range of academic subjects, including sciences as well as the traditional humanities subjects taught as liberal arts. Although it draws on European antecedents, the liberal arts college is strongly associated with American higher education, and most liberal arts colleges around the world draw explicitly on the American model.
+
+According to US News & World Report, the top ten ranked Liberal Arts Colleges in America for 2019, by alphabetical order are: Amherst College, Bowdoin College, Carleton College, Claremont McKenna College, Davidson College, Middlebury College, Pomona College, Swarthmore College, Wellesley College, Williams College.
+
+There is no formal definition of liberal arts college, but one American authority defines them as schools that "emphasize undergraduate education and award at least half of their degrees in the liberal arts fields of study."[2] Other researchers have adopted similar definitions.
+
+Although many liberal arts colleges are exclusively undergraduate, some also offer graduate programs that lead to a master's degree or doctoral degree in subjects such as business administration, nursing, medicine, and law. Similarly, although the term "liberal arts college" most commonly refers to an independent institution, it may also sometimes refer to a university college within or affiliated with a larger university. Most liberal arts colleges outside the United States follow this model.
+
+
+Distinguishing characteristics
+
+Shimer_College_class_1995_octagonal_table.jpg in Chicago]]
+
+Liberal arts colleges are distinguished from other types of higher education chiefly by their generalist curricula and small size. These attributes have various secondary effects in terms of administration as well as student experience. For example, class size is usually much lower at liberal arts colleges than at universities, and faculty at liberal arts colleges typically focus on teaching more than research.
+
+From a student perspective, a liberal arts college typically differs from other forms of higher education in the following areas: higher overall student satisfaction, a general feeling that professors take a personal interest in the student's education, and perception of encouragement to participate in discussion. Many students select liberal arts colleges with precisely this sense of personal connection in mind.
+
+From an administrative standpoint, the small size of liberal arts colleges contributes to their cohesion and ability to survive through difficult times. Job satisfaction is also typically higher in liberal arts colleges, for both faculty and staff. The smaller size also makes it feasible for liberal arts colleges to adopt relatively experimental or divergent approaches, such as the Great Books curriculum at St. John's or Shimer, or the radically interdisciplinary curriculum of Marlboro.
+
+In addition, most liberal arts colleges are primarily residential, which means students live and learn away from home, often for the first time.
+
+The distinctiveness of these attributes is somewhat eroded by the tendency of universities to adopt aspects of the liberal arts college, and vice versa. For example, several American universities, including the University of California system, have experimented with a cluster colleges model in which small liberal-arts-college-like units within a larger university form a "honeycomb of residential colleges". In addition, some universities have maintained a sub-unit that preserves many aspects of the liberal arts college, such as Columbia College within Columbia University.
+
+Liberal arts colleges themselves sometimes cluster to offer greater curricular breadth or share other resources (for instance Colgate University and Hamilton College in New York allow cross enrollment).
+
+
+Liberal arts and liberal arts college
+
+In academia, liberal arts generally refer to subjects or skills that aim to provide general knowledge and comprise the arts, humanities, natural sciences, and social sciences, as opposed to professional or technical subjects.[3] Most liberal arts colleges nowadays, however, offer more than just liberal arts subjects, such as computer science from the formal science discipline.[4]
+
+
+Globally
+
+Blanchard_Hall_(5978664560).jpg, a Christian liberal arts college in Illinois]]
+
+Liberal arts colleges are found in all parts of the world. Notwithstanding the European origins of the concept of liberal arts education, today the term is largely associated with the United States, and most self-identified liberal arts colleges worldwide are built on the American model.[5] The Global Liberal Arts Alliance, which incorporates institutions on five continents, refers to itself as "an international, multilateral partnership of American style liberal arts institutions."[6]
+
+In 2009, liberal arts colleges from around the world formed the Global Liberal Arts Alliance, an international consortium and "matching service" to help liberal arts colleges in different countries deal with their shared problems.[7]
+
+In North America
+
+The liberal arts college model took root in the United States in the 19th century, as institutions spread that followed the model of early schools like Harvard, Yale, and Dartmouth, although none of these early American schools are regarded as liberal arts colleges today. These colleges served as a means of spreading a basically European cultural model across the new country. The model proliferated in the 19th century; some 212 small liberal arts colleges were established between 1850 and 1899. As of 1987, there were about 540 liberal arts colleges in the United States.
+
+The oldest liberal arts college in America is considered to be Washington College, the first college chartered after American independence. Other prominent examples in the United States include the so-called Little Ivy colleges in New England, Carleton College in Minnesota, the surviving predominantly female Seven Sisters colleges along the northeastern seaboard, the Claremont Colleges in Southern California, and the Ohio Five, but similar institutions are found all over the country. Most are private institutions, but a handful of public liberal arts schools exist (such as the University of Mary Washington, and New Saint Andrews College in Moscow, Idaho).
+
+Liberal arts colleges are also found in Canada, including Bishop's University, Concordia University, Mount Allison University, St. Francis Xavier University, and St. Thomas University.
+
+In Europe
+
+Seminar_Bard_College_Berlin,_2013.jpg, in Europe]]
+
+With the exception of pioneering institutions such as Franklin University Switzerland, established as a Europe-based, US-style liberal arts college in 1969, Saint Louis University Madrid Campus, established in 1967, and Richmond, The American International University in London, established in 1972[8] only recently have efforts been made to import the American liberal arts college model to continental Europe.
+
+In the Netherlands, universities have opened constituent liberal arts colleges under the terminology "university college" since the late 1990s. This trend was spearheaded by Dutch sociologist Hans Adriaansens, who was "frustrated with the large-scale climate of university education in the Netherlands".[9] Dutch university colleges of this kind include Leiden University College The Hague, University College Utrecht, University College Maastricht, Amsterdam University College, University College Roosevelt, Erasmus University College, University College Groningen and University College Tilburg.
+
+Other liberal arts colleges in continental Europe include Bratislava International School of Liberal Arts in Slovakia, and Bard College Berlin, the Leuphana University of Lüneburg with their Bachelor program Studium Individuale and the University College Freiburg in Germany. Bard College Berlin was founded in Berlin in 1999 as the European College of Liberal Arts,[10] and in 2009 it introduced a 4-year Bachelor of Arts program in Value Studies taught in English and leading to an interdisciplinary degree in the humanities.[11]
+
+Although liberal arts colleges as such remain rare, liberal arts degree programs are beginning to establish themselves in Europe. For example, University College Dublin offers the degree, as does St. Marys University College Belfast, both institutions coincidentally on the island of Ireland. In 2010 the University of Winchester introduced its Modern Liberal Arts[12] undergraduate program, the first of its kind in the UK. In 2012, University College London began its interdisciplinary Arts and Sciences BASc degree (which has kinship with the liberal arts model) with 80 students.[13] King's College London launched the BA Liberal Arts, which has a slant towards arts, humanities and social sciences subjects.[14] The New College of the Humanities also launched a new liberal education programme. The four-year bachelor's degree in Liberal Arts and Sciences at University College Freiburg is the first of its kind in Germany. It started in October 2012 with 78 students.[15] The first Liberal Arts degree program in Sweden was established at Gothenburg University in 2011,[16] followed by a Liberal Arts Bachelor Programme at Uppsala University's Campus Gotland in the autumn of 2013.[17] Liberal arts colleges in Italy include John Cabot University and The American University of Rome in Rome. The University College of North Staffordshire, founded in 1950 in the United Kingdom, was frequently referred to as the "Keele Experiment" because of its innovative curriculum and emphasis on a scholarly community resident together on campus. The college became Keele University in 1962 and continues to reflect many features of the liberal arts college model. It has been described as the closest example of a liberal arts college in the UK. This distinctiveness will be reinforced with the opening of the new Keele Institute of Liberal Arts and Sciences in 2016.
+
+From September 2016 Chavagnes Studium, a Liberal Arts centre in France will be offering a 2-year intensive BA in the Liberal Arts with a distinctively Catholic perspective.[18]
+
+In Asia
+
+International_Christian_University,_Mitaka,_Tokyo,_Japan.jpg in Japan]] Lingnan University in Hong Kong was established as a liberal arts college in the early 20th century, although it subsequently became a full-fledged university. Ginling College in Nanjing similarly followed the model of an American liberal arts college from its founding in 1915 until forced to conform with the Nationalist educational system in the 1930s.[19] In Zhuhai City, Hong Kong Baptist University and Beijing Normal University opened United International College, which adopted the liberal arts college education system.
+
+International Christian University in Tokyo, which opened in 1953, defines itself as "Japan's first liberal arts college."[20]
+
+Yale-NUS College was started in 2011 as Singapore's first liberal arts college as a collaboration between Yale University in the United States and the National University of Singapore.[21] It attracted controversy over concerns that Yale was compromising on its liberal values by opening a college in a country where there are strong curbs on freedom of speech and assembly, with Yale faculty members expressing their "concern regarding the history of lack of respect for civil and political rights in the state of Singapore”.[22] In response, many existing faculty and students have noted that there has been little repression of freedom of expression at the college and that it provides a great opportunity to promote the liberal arts in Asia.[23]
+
+Underwood International College belonging to Yonsei University is South Korea's first liberal arts college.
+
+Kalayaan College in the Philippines is among the best examples of a liberal arts college in the country. Located in the New Manila district of Quezon City, it was founded in 2000 by former educators from the University of the Philippines led by Dr. José V. Abueva, President of the University from 1987 to 1993. It offers the same kind of education provided by UP to qualified students who are unable to enter the country's premier state university because of its limited college quotas.[24] The curriculum is patterned after the academic programs that are offered by the University of the Philippines and is composed of administrators and faculty members who are also members of the UP academic community.[25]
+
+Liberal arts colleges in South Asia include Ajeenkya D Y Patil University in Pune, India, Forman Christian College in Lahore, Pakistan, and FLAME University in Pune, Maharashtra, India, referred to as India's 'first college of Liberal Education'.[26] The University is a member of the Global Liberal Arts Alliance[27] has also recently signed a Memorandum of Understanding (MoU) with Nuffield College, University of Oxford.[28]
+
+Also, Ahmedabad University, a private,[29] non-profit university offers its students a liberal education which is focused on research and interdisciplinary learning[30]_._
+
+In the Middle East
+
+Shalem_College_building.jpg in Israel.]]
+
+The liberal arts model has traditionally not been part of the educational landscape in the Middle East or North Africa. Baghdad College has offered a liberal arts curriculum since the early 20th century, but despite its name it has never offered more than a high school education. Effat University in Saudi Arabia, a women's institution, is a member of the Global Liberal Arts Alliance and The first liberal arts college in the Middle East is however generally considered to be Shalem College in Israel, established in 2013.
+
+In Africa
+
+Al_Akhawayn_Campus.jpg in Morocco.]] Three institutions in Africa are members of the Global Liberal Arts Alliance: Al Akhawayn University in Morocco, American University of Cairo in Egypt, and American University of Nigeria. The Egyptian and Nigerian schools are universities with a liberal arts component, but Al Akhawayn was founded on the model of an American liberal arts college.
+
+Ashesi University is a liberal arts college located in Berekuso, Ghana, established in 2002. The school's president, Patrick Awuah, described the school's mission as "educating a new generation of leaders in Africa who think ethically and who are problem solvers and have the ability and the desire to confront problems on the continent."[31]
+
+In Australia
+
+Campion College is a Roman Catholic dedicated liberal arts college located in the western suburbs of Sydney. Founded in 2006, it is the first tertiary educational liberal arts college of its kind in Australia. Campion offers a Bachelor of Arts in the Liberal Arts as its sole undergraduate degree. The key disciplines studied are history, literature, philosophy and theology.
+
+
+Lists of schools
+
+-   List of liberal arts colleges
+-   List of liberal arts colleges in the United States
+
+
+See also
+
+-   Liberal arts
+-   College of Arts and Sciences
+-   Liberal arts colleges in the United States
+
+
+Works cited
+
+-   -   -   -
+
+
+References
+
+
+Further reading
+
+-   Morris, Edward. _The Lindenwood Model: An Antidote for What Ails Undergraduate Education_. University Press (2007)
+-   Pfnister, Allen O. "The Role of the Liberal Arts College." _The Journal of Higher Education_. Vol. 55, No. 2 (March/April 1984): 145–170.
+-   Reeves, Floyd W. "The Liberal-Arts College." _The Journal of Higher Education_. Vol. 1, No. 7 (1930): 373–380.
+-   Seidel, George. "Saving the Small College." _The Journal of Higher Education_. Vol. 39, No. 6 (1968): 339–342.
+
+
+External links
+
+-   Global Liberal Arts Alliance
+-   Council of Public Liberal Arts Colleges
+-   Consortium of Liberal Arts Colleges
+-   How many (U.S.) colleges and universities have closed since 2016? A list maintained by Education Drive and updated in real time.
+
+Liberal_arts_colleges Category:Universities and colleges in the United States Category:Types of university or college
+
+[1]
+
+[2]
+
+[3]
+
+[4]
+
+[5]
+
+[6]
+
+[7]
+
+[8]
+
+[9]
+
+[10]
+
+[11]
+
+[12]
+
+[13]
+
+[14]
+
+[15]
+
+[16]
+
+[17]
+
+[18]
+
+[19]
+
+[20]
+
+[21]
+
+[22]
+
+[23]
+
+[24]
+
+[25]
+
+[26]
+
+[27]
+
+[28]
+
+[29]
+
+[30]
+
+[31]

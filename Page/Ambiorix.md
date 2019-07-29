@@ -1,0 +1,58 @@
+AMBIORIX (Gaulish "king in all directions") was, together with Cativolcus, prince of the Eburones, leader of a Belgic tribe of north-eastern Gaul (Gallia Belgica), where modern Belgium is located. In the nineteenth century Ambiorix became a Belgian national hero because of his resistance against Julius Caesar, as written in Caesar's _Commentarii de Bello Gallico_.[1]
+
+
+Early history
+
+In 57 BC Julius Caesar conquered parts of Gaul and also Belgica (Belgium, modern-day Northern France, Luxembourg, part of present-day Netherlands below the Rhine River; and the north-western portion of North Rhine-Westphalia, Germany). There were several tribes in the country who fought against each other frequently. The Eburones were ruled by Ambiorix and Catuvolcus. In 54 BC Caesar's troops urgently needed more food, and so the local tribes were forced to give up part of their harvest, which had not been good that year. Understandably the starving Eburones were reluctant to do so and Caesar ordered that camps be built near the Eburones' villages. Each centurion was ordered to make sure the food supplies were delivered to the Roman soldiers. This created resentment among the Eburones.
+
+Although Julius Caesar had freed him from paying tribute to the Atuatuci, Ambiorix joined Catuvolcus in the winter of 54 BC in an uprising against the Roman forces under Q. Titurius Sabinus and L. Aurunculeius Cotta.
+
+
+Resisting the Romans
+
+Liège,_Palais_Provincial,_épisodes_des_guerres_d'Ambiorix.JPG Because a drought had disrupted his grain supply, Caesar was forced to winter his legions among the rebellious Belgic tribes. Roman troops led by Q. Titurius Sabinus and L. Aurunculeius Cotta were wintering among the Eburones when they were attacked by them, led by Ambiorix and Cativolcus. Ambiorix deceived the Romans, telling them the attack was made without his consent, and further advised them to flee as a large Germanic force was preparing to cross the Rhine. Trusting Ambiorix, Sabinus and Cotta's troops left the next morning. A short distance from their camp, the Roman troops were ambushed by the Eburones and massacred.
+
+Elsewhere, another Roman force under Q. Tullius Cicero, brother of the orator Marcus, were wintering amongst the Nervii. Leading a coalition of rebellious Belgic tribes, Ambiorix surrounded Cicero's camp. After a long while, a Roman messenger was finally able to slip through the Belgic lines and get word of the uprising to Caesar. Mobilizing his legions, Caesar immediately marched to Cicero's aid. As they approached the besieged Roman camp, the Belgae moved to engage Caesar's troops. Vastly outnumbered, Caesar ordered his troops to appear confused and frightened, and they successfully lured the Belgae to attack them on ground favourable to the Romans. Caesar's forces launched a fierce counterattack, and soon put the Belgae to flight. Later, Caesar's troops entered Cicero's camp to find most of the men wounded.
+
+Meanwhile, Indutiomarus, a leader of the Treveri, began to harass Labienus's camp daily, eventually provoking Labienus to send out his cavalry with specific orders to kill Indutiomarus. They did so, and routed the remnants of Indutiomarus's army. Caesar personally remained in Gaul for the remainder of winter due to the renewed Gallic threat.
+
+
+Caesar's revenge
+
+When the Roman senate heard what had happened, Caesar swore to put down all the Belgic tribes. Ambiorix had killed a whole Roman legion and five cohorts. A Belgic attack on Q. Tullius Cicero, then stationed with a legion in the territory of the Nervii, failed due to the timely appearance of Caesar. The Roman campaigns against the Belgae took a few years, but eventually the tribes were slaughtered or driven out and their fields burned. The Eburones disappeared from history after this genocidal event. According to the writer Florus, Ambiorix and his men succeeded in crossing the Rhine and disappeared without a trace.[2]
+
+
+Legacy
+
+Caesar wrote about Ambiorix in his commentary about his battles against the Gauls, _De Bello Gallico_. In this text he also wrote the famous line: "Of these [three regions], the Belgae are the bravest." ("... _Horum omnium fortissimi sunt Belgae_ ...").
+
+Ambiorix remained a relatively obscure figure until the nineteenth century. When Belgium became independent in 1830 the national government started searching through their historical archives for people who could serve as national heroes. In Caesar's _De Bello Gallico_, Ambiorix and his deeds were rediscovered. In 1841 the Belgian poet Joannes Nolet de Brauwere Van Steeland wrote a lyrical epic about Ambiorix and on September 5, 1866 a statue of Ambiorix was erected on the main market square in Tongeren, Belgium, referred to by Caesar as Atuatuca, i.e. Atuatuca Tungrorum.
+
+Today, Ambiorix is one of the most famous characters in Belgian history. Many companies, bars and friteries have named themselves after him, and in many Belgian comics such as Suske en Wiske and Jommeke he plays a guest role. There was also a short-lived comic called _Ambionix_,[3] which featured a scientist teleporting a Belgic chief, loosely based on Ambiorix, to modern-day Belgium.
+
+In the French comic Asterix, in the album _Asterix in Belgium_, Asterix, Obelix, Dogmatix and Vitalstatistix go to Belgium because they are angry with Caesar about his remark that the Belgians are the bravest of all the Gauls.
+
+
+See also
+
+-   List of people who disappeared
+
+
+References
+
+Other sources
+
+-   Caesar, _De Bello Gallico_ v. 26-51, vi. 29-43, viii. 24; Dio Cassius xl. 7-11; Florus iii. 10.
+
+
+External links
+
+-   Ambiorix
+
+Category:Germanic rulers Category:Belgae Category:Celtic warriors Category:Gaulish rulers Category:Germanic warriors Category:Barbarian people of the Gallic Wars Category:1st-century BC rulers in Europe
+
+[1]
+
+[2] Florus, iii. 10. § 8
+
+[3]

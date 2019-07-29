@@ -1,0 +1,65 @@
+In probability theory, an EVENT is a set of outcomes of an experiment (a subset of the sample space) to which a probability is assigned.[1] A single outcome may be an element of many different events,[2] and different events in an experiment are usually not equally likely, since they may include very different groups of outcomes.[3] An event defines a complementary event, namely the complementary set (the event _not_ occurring), and together these define a Bernoulli trial: did the event occur or not?
+
+Typically, when the sample space is finite, any subset of the sample space is an event (_i_._e_. all elements of the power set of the sample space are defined as events). However, this approach does not work well in cases where the sample space is uncountably infinite. So, when defining a probability space it is possible, and often necessary, to exclude certain subsets of the sample space from being events (see _Events in probability spaces_, below).
+
+
+A simple example
+
+If we assemble a deck of 52 playing cards with no jokers, and draw a single card from the deck, then the sample space is a 52-element set, as each card is a possible outcome. An event, however, is any subset of the sample space, including any singleton set (an elementary event), the empty set (an impossible event, with probability zero) and the sample space itself (a certain event, with probability one). Other events are proper subsets of the sample space that contain multiple elements. So, for example, potential events include: Venn_A_subset_B.svg of an event. _B_ is the sample space and _A_ is an event.
+By the ratio of their areas, the probability of _A_ is approximately 0.4.]]
+
+-   "Red and black at the same time without being a joker" (0 elements),
+-   "The 5 of Hearts" (1 element),
+-   "A King" (4 elements),
+-   "A Face card" (12 elements),
+-   "A Spade" (13 elements),
+-   "A Face card or a red suit" (32 elements),
+-   "A card" (52 elements).
+
+Since all events are sets, they are usually written as sets (e.g. {1, 2, 3}), and represented graphically using Venn diagrams. In the situation where each outcome in the sample space Ω is equally likely, the probability P of an event _A_ is the following :
+$$\mathrm{P}(A) = \frac{|A|}{|\Omega|}\,\ \left( \text{alternatively:}\ \Pr(A) = \frac{|A|}{|\Omega|}\right)$$
+This rule can readily be applied to each of the example events above.
+
+
+Events in probability spaces
+
+Defining all subsets of the sample space as events works well when there are only finitely many outcomes, but gives rise to problems when the sample space is infinite. For many standard probability distributions, such as the normal distribution, the sample space is the set of real numbers or some subset of the real numbers. Attempts to define probabilities for all subsets of the real numbers run into difficulties when one considers 'badly behaved' sets, such as those that are nonmeasurable. Hence, it is necessary to restrict attention to a more limited family of subsets. For the standard tools of probability theory, such as joint and conditional probabilities, to work, it is necessary to use a σ-algebra, that is, a family closed under complementation and countable unions of its members. The most natural choice is the Borel measurable set derived from unions and intersections of intervals. However, the larger class of Lebesgue measurable sets proves more useful in practice.
+
+In the general measure-theoretic description of probability spaces, an event may be defined as an element of a selected σ-algebra of subsets of the sample space. Under this definition, any subset of the sample space that is not an element of the σ-algebra is not an event, and does not have a probability. With a reasonable specification of the probability space, however, all _events of interest_ are elements of the σ-algebra.
+
+
+A note on notation
+
+Even though events are subsets of some sample space Ω, they are often written as predicates or indicators involving random variables. For example, if _X_ is a real-valued random variable defined on the sample space Ω, the event
+
+{_ω_ ∈ _Ω_ ∣ _u_ < _X_(_ω_) ≤ _v_} 
+can be written more conveniently as, simply,
+
+_u_ < _X_ ≤ _v_ .
+This is especially common in formulas for a probability, such as
+
+Pr (_u_ < _X_ ≤ _v_) = _F_(_v_) − _F_(_u_) .
+The set _u_ < _X_ ≤ _v_ is an example of an inverse image under the mapping _X_ because ω ∈ X^( − 1)((u, v]) if and only if u < X(ω) ≤ v.
+
+
+See also
+
+-   Complementary event
+-   Elementary event
+-   Independent event
+
+
+Notes
+
+
+External links
+
+-   -   Formal definition in the Mizar system.
+
+Category:Experiment (probability theory)
+
+[1]
+
+[2]
+
+[3]

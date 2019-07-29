@@ -1,0 +1,36 @@
+ROBERT YOUNG is a serial entrepreneur who is best known for founding Red Hat Inc., the open source software company. He also owns the franchise for the Hamilton Tiger-Cats of the Canadian Football League and serves as self-styled Caretaker of the team. He was born in Hamilton, Ontario, Canada.[1] He attended Trinity College School in Port Hope, Ontario. He received a Bachelor of Arts from Victoria College at the University of Toronto.
+
+
+Career
+
+Prior to Red Hat, Young built a couple of computer rental and leasing businesses, including founding Vernon Computer Rentals in 1984.[2] Descendants of Vernon are still operating under that name. After leaving Vernon, Young founded the ACC Corp Inc. in 1993.
+
+Marc Ewing and Young co-founded open-source software company Red Hat (NYSE: RHT). Red Hat is now a member of the S&P 500 Index. Marc Ewing and Young's partnership started in 1994 when ACC acquired the Red Hat trademarks from Ewing. In early 1995, ACC changed its name to Red Hat Software, which has subsequently been shortened to simply Red Hat, Inc. Young served as Red Hat's CEO until 1999.
+
+In 2002, Young founded Lulu.com, a print-on-demand, self-publishing company, and served as CEO. In 2006, Young established the Lulu Blooker Prize, a book prize for books that began as blogs. He launched the prize partly as a means to promote Lulu.
+
+Young served as CEO of PrecisionHawk, a commercial drone technology company, from 2015 to 2017.[3] Prior to being named PrecisionHawk's CEO in 2015, he was an early investor in the company. He continues to serve on its board as Chairman.
+
+Young also co-founded Linux Journal in 1994, and in 2003, he purchased the Hamilton Tiger-Cats, a Canadian Football League franchise.
+
+Young focuses his philanthropic efforts on access to information and advancement of knowledge. In 1999, he co-founded The Center for the Public Domain. Young has supported the Creative Commons, Public Knowledge.org, the Dictionary of Old English, Loran Scholarship Foundation, ibiblio.org, and the NCSU eGames, among others.
+
+
+See also
+
+-   Center for the Public Domain
+-   Red Hat
+-   _Linux Journal_
+-   Lulu (company)
+-   ibiblio
+
+
+References
+
+Category:Year of birth missing (living people) Category:Living people Category:Businesspeople from Ontario Category:Open source people Category:Red Hat people Category:University of Toronto alumni Category:People from Hamilton, Ontario Category:Hamilton Tiger-Cats owners Category:Forge FC
+
+[1]
+
+[2]
+
+[3] https://techcrunch.com/2017/01/25/blackboard-cofounder-michael-chasen-takes-ceo-reigns-at-precisionhawk/

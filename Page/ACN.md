@@ -1,0 +1,23 @@
+ACN may refer to:
+
+-   Accenture (NYSE: ACN)
+-   Acetonitrile
+-   Achang language, a Tibeto-Burman language of China
+-   Achnasheen railway station, UK, National Rail code
+-   _Acineta_, a genus of orchid
+-   ACN Inc., multi-level marketing telecommunications company
+-   Acrylonitrile
+-   Action Congress of Nigeria, political party of Nigeria
+-   Africa Cup of Nations, biennial football tournament
+-   Agencia Carabobeña de Noticias, news agency, Valencia, Venezuela
+-   Aid to the Church in Need, Catholic charity in Königstein im Taunus, Germany
+-   Aircraft Classification Number, pavement load of an aircraft
+-   Algebraic Chess Notation, the standard notation for recording chess games
+-   American Collectibles Network, now Jewelry Television, US
+-   Andean Community of Nations
+-   Anglican Communion Network, Pittsburgh, US
+-   _Ante Christum Natum_, seldom-used Latin equivalent of B.C.
+-   Architecture for Control Networks, network protocol for theatrical control
+-   Atlantis Cable News, fictional news channel on _The Newsroom (U.S. TV series)_
+-   Australian Company Number
+-   Ciudad Acuña International Airport, an airport in Ciudad Acuña, Mexico

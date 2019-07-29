@@ -1,0 +1,1380 @@
+SOMALIA ( ;[1][2][3] ; ), officially the FEDERAL REPUBLIC OF SOMALIA[4] (; ), is a country located in the Horn of Africa. It is bordered by Ethiopia to the west, the Gulf of Aden to the north, the Guardafui Channel and Somali Sea to the east, and Kenya to the southwest. Somalia has the longest coastline on Africa's mainland,[5] and its terrain consists mainly of plateaus, plains and highlands.[6] Climatically, hot conditions prevail year-round, with periodic monsoon winds and irregular rainfall.[7]
+
+Somalia has an estimated population of around {{#expr:/1e6 round 1}} million., and has been described as the most culturally homogeneous country in Africa.[8][9] Around 85% of its residents are ethnic Somalis,[10] who have historically inhabited the northern part of the country. Ethnic minorities are largely concentrated in the southern regions.[11] The official languages of are Somali and Arabic.[12] Most people in the country are Muslim,[13] with the majority being Sunni.[14]
+
+In antiquity, Somalia was an important commercial centre.[15][16] It is among the most probable locations of the fabled ancient Land of Punt.[17][18][19] During the Middle Ages, several powerful Somali empires dominated the regional trade, including the Ajuran Empire, the Adal Sultanate, the Warsangali Sultanate, and the Sultanate of the Geledi. The toponym _Somalia_ was coined by the Italian explorer Luigi Robecchi Bricchetti (1855–1926).[20]
+
+In the late 19th century, the British and Italian empires established the colonies of British Somaliland and Italian Somaliland.[21][22] In the interior, Mohammed Abdullah Hassan's Darwiish repelled the British four times, forcing a retreat to the coast,[23] before succumbing in the Somaliland campaign (1920).[24] Italy acquired full control of the northeastern, central and southern parts of the area after successfully waging the Campaign of the Sultanates against the ruling Majeerteen Sultanate and Sultanate of Hobyo.[25] In 1960, the two regions united to form the independent Somali Republic under a civilian government.[26]
+
+The Supreme Revolutionary Council seized power in 1969 and established the Somali Democratic Republic, which collapsed in 1991 as the Somali Civil War broke out. During this period most regions returned to customary and religious law. The early 2000s saw the creation of interim federal administrations. The Transitional National Government (TNG) was established in 2000, followed by the formation of the Transitional Federal Government (TFG) in 2004, which reestablished the military.[27][28][29] In 2006, the TFG assumed control of most of the nation's southern conflict zones from the newly formed Islamic Courts Union (ICU). The ICU subsequently splintered into more radical groups such as Al-Shabaab, which battled the TFG and its AMISOM allies for control of the region.[30]
+
+By mid-2012, the insurgents had lost most of the territory that they had seized, and a search for more permanent democratic institutions began.[31] A new provisional constitution was passed in August 2012,[32][33] which reformed Somalia as a federation.[34] The same month, the Federal Government of Somalia was formed[35] and a period of reconstruction began in Mogadishu.[36][37] Somalia has maintained an informal economy, mainly based on livestock, remittances from Somalis working abroad, and telecommunications.[38][39] It is a member of the United Nations, the Arab League, African Union, Non-Aligned Movement and the Organisation of Islamic Cooperation.
+
+
+History
+
+Prehistory
+
+Somalia has been inhabited since at least the Paleolithic. During the Stone Age, the Doian and Hargeisan cultures flourished here.[40] The oldest evidence of burial customs in the Horn of Africa comes from cemeteries in Somalia dating back to the 4th millennium BCE.[41] The stone implements from the Jalelo site in the north were also characterized in 1909 as important artefacts demonstrating the archaeological universality during the Paleolithic between the East and the West.[42]
+
+According to linguists, the first Afroasiatic-speaking populations arrived in the region during the ensuing Neolithic period from the family's proposed urheimat ("original homeland") in the Nile Valley,[43] or the Near East.[44]
+
+The Laas Geel complex on the outskirts of Hargeisa in northwestern Somalia dates back approximately 5,000 years, and has rock art depicting both wild animals and decorated cows.[45] Other cave paintings are found in the northern Dhambalin region, which feature one of the earliest known depictions of a hunter on horseback. The rock art is in the distinctive Ethiopian-Arabian style, dated to 1,000 to 3,000 BCE.[46][47] Additionally, between the towns of Las Khorey and El Ayo in northern Somalia lies Karinhegane, the site of numerous cave paintings of real and mythical animals. Each painting has an inscription below it, which collectively have been estimated to be around 2,500 years old.[48][49]
+
+Antiquity and classical era
+
+Ancient pyramidical structures, mausoleums, ruined cities and stone walls, such as the Wargaade Wall, are evidence of an old civilization that once thrived in the Somali peninsula.[50][51] This civilization enjoyed a trading relationship with ancient Egypt and Mycenaean Greece since the second millennium BCE, supporting the hypothesis that Somalia or adjacent regions were the location of the ancient Land of Punt.[52][53] The Puntites traded myrrh, spices, gold, ebony, short-horned cattle, ivory and frankincense with the Egyptians, Phoenicians, Babylonians, Indians, Chinese and Romans through their commercial ports. An Egyptian expedition sent to Punt by the 18th dynasty Queen Hatshepsut is recorded on the temple reliefs at Deir el-Bahari, during the reign of the Puntite King Parahu and Queen Ati.[54] In 2015, isotopic analysis of ancient baboon mummies from Punt that had been brought to Egypt as gifts indicated that the specimens likely originated from an area encompassing eastern Somalia and the Eritrea-Ethiopia corridor.[55]
+
+In the classical era, the Macrobians, who may have been ancestral to Somalis, established a powerful tribal kingdom that ruled large parts of modern Somalia. They were reputed for their longevity and wealth, and were said to be the "tallest and handsomest of all men".[56] The Macrobians were warrior herders and seafarers. According to Herodotus' account, the Persian Emperor Cambyses II, upon his conquest of Egypt in 525 BC, sent ambassadors to Macrobia, bringing luxury gifts for the Macrobian king to entice his submission. The Macrobian ruler, who was elected based on his stature and beauty, replied instead with a challenge for his Persian counterpart in the form of an unstrung bow: if the Persians could manage to draw it, they would have the right to invade his country; but until then, they should thank the gods that the Macrobians never decided to invade their empire.[57][58] The Macrobians were a regional power reputed for their advanced architecture and gold wealth, which was so plentiful that they shackled their prisoners in golden chains.[59]
+
+The camel is believed to have been domesticated in the Horn region sometime between the 2nd and 3rd millennium BCE. From there, it spread to Egypt and the Maghreb.[60] During the classical period, the northern Barbara city-states of Mosylon, Opone, Mundus, Isis, Malao, Avalites, Essina, Nikon and Sarapion developed a lucrative trade network, connecting with merchants from Ptolemaic Egypt, Ancient Greece, Phoenicia, Parthian Persia, Saba, the Nabataean Kingdom, and the Roman Empire. They used the ancient Somali maritime vessel known as the _beden_ to transport their cargo.
+
+After the Roman conquest of the Nabataean Empire and the Roman naval presence at Aden to curb piracy, Arab and Somali merchants agreed with the Romans to bar Indian ships from trading in the free port cities of the Arabian peninsula[61] to protect the interests of Somali and Arab merchants in the lucrative commerce between the Red and Mediterranean Seas.[62] However, Indian merchants continued to trade in the port cities of the Somali peninsula, which was free from Roman interference.[63]Queen_of_punt.jpg, depicted on Pharaoh Hatshepsut's temple at Deir el-Bahri.]]For centuries, Indian merchants brought large quantities of cinnamon to Somalia and Arabia from Ceylon and the Spice Islands. The source of the cinnamon and other spices is said to have been the best-kept secret of Arab and Somali merchants in their trade with the Roman and Greek world; the Romans and Greeks believed the source to have been the Somali peninsula.[64] The collusive agreement among Somali and Arab traders inflated the price of Indian and Chinese cinnamon in North Africa, the Near East, and Europe, and made the cinnamon trade a very profitable revenue generator, especially for the Somali merchants through whose hands large quantities were shipped across sea and land routes.[65]Laas_Geel_single_cow.jpg complex depicting a long-horned cow.]]
+
+Birth of Islam and the Middle Ages
+
+Silk_route.jpg extending from China to southern Europe, Arabia, Somalia, Egypt, Persia, India, and Java.]] Islam was introduced to the area early on by the first Muslims of Mecca fleeing prosecution during the first Hejira with Masjid al-Qiblatayn being built before the Qiblah towards Mecca. The town of Zeila's two-mihrab Masjid al-Qiblatayn dates to the 6th century, and is the oldest mosque in Africa.[66] In the late 9th century, Al-Yaqubi wrote that Muslims were living along the northern Somali seaboard.[67] He also mentioned that the Adal Kingdom had its capital in the city.[68][69] According to Leo Africanus, the Adal Sultanate was governed by local Somali dynasties and its realm encompassed the geographical area between the Bab el Mandeb and Cape Guardafui. It was thus flanked to the south by the Ajuran Empire and to the west by the Abyssinian Empire.[70] YagbeaSionBattlingAdaSultan.JPG (right) and his troops battling King Yagbea-Sion and his men. From _Le livre des Merveilles_, 15th century.]] In 1332, the Zeila-based King of Adal was slain in a military campaign aimed at halting Abyssinian emperor Amda Seyon I's march toward the city.[71] When the last Sultan of Ifat, Sa'ad ad-Din II, was also killed by Emperor Dawit I in Zeila in 1410, his children escaped to Yemen, before returning in 1415.[72] In the early 15th century, Adal's capital was moved further inland to the town of Dakkar, where Sabr ad-Din II, the eldest son of Sa'ad ad-Din II, established a new base after his return from Yemen.[73][74] ShenDuGiraffePainting.jpg maintained commercial ties with the Ming dynasty and other kingdoms.]] Adal's headquarters were again relocated the following century, this time southward to Harar. From this new capital, Adal organised an effective army led by Imam Ahmad ibn Ibrahim al-Ghazi (Ahmad "Gurey" or "Gran"; both meaning "the left-handed") that invaded the Abyssinian empire.[75] This 16th-century campaign is historically known as the Conquest of Abyssinia (_Futuh al-Habash_). During the war, Imam Ahmad pioneered the use of cannons supplied by the Ottoman Empire, which he imported through Zeila and deployed against Abyssinian forces and their Portuguese allies led by Cristóvão da Gama.[76] Some scholars argue that this conflict proved, through their use on both sides, the value of firearms such as the matchlock musket, cannon, and the arquebus over traditional weapons.[77]
+
+During the Ajuran Sultanate period, the sultanates and republics of Merca, Mogadishu, Barawa, Hobyo and their respective ports flourished and had a lucrative foreign commerce, with ships sailing to and coming from Arabia, India, Venetia,[78] Persia, Egypt, Portugal, and as far away as China. Vasco da Gama, who passed by Mogadishu in the 15th century, noted that it was a large city with houses several storeys high and large palaces in its centre, in addition to many mosques with cylindrical minarets.[79] The Harla, an early Hamitic group of tall stature who inhabited parts of Somalia, Tchertcher and other areas in the Horn, also erected various tumuli.[80] These masons are believed to have been ancestral to ethnic Somalis.[81]
+
+In the 16th century, Duarte Barbosa noted that many ships from the Kingdom of Cambaya in modern-day India sailed to Mogadishu with cloth and spices, for which they in return received gold, wax and ivory. Barbosa also highlighted the abundance of meat, wheat, barley, horses, and fruit on the coastal markets, which generated enormous wealth for the merchants.[82] Mogadishu, the center of a thriving textile industry known as _toob benadir_ (specialized for the markets in Egypt, among other places[83]), together with Merca and Barawa, also served as a transit stop for Swahili merchants from Mombasa and Malindi and for the gold trade from Kilwa.[84] Jewish merchants from the Hormuz brought their Indian textile and fruit to the Somali coast in exchange for grain and wood.[85]
+
+Trading relations were established with Malacca in the 15th century,[86] with cloth, ambergris and porcelain being the main commodities of the trade.[87] Giraffes, zebras and incense were exported to the Ming Empire of China, which established Somali merchants as leaders in the commerce between East Asia and the Horn.[88] Hindu merchants from Surat and Southeast African merchants from Pate, seeking to bypass both the Portuguese blockade and Omani interference, used the Somali ports of Merca and Barawa (which were out of the two powers' jurisdiction) to conduct their trade in safety and without interference.[89]
+
+Early modern era and the scramble for Africa
+
+Sayyid_Mohammed_Abdullah_Hassan.jpeg, leader of the Dervish movement.]] In the early modern period, successor states to the Adal Sultanate and Ajuran Sultanate began to flourish in Somalia. These included the Warsangali Sultanate, the Bari Dynasties, the Sultanate of the Geledi (Gobroon dynasty), the Majeerteen Sultanate (Migiurtinia), and the Sultanate of Hobyo (Obbia). They continued the tradition of castle-building and seaborne trade established by previous Somali empires.
+
+Sultan Yusuf Mahamud Ibrahim, the third Sultan of the House of Gobroon, started the golden age of the Gobroon Dynasty. His army came out victorious during the Bardheere Jihad, which restored stability in the region and revitalized the East African ivory trade. He also received presents from and had cordial relations with the rulers of neighbouring and distant kingdoms such as the Omani, Witu and Yemeni Sultans.
+
+Sultan Ibrahim's son Ahmed Yusuf succeeded him and was one of the most important figures in 19th-century East Africa, receiving tribute from Omani governors and creating alliances with important Muslim families on the East African coast. In northern Somalia, the Gerad Dynasty conducted trade with Yemen and Persia and competed with the merchants of the Bari Dynasty. The Gerads and the Bari Sultans built impressive palaces and fortresses and had close relations with many different empires in the Near East.
+
+Garesadihafun.jpg in Hafun.]] Mogadishu1936.jpg, capital of Italian Somaliland, with the Catholic Cathedral and the Arch monument in honor of King Umberto I of Italy.]] In the late 19th century, after the Berlin Conference of 1884, European powers began the Scramble for Africa, which inspired the Dervish leader Mohammed Abdullah Hassan to rally support from across the Horn of Africa and begin one of the longest colonial resistance wars ever. In several of his poems and speeches, Hassan emphasized that the British "have destroyed our religion and made our children their children" and that the Christian Ethiopians in league with the British were bent upon plundering the political and religious freedom of the Somali nation.[90] He soon emerged as "a champion of his country's political and religious freedom, defending it against all Christian invaders".[91]
+
+Hassan issued a religious ordinance stipulating that any Somali national who did not accept the goal of unity of Somalia and would not fight under his leadership would be considered to be kafir, or _gaal_. He soon acquired weapons from the Ottoman Empire, Sudan, other Islamic and Arabian countries, and appointed ministers and advisers to administer different areas or sectors of Somalia. In addition, he gave a clarion call for Somali unity and independence, in the process organizing his forces.
+
+Hassan's Dervish movement had an essentially military character, and the Dervish revolt was fashioned on the model of a Salihiya brotherhood. It was characterized by a rigid hierarchy and centralization. Though Hassan threatened to drive the Christians into the sea, he executed the first attack by launching his first major military offensive with his 1,500 Dervish equipped with 20 modern rifles on the British soldiers stationed in the region. He repulsed the British in four expeditions and had relations with the Central Powers of the Ottomans and the Germans. In 1920, the Dervish movement collapsed after intensive aerial bombardments by Britain, and Dervish territories were subsequently turned into a protectorate.
+
+The dawn of fascism in the early 1920s heralded a change of strategy for Italy, as the north-eastern sultanates were soon to be forced within the boundaries of _La Grande Somalia_ according to the plan of Fascist Italy. With the arrival of Governor Cesare Maria De Vecchi on 15 December 1923, things began to change for that part of Somaliland known as Italian Somaliland. Italy had access to these areas under the successive protection treaties, but not direct rule.
+
+The Fascist government had direct rule only over the Benadir territory. Fascist Italy, under Benito Mussolini, attacked Abyssinia (Ethiopia) in 1935, with an aim to colonize it. The invasion was condemned by the League of Nations, but little was done to stop it or to liberate occupied Ethiopia. On 3 August 1940, Italian troops, including Somali colonial units, crossed from Ethiopia to invade British Somaliland, and by 14 August, succeeded in taking Berbera from the British.
+
+A British force, including troops from several African countries, launched the campaign in January 1941 from Kenya to liberate British Somaliland and Italian-occupied Ethiopia and conquer Italian Somaliland. By February, most of Italian Somaliland was captured and in March, British Somaliland was retaken from the sea. The forces of the British Empire operating in Somaliland comprised the three divisions of South African, West African, and East African troops. They were assisted by Somali forces led by Abdulahi Hassan with Somalis of the Isaaq, Dhulbahante, and Warsangali clans prominently participating. The number of Italian Somalis began to decline after World War II, with fewer than 10,000 remaining in 1960.[92]
+
+Independence (1960–1969)
+
+Following World War II, Britain retained control of both British Somaliland and Italian Somaliland as protectorates. In 1945, during the Potsdam Conference, the United Nations granted Italy trusteeship of Italian Somaliland as the Trust Territory of Somaliland, on the condition—first proposed by the Somali Youth League (SYL) and other nascent Somali political organizations, such as Hizbia Digil Mirifle Somali (HDMS) and the Somali National League (SNL)—that Somalia achieve independence within ten years.[93][94] British Somaliland remained a protectorate of Britain until 1960.[95]
+
+To the extent that Italy held the territory by UN mandate, the trusteeship provisions gave the Somalis the opportunity to gain experience in Western political education and self-government. These were advantages that British Somaliland, which was to be incorporated into the new Somali state, did not have. Although in the 1950s British colonial officials attempted, through various administrative development efforts, to make up for past neglect, the protectorate stagnated. The disparity between the two territories in economic development and political experience would later cause serious difficulties integrating the two parts.[96]
+
+Meanwhile, in 1948, under pressure from their World War II allies and to the dismay of the Somalis,[97] the British returned the Haud (an important Somali grazing area that was presumably protected by British treaties with the Somalis in 1884 and 1886) and the Ogaden to Ethiopia, based on a treaty they signed in 1897 in which the British ceded Somali territory to the Ethiopian Emperor Menelik in exchange for his help against possible advances by the French.[98]
+
+Britain included the conditional provision that the Somali residents would retain their autonomy, but Ethiopia immediately claimed sovereignty over the area. This prompted an unsuccessful bid by Britain in 1956 to buy back the Somali lands it had turned over.[99] Britain also granted administration of the almost exclusively Somali-inhabited Northern Frontier District (NFD) to Kenyan nationalists.[100][101] This was despite a plebiscite in which, according to a British colonial commission, almost all of the territory's ethnic Somalis favored joining the newly formed Somali Republic.[102]
+
+A referendum was held in neighbouring Djibouti (then known as French Somaliland) in 1958, on the eve of Somalia's independence in 1960, to decide whether or not to join the Somali Republic or to remain with France. The referendum turned out in favour of a continued association with France, largely due to a combined yes vote by the sizable Afar ethnic group and resident Europeans.[103] There was also widespread vote rigging, with the French expelling thousands of Somalis before the referendum reached the polls.[104]
+
+The majority of those who voted 'no' were Somalis who were strongly in favour of joining a united Somalia, as had been proposed by Mahmoud Harbi, Vice President of the Government Council. Harbi was killed in a plane crash two years later.[105] Djibouti finally gained independence from France in 1977, and Hassan Gouled Aptidon, a Somali who had campaigned for a 'yes' vote in the referendum of 1976, eventually became Djibouti's first president (1977–1999).[106]
+
+On 1 July 1960, the two territories united to form the Somali Republic, albeit within boundaries drawn up by Italy and Britain.[107][108] A government was formed by Abdullahi Issa and Muhammad Haji Ibrahim Egal with other members of the trusteeship and protectorate governments, with Haji Bashir Ismail Yusuf as President of the Somali National Assembly, Aden Abdullah Osman Daar as President of the Somali Republic, and Abdirashid Ali Shermarke as Prime Minister (later to become President from 1967 to 1969). On 20 July 1961 and through a popular referendum, the people of Somalia ratified a new constitution, which was first drafted in 1960.[109] In 1967, Muhammad Haji Ibrahim Egal became Prime Minister, a position to which he was appointed by Shermarke. Egal would later become the President of the autonomous Somaliland region in northwestern Somalia.
+
+On 15 October 1969, while paying a visit to the northern town of Las Anod, Somalia's then President Abdirashid Ali Shermarke was shot dead by one of his own bodyguards. His assassination was quickly followed by a military coup d'état on 21 October 1969 (the day after his funeral), in which the Somali Army seized power without encountering armed opposition — essentially a bloodless takeover. The putsch was spearheaded by Major General Mohamed Siad Barre, who at the time commanded the army.[110]
+
+Somali Democratic Republic (1969–1991)
+
+Muhammad_Siad_Barre_-_40866X9X9.jpg, Chairman of the Supreme Revolutionary Council, meeting with President of Romania Nicolae Ceauşescu.]] Alongside Barre, the Supreme Revolutionary Council (SRC) that assumed power after President Sharmarke's assassination was led by Lieutenant Colonel Salaad Gabeyre Kediye and Chief of Police Jama Korshel. Kediye officially held the title "Father of the Revolution", and Barre shortly afterwards became the head of the SRC.[111] The SRC subsequently renamed the country the Somali Democratic Republic,[112][113] dissolved the parliament and the Supreme Court, and suspended the constitution.[114]
+
+The revolutionary army established large-scale public works programs and successfully implemented an urban and rural literacy campaign, which helped dramatically increase the literacy rate. In addition to a nationalization program of industry and land, the new regime's foreign policy placed an emphasis on Somalia's traditional and religious links with the Arab world, eventually joining the Arab League in 1974.[115] That same year, Barre also served as chairman of the Organisation of African Unity (OAU), the predecessor of the African Union (AU).[116]
+
+In July 1976, Barre's SRC disbanded itself and established in its place the Somali Revolutionary Socialist Party (SRSP), a one-party government based on scientific socialism and Islamic tenets. The SRSP was an attempt to reconcile the official state ideology with the official state religion by adapting Marxist precepts to local circumstances. Emphasis was placed on the Muslim principles of social progress, equality and justice, which the government argued formed the core of scientific socialism and its own accent on self-sufficiency, public participation and popular control, as well as direct ownership of the means of production. While the SRSP encouraged private investment on a limited scale, the administration's overall direction was essentially communist.[117]
+
+In July 1977, the Ogaden War broke out after Barre's government used a plea for national unity to justify an aggressive incorporation of the predominantly Somali-inhabited Ogaden region of Ethiopia into a Pan-Somali Greater Somalia, along with the rich agricultural lands of south-eastern Ethiopia, infrastructure, and strategically important areas as far north as Djibouti.[118] In the first week of the conflict, Somali armed forces took southern and central Ogaden and for most of the war, the Somali army scored continuous victories on the Ethiopian army and followed them as far as Sidamo. By September 1977, Somalia controlled 90% of the Ogaden and captured strategic cities such as Jijiga and put heavy pressure on Dire Dawa, threatening the train route from the latter city to Djibouti. After the siege of Harar, a massive unprecedented Soviet intervention consisting of 20,000 Cuban forces and several thousand Soviet experts came to the aid of Ethiopia's communist Derg regime. By 1978, the Somali troops were ultimately pushed out of the Ogaden. This shift in support by the Soviet Union motivated the Barre government to seek allies elsewhere. It eventually settled on the Soviets' Cold War arch-rival, the United States, which had been courting the Somali government for some time. All in all, Somalia's initial friendship with the Soviet Union and later partnership with the United States enabled it to build the largest army in Africa.[119]
+
+A new constitution was promulgated in 1979 under which elections for a People's Assembly were held. However, Barre's Somali Revolutionary Socialist Party politburo continued to rule.[120] In October 1980, the SRSP was disbanded, and the Supreme Revolutionary Council was re-established in its place.[121] By that time, Barre's government had become increasingly unpopular. Many Somalis had become disillusioned with life under military dictatorship.
+
+The regime was weakened further in the 1980s as the Cold War drew to a close and Somalia's strategic importance was diminished. The government became increasingly authoritarian, and resistance movements, encouraged by Ethiopia, sprang up across the country, eventually leading to the Somali Civil War. Among the militia groups were the Somali Salvation Democratic Front (SSDF), United Somali Congress (USC), Somali National Movement (SNM) and the Somali Patriotic Movement (SPM), together with the non-violent political oppositions of the Somali Democratic Movement (SDM), the Somali Democratic Alliance (SDA) and the Somali Manifesto Group (SMG).
+
+During 1990, in the capital city of Mogadishu, the residents were prohibited from gathering publicly in groups greater than three or four. Fuel shortages caused long lines of cars at petrol stations. Inflation had driven the price of pasta (ordinary dry Italian noodles, a staple at that time) to five U.S. dollars per kilogram. The price of khat, imported daily from Kenya, was also five U.S. dollars per standard bunch. Paper currency notes were of such low value that several bundles were needed to pay for simple restaurant meals.
+
+A thriving black market existed in the centre of the city as banks experienced shortages of local currency for exchange. At night, the city of Mogadishu lay in darkness. Close monitoring of all visiting foreigners was in effect. Harsh exchange control regulations were introduced to prevent export of foreign currency. Although no travel restrictions were placed on foreigners, photographing many locations was banned. During daytime in Mogadishu, the appearance of any government military force was extremely rare. Alleged late-night operations by government authorities, however, included "disappearances" of individuals from their homes.[122]
+
+Somali Civil War
+
+In 1991, the Barre administration was ousted by a coalition of clan-based opposition groups, backed by Ethiopia's then-ruling Derg regime and Libya.[123] Following a meeting of the Somali National Movement and northern clans' elders, the northern former British portion of the country declared its independence as Somaliland in May 1991. Although de facto independent and relatively stable compared to the tumultuous south, it has not been recognized by any foreign government.[124][125] Mogadishu.jpg Many of the opposition groups subsequently began competing for influence in the power vacuum that followed the ouster of Barre's regime. In the south, armed factions led by USC commanders General Mohamed Farah Aidid and Ali Mahdi Mohamed, in particular, clashed as each sought to exert authority over the capital.[126] In 1991, a multi-phased international conference on Somalia was held in neighbouring Djibouti. Aidid boycotted the first meeting in protest.[127]
+
+Due to the legitimacy bestowed on Muhammad by the Djibouti conference, he was subsequently recognized by the international community as the new President of Somalia. Djibouti, Egypt, Saudi Arabia and Italy were among the countries that officially extended recognition to Muhammad's administration.[128] He was not able to exert his authority beyond parts of the capital. Power was instead vied with other faction leaders in the southern half of Somalia and with autonomous sub-national entities in the north.[129] The Djibouti conference was followed by two abortive agreements for national reconciliation and disarmament, which were signed by 15 political stakeholders: an agreement to hold an Informal Preparatory Meeting on National Reconciliation, and the 1993 Addis Ababa Agreement made at the Conference on National Reconciliation.[130]
+
+In the early 1990s, due to the protracted lack of a permanent central authority, Somalia began to be characterized as a "failed state".[131][132][133] Political scientist Ken Menkhaus argues that evidence suggested that the nation had already attained failed state status by the mid-1980s,[134] while Robert I. Rotberg similarly posits that the state failure had preceded the ouster of the Barre administration.[135] Hoehne (2009), Branwen (2009) and Verhoeven (2009) also used Somalia during this period as a case study to critique various aspects of the "state failure" discourse.[136]
+
+Somaliland_UCID_elections_rally.jpg wearing the colors of the Somaliland flag, prior to parliamentary elections in 2005.]]
+
+UN Security Council Resolution 733 and UN Security Council Resolution 746 led to the creation of UNOSOM I, the first mission to provide humanitarian relief and help restore order in Somalia after the dissolution of its central government. United Nations Security Council Resolution 794 was unanimously passed on 3 December 1992, which approved a coalition of United Nations peacekeepers led by the United States. Forming the Unified Task Force (UNITAF), the alliance was tasked with assuring security until humanitarian efforts aimed at stabilizing the situation were transferred to the UN. Landing in 1993, the UN peacekeeping coalition started the two-year United Nations Operation in Somalia II (UNOSOM II) primarily in the south.[137] UNITAF's original mandate was to use "all necessary means" to guarantee the delivery of humanitarian aid in accordance to Chapter VII of the United Nations Charter,[138] and is regarded as a success.[139]
+
+Aidid saw UNOSOM II as a threat to his power and in June 1993 his militia attacked Pakistan Army troops, attached to UNOSOM II, (see Somalia (March 1992 to February 1996)) in Mogadishu inflicting over 80 casualties. Fighting escalated until 19 American troops and more than 1,000 civilians and militia were killed in a raid in Mogadishu during October 1993.[140][141] The UN withdrew Operation United Shield on 3 March 1995, having suffered significant casualties, and with the rule of government still not restored. In August 1996, Aidid was killed in Mogadishu. Former UN Secretary General Boutros Boutros Ghali and Ahmedou Ould Abdallah, UN special envoy to Somalia have referred to the killing of civilians during the conflict as a "genocide".[142][143]
+
+Under the auspices of the UN, AU, Arab League and IGAD, a series of additional national reconciliation conferences were subsequently held as part of the peace process. Among these summits were the 1997 National Salvation Council in Sodere, Ethiopia, the 1997 Cairo Peace Conference / Cairo Declaration, the 2000 Somalia National Peace Conference in Arta, Djibouti under the newly established Transitional National Government, the 2002 Somali Reconciliation Conference in Eldoret, Kenya, the 2003 National Reconciliation Conference in Nairobi, Kenya when the Transitional Federal Government was established and the Transitional Federal Charter was adopted, the 2004 Nairobi Conference, and the 2007 National Reconciliation Conference in Mogadishu.[144]
+
+Following the outbreak of the civil war, many of Somalia's residents left in search of asylum. According to the UNHCR, there were around 975,951 registered refugees from the country in neighboring states as of 2016.[145] Additionally, 1.1 million people were internally displaced persons (IDPs).[146] The majority of the IDPs were Bantus and other ethnic minorities originating from the southern regions, including those displaced in the north.[147] An estimated 60% of the IDPs were children.[148] Causes of the displacement included armed violence, periodic droughts, and other natural disasters, which, along with diverted aid flows, hindered the IDPs' access to safe shelter and resources.[149][150] IDP settlements were concentrated in south-central Somalia (893,000), followed by the northern Puntland (129,000) and Somaliland (84,000) regions.[151] Additionally, there were around 9,356 registered refugees and 11,157 registered asylum seekers in Somalia.[152] Most of these foreign nationals emigrated from Yemen to northern Somalia after the Houthi insurgency in 2015.[153] However, the majority of emigrants to Somalia consist of Somali expatriates, who have returned to Mogadishu and other urban areas for investment opportunities and to take part in the ongoing post-conflict reconstruction process.[154]
+
+A consequence of the collapse of governmental authority that accompanied the civil war was the emergence of piracy in the unpatrolled Indian Ocean waters off of the coast of Somalia. The phenomenon arose as an attempt by local fishermen to protect their livelihood from illegal fishing by foreign trawlers.[155] In August 2008, a multinational coalition took on the task of combating the piracy by establishing a Maritime Security Patrol Area (MSPA) within the Gulf of Aden.[156] A maritime police force was also later formed in the Puntland region, and best management practices, including hiring private armed guards, were adopted by ship owners. These combined efforts led to a sharp decline in incidents.[157] By October 2012, pirate attacks had dropped to a six-year low, with only one ship attacked in the third quarter compared to 36 during the same period in 2011.[158]
+
+Transitional institutions
+
+Cqaasim.jpg, one of the founders of the Transitional National Government]] The Transitional National Government (TNG) was established in April–May 2000 at the Somalia National Peace Conference (SNPC) held in Arta, Djibouti. Abdiqasim Salad Hassan was selected as the President of the nation's new Transitional National Government (TNG), an interim administration formed to guide Somalia to its third permanent republican government.[159] The TNG's internal problems led to the replacement of the Prime Minister four times in three years, and the administrative body's reported bankruptcy in December 2003. Its mandate ended at the same time.[160]
+
+On 10 October 2004, legislators elected Abdullahi Yusuf Ahmed as the first President of the Transitional Federal Government (TFG), the Transitional National Government's successor.[161] the TFG was the second interim administration aiming to restore national institutions to Somalia after the 1991 collapse of the Siad Barre regime and the ensuing civil war.[162]
+
+The Transitional Federal Government (TFG) was the internationally recognised government of Somalia until 20 August 2012, when its tenure officially ended.[163] It was established as one of the Transitional Federal Institutions (TFIs) of government as defined in the Transitional Federal Charter (TFC) adopted in November 2004 by the Transitional Federal Parliament (TFP). The Transitional Federal Government officially comprised the executive branch of government, with the TFP serving as the legislative branch. The government was headed by the President of Somalia, to whom the cabinet reported through the Prime Minister. However, it was also used as a general term to refer to all three branches collectively.
+
+Islamic Courts Union and Ethiopian intervention
+
+Icu_somalia_map.png In 2006, the Islamic Courts Union (ICU), an Islamist organization, assumed control of much of the southern part of the country and promptly imposed Shari'a law. The Transitional Federal Government sought to reestablish its authority, and, with the assistance of Ethiopian troops, African Union peacekeepers and air support by the United States, managed to drive out the rival ICU and solidify its rule.[164]
+
+On 8 January 2007, as the Battle of Ras Kamboni raged, TFG President and founder Abdullahi Yusuf Ahmed, a former colonel in the Somali Army and decorated war hero, entered Mogadishu with the Ethiopian military support for the first time since being elected to office. The government then relocated to Villa Somalia in the capital from its interim location in Baidoa. This marked the first time since the fall of the Siad Barre regime in 1991 that the federal government controlled most of the country.[165]
+
+Following this defeat, the Islamic Courts Union splintered into several different factions. Some of the more radical elements, including Al-Shabaab, regrouped to continue their insurgency against the TFG and oppose the Ethiopian military's presence in Somalia. Throughout 2007 and 2008, Al-Shabaab scored military victories, seizing control of key towns and ports in both central and southern Somalia. At the end of 2008, the group had captured Baidoa but not Mogadishu. By January 2009, Al-Shabaab and other militias had managed to force the Ethiopian troops to retreat, leaving behind an under-equipped African Union peacekeeping force to assist the Transitional Federal Government's troops.[166]
+
+Due to a lack of funding and human resources, an arms embargo that made it difficult to re-establish a national security force, and general indifference on the part of the international community, President Yusuf found himself obliged to deploy thousands of troops from Puntland to Mogadishu to sustain the battle against insurgent elements in the southern part of the country. Financial support for this effort was provided by the autonomous region's government. This left little revenue for Puntland's own security forces and civil service employees, leaving the territory vulnerable to piracy and terrorist attacks.[167][168]
+
+On 29 December 2008, Abdullahi Yusuf Ahmed announced before a united parliament in Baidoa his resignation as President of Somalia. In his speech, which was broadcast on national radio, Yusuf expressed regret at failing to end the country's seventeen-year conflict as his government had been mandated to do.[169] He also blamed the international community for their failure to support the government, and said that the speaker of parliament would succeed him in office per the Charter of the Transitional Federal Government.[170]
+
+Coalition government
+
+Mohamed_Abdullah_Omaar.jpg in a meeting with UNDP Administrator Helen Clark and other diplomats at the UN headquarters in New York (May 2009)]] Between 31 May and 9 June 2008, representatives of Somalia's federal government and the moderate Alliance for the Re-liberation of Somalia (ARS) group of Islamist rebels participated in peace talks in Djibouti brokered by the former United Nations Special Envoy to Somalia, Ahmedou Ould-Abdallah. The conference ended with a signed agreement calling for the withdrawal of Ethiopian troops in exchange for the cessation of armed confrontation. Parliament was subsequently expanded to 550 seats to accommodate ARS members, which then elected Sheikh Sharif Sheikh Ahmed, the former ARS chairman, to office. President Sharif shortly afterwards appointed Omar Abdirashid Ali Sharmarke, the son of slain former President Abdirashid Ali Sharmarke, as the nation's new Prime Minister.[171]
+
+With the help of a small team of African Union troops, the coalition government also began a counteroffensive in February 2009 to assume full control of the southern half of the country. To solidify its rule, the TFG formed an alliance with the Islamic Courts Union, other members of the Alliance for the Re-liberation of Somalia, and Ahlu Sunna Waljama'a, a moderate Sufi militia.[172] Furthermore, Al-Shabaab and Hizbul Islam, the two main Islamist groups in opposition, began to fight amongst themselves in mid-2009.[173]
+
+As a truce, in March 2009, Somalia's coalition government announced that it would re-implement Shari'a as the nation's official judicial system.[174] However, conflict continued in the southern and central parts of the country. Within months, the coalition government had gone from holding about 70% of south-central Somalia's conflict zones, territory that it had inherited from the previous Yusuf administration, to losing control of over 80% of the disputed territory to the Islamist insurgents.[175]
+
+During the coalition government's brief tenure and one year afterwards, due to the protracted lack of a permanent central authority, the Fund For Peace's Fragile States Index (FSI; formerly known as the Failed States Index) listed Somalia on top for six consecutive years between 2008 and 2013.[176] In 2009, Transparency International ranked the nation in last place on its annual Corruption Perceptions Index (CPI), a metric that purports to show the prevalence of corruption in a country's public sector.[177] In mid-2010, the Institute for Economics and Peace also ranked Somalia in the next-to-last position in between war-afflicted Iraq and Afghanistan on its Global Peace Index. Farmaajohd13.png (Farmajo), current President and former Prime Minister of Somalia.]] On 14 October 2010, diplomat Mohamed Abdullahi Mohamed, also known as Farmajo, was appointed the new Prime Minister of Somalia. The former Premier Omar Abdirashid Ali Sharmarke resigned the month before following a protracted dispute with President Sharif over a proposed draft constitution.[178] Per the Transitional Federal Charter of the Somali Republic,[179] Prime Minister Mohamed named a new Cabinet on 12 November 2010,[180] which was lauded by the international community.[181][182] As had been expected, the allotted ministerial positions were significantly reduced in numbers from 39 to 18.[183][184]
+
+Additional members of the Independent Constitutional Commission were also appointed to engage Somali constitutional lawyers, religious scholars and experts in Somali culture over the nation's upcoming new constitution, a key part of the government's Transitional Federal Tasks. In addition, high level federal delegations were dispatched to defuse clan-related tensions in several regions. According to the prime minister of Somalia, to improve transparency, Cabinet ministers fully disclosed their assets and signed a code of ethics.[185] An Anti-Corruption Commission with the power to carry out formal investigations and to review government decisions and protocols was also established to more closely monitor all activities by public officials. Furthermore, unnecessary trips abroad by members of government were prohibited, and all travel by ministers required the Premier's consent.[186][187] A budget outlining 2011's federal expenditures was also put before and approved by members of parliament, with the payment of civil service employees prioritized. In addition, a full audit of government property and vehicles is being put into place.[188][189] On the war front, the new government and its AMISOM allies also managed to secure control of Mogadishu by August 2011.[190] According to the African Union and Prime Minister Mohamed, with increasing troop strength the pace of territorial gains was also expected to greatly accelerate.[191][192]
+
+Federal government
+
+Somalia_map_states_regions_districts.svg On 19 June 2011, Mohamed Abdullahi Mohamed resigned from his position as Prime Minister of Somalia. Part of the controversial Kampala Accord's conditions, the agreement saw the mandates of the President, the Parliament Speaker and Deputies extended until August 2012.[193] Abdiweli Mohamed Ali, Mohamed's former Minister of Planning and International Cooperation, was later named permanent Prime Minister.[194]
+
+In October 2011, a coordinated operation, Operation Linda Nchi between the Somali and Kenyan militaries and multinational forces began against the Al-Shabaab group of insurgents in southern Somalia. A joint communiqué was issued indicating that Somali forces were leading operations.[195][196] By September 2012, Somali, Kenyan, and Raskamboni forces had managed to capture Al-Shabaab's last major stronghold, the southern port of Kismayo.[197] In July 2012, three European Union operations were also launched to engage with Somalia: EUTM Somalia, EU Naval Force Somalia Operation Atalanta off the Horn of Africa, and EUCAP Nestor.[198] Parlament_of_Somalia_2012-2016.svg.]] As part of the official "Roadmap for the End of Transition", a political process that provided clear benchmarks leading toward the formation of permanent democratic institutions in Somalia, the Transitional Federal Government's interim mandate ended on 20 August 2012.[199] The Federal Parliament of Somalia was concurrently inaugurated.[200]
+
+The Federal Government of Somalia, the first permanent central government in the country since the start of the civil war, was later established in August 2012. By 2014, Somalia was no longer at the top of the fragile states index, dropping to second place behind South Sudan.[201] UN Special Representative to Somalia Nicholas Kay, European Union High Representative Catherine Ashton and other international stakeholders and analysts have also begun to describe Somalia as a "fragile state" that is making some progress towards stability.[202][203][204][205] In August 2014, the Somali government-led Operation Indian Ocean was launched against insurgent-held pockets in the countryside.[206] The war continues in 2017.
+
+In October 2017, more than 500 people were killed by twin bomb explosions in Somalia's capital city Mogadishu.[207]
+
+
+Geography
+
+Regions and districts
+
+Somalia is officially divided into eighteen regions (_gobollada_, singular _gobol_),[208] which in turn are subdivided into districts. The regions are: A_map_of_Somalia_regions.png
+
+  Region            Area (km²)   Population   Capital
+  ----------------- ------------ ------------ ---------------
+  Awdal             21,374       673,263      Borama
+  Woqooyi Galbeed   28,836       1,242,003    Hargeisa
+  Togdheer          38,663       721,363      Burao
+  Sanaag            53,374       544,123      Erigavo
+  Sool              25,036       327,428      Las Anod
+  Bari              70,088       719,512      Bosaso
+  Nugal             26,180       392,697      Garowe
+  Mudug             72,933       717,863      Galkayo
+  Galguduud         46,126       569,434      Dusmareb
+  Hiran             31,510       520,685      Beledweyne
+  Middle Shabelle   22,663       516,036      Jowhar
+  Banaadir          370          1,650,227    Mogadishu
+  Lower Shabelle    25,285       1,202,219    Barawa
+  Bakool            26,962       367,226      Xuddur
+  Bay               35,156       792,182      Baidoa
+  Gedo              60,389       508,405      Garbahaarreey
+  Middle Juba       9,836        362,921      Bu'aale
+  Lower Juba        42,876       489,307      Kismayo
+
+  : Regions of Somalia
+
+Northern Somalia is now _de facto_ divided up among the autonomous regions of Puntland (which considers itself an autonomous state) and Somaliland (a self-declared but unrecognized sovereign state). In central Somalia, Galmudug is another regional entity that emerged just south of Puntland. Jubaland in the far south is a fourth autonomous region within the federation.[209] In 2014, a new South West State was likewise established.[210] In April 2015, a formation conference was also launched for a new Central Regions State.[211]
+
+The Federal Parliament is tasked with selecting the ultimate number and boundaries of the autonomous regional states (officially _Federal Member States_) within the Federal Republic of Somalia.[212][213]
+
+Location
+
+Almadow_Overview.JPG mountain range in northern Somalia features the nation's highest peak, Shimbiris.]] Somalia is bordered by Djibouti to the northwest, Kenya to the southwest, the Gulf of Aden to the north, the Guardafui Channel and Indian Ocean to the east, and Ethiopia to the west. It lies between latitudes 2°S and 12°N, and longitudes 41° and 52°E. Strategically located at the mouth of the Bab el Mandeb gateway to the Red Sea and the Suez Canal, the country occupies the tip of a region that, due to its resemblance on the map to a rhinoceros' horn, is commonly referred to as the Horn of Africa.[214][215]
+
+Waters
+
+Somalia has the longest coastline on the mainland of Africa,[216] with a seaboard that stretches . Its terrain consists mainly of plateaus, plains and highlands. The nation has a total area of of which constitutes land, with of water. Somalia's land boundaries extend to about ; of that is shared with Djibouti, with Kenya, and with Ethiopia. Its maritime claims include territorial waters of .[217]
+
+Somalia has several islands and archipelagos on its coast, including the Bajuni Islands and the Saad ad-Din Archipelago: see islands of Somalia. Juba_river_downstream_Jamaame.jpg]]
+
+Habitat
+
+In the north, a scrub-covered, semi-desert plain referred as the _Guban_ lies parallel to the Gulf of Aden littoral. With a width of twelve kilometres in the west to as little as two kilometres in the east, the plain is bisected by watercourses that are essentially beds of dry sand except during the rainy seasons. When the rains arrive, the Guban's low bushes and grass clumps transform into lush vegetation.[218] This coastal strip is part of the Ethiopian xeric grasslands and shrublands ecoregion.
+
+Cal Madow is a mountain range in the northeastern part of the country. Extending from several kilometres west of the city of Bosaso to the northwest of Erigavo, it features Somalia's highest peak, Shimbiris, which sits at an elevation of about .[219] The rugged east-west ranges of the Karkaar Mountains also lie to the interior of the Gulf of Aden littoral.[220] In the central regions, the country's northern mountain ranges give way to shallow plateaus and typically dry watercourses that are referred to locally as the _Ogo_. The Ogo's western plateau, in turn, gradually merges into the Haud, an important grazing area for livestock.[221]
+
+Somalia has only two permanent rivers, the Jubba and Shabele, both of which begin in the Ethiopian Highlands. These rivers mainly flow southwards, with the Jubba River entering the Indian Ocean at Kismayo. The Shabele River at one time apparently used to enter the sea near Merca, but now reaches a point just southwest of Mogadishu. After that, it consists of swamps and dry reaches before finally disappearing in the desert terrain east of Jilib, near the Jubba River.[222]
+
+Environment
+
+Somcoralreef.jpgs, ecological parks and protected areas]] Somalia is a semi-arid country with about 1.64% arable land.[223] The first local environmental organizations were Ecoterra Somalia and the Somali Ecological Society, both of which helped promote awareness about ecological concerns and mobilized environmental programs in all governmental sectors as well as in civil society. From 1971 onward, a massive tree-planting campaign on a nationwide scale was introduced by the Siad Barre government to halt the advance of thousands of acres of wind-driven sand dunes that threatened to engulf towns, roads and farm land.[224] By 1988, 265 hectares of a projected 336 hectares had been treated, with 39 range reserve sites and 36 forestry plantation sites established.[225] In 1986, the Wildlife Rescue, Research and Monitoring Centre was established by Ecoterra International, with the goal of sensitizing the public to ecological issues. This educational effort led in 1989 to the so-called "Somalia proposal" and a decision by the Somali government to adhere to the Convention on International Trade in Endangered Species of Wild Fauna and Flora (CITES), which established for the first time a worldwide ban on the trade of elephant ivory. Aerial_views_of_Kismayo_06_(8071381265).jpg Later, Fatima Jibrell, a prominent Somali environmental activist, mounted a successful campaign to salvage old-growth forests of acacia trees in the northeastern part of Somalia.[226] These trees, which can live for 500 years, were being cut down to make charcoal which was highly in demand in the Arabian Peninsula, where the region's Bedouin tribes believe the acacia to be sacred.[227][228][229] However, while being a relatively inexpensive fuel that meets a user's needs, the production of charcoal often leads to deforestation and desertification.[230] As a way of addressing this problem, Jibrell and the Horn of Africa Relief and Development Organization (Horn Relief; now Adeso), an organization of which she was the founder and Executive Director, trained a group of teens to educate the public on the permanent damage that producing charcoal can create. In 1999, Horn Relief coordinated a peace march in the northeastern Puntland region of Somalia to put an end to the so-called "charcoal wars". As a result of Jibrell's lobbying and education efforts, the Puntland government in 2000 prohibited the exportation of charcoal. The government has also since enforced the ban, which has reportedly led to an 80% drop in exports of the product.[231] Jibrell was awarded the Goldman Environmental Prize in 2002 for her efforts against environmental degradation and desertification.[232] In 2008, she also won the National Geographic Society/Buffett Foundation Award for Leadership in Conservation.[233]
+
+Following the massive tsunami of December 2004, there have also emerged allegations that after the outbreak of the Somali Civil War in the late 1980s, Somalia's long, remote shoreline was used as a dump site for the disposal of toxic waste. The huge waves that battered northern Somalia after the tsunami are believed to have stirred up tons of nuclear and toxic waste that might have been dumped illegally in the country by foreign firms.[234]
+
+The European Green Party followed up these revelations by presenting before the press and the European Parliament in Strasbourg copies of contracts signed by two European companies — the Italian Swiss firm, Achair Partners, and an Italian waste broker, Progresso — and representatives of the then President of Somalia, the faction leader Ali Mahdi Mohamed, to accept 10 million tonnes of toxic waste in exchange for $80 million (then about £60 million).[235]
+
+According to reports by the United Nations Environment Programme (UNEP), the waste has resulted in far higher than normal cases of respiratory infections, mouth ulcers and bleeding, abdominal haemorrhages and unusual skin infections among many inhabitants of the areas around the northeastern towns of Hobyo and Benadir on the Indian Ocean coast — diseases consistent with radiation sickness. UNEP adds that the current situation along the Somali coastline poses a very serious environmental hazard not only in Somalia, but also in the eastern Africa sub-region.[236]
+
+Climate
+
+Somalia_map_of_Köppen_climate_classification.svg
+
+Due to Somalia's proximity to the equator, there is not much seasonal variation in its climate. Hot conditions prevail year-round along with periodic monsoon winds and irregular rainfall. Mean daily maximum temperatures range from , except at higher elevations along the eastern seaboard, where the effects of a cold offshore current can be felt. In Mogadishu, for instance, average afternoon highs range from in April. Some of the highest mean annual temperatures in the world have been recorded in the country; Berbera on the northwestern coast has an afternoon high that averages more than from June through September. Nationally, mean daily minimums usually vary from about .[237] The greatest range in climate occurs in northern Somalia, where temperatures sometimes surpass in July on the littoral plains and drop below the freezing point during December in the highlands.[238][239] In this region, relative humidity ranges from about 40% in the mid-afternoon to 85% at night, changing somewhat according to the season.[240] Unlike the climates of most other countries at this latitude, conditions in Somalia range from arid in the northeastern and central regions to semiarid in the northwest and south. In the northeast, annual rainfall is less than ; in the central plateaus, it is about . The northwestern and southwestern parts of the nation, however, receive considerably more rain, with an average of falling per year. Although the coastal regions are hot and humid throughout the year, the hinterland is typically dry and hot.[241]
+
+There are four main seasons around which pastoral and agricultural life revolve, and these are dictated by shifts in the wind patterns. From December to March is the _Jilal_, the harshest dry season of the year. The main rainy season, referred to as the _Gu_, lasts from April to June. This period is characterized by the southwest monsoons, which rejuvenate the pasture land, especially the central plateau, and briefly transform the desert into lush vegetation. From July to September is the second dry season, the _Xagaa_ (pronounced "Hagaa"). The _Dayr_, which is the shortest rainy season, lasts from October to December.[242] The _tangambili_ periods that intervene between the two monsoons (October–November and March–May) are hot and humid.[243]
+
+Wildlife
+
+Sambalaxx.jpg Somalia contains a variety of mammals due to its geographical and climatic diversity. Wildlife still occurring includes cheetah, lion, reticulated giraffe, baboon, serval, elephant, bushpig, gazelle, ibex, kudu, dik-dik, oribi, Somali wild ass, reedbuck and Grévy's zebra, elephant shrew, rock hyrax, golden mole and antelope. It also has a large population of the dromedary camel.[244]
+
+Somalia is currently home to around 727 species of birds. Of these, eight are endemic, one has been introduced by humans, and one is rare or accidental. Fourteen species are globally threatened. Birds species found exclusively in the country include the _Somali Pigeon_, _Alaemon hamertoni_ (Alaudidae), Lesser Hoopoe-Lark, _Heteromirafra archeri_ (Alaudidae), Archer's Lark, _Mirafra ashi_, Ash's Bushlark, _Mirafra somalica_ (Alaudidae), Somali Bushlark, _Spizocorys obbiensis_ (Alaudidae), Obbia Lark, _Carduelis johannis_ (Fringillidae), and Warsangli Linnet.[245]
+
+Somalia's territorial waters are prime fishing grounds for highly migratory marine species, such as tuna. A narrow but productive continental shelf contains several demersal fish and crustacean species.[246] Fish species found exclusively in the nation include _Cirrhitichthys randalli_ (Cirrhitidae), _Symphurus fuscus_ (Cynoglossidae), _Parapercis simulata_ OC (Pinguipedidae), _Cociella somaliensis_ OC (Platycephalidae), and _Pseudochromis melanotus_ (Pseudochromidae).
+
+There are roughly 235 species of reptiles. Of these, almost half live in the northern areas. Reptiles endemic to Somalia include the Hughes' saw-scaled viper, the Southern Somali garter snake, a racer (_Platyceps messanai_), a diadem snake (_Spalerosophis josephscorteccii_), the Somali sand boa, the angled worm lizard, a spiny-tailed lizard (_Uromastyx macfadyeni_), Lanza's agama, a gecko (_Hemidactylus granchii_), the Somali semaphore gecko, and a sand lizard (Mesalina or Eremias). A colubrid snake (_Aprosdoketophis andreonei_) and Haacke-Greer's skink (_Haackgreerius miopus_) are endemic species.[247]
+
+
+Politics and government
+
+Jawari.png, Speaker of the Federal Parliament]] Somalia is a parliamentary representative democratic republic. The President of Somalia is the head of state and commander-in-chief of the Somali Armed Forces and selects a Prime Minister to act as head of government.[248]
+
+The Federal Parliament of Somalia is the national parliament of Somalia. The bicameral National Legislature consists of the House of the People (lower house) and the Senate (upper house), whose members are elected to serve four-year terms, The parliament elects the President, Speaker of Parliament and Deputy Speakers. It also has the authority to pass and veto laws.[249]
+
+On 10 September 2012, parliament elected Hassan Sheikh Mohamud as the new President of Somalia.[250] President Mohamud later appointed Abdi Farah Shirdon as the new Prime Minister on 6 October 2012,[251] who was succeeded in office by Abdiweli Sheikh Ahmed on 21 December 2013.[252] On 17 December 2014, former Premier Omar Abdirashid Ali Sharmarke was reappointed Prime Minister.[253]
+
+The Judiciary of Somalia is defined by the Provisional Constitution of the Federal Republic of Somalia. Adopted on 1 August 2012 by a National Constitutional Assembly in Mogadishu,[254][255] the document was formulated by a committee of specialists chaired by attorney and incumbent Speaker of the Federal Parliament, Mohamed Osman Jawari.[256] It provides the legal foundation for the existence of the Federal Republic and source of legal authority.[257]
+
+The national court structure is organized into three tiers: the Constitutional Court, Federal Government level courts and State level courts. A nine-member Judicial Service Commission appoints any Federal tier member of the judiciary. It also selects and presents potential Constitutional Court judges to the House of the People of the Federal Parliament for approval. If endorsed, the President appoints the candidate as a judge of the Constitutional Court. The five-member Constitutional Court adjudicates issues pertaining to the constitution, in addition to various Federal and sub-national matters.[258]
+
+Somali law draws from a mixture of three different systems, civil law, Islamic law and customary law.[259]
+
+Foreign relations
+
+2015_01_25_Turkish_President_Visit_to_Somalia-1_(16176887607).jpg with Turkish President Recep Tayyip Erdogan opening the new terminal of Aden Abdulle International Airport in Mogadishu, Somalia.(25 January 2015)]] Somalia's foreign relations are handled by the President as the head of state, the Prime Minister as the head of government, and the federal Ministry of Foreign Affairs.[260]
+
+According to Article 54 of the national constitution, the allocation of powers and resources between the Federal Government and the Federal Republic of Somalia's constituent Federal Member States shall be negotiated and agreed upon by the Federal Government and the Federal Member States, except in matters pertaining to foreign affairs, national defence, citizenship and immigration, and monetary policy. Article 53 also stipulates that the Federal Government shall consult the Federal Member States on major issues related to international agreements, including negotiations vis-a-vis foreign trade, finance and treaties.[261] Mogturkemb.jpg embassy in Mogadishu]] The Federal Government maintains bilateral relations with a number of other central governments in the international community. Among these are Djibouti, Ethiopia, Egypt, the United Arab Emirates, Yemen, Turkey, Italy, the United Kingdom, Denmark, France, the United States, the People's Republic of China, Japan, Russian Federation and South Korea.
+
+Additionally, Somalia has several diplomatic missions abroad. There are likewise various foreign embassies and consulates based in the capital Mogadishu and elsewhere in the country.
+
+Somalia is also a member of many international organizations, such as the United Nations, African Union and Arab League. It was a founding member of the Organisation of Islamic Cooperation in 1969.[262] Other memberships include the African Development Bank, Group of 77, Intergovernmental Authority on Development, International Bank for Reconstruction and Development, International Civil Aviation Organization, International Development Association, International Finance Corporation, Non-Aligned Movement, World Federation of Trade Unions and World Meteorological Organization.
+
+Military
+
+2015_03_25_SNA_PASSOUT-5_(16739095620).jpg (EUTM) take Somali soldiers through training drills at Jazeera Training Camp in Mogadishu.]] The Somali Armed Forces (SAF) are the military forces of the Federal Republic of Somalia.[263] Headed by the President as Commander in Chief, they are constitutionally mandated to ensure the nation's sovereignty, independence and territorial integrity.[264]
+
+The SAF was initially made up of the Army, Navy, Air Force, Police Force and the National Security Service.[265] In the post-independence period, it grew to become among the larger militaries on the continent.[266] The subsequent outbreak of the civil war in 1991 led to the disbandment of the Somali National Army.[267]
+
+In 2004, the gradual process of reconstituting the military was put in motion with the establishment of the Transitional Federal Government (TFG). The Somali Armed Forces are now overseen by the Ministry of Defence of the Federal Government of Somalia, formed in mid-2012. In January 2013, the Somali federal government also re-opened the national intelligence service in Mogadishu, renaming the agency the National Intelligence and Security Agency (NISA).[268] The Somaliland and Puntland regional governments maintain their own security and police forces.
+
+
+Economy
+
+Air_Somalia_Tupolev_Tu-154.jpg Tupolev Tu-154 in Sharjah, United Arab Emirates. Somalia today has several private airlines]] According to the CIA and the Central Bank of Somalia, despite experiencing civil unrest, Somalia has maintained a healthy informal economy, based mainly on livestock, remittance/money transfer companies and telecommunications.[269][270] Due to a dearth of formal government statistics and the recent civil war, it is difficult to gauge the size or growth of the economy. For 1994, the CIA estimated the GDP at $3.3 billion.[271] In 2001, it was estimated to be $4.1 billion.[272] By 2009, the CIA estimated that the GDP had grown to $5.731 billion, with a projected real growth rate of 2.6%.[273] According to a 2007 British Chambers of Commerce report, the private sector also grew, particularly in the service sector. Unlike the pre-civil war period when most services and the industrial sector were government-run, there has been substantial, albeit unmeasured, private investment in commercial activities; this has been largely financed by the Somali diaspora, and includes trade and marketing, money transfer services, transportation, communications, fishery equipment, airlines, telecommunications, education, health, construction and hotels.[274] Libertarian economist Peter Leeson attributes this increased economic activity to the Somali customary law (referred to as _Xeer_), which he suggests provides a stable environment to conduct business in.[275]
+
+According to the Central Bank of Somalia, the country's GDP per capita is $226, a slight reduction in real terms from 1990.[276] About 43% of the population lives on less than 1 US dollar a day, with around 24% of those found in urban areas and 54% living in rural areas.[277]
+
+2016_04_Eid_Preparions-11_(27469932863).jpg Somalia's economy consists of both traditional and modern production, with a gradual shift toward modern industrial techniques. Somalia has the largest population of camels in the world. According to the Central Bank of Somalia, about 80% of the population are nomadic or semi-nomadic pastoralists, who keep goats, sheep, camels and cattle. The nomads also gather resins and gums to supplement their income.[278]
+
+Agriculture
+
+Agriculture is the most important economic sector of Somalia. It accounts for about 65% of the GDP and employs 65% of the workforce.[279] Livestock contributes about 40% to GDP and more than 50% of export earnings.[280] Other principal exports include fish, charcoal and bananas; sugar, sorghum and corn are products for the domestic market.[281] According to the Central Bank of Somalia, imports of goods total about $460 million per year, surpassing aggregate imports prior to the start of the civil war in 1991. Exports, which total about $270 million annually, have also surpassed pre-war aggregate export levels. Somalia has a trade deficit of about $190 million per year, but this is exceeded by remittances sent by Somalis in the diaspora, estimated to be about $1 billion.[282]
+
+With the advantage of being located near the Arabian Peninsula, Somali traders have increasingly begun to challenge Australia's traditional dominance over the Gulf Arab livestock and meat market, offering quality animals at very low prices. In response, Gulf Arab states have started to make strategic investments in the country, with Saudi Arabia building livestock export infrastructure and the United Arab Emirates purchasing large farmlands.[283] Somalia is also a major world supplier of frankincense and myrrh.[284] Bosaso_port.jpg]] The modest industrial sector, based on the processing of agricultural products, accounts for 10% of Somalia's GDP.[285] According to the Somali Chamber of Commerce and Industry, over six private airline firms also offer commercial flights to both domestic and international locations, including Daallo Airlines, Jubba Airways, African Express Airways, East Africa 540, Central Air and Hajara.[286] In 2008, the Puntland government signed a multimillion-dollar deal with Dubai's Lootah Group, a regional industrial group operating in the Middle East and Africa. According to the agreement, the first phase of the investment is worth Dhs 170 m and will see a set of new companies established to operate, manage and build Bosaso's free trade zone and sea and airport facilities. The Bosaso Airport Company is slated to develop the airport complex to meet international standards, including a new runway, main and auxiliary buildings, taxi and apron areas, and security perimeters.[287]
+
+Prior to the outbreak of the civil war in 1991, the roughly 53 state-owned small, medium and large manufacturing firms were foundering, with the ensuing conflict destroying many of the remaining industries. However, primarily as a result of substantial local investment by the Somali diaspora, many of these small-scale plants have re-opened and newer ones have been created. The latter include fish-canning and meat-processing plants in the northern regions, as well as about 25 factories in the Mogadishu area, which manufacture pasta, mineral water, confections, plastic bags, fabric, hides and skins, detergent and soap, aluminium, foam mattresses and pillows, fishing boats, carry out packaging, and stone processing.[288] In 2004, an $8.3 million Coca-Cola bottling plant also opened in the city, with investors hailing from various constituencies in Somalia.[289] Foreign investment also included multinationals including General Motors and Dole Fruit.[290]
+
+Monetary and payment system
+
+The Central Bank of Somalia is the official monetary authority of Somalia.[291] In terms of financial management, it is in the process of assuming the task of both formulating and implementing monetary policy.[292]
+
+Owing to a lack of confidence in the local currency, the US dollar is widely accepted as a medium of exchange alongside the Somali shilling. Dollarization notwithstanding, the large issuance of the Somali shilling has increasingly fuelled price hikes, especially for low value transactions. According to the Central Bank, this inflationary environment is expected to come to an end as soon as the bank assumes full control of monetary policy and replaces the presently circulating currency introduced by the private sector.[293]
+
+Although Somalia has had no central monetary authority for more than 15 years between the outbreak of the civil war in 1991 and the subsequent re-establishment of the Central Bank of Somalia in 2009, the nation's payment system is fairly advanced primarily due to the widespread existence of private money transfer operators (MTO) that have acted as informal banking networks.[294]
+
+These remittance firms (_hawalas_) have become a large industry in Somalia, with an estimated US$1.6 billion annually remitted to the region by Somalis in the diaspora via money transfer companies.[295] Most are members of the Somali Money Transfer Association (SOMTA), an umbrella organization that regulates the community's money transfer sector, or its predecessor, the Somali Financial Services Association (SFSA).[296][297] The largest of the Somali MTOs is Dahabshiil, a Somali-owned firm employing more than 2,000 people across 144 countries with branches in London and Dubai.[298] Somshil5r.jpg banknote]] As the reconstituted Central Bank of Somalia fully assumes its monetary policy responsibilities, some of the existing money transfer companies are expected in the near future to seek licenses so as to develop into full-fledged commercial banks. This will serve to expand the national payments system to include formal cheques, which in turn is expected to reinforce the efficacy of the use of monetary policy in domestic macroeconomic management.[299]
+
+With a significant improvement in local security, Somali expatriates began returning to the country for investment opportunities. Coupled with modest foreign investment, the inflow of funds have helped the Somali shilling increase considerably in value. By March 2014, the currency had appreciated by almost 60% against the U.S. dollar over the previous 12 months. The Somali shilling was the strongest among the 175 global currencies traded by Bloomberg, rising close to 50 percentage points higher than the next most robust global currency over the same period.[300]
+
+The Somalia Stock Exchange (SSE) is the national bourse of Somalia. It was founded in 2012 by the Somali diplomat Idd Mohamed, Ambassador extraordinary and deputy permanent representative to the United Nations. The SSE was established to attract investment from both Somali-owned firms and global companies in order to accelerate the ongoing post-conflict reconstruction process in Somalia.[301]
+
+Energy and natural resources
+
+The World Bank reports that electricity is now in large part supplied by local businesses.[302] Among these domestic firms is the Somali Energy Company, which performs generation, transmission and distribution of electric power.[303] In 2010, the nation produced 310 million kWh and consumed 288.3 million kWh of electricity, ranked 170th and 177th, respectively, by the CIA.[304] Puntland_oil.png in Puntland]] Somalia has reserves of several natural resources, including uranium, iron ore, tin, gypsum, bauxite, copper, salt and natural gas. The CIA reports that there are 5.663 billion cu m of proven natural gas reserves.[305]
+
+Due to its proximity and geological similarity to the oil-rich Gulf Arab states such as Yemen, energy industry representatives believe that the nation contains substantial unexploited reserves of oil.[306] However, the presence or extent of proven oil reserves in Somalia is uncertain. The CIA asserts that there are no proven reserves of oil in the country,[307] while UNCTAD suggests that most proven oil reserves in Somalia lie off its northwestern coast, in the Somaliland region.[308] A survey of the horn of Africa Africa by the World Bank and UN ranked Somalia second only to Sudan as the top prospective producer.[309] An oil group listed in Sydney, Range Resources, estimates that the Puntland region in the northeast has the potential to produce to of oil,[310] compared to the 6.7 billion barrels of proven oil reserves in Sudan.[311] As a result of these developments, the Somalia Petroleum Corporation was established by the federal government.[312]
+
+In the late 1960s, UN geologists also discovered major uranium deposits and other rare mineral reserves in Somalia. The find was the largest of its kind, with industry experts estimating that the amount of the deposits could amount to over 25% of the world's then known uranium reserves of 800,000 tons.[313] In 1984, the IUREP Orientation Phase Mission to Somalia reported that the country had 5,000 tons of uranium reasonably assured resources (RAR), 11,000 tons of uranium estimated additional resources (EAR) in calcrete deposits, as well as 0–150,000 tons of uranium speculative resources (SR) in sandstone and calcrete deposits.[314] Somalia evolved into a major world supplier of uranium, with American, UAE, Italian and Brazilian mineral companies vying for extraction rights. Link Natural Resources has a stake in the central region, and Kilimanjaro Capital has a stake in the Amsas-Coriole-Afgoi (ACA) Block, which includes uranium exploration.[315]
+
+The Trans-National Industrial Electricity and Gas Company is an energy conglomerate based in Mogadishu. It unites five major Somali companies from the trade, finance, security and telecommunications sectors, following a 2010 joint agreement signed in Istanbul to provide electricity and gas infrastructure in Somalia. With an initial investment budget of $1 billion, the company launched the Somalia Peace Dividend Project, a labour-intensive energy program aimed at facilitating local industrialization initiatives.[316]
+
+According to the Central Bank of Somalia, as the nation embarks on the path of reconstruction, the economy is expected to not only match its pre-civil war levels, but also to accelerate in growth and development due to Somalia's untapped natural resources.[317]
+
+Telecommunications and Media
+
+Hormuud.jpg building in Mogadishu]] After the start of the civil war, various new telecommunications companies began to spring up and compete to provide missing infrastructure. Funded by Somali entrepreneurs and backed by expertise from China, South Korea and Europe, these nascent telecommunications firms offer affordable mobile phone and Internet services that are not available in many other parts of the continent. Customers can conduct money transfers (such as through the popular Dahabshiil) and other banking activities via mobile phones, as well as easily gain wireless Internet access.[318]
+
+After forming partnerships with multinational corporations such as Sprint, ITT and Telenor, these firms now offer the cheapest and clearest phone calls in Africa.[319] These Somali telecommunication companies also provide services to every city and town in Somalia. There are presently around 25 mainlines per 1,000 persons, and the local availability of telephone lines (_tele-density_) is higher than in neighbouring countries; three times greater than in adjacent Ethiopia.[320] Prominent Somali telecommunications companies include Golis Telecom Group, Hormuud Telecom, Somafone, Nationlink, Netco, Telcom and Somali Telecom Group. Hormuud Telecom alone grosses about $40 million a year. Despite their rivalry, several of these companies signed an inter-connectivity deal in 2005 that allows them to set prices, maintain and expand their networks, and ensure that competition does not get out of control.[321]
+
+Investment in the telecom industry is held to be one of the clearest signs that Somalia's economy has continued to develop despite civil strife in parts of the country.[322]
+
+The state-run Somali National Television is the principal national public service TV channel. After a twenty-year hiatus, the station was officially re-launched on 4 April 2011.[323] Its radio counterpart Radio Mogadishu also broadcasts from the capital. Somaliland National TV and Puntland TV and Radio air from the northern regions.
+
+Additionally, Somalia has several private television and radio networks. Among these are Horn Cable Television and Universal TV.[324] The political Xog Doon and Xog Ogaal and Horyaal Sports broadsheets publish out of the capital. There are also a number of online media outlets covering local news,[325] including Garowe Online, Wardheernews, and Puntland Post.
+
+The internet country code top-level domain (ccTLD) for Somalia is .so. It was officially relaunched on 1 November 2010 by .SO Registry, which is regulated by the nation's Ministry of Posts and Telecommunications.[326]
+
+On 22 March 2012, the Somali Cabinet also unanimously approved the National Communications Act. The bill paves the way for the establishment of a National Communications regulator in the broadcasting and telecommunications sectors.[327]
+
+In November 2013, following a Memorandum of Understanding signed with Emirates Post in April of the year, the federal Ministry of Posts and Telecommunications officially reconstituted the Somali Postal Service (Somali Post).[328] In October 2014, the ministry also relaunched postal delivery from abroad.[329] The postal system is slated to be implemented in each of the country's 18 administrative provinces via a new postal coding and numbering system.[330]
+
+Tourism
+
+Laas_Geel.jpg Somalia has a number of local attractions, consisting of historical sites, beaches, waterfalls, mountain ranges and national parks. The tourist industry is regulated by the national Ministry of Tourism. The autonomous Puntland and Somaliland regions maintain their own tourism offices.[331] The Somali Tourism Association (SOMTA) also provides consulting services from within the country on the national tourist industry.[332] As of March 2015, the Ministry of Tourism and Wildlife of the South West State announced that it is slated to establish additional game reserves and wildlife ranges.[333]
+
+Notable sights include the Laas Geel caves containing Neolithic rock art; the Cal Madow, Golis Mountains and Ogo Mountains; the Iskushuban and Lamadaya waterfalls; and the Hargeisa National Park, Jilib National Park, Kismayo National Park and Lag Badana National Park.
+
+Transport
+
+Aden_Abdullah_Airport.jpg]] Somalia's network of roads is long. , streets are paved and are unpaved.[334] A highway connects major cities in the northern part of the country, such as Bosaso, Galkayo and Garowe, with towns in the south.[335]
+
+The Somali Civil Aviation Authority (SOMCAA) is Somalia's national civil aviation authority body. After a long period of management by the Civil Aviation Caretaker Authority for Somalia (CACAS), SOMCAA is slated to re-assume control of Somalia's airspace by 31 December 2013.
+
+Sixty-two airports across Somalia accommodate aerial transportation; seven of these have paved runways. Among the latter, four airports have runways of over 3,047 m; two are between 2,438 m and 3,047 m; and one is 1,524 m to 2,437 m long.[336] There are fifty-five airports with unpaved landing areas. One has a runway of over 3,047 m; four are between 2,438 m and 3,047 m in length; twenty are 1,524 m to 2,437 m; twenty-four are 914 m to 1,523 m; and six are under 914 m.[337] Major airports in the nation include the Aden Adde International Airport in Mogadishu, the Hargeisa International Airport in Hargeisa, the Kismayo Airport in Kismayo, the Baidoa Airport in Baidoa, and the Bender Qassim International Airport in Bosaso.
+
+Established in 1964, Somali Airlines was the flag carrier of Somalia. It suspended operations during the civil war.[338][339] However, a reconstituted Somali government later began preparations in 2012 for an expected relaunch of the airline,[340] with the first new Somali Airlines aircraft scheduled for delivery by the end of December 2013.[341] According to the Somali Chamber of Commerce and Industry, the void created by the closure of Somali Airlines has since been filled by various Somali-owned private carriers. Over six of these private airline firms offer commercial flights to both domestic and international locations, including Daallo Airlines, Jubba Airways, African Express Airways, East Africa 540, Central Air and Hajara.[342]
+
+Possessing the longest coastline on the continent,[343] Somalia has several major seaports. Maritime transport facilities are found in the port cities of Mogadishu, Bosaso, Berbera, Kismayo and Merca. There is also one merchant marine. Established in 2008, it is cargo-based.[344]
+
+
+Demographics
+
++------------+
+| Population |
++============+
+| Year       |
++------------+
+| 1950       |
++------------+
+| 2000       |
++------------+
+|            |
++------------+
+
+Somalia had an estimated population of around {{#expr:/1e6 round 1}} million inhabitants in ; the total population according to the 1975 census was 3.3 million.[345] About 85% of local residents are ethnic Somalis,[346] who have historically inhabited the northern part of the country.[347] They have traditionally been organized into nomadic pastoral clans, loose empires, sultanates and city-states.[348] Civil strife in the early 1990s greatly increased the size of the Somali diaspora, as many of the best educated Somalis left the country.[349]
+
+Non-Somali ethnic minority groups make up the remainder of Somalia's population, and are largely concentrated in the southern regions.[350] They include Bravanese, Benadiri, Bantus, Bajuni, Ethiopians (especially Oromos), Yemenis, Indians, Persians, Italians and Britons. The Bantus, the largest ethnic minority group in Somalia, are the descendants of slaves who were brought in from southeastern Africa by Arab and Somali traders.[351] In 1940, there were about 50,000 Italians living in Italian Somaliland.[352] Most Europeans left after independence, while a small number of Westerners are still present in Somalia mainly working for international organizations operating in Somalia. Population_pyramid_of_Somalia_2015.png
+
+A sizable Somali diaspora exists in various Western countries, such as the United States (in particular in the state of Minnesota) and in the United Kingdom (particularly in London), Sweden, Canada, Norway, the Netherlands, Germany, Denmark, Finland, Australia, Switzerland, Austria, and Italy, as well on the Arabian peninsula, and several African nations, such as Uganda and South Africa. The Somali diaspora is deeply involved in the politics and development of Somalia. The current president of Somalia, Mohamed Abdullahi Mohamed, was a former diaspora Somali and still holds US citizenship.
+
+Somalia's population is expanding at a growth rate of 1.75% per annum and a birth rate of 40.87 births per 1,000 people.[353] The total fertility rate of Somalia is 6.08 children born per woman (2014 estimates), the fourth highest in the world, according to the CIA World Factbook.[354] Most local residents are young, with a median age of 17.7 years; about 44% of the population is between the ages of 0–14 years, 52.4% is between the ages of 15–64 years, and only 2.3% is 65 years of age or older.[355] The gender ratio is roughly balanced, with proportionally about as many men as women.[356]
+
+There is little reliable statistical information on urbanization in Somalia. Rough estimates have been made indicating a rate of urbanization of 4.79% per annum (2005–2010 est.), with many towns quickly growing into cities.[357] Many ethnic minorities have also moved from rural areas to urban centres since the onset of the civil war, particularly to Mogadishu and Kismayo.[358] , 37.7% of the nation's population live in towns and cities, with the percentage rapidly increasing.[359]
+
+Languages
+
+Somali and Arabic are the official languages of Somalia.[360] The Somali language is the mother tongue of the Somali people, the nation's most populous ethnic group.[361] It is a member of the Cushitic branch of the Afro-Asiatic language family, and its nearest relatives are the Oromo, Afar and Saho languages.[362] Somali is the best documented of the Cushitic languages,[363] with academic studies of it dating from before 1900. Ciismaniya.jpg writing script]] Somali dialects are divided into three main groups: Northern, Benadir and Maay. Northern Somali (or Northern-Central Somali) forms the basis for Standard Somali. Benadir (also known as Coastal Somali) is spoken on the Benadir coast, from Adale to south of Merca including Mogadishu, as well as in the immediate hinterland. The coastal dialects have additional phonemes that do not exist in Standard Somali. Maay is principally spoken by the Digil and Mirifle (Rahanweyn) clans in the southern areas of Somalia.[364]
+
+A number of writing systems have been used over the years for transcribing the Somali language. Of these, the Somali alphabet is the most widely used, and has been the official writing script in Somalia since the Supreme Revolutionary Council formally introduced it in October 1972.[365] The script was developed by the Somali linguist Shire Jama Ahmed specifically for the Somali language, and uses all letters of the English Latin alphabet except _p_, _v_ and _z_. Besides Ahmed's Latin script, other orthographies that have been used for centuries for writing Somali include the long-established Arabic script and Wadaad writing. Indigenous writing systems developed in the 20th century include the Osmanya, Borama and Kaddare scripts, which were invented by Osman Yusuf Kenadid, Sheikh Abdurahman Sheikh Nuur and Hussein Sheikh Ahmed Kaddare, respectively.[366]
+
+In addition to Somali, Arabic, which is also an Afro-Asiatic tongue,[367] is an official national language in Somalia.[368] Many Somalis speak it due to centuries-old ties with the Arab world, the far-reaching influence of the Arabic media, and religious education.[369][370][371]
+
+English is widely spoken and taught. It used to be a working language in the British Somaliland protectorate. Italian was an official language in Italian Somaliland and during the trusteeship period, but its use significantly diminished following independence. It is now most frequently heard among older generations, government officials, and in educated circles.[372][373] Other minority languages include Bravanese, a variant of the Bantu Swahili language that is spoken along the coast by the Bravanese people, as well as Kibajuni, a Swahili dialect that is the mother tongue of the Bajuni minority ethnic group.
+
+Urban areas
+
+Religion
+
+Mosislsol2.jpg in Mogadishu is the largest mosque in the Horn region]] According to the Pew Research Center, 99.8% of Somalia's population is Muslim.[374] The majority belong to the Sunni branch of Islam and the Shafi'i school of Islamic jurisprudence.[375] Sufism, the mystical sect of Islam, is also well established, with many local _jama'a_ (_zawiya_) or congregations of the various _tariiqa_ or Sufi orders.[376] The constitution of Somalia likewise defines Islam as the state religion of the Federal Republic of Somalia, and Islamic sharia law as the basic source for national legislation. It also stipulates that no law that is inconsistent with the basic tenets of Shari'a can be enacted.[377]
+
+Islam entered the region very early on, as a group of persecuted Muslims had sought refuge across the Red Sea in the Horn of Africa at the urging of the Islamic prophet Muhammad.[378] Islam may thus have been introduced into Somalia well before the faith even took root in its place of origin.[379]
+
+In addition, the Somali community has produced numerous important Islamic sheikhs and clerics over the centuries, many of whom have significantly shaped the course of Muslim learning and practice in the Horn of Africa, the Arabian Peninsula, and well beyond. Among these Islamic scholars is the 14th-century Somali theologian and jurist Uthman bin Ali Zayla'i of Zeila, who wrote the single most authoritative text on the Hanafi school of Islam, consisting of four volumes known as the _Tabayin al-Haqa'iq li Sharh Kanz al-Daqa'iq_.
+
+Christianity is a minority religion in Somalia, with adherents representing less than 0.1% of the population in 2010 according to the Pew Research Center.[380] There is one Catholic diocese for the whole country, the Diocese of Mogadishu, which estimates that there were only about one hundred Catholic practitioners in 2004.[381]
+
+In 1913, during the early part of the colonial era, there were virtually no Christians in the Somali territories, with only about 100–200 followers coming from the schools and orphanages of the few Catholic missions in the British Somaliland protectorate.[382] There were also no known Catholic missions in Italian Somaliland during the same period.[383] In the 1970s, during the reign of Somalia's then Marxist government, church-run schools were closed and missionaries sent home. There has been no archbishop in the country since 1989, and the cathedral in Mogadishu was severely damaged during the civil war. In December 2013, the Ministry of Justice and Religious Affairs also released a directive prohibiting the celebration of Christian festivities in the country.[384]
+
+According to the Pew Research Center, less than 0.1% of Somalia's population in 2010 were adherents of folk religions.[385] These mainly consisted of some non-Somali ethnic minority groups in the southern parts of the country, who practice animism. In the case of the Bantu, these religious traditions were inherited from their ancestors in Southeast Africa.[386]
+
+Additionally, according to the Pew Research Center, less than 0.1% of Somalia's population in 2010 were adherents of Judaism, Hinduism, Buddhism, or unaffiliated with any religion.[387]
+
+Health
+
+Until the collapse of the federal government in 1991, the organizational and administrative structure of Somalia's healthcare sector was overseen by the Ministry of Health. Regional medical officials enjoyed some authority, but healthcare was largely centralized. The socialist government of former President of Somalia Siad Barre had put an end to private medical practice in 1972.[388] Much of the national budget was devoted to military expenditure, leaving few resources for healthcare, among other services.[389]
+
+Somalia's public healthcare system was largely destroyed during the ensuing civil war. As with other previously nationalized sectors, informal providers have filled the vacuum and replaced the former government monopoly over healthcare, with access to facilities witnessing a significant increase.[390] Many new healthcare centres, clinics, hospitals and pharmacies have in the process been established through home-grown Somali initiatives.[391] The cost of medical consultations and treatment in these facilities is low, at $5.72 per visit in health centres (with a population coverage of 95%), and $1.89–3.97 per outpatient visit and $7.83–13.95 per bed day in primary through tertiary hospitals.[392]
+
+Comparing the 2005–2010 period with the half-decade just prior to the outbreak of the conflict (1985–1990), life expectancy actually increased from an average of 47 years for men and women to 48.2 years for men and 51 years for women.[393][394] Similarly, the number of one-year-olds fully immunized against measles rose from 30% in 1985–1990 to 40% in 2000–2005,[395][396] and for tuberculosis, it grew nearly 20% from 31% to 50% over the same period.[397][398]
+
+The number of infants with low birth weight fell from 16 per 1,000 to 0.3, a 15% drop in total over the same time frame.[399][400] Between 2005 and 2010 as compared to the 1985–1990 period, infant mortality per 1,000 births also fell from 152 to 109.6.[401][402] Significantly, maternal mortality per 100,000 births fell from 1,600 in the pre-war 1985–1990 half-decade to 1,100 in the 2000–2005 period.[403][404] The number of physicians per 100,000 people also rose from 3.4 to 4 over the same time frame,[405][406] as did the percentage of the population with access to sanitation services, which increased from 18% to 26%.[407][408]
+
+According to United Nations Population Fund data on the midwifery workforce, there is a total of 429 midwives (including nurse-midwives) in Somalia, with a density of one midwife per 1,000 live births. Eight midwifery institutions presently exist in the country, two of which are private. Midwifery education programs on average last from 12 to 18 months, and operate on a sequential basis. The number of student admissions per total available student places is a maximum 100%, with 180 students enrolled . Midwifery is regulated by the government, and a license is required to practice professionally. A live registry is also in place to keep track of licensed midwives. In addition, midwives in the country are officially represented by a local midwives association, with 350 registered members.[409]
+
+Somali_boy_receives_a_polio_vaccination.jpg vaccination.]] According to a 2005 World Health Organization estimate, about 97.9% of Somalia's women and girls underwent Female genital mutilation,[410] a pre-marital custom mainly endemic to the horn of Africa and parts of the Near East.[411][412] Encouraged by women in the community, it is primarily intended to protect chastity, deter promiscuity, and offer protection from assault.[413][414] By 2013, UNICEF in conjunction with the Somali authorities reported that the prevalence rate among 1- to 14-year-old girls in the autonomous northern Puntland and Somaliland regions had dropped to 25% following a social and religious awareness campaign.[415] About 93% of Somalia's male population is also reportedly circumcised.[416]
+
+Somalia has one of the lowest HIV infection rates on the continent. This is attributed to the Muslim nature of Somali society and adherence of Somalis to Islamic morals.[417] While the estimated HIV prevalence rate in Somalia in 1987 (the first case report year) was 1% of adults,[418] a 2012 report from UNAIDS says that since 2004, estimates from 0.7% to 1% have been assumed.[419]
+
+Although healthcare is now largely concentrated in the private sector, the country's public healthcare system is in the process of being rebuilt, and is overseen by the Ministry of Health. The current Minister of Health is Qamar Adan Ali.[420] The autonomous Puntland region maintains its own Ministry of Health,[421] as does the Somaliland region in northwestern Somalia.[422]
+
+Some of the prominent healthcare facilities in the country are East Bardera Mothers and Children's Hospital, Abudwak Maternity and Children's Hospital, Edna Adan Maternity Hospital and West Bardera Maternity Unit.
+
+Education
+
+Following the outbreak of the civil war in 1991, the task of running schools in Somalia was initially taken up by community education committees established in 94% of the local schools.[423] Numerous problems had arisen with regard to access to education in rural areas and along gender lines, quality of educational provisions, responsiveness of school curricula, educational standards and controls, management and planning capacity, and financing. To address these concerns, educational policies are being developed that are aimed at guiding the scholastic process. In the autonomous Puntland region, the latter includes a gender sensitive national education policy compliant with world standards, such as those outlined in the Convention on the Rights of the Child (CRC) and the Convention on the Elimination of All Forms of Discrimination against Women (CEDAW).[424] Examples of this and other educational measures at work are the regional government's enactment of legislation aimed at securing the educational interests of girls,[425] promoting the growth of an Early Childhood Development (ECD) program designed to reach parents and care-givers in their homes as well as in the ECD centers for 0 to 5-year-old children,[426] and introducing incentive packages to encourage teachers to work in remote rural areas.[427]
+
+The Ministry of Education is officially responsible for education in Somalia, and oversees the nation's primary, secondary, technical and vocational schools, as well as primary and technical teacher training and non-formal education. About 15% of the government's budget is allocated toward scholastic instruction.[428] The autonomous Puntland and Somaliland macro-regions maintain their own Ministries of Education.
+
+In 2006, Puntland was the second territory in Somalia after Somaliland to introduce free primary schools, with teachers now receiving their salaries from the Puntland administration.[429] From 2005/2006 to 2006/2007, there was a significant increase in the number of schools in Puntland, up 137 institutions from just one year prior. During the same period, the number of classes in the region increased by 504, with 762 more teachers also offering their services.[430] Total student enrollment increased by 27% over the previous year, with girls lagging only slightly behind boys in attendance in most regions. The highest class enrollment was observed in the northernmost Bari region, and the lowest was observed in the under-populated Ayn region. The distribution of classrooms was almost evenly split between urban and rural areas, with marginally more pupils attending and instructors teaching classes in urban areas.[431] Mogauniv1.jpg's main campus in Mogadishu.]] Higher education in Somalia is now largely private. Several universities in the country, including Mogadishu University, have been scored among the 100 best universities in Africa in spite of the harsh environment, which has been hailed as a triumph for grass-roots initiatives.[432] Other universities also offering higher education in the south include Benadir University, the Somalia National University, Kismayo University and the University of Gedo. In Puntland, higher education is provided by the Puntland State University and East Africa University. In Somaliland, it is provided by Amoud University, the University of Hargeisa, Somaliland University of Technology and Burao University.
+
+Qu'ranic schools (also known as _dugsi quran_ or _mal'aamad quran_) remain the basic system of traditional religious instruction in Somalia. They provide Islamic education for children, thereby filling a clear religious and social role in the country. Known as the most stable local, non-formal system of education providing basic religious and moral instruction, their strength rests on community support and their use of locally made and widely available teaching materials. The Qu'ranic system, which teaches the greatest number of students relative to other educational sub-sectors, is often the only system accessible to Somalis in nomadic as compared to urban areas. A study from 1993 found, among other things, that about 40% of pupils in Qur'anic schools were female. To address shortcomings in religious instruction, the Somali government on its own part also subsequently established the Ministry of Endowment and Islamic Affairs, under which Qur'anic education is now regulated.[433]
+
+
+Culture
+
+Cuisine
+
+Somali_food.jpg]] The cuisine of Somalia, which varies from region to region, is a mixture of diverse culinary influences. It is the product of Somalia's rich tradition of trade and commerce. Despite the variety, there remains one thing that unites the various regional cuisines: all food is served halal. There are therefore no pork dishes, alcohol is not served, nothing that died on its own is eaten, and no blood is incorporated. _Qaddo_ or lunch is often elaborate.
+
+Varieties of 'bariis' (rice), the most popular probably being basmati, usually act as the main dish. Spices including cumin, cardamom, cloves, cinnamon and garden sage are used to add aromas to these different rice dishes. Somalis serve dinner as late as 9 pm. During Ramadan, the evening meal is often presented after Tarawih prayers; sometimes up to 11 pm.
+
+'Xalwo' (halva) is a popular confection reserved for special festive occasions, such as Eid celebrations or wedding receptions. It is made from corn starch, sugar, cardamom powder, nutmeg powder and ghee. Peanuts are also sometimes added to enhance texture and flavour.[434] After meals, homes are traditionally perfumed using frankincense (_lubaan_) or incense (_cuunsi_), which is prepared inside an incense burner referred to as a _dabqaad_.
+
+Music
+
+Somalia has a rich musical heritage centred on traditional Somali folklore. Most Somali songs are pentatonic. That is, they only use five pitches per octave in contrast to a heptatonic (seven note) scale like the major scale. At first listen, Somali music might be mistaken for the sounds of nearby regions such as Ethiopia, Sudan or the Arabian Peninsula, but it is ultimately recognizable by its own unique tunes and styles. Somali songs are usually the product of collaboration between lyricists (_midho_), songwriters (_laxan_) and singers (_codka_ or "voice").[435]
+
+Literature
+
+Somali scholars have for centuries produced many notable examples of Islamic literature ranging from poetry to Hadith. With the adoption of the Latin alphabet in 1972 as the nation's standard orthography, numerous contemporary Somali authors have also released novels, some of which have gone on to receive worldwide acclaim. Of these modern writers, Nuruddin Farah is the most celebrated. Books such as _From a Crooked Rib_ and _Links_ are considered important literary achievements, works that have earned Farah, among other accolades, the 1998 Neustadt International Prize for Literature.[436] Faarax M.J. Cawl is another prominent Somali writer who is best known for his Dervish era novel, _Ignorance is the enemy of love_.
+
+Sports
+
+Bile_Abdi_(482x321).jpg, Somalia's most decorated athlete and holder of the most national records.|alt=|left]] Football is the most popular sport in Somalia. Important domestic competitions are the Somalia League and Somalia Cup, with the Somalia national football team playing internationally.
+
+Basketball is also played in the country. The FIBA Africa Championship 1981 was hosted in Mogadishu from 15 to 23 December December 1981, during which the national basketball team received the bronze medal.[437] The squad also takes part in the basketball event at the Pan Arab Games.
+
+In 2013, a Somalia national bandy team was formed in Borlänge. It later participated in the Bandy World Championship 2014 in Irkutsk and Shelekhov in Russia.
+
+In the martial arts, Faisal Jeylani Aweys and Mohamed Deq Abdulle of the national taekwondo team took home a silver medal and fourth place, respectively, at the 2013 Open World Taekwondo Challenge Cup in Tongeren. The Somali Olympic Committee has devised a special support program to ensure continued success in future tournaments.[438] Additionally, Mohamed Jama has won both world and European titles in K-1 and Thai Boxing.[439]
+
+Architecture
+
+Gondereshe2008.jpg of Gondershe]] Somali architecture is a rich and diverse tradition of engineering and design involving multiple types of constructions and edifices, such as stone cities, castles, citadels, fortresses, mosques, mausoleums, temples, towers, monuments, cairns, megaliths, menhirs, dolmens, tombs, tumuli, steles, cisterns, aqueducts and lighthouses. Spanning the country's ancient, medieval and early modern periods, it also embraces the fusion of Somalo-Islamic architecture with contemporary Western designs.
+
+In ancient Somalia, pyramidical structures known in Somali as _taalo_ were a popular burial style, with hundreds of these dry stone monuments scattered around the country today. Houses were built of dressed stone similar to the ones in ancient Egypt.[440] There are also examples of courtyards and large stone walls enclosing settlements, such as the Wargaade Wall.
+
+The adoption of Islam in Somalia's early medieval history brought Islamic architectural influences from Arabia and Persia. This stimulated a shift in construction from dry stone and other related materials to coral stone, sun dried bricks, and the widespread use of limestone in Somali architecture. Many of the new architectural designs, such as mosques, were built on the ruins of older structures, a practice that would continue over and over again throughout the following centuries.[441]
+
+
+See also
+
+-   Outline of Somalia
+-   Index of Somalia-related articles{{-}}
+
+
+References
+
+Notes
+
+
+Bibliography
+
+-   -   -   -   -   -   Mauri, Arnaldo, _Somalia_, in G, Dell'Amore (ed.), "Banking Systems of Africa", Cariplo-Finafrica, Milan, 1971, pp. 209–217.1
+-   -   -   Shay, Shaul. _Somalia in Transition Since 2006._ Piscataway, NJ: Transaction Publishers, 2014.
+-   -   -
+
+
+External links
+
+-   -   Federal Government of Somalia
+-   -   -   -   Somalia profile from BBC News
+
+Somalia Category:1960 establishments in Somalia Category:Arabic-speaking countries and territories Category:Countries in Africa Category:East African countries Category:Federal republics Category:Horn African countries Category:Least developed countries Category:Member states of the African Union Category:Member states of the Arab League Category:Member states of the Organisation of Islamic Cooperation Category:Member states of the United Nations Category:States and territories established in 1960
+
+[1]
+
+[2]
+
+[3]
+
+[4] The _Federal Republic of Somalia_ is the country's name per Article 1 of the Provisional Constitution .
+
+[5]
+
+[6]
+
+[7]
+
+[8]
+
+[9]
+
+[10]
+
+[11] .
+
+[12]
+
+[13]
+
+[14] .
+
+[15] John Kenrick 1855) _Phoenicia_, B. Fellowes, p. 199.
+
+[16]
+
+[17]
+
+[18] Christine El Mahdy (2005) _Egypt : 3000 Years of Civilization Brought to Life_, Raincoast Books, p. 297, .
+
+[19] Stefan Goodwin (2006) _Africa's Legacies of Urbanization: Unfolding Saga of a Continent_, Lexington Books, p. 48, .
+
+[20] Exibit "Un esploratore pavese in Africa – Le collezioni zoologiche di Luigi Bricchetti Robecchi al Museo di Storia Naturale di Pavia" (2014)
+
+[21] .
+
+[22]
+
+[23] Kevin Shillington (2005) _Encyclopedia of African history_, CRC Press, p. 1406, .
+
+[24] .
+
+[25]
+
+[26] _The Illustrated Library of The World and Its Peoples: Africa, North and East_, Greystone Press: 1967, p. 338.
+
+[27]
+
+[28]
+
+[29]
+
+[30]
+
+[31]
+
+[32]
+
+[33]
+
+[34]
+
+[35]
+
+[36]
+
+[37]
+
+[38]
+
+[39]
+
+[40]
+
+[41]
+
+[42]
+
+[43] Zarins, Juris (1990), "Early Pastoral Nomadism and the Settlement of Lower Mesopotamia", (Bulletin of the American Schools of Oriental Research)
+
+[44] Diamond J, Bellwood P (2003) "Farmers and Their Languages: The First Expansions" _Science_ 300,
+
+[45]
+
+[46]
+
+[47]
+
+[48]
+
+[49]
+
+[50]
+
+[51]
+
+[52]
+
+[53]
+
+[54]
+
+[55]
+
+[56] The Geography of Herodotus: Illustrated from Modern Researches and Discoveries by James Talboys Wheeler, pg 1xvi, 315, 526
+
+[57]
+
+[58] John Kitto, James Taylor, _The popular cyclopædia of Biblical literature: condensed from the larger work_, (Gould and Lincoln: 1856), p.302.
+
+[59]
+
+[60] Suzanne Richard (2003) Near Eastern archaeology: a reader, EISENBRAUNS, p. 120 .
+
+[61] .
+
+[62] .
+
+[63] .
+
+[64] .
+
+[65]
+
+[66]
+
+[67]
+
+[68]
+
+[69]
+
+[70]
+
+[71]
+
+[72]
+
+[73]
+
+[74]
+
+[75]
+
+[76] Lewis, I.M. (1999) _A Pastoral Democracy: A Study of Pastoralism and Politics Among the Northern Somali of the Horn of Africa_, LIT Verlag Münster, p. 17, .
+
+[77] Black, Jeremy (1996) _Cambridge Illustrated Atlas, Warfare: Renaissance to Revolution, 1492–1792_, Cambridge University Press, p. 9, .
+
+[78]
+
+[79]
+
+[80]
+
+[81]
+
+[82] Sir Reginald Coupland (1965) _East Africa and its invaders: from the earliest times to the death of Seyyid Said in 1856_, Russell & Russell, p. 38.
+
+[83]
+
+[84]
+
+[85]
+
+[86] .
+
+[87] Caroline Sassoon (1978) _Chinese Porcelain Marks from Coastal Sites in Kenya: Aspects of Trade in the Indian Ocean, XIV–XIX Centuries_, Vol. 43–47, British Archaeological Reports, p. 2, .
+
+[88] Sir Reginald Coupland (1965) _East Africa and Its Invaders: From the Earliest Times to the Death of Seyyid Said in 1856_, Russell & Russell, p. 37.
+
+[89]
+
+[90]
+
+[91]
+
+[92]
+
+[93]
+
+[94]
+
+[95]
+
+[96] Helen Chapin Metz, ed. (1992) _Somalia: A Country Study_. Washington: GPO for the Library of Congress.
+
+[97] Federal Research Division (2004) _Somalia: A Country Study_, Kessinger Publishing, LLC, p. 38, .
+
+[98] .
+
+[99]
+
+[100] Francis Vallat (1974) _First report on succession of states in respect of treaties: International Law Commission twenty-sixth session 6 May – 26 July 1974_, United Nations, p. 20
+
+[101] .
+
+[102]
+
+[103]
+
+[104] Kevin Shillington (2005) _Encyclopedia of African history_, CRC Press, p. 360, .
+
+[105]
+
+[106]
+
+[107]
+
+[108]
+
+[109]
+
+[110] Moshe Y. Sachs (1988) _Worldmark Encyclopedia of the Nations_, Vol. 2, Worldmark Press, p. 290, .
+
+[111]
+
+[112] J. D. Fage, Roland Anthony Oliver (1985) _The Cambridge history of Africa_, Vol. 8, Cambridge University Press, p. 478, .
+
+[113] _The Encyclopedia Americana: complete in thirty volumes. Skin to Sumac_, Vol. 25, Grolier: 1995, p. 214, .
+
+[114] de la Fosse Wiles, Peter John (1982) _The New Communist Third World: an essay in political economy_, Taylor & Francis, p. 279 .
+
+[115] Benjamin Frankel (1992) _The Cold War, 1945–1991: Leaders and other important figures in the Soviet Union, Eastern Europe, China, and the Third World_, Gale Research, p. 306 .
+
+[116] Oihe Yang (2000) _Africa South of the Sahara 2001_, 30th ed., Taylor and Francis, p. 1025 .
+
+[117]
+
+[118] . The areas concerned amount to about a third of Ethiopia.
+
+[119]
+
+[120]
+
+[121]
+
+[122]
+
+[123] Columbia University, School of International Affairs, _Journal of international affairs_, Volume 40 (1986), p. 165.
+
+[124]
+
+[125]
+
+[126] Library Information and Research Service, _The Middle East: Abstracts and index_, Volume 2, (Library Information and Research Service: 1999), p.327.
+
+[127]
+
+[128]
+
+[129]
+
+[130]
+
+[131]
+
+[132]
+
+[133]
+
+[134]
+
+[135]
+
+[136] ;;
+
+[137] Ken Rutherford, _Humanitarianism Under Fire: The US and UN Intervention in Somalia,_ Kumarian Press, July 2008
+
+[138]
+
+[139]
+
+[140] Atkinson, Rick (31 January 1994). _The Washington Post_.
+
+[141]
+
+[142] Boutros Boutros Ghali (1999) _Unvanquished: A U.S.-U.N. Saga_, London: I.B. Tauris & Co., p. 140
+
+[143] "Troubled Somalia Mission Extended", BBC News, 22 December 2008. Retrieved 25 January 2011
+
+[144]
+
+[145]
+
+[146]
+
+[147]
+
+[148]
+
+[149]
+
+[150]
+
+[151]
+
+[152]
+
+[153]
+
+[154]
+
+[155]
+
+[156]
+
+[157]
+
+[158]
+
+[159]
+
+[160]
+
+[161]
+
+[162]
+
+[163]
+
+[164]
+
+[165]
+
+[166]
+
+[167]
+
+[168]
+
+[169] "Somalia's president quits office", BBC News, 29 December 2008.
+
+[170] "Somali President Yusuf resigns", Reuters (FT.com), 29 December 2008.
+
+[171]
+
+[172]
+
+[173]
+
+[174] Shariah in Somalia – _Arab News_
+
+[175]
+
+[176]
+
+[177]
+
+[178]
+
+[179]
+
+[180]
+
+[181]
+
+[182]
+
+[183]
+
+[184]
+
+[185]
+
+[186]
+
+[187]
+
+[188]
+
+[189]
+
+[190]
+
+[191]
+
+[192]
+
+[193] Somalia: PM Mohamed Abdullahi Farmajo resigns. BBC News (19 June 2011). Retrieved 15 December 2011.
+
+[194]
+
+[195]
+
+[196]
+
+[197]
+
+[198]
+
+[199]
+
+[200]
+
+[201]
+
+[202]
+
+[203]
+
+[204]
+
+[205]
+
+[206]
+
+[207] "Death toll from Somalia truck bomb in October now at 512: probe committee". Reuters. 30 November 2017.
+
+[208]
+
+[209]
+
+[210]
+
+[211]
+
+[212]
+
+[213]
+
+[214]
+
+[215] Hadden, Robert Lee. 2007. "The Geology of Somalia: A Selected Bibliography of Somalian Geology, Geography and Earth Science". Engineer Research and Development Laboratories, Topographic Engineering Center
+
+[216] International Traffic Network, _The world trade in sharks: a compendium of Traffic's regional studies_, (Traffic International: 1996), p.25.
+
+[217]
+
+[218]
+
+[219]
+
+[220]
+
+[221]
+
+[222]
+
+[223]
+
+[224] _National Geographic_, Vol. 159, National Geographic Society, 1981, p. 765.
+
+[225]
+
+[226]
+
+[227] Geoffrey Gilbert (2004) _World poverty_, ABC-CLIO, p. 111, .
+
+[228]
+
+[229]
+
+[230]
+
+[231]
+
+[232]
+
+[233]
+
+[234]
+
+[235]
+
+[236]
+
+[237]
+
+[238]
+
+[239]
+
+[240]
+
+[241]
+
+[242]
+
+[243]
+
+[244]
+
+[245] Dickinson, E.C. (Ed.)(2003) The Howard and Moore Complete Checklist of the Birds of the World. Revised and enlarged third edition. Princeton University Press, Princeton.
+
+[246] FishBase 2004: a global information system on fishes. DVD. WorldFish Center – Philippine Office, Los Banos, Philippines. Published in May 2004
+
+[247] Uetz, P. & Jirí Hošek (eds.), The Reptile Database, htUetz, P. & Jirí Hošek (e Uetz, P. & Jirí Hošek (eds.), The Reptile Database, http://www.reptile-database.org, accessed 8 December 2013
+
+[248]
+
+[249]
+
+[250]
+
+[251]
+
+[252]
+
+[253]
+
+[254]
+
+[255]
+
+[256]
+
+[257]
+
+[258]
+
+[259]
+
+[260]
+
+[261]
+
+[262]
+
+[263]
+
+[264]
+
+[265] . marines.mil.
+
+[266]
+
+[267] Library of Congress Country Study, Somalia, The Warrior Tradition and Development of a Modern Army, research complete May 1992.
+
+[268]
+
+[269]
+
+[270]
+
+[271]
+
+[272]
+
+[273]
+
+[274]
+
+[275]
+
+[276]
+
+[277]
+
+[278]
+
+[279]
+
+[280]
+
+[281]
+
+[282]
+
+[283] The Arab countries demand Australian sheep and lamb – _Farmonline_
+
+[284]
+
+[285]
+
+[286]
+
+[287]
+
+[288]
+
+[289]
+
+[290] Little, Peter D. (2003) _Somalia: Economy without State_. Indiana University Press, p. 4, .
+
+[291]
+
+[292]
+
+[293]
+
+[294]
+
+[295]
+
+[296]
+
+[297]
+
+[298]
+
+[299]
+
+[300]
+
+[301]
+
+[302]
+
+[303]
+
+[304]
+
+[305]
+
+[306]
+
+[307]
+
+[308]
+
+[309]
+
+[310]
+
+[311]
+
+[312]
+
+[313]
+
+[314]
+
+[315]
+
+[316]
+
+[317]
+
+[318]
+
+[319] Christopher J. Coyne (2008) _After war: the political economy of exporting democracy_, Stanford University Press, p. 154, .
+
+[320]
+
+[321]
+
+[322]
+
+[323] Abdi Hajji Hussein (4 April 2011) After 20 years, Somali president inaugurates national TV station. gantdaily.com
+
+[324]
+
+[325]
+
+[326] SO Registry . Soregistry.so. Retrieved 16 August 2013.
+
+[327]
+
+[328]
+
+[329]
+
+[330]
+
+[331]
+
+[332]
+
+[333]
+
+[334]
+
+[335] The First 100 Days in Office. Waayaha.net. 26 April 2009.
+
+[336]
+
+[337]
+
+[338] _Africa Review 2003: The Economic and Business Report_, Walden Publishing, 2003, p. 299, .
+
+[339]
+
+[340]
+
+[341]
+
+[342]
+
+[343]
+
+[344]
+
+[345] "Somalia – population". Library of Congress Country Studies.
+
+[346]
+
+[347]
+
+[348] .
+
+[349] Somali Diaspora – _Inner City Press_
+
+[350]
+
+[351]
+
+[352] Tripodi, Paolo. _The Colonial Legacy in Somalia_. p. 66
+
+[353]
+
+[354]
+
+[355]
+
+[356]
+
+[357]
+
+[358] Bantu ethnic identities in Somalia. (PDF). Retrieved 15 December 2011.
+
+[359]
+
+[360]
+
+[361]
+
+[362] I. M. Lewis (1998) _Peoples of the Horn of Africa: Somali, Afar and Saho_, Red Sea Press, p. 11, .
+
+[363] .
+
+[364] Andrew Dalby (1998) _Dictionary of languages: the definitive reference to more than 400 languages_, Columbia University Press, p. 571, .
+
+[365] Economist Intelligence Unit (Great Britain) _Middle East annual review_ (1975) p. 229
+
+[366] .
+
+[367] Helena Dubnov (2003) _A grammatical sketch of Somali_, Kِppe, pp. 70–71.
+
+[368]
+
+[369]
+
+[370] Diana Briton Putman, Mohamood Cabdi Noor (1993) _The Somalis: their history and culture_, Center for Applied Linguistics, p. 15.: "Somalis speak Somali. Many people also speak Arabic, and educated Somalis usually speak either English or Italian as well. Swahili may also be spoken in coastal areas near Kenya."
+
+[371] Fiona MacDonald et al. (2000) _Peoples of Africa_, Vol. 10, Marshall Cavendish, p. 178.
+
+[372]
+
+[373] https://www.ethnologue.com/language/ita
+
+[374]
+
+[375]
+
+[376] I. M. Lewis (1998) _Saints and Somalis: Popular Islam in a Clan-based Society_, The Red Sea Press, pp. 8–9, .
+
+[377]
+
+[378] Rafiq Zakaria (1991) _Muhammad and The Quran,_ New Delhi: Penguin Books, pp. 403–4.
+
+[379]
+
+[380]
+
+[381]
+
+[382] Charles George Herbermann (1913) _The Catholic Encyclopedia: An International Work of Reference on the Constitution, Doctrine, Discipline, and History of the Catholic Church_, Vol. 14, Robert Appleton Co., p. 139.
+
+[383] Charles Henry Robinson (2007) [1915], _History of Christian Missions_, Read Books, p. 356.
+
+[384]
+
+[385]
+
+[386]
+
+[387]
+
+[388] Maxamed Siyaad Barre (1970) _My country and my people: the collected speeches of Major-General Mohamed Siad Barre_, President, the Supreme Revolutionary Council, Somali Democratic Republic, Vol. 3, Ministry of Information and National Guidance, p. 141.
+
+[389]
+
+[390]
+
+[391]
+
+[392]
+
+[393] UNDP (2001). Human Development Report 2001-Somalia. New York: UNDP.
+
+[394]
+
+[395]
+
+[396] World Bank and UNDP (2003). Socio-Economic Survey-Somalia-2004. Washington, D.C./NewYork: UNDP and World Bank.
+
+[397]
+
+[398]
+
+[399]
+
+[400] World Bank and UNDP (2003). Socio-Economic Survey-Somalia-1999. Washington, D.C./NewYork: UNDP and World Bank.
+
+[401]
+
+[402]
+
+[403]
+
+[404] UNDP (2006). Human Development Report 2006. New York: UNDP.
+
+[405]
+
+[406]
+
+[407]
+
+[408]
+
+[409]
+
+[410]
+
+[411]
+
+[412] Herbert L. Bodman, Nayereh Esfahlani Tohidi (1998) _Women in Muslim societies: diversity within unity_, Lynne Rienner Publishers, p. 41, .
+
+[413] Suzanne G. Frayser, Thomas J. Whitby (1995) _Studies in human sexuality: a selected guide_, Libraries Unlimited, p. 257, .
+
+[414] Goldenstein, Rachel. "Female Genital Cutting: Nursing Implications". _Journal of Transcultural Nursing_. 25.1 (2014): 95–101. Web. 19 February 2014.
+
+[415]
+
+[416]
+
+[417]
+
+[418]
+
+[419]
+
+[420]
+
+[421] Ministry of Health – Puntland State of Somalia . Health.puntlandgovt.com. Retrieved 15 December 2011.
+
+[422]
+
+[423]
+
+[424] . Puntland State of Somalia – Ministry of Education
+
+[425] . Puntland State of Somalia – Ministry of Education
+
+[426] . Puntland State of Somalia – Ministry of Education
+
+[427] . Puntland State of Somalia – Ministry of Education
+
+[428]
+
+[429]
+
+[430]
+
+[431]
+
+[432]
+
+[433]
+
+[434] Barlin Ali (2007) _Somali Cuisine_, AuthorHouse, p. 79, .
+
+[435] .
+
+[436]
+
+[437]
+
+[438]
+
+[439]
+
+[440] John G. Jackson, J. Hampden Jackson (1972) _Man, God and Civilization_, Citadel Press, p. 216, .
+
+[441] .

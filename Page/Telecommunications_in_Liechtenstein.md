@@ -1,0 +1,18 @@
+This article concerns the systems of COMMUNICATIONS IN LIECHTENSTEIN. Liechtenstein possesses a number of modern communications systems, some of which are shared with the neighbouring country of Switzerland. The country code and top-level domain for Liechtenstein is .li.
+
+
+Telephone and internet
+
+Liechtenstein's automatic telephone system is connected to the Swiss telephone networks via cable and microwave radio relay systems. There are 20,072 main line telephones in the country served by the network. In April 1999, Liechtenstein ceased to be a part of the Swiss telephone numbering plan, in which the country used the Swiss area code "075", opting instead to have a unique country calling code, "+423". There are 44 internet service providers in Liechtenstein and Switzerland combined.
+
+
+Radio and television
+
+There are four FM radio broadcast stations in Liechtenstein serving 21,000 radios. The television broadcast system is linked to the Swiss networks, with the Swiss services serving 12,000 televisions in Liechtenstein.
+
+
+References
+
+    _Much of the content of this article is adapted from the CIA World Factbook._
+
+Telecommunications_in_Liechtenstein Liechtenstein Liechtenstein Liechtenstein

@@ -1,0 +1,539 @@
+STEPHEN GARY "WOZ" WOZNIAK (; born August 11, 1950)[1][2][3][4] is an American inventor, electronics engineer, programmer, philanthropist, and technology entrepreneur. In 1976 he co-founded Apple Inc., which later became the world's largest information technology company by revenue and largest company in the world by market capitalization. He and Apple co-founder Steve Jobs are widely recognized as pioneers of the personal computer revolution of the 1970s and 1980s.
+
+In 1975, Wozniak started developing the Apple I[5] into the computer that launched Apple when he and Jobs first began marketing it the following year (1976). He primarily designed the Apple II in 1977, known as one of the first highly successful mass-produced microcomputers,[6] while Jobs oversaw among other things the development of its foam-molded plastic case and early Apple employee Rod Holt developed the switching power supply.[7] With computer scientist Jef Raskin, Wozniak had major influence over the initial development of the original Apple Macintosh concepts from 1979 to 1981, when Jobs took over the project following Wozniak's brief departure from the company due to a traumatic airplane accident.[8][9] After permanently leaving Apple in 1985, Wozniak founded CL 9 and created the first programmable universal remote, released in 1987. He then pursued several other business and philanthropic ventures throughout his career, focusing largely on technology in K–12 schools.[10]
+
+, Wozniak has remained an employee of Apple in a ceremonial capacity since stepping down in 1985.[11]
+
+
+Early life
+
+Steve Wozniak was born in San Jose, California, the son of Francis Jacob "Jerry" Wozniak (1925–1994) from Michigan[12] and Margaret Louise Wozniak (née Kern) (1923–2014)[13] from Washington state.[14] He graduated from Homestead High School in 1968.
+
+The name on Wozniak's birth certificate is "Stephan Gary Wozniak", but his mother said that she intended it to be spelled "Stephen", which is what he uses.[15] Wozniak has mentioned his surname being Polish[16] and Ukrainian[17] and has spoken of his Polish descent.[18][19]
+
+In the early 1970s, Wozniak's blue box design earned him the nickname "Berkeley Blue" in the phreaking community.[20][21]
+
+Wozniak has credited watching _Star Trek_ and attending _Star Trek_ conventions while in his youth as a source of inspiration for his starting Apple Inc.[22]
+
+
+Career
+
+Origins of Apple
+
+In 1969, Wozniak returned to the San Francisco Bay Area after being expelled from University of Colorado Boulder in his first year for sending prank messages on the university's computer system.[23][24] In 1971, as a self-taught project, Wozniak designed and built his first computer with his friend Bill Fernandez. Predating useful microprocessors, screens, and keyboards, and using a punch card and only 20 TTL chips donated by an acquaintance, they named it "Cream Soda" after their favorite beverage. A newspaper reporter stepped on the power supply cable and blew up the computer, but it served Wozniak as "a good prelude to my thinking 5 years later with the Apple I and Apple II computers".[25] He later re-enrolled at De Anza College and transferred to University of California, Berkeley in 1971. Before focusing his attention on Apple, he was employed at Hewlett-Packard (HP) where he designed calculators.[26] It was during this time that he befriended Steve Jobs.[27]
+
+Wozniak was introduced to Jobs by Fernandez, who attended Homestead High School with Jobs in 1971. Jobs and Wozniak became friends when Jobs worked for the summer at HP, where Wozniak too was employed, working on a mainframe computer.[28]
+
+In 1973, Jobs was working for arcade game company Atari, Inc. in Los Gatos, California.[29] He was assigned to create a circuit board for the arcade video game _Breakout_. According to Atari co-founder Nolan Bushnell, Atari offered $100 () for each chip that was eliminated in the machine. Jobs had little knowledge of circuit board design and made a deal with Wozniak to split the fee evenly between them if Wozniak could minimize the number of chips. Wozniak reduced the number of chips by 50, by using RAM for the brick representation. Too complex to be fully comprehended at the time, the fact that this prototype also had no scoring or coin mechanisms meant Woz's prototype could not be used. Jobs was paid the full bonus regardless. Jobs told Wozniak that Atari gave them only $700 and that Wozniak's share was thus $350 ().[30][31] Wozniak did not learn about the actual $5,000 bonus () until ten years later, but said that if Jobs had told him about it and had said he needed the money, Wozniak would have given it to him.[32]
+
+In 1975, Wozniak began designing and developing the computer that would eventually make him famous, the Apple I. On June 29 of that year, he tested his first working prototype, displaying a few letters and running sample programs. It was the first time in history that a character displayed on a TV screen was generated by a home computer.[33] With the Apple I, he and Jobs were largely working to impress other members of the Palo Alto-based Homebrew Computer Club, a local group of electronics hobbyists interested in computing. The Club was one of several key centers which established the home hobbyist era, essentially creating the microcomputer industry over the next few decades. Unlike other Homebrew designs, the Apple had an easy-to-achieve video capability that drew a crowd when it was unveiled.[34]
+
+Apple formation and success
+
+Original_1976_Apple_1_Computer_In_A_Briefcase.JPG Computer in a briefcase. From the Sydney Powerhouse Museum collection]] In 1976, Wozniak completed the Apple I design. He alone designed the hardware, circuit board designs, and operating system for the computer.[35] Wozniak originally offered the design to HP while working there, but was denied by the company on five different occasions.[36] Jobs instead had the idea to sell the Apple I with Wozniak as a fully assembled printed circuit board. Wozniak, at first skeptical, was later convinced by Jobs that even if they were not successful they could at least say to their grandkids they had had their own company. Together they sold some of their possessions (such as Wozniak's HP scientific calculator and Jobs's Volkswagen van), raised $1,300, and assembled the first boards in Jobs's bedroom and later (when there was no space left) in Jobs's garage. Wozniak's apartment in San Jose was filled with monitors, electronic devices, and some computer games Wozniak had developed. The Apple I sold for $666.66. Wozniak later said he had no idea about the relation between the number and the mark of the beast, and "I came up with [it] because I like repeating digits." Jobs and Wozniak sold their first 50 system boards to Paul Terrell, who was starting a new computer shop, called the Byte Shop, in Mountain View, California.[37]
+
+On April 1, 1976, Jobs and Wozniak formed Apple Computer (now called Apple Inc.) along with administrative supervisor Ronald Wayne, whose participation in the new venture was short lived. Wozniak resigned from his job at Hewlett-Packard and became the vice president in charge of research and development at Apple. He and Jobs decided on the name "Apple" shortly after Jobs returned from an apple orchard in Oregon.[38] Wozniak's Apple I is similar to the Altair 8800, the first commercially available microcomputer, except the Apple I has no provision for internal expansion cards. With expansion cards the Altair can attach to a computer terminal and be programmed in BASIC. In contrast, the Apple I is a hobbyist machine. Wozniak's design includes a $25 CPU (MOS 6502) on a single circuit board with 256 bytes of ROM, 4K or 8K bytes of RAM, and a 40-character by 24-row display controller. Apple's first computer lacks a case, power supply, keyboard, and displayall components provided by the user.
+
+Micromodem_II_in_Apple_II.jpg computer with an external modem]] After the success of the Apple I, Wozniak designed the Apple II, the first personal computer with the ability to display color graphics, and BASIC programming language built in.[39] Inspired by "the technique Atari used to simulate colors on its first arcade games", Wozniak found a way of putting colors into the NTSC system by using a chip,[40] while colors in the PAL system are achieved by "accident" when a dot occurs on a line, and he says that to this day he has no idea how it works.[41] During the design stage, Steve Jobs argued that the Apple II should have two expansion slots, while Wozniak wanted eight.[42] After a heated argument, during which Wozniak had threatened for Jobs to "go get himself another computer", they decided to go with eight slots. Jobs and Wozniak introduced the Apple II at the 1977 West Coast Computer Faire. Wozniak's first article about the Apple II is in _Byte_ magazine in May 1977.[43] It became one of the first highly successful mass-produced personal computers in the world.
+
+In 1980, Apple went public to instant and significant financial profitability, making Jobs and Wozniak both millionaires. The Apple II's intended successor, the Apple III, released the same year, is a commercial failure and was discontinued in 1984. According to Wozniak, the Apple III "had 100 percent hardware failures", and that the primary reason for these failures was that the system was designed by Apple's marketing department, unlike Apple's previous engineering-driven projects.[44]
+
+During the early design and development phase of what would become the Macintosh, Wozniak had heavy influence over the project until 1981. In a 2013 interview, Wozniak said that "Steve [Jobs] really took over the project when I had a plane crash and wasn't there."[45][46] In the mid-1980s he designed the Apple Desktop Bus, a proprietary bit-serial peripheral bus that became the basis of all Macintosh and NeXT computer models.[47]
+
+In favor of the Macintosh's slow but steady uprising through the late 1980s, Apple's corporate leadershipincluding Steve Jobsincreasingly alienated and disrespected its flagship cash cow Apple II seriesand Wozniak along with it. The Apple II divisionother than Wozniakwas not invited to the Macintosh introduction event, and Wozniak was seen instead kicking the dirt in the parking lot.[48] Although Apple II products provided about 85% of Apple's sales in early 1985, the company's January 1985 annual meeting did not mention the Apple II division or its employees, a typical situation that frustrated Wozniak.[49]
+
+Airplane crash
+
+On February 7, 1981, the Beechcraft Bonanza A36TC which Wozniak was piloting crashed soon after takeoff from the Sky Park Airport in Scotts Valley, California.[50] The plane stalled while climbing, then bounced down the runway, broke through two fences, and crashed into an embankment. Wozniak and his three passengers—then-fiancée Candice Clark, her brother Jack Clark, and Jack's girlfriend, Janet Valleau—were injured. Wozniak sustained severe face and head injuries, including losing a tooth, and also suffered for the following five weeks from anterograde amnesia, the inability to create new memories. He had no memory of the crash, and did not remember his name while in the hospital or the things he did for a time after he was released.[51][52] He would later state that Apple II computer games are what helped him regain his memory.[53] The National Transportation Safety Board investigation report cited premature liftoff and pilot inexperience as probable causes of the crash.[54]
+
+Wozniak did not immediately return to Apple after recovering from the airplane crash, seeing it as a good reason to leave.[55] _Infinite Loop_ characterized this time: "Coming out of the semi-coma had been like flipping a reset switch in Woz's brain. It was as if in his thirty-year old body he had regained the mind he'd had at eighteen before all the computer madness had begun. And when that happened, Woz found he had little interest in engineering or design. Rather, in an odd sort of way, he wanted to start over fresh."[56]
+
+US Festivals
+
+Steve_Wozniak,_1983.jpg In May 1982 and 1983, Wozniak, with help from professional concert promoter Bill Graham, founded the company Unuson, an abbreviation of "unite us in song",[57] which sponsored two US Festivals, with "US" pronounced like the pronoun, not as initials. Initially intended to celebrate evolving technologies, the festivals ended up as a technology exposition and a rock festival as a combination of music, computers, television, and people. After losing several million dollars on the 1982 festival, he stated that unless the 1983 event turned a profit, he would end his involvement with rock festivals and get back to designing computers.[58] Later that year, Wozniak returned to Apple product development, desiring no more of a role than that of an engineer and a motivational factor for the Apple workforce.[59][60]
+
+Final departure from Apple
+
+Steve_Wozniak_and_Andy_Hertzfeld_1985.jpg at an Apple Computer Users Group meeting in 1985]] Even with the success he helped create at Apple, Wozniak believed that the company was hindering him from being who he wanted to be, and that it was "the bane of his existence".[61] He enjoyed engineering, not management, and said that he missed "the fun of the early days".[62] As other talented engineers joined the growing company, he no longer believed he was needed there and by early 1985, Wozniak left Apple again, stating that the company had "been going in the wrong direction for the last five years". He then sold most of his stock.[63]
+
+The Apple II platform financially carried the company well into the Macintosh era of the late 1980s;[64] it was made semi-portable with the Apple IIc of 1984, was extended with some input by Wozniak in the 16-bit Apple IIGS of 1986, and was discontinued altogether in 1992.
+
+Post Apple career
+
+After his career at Apple, Wozniak enrolled at UC Berkeley to complete his degree. Because his name was well known at this point, he enrolled under the name Rocky Raccoon Clark, which is the name listed on his diploma.[65]
+
+Beyond engineering, Wozniak's second lifelong goal had always been to teach elementary school because of the important role teachers play in students' lives. Eventually, he did teach computer classes to children from the fifth through ninth grades and teachers as well.[66] Unuson continued to support this, funding additional teachers and equipment.[67]
+
+Wozniak founded CL 9 in 1985, which developed and brought the first programmable universal remote control to market in 1987.[68]
+
+In 2001, Wozniak founded Wheels of Zeus (WOZ),[69] to create wireless GPS technology to "help everyday people find everyday things much more easily". In 2002, he joined the board of directors of Ripcord Networks, Inc., joining Apple alumni Ellen Hancock, Gil Amelio, Mike Connor, and Wheels of Zeus co-founder Alex Fielding, in a new telecommunications venture. Later the same year he joined the board of directors of Danger, Inc., the maker of the Hip Top.
+
+In 2006, Wheels of Zeus was closed, and Wozniak founded Acquicor Technology, a holding company for acquiring technology companies and developing them, with Apple alumni Hancock and Amelio. From 2009 through 2014 he was chief scientist at Fusion-io.[70] In 2014 he became chief scientist at Primary Data, which was founded by some former Fusion-io executives.[71]
+
+Silicon Valley Comic Con (SVCC) is an annual pop culture and technology convention at the San Jose McEnery Convention Center in San Jose, California. The convention was co-founded by Wozniak and Rick White, with Trip Hunter as CEO.[72] Wozniak announced the annual event in 2015 along with Marvel legend Stan Lee.[73]
+
+In October 2017, Wozniak founded Woz U, an online educational technology service for independent students and employees.[74] As of December 2018, Woz U was licensed as a school with the Arizona state board.[75]
+
+Though permanently leaving Apple as an active employee in 1985, Wozniak chose to never remove himself from the official employee list, and continues to represent the company at events or in interviews.[76] Today he receives a stipend from Apple for this role, estimated to be per year.[77][78][79] He is also an Apple shareholder.[80] He maintained a friendly acquaintance with Steve Jobs until Jobs's death in October 2011.[81] However, in 2006, Wozniak stated that he and Jobs were not as close as they used to be.[82] In a 2013 interview, Wozniak said that the original Macintosh "failed" under Steve Jobs, and that it was not until Jobs left that it became a success. He called the Apple Lisa group the team that had kicked Jobs out, and that Jobs liked to call the Lisa group "idiots for making [the Lisa computer] too expensive". To compete with the Lisa, Jobs and his new team produced a cheaper computer, one that, according to Wozniak, was "weak", "lousy" and "still at a fairly high price". "He made it by cutting the RAM down, by forcing you to swap disks here and there", says Wozniak. He attributed the eventual success of the Macintosh to people like John Sculley "who worked to build a Macintosh market when the Apple II went away".[83]
+
+
+Patents
+
+Steve_Wozniak_2012.jpg, Australia, 2012]] Wozniak is listed as the sole inventor on the following Apple patents:
+
+-   US Patent No. 4,136,359: "Microcomputer for use with video display"[84]—for which he was inducted into the National Inventors Hall of Fame.
+-   US Patent No. 4,210,959: "Controller for magnetic disc, recorder, or the like"[85]
+-   US Patent No. 4,217,604: "Apparatus for digitally controlling PAL color display"[86]
+-   US Patent No. 4,278,972: "Digitally-controlled color signal generation means for use with display"[87]
+
+
+Philanthropy
+
+In 1990, Wozniak helped found the Electronic Frontier Foundation, providing some of the organization's initial funding[88][89][90] and serving on its founding Board of Directors.[91] He is the founding sponsor of the Tech Museum, Silicon Valley Ballet and Children's Discovery Museum of San Jose.[92] Also since leaving Apple, Wozniak has provided all the money, and much onsite technical support, for the technology program in his local school district in Los Gatos.[93] Un.U.Son. (Unite Us In Song), an organization Wozniak formed to organize the two US festivals, is now primarily tasked with supporting his educational and philanthropic projects.[94][95] In 1986, Wozniak lent his name to the Stephen G. Wozniak Achievement Awards (popularly known as "Wozzie Awards"), which he presented to six Bay Area high school and college students for their innovative use of computers in the fields of business, art, and music. Wozniak is the subject of a student-made film production of his friend's (Joe Patane) nonprofit Dream Camp Foundation for high-level need youth titled _Camp Woz: The Admirable Lunacy of Philanthropy_.
+
+
+Honors and awards
+
+In 1979, Wozniak was awarded the ACM Grace Murray Hopper Award. In 1985, he received the National Medal of Technology (with Steve Jobs) from US President Ronald Reagan.[96] In December 1989, he received an honorary Doctor of Engineering degree from the University of Colorado Boulder.[97] Later he donated funds to create the "Woz Lab" at the University of Colorado at Boulder. In 1998, he was named a Fellow of the Computer History Museum "for co-founding Apple Computer and inventing the Apple I personal computer."[98] The city of San Jose named a street "Woz Way" in his honor.
+
+In September 2000, Wozniak was inducted into the National Inventors Hall of Fame,[99] and in 2001 he was awarded the 7th Annual Heinz Award for Technology, the Economy and Employment.[100] The American Humanist Association awarded him the Isaac Asimov Science Award in 2011.
+
+Steve_Wozniak_by_Gage_Skidmore_2.jpg In December 2005, Wozniak was awarded an honorary Doctor of Engineering degree from Kettering University.[101] He also received honorary degrees from North Carolina State University[102] and Nova Southeastern University, and the Telluride Tech Festival Award of Technology. In May 2011, Wozniak received an honorary Doctor of Engineering degree from Michigan State University.[103] In June 2012, Wozniak was awarded an honorary Doctor of Engineering degree from Santa Clara University.
+
+He was awarded the Global Award of the President of Armenia for Outstanding Contribution to Humanity Through IT in 2011.[104]
+
+On February 17, 2014, in Los Angeles, Wozniak was awarded the 66th Hoover Medal from IEEE President & CEO J. Roberto de Marca. The award is presented to an engineer whose professional achievements and personal endeavors have advanced the well-being of humankind and is administered by a board representing five engineering organizations: The American Society of Mechanical Engineers; the American Society of Civil Engineers; the American Institute of Chemical Engineers; the American Institute of Mining, Metallurgical, and Petroleum Engineers; and Institute of Electrical and Electronics Engineers.
+
+The New York City Chapter of Young Presidents' Organization presented their 2014 Lifetime Achievement Award to Wozniak on October 16, 2014 at the American Museum of Natural History.
+
+In November 2014, _Industry Week_ added Wozniak to the Manufacturing Hall of Fame.[105]
+
+On June 19, 2015, Wozniak received the Legacy for Children Award from the Children's Discovery Museum of San Jose. The Legacy for Children Award honors an individual whose legacy has significantly benefited the learning and lives of children. The purpose of the Award is to focus Silicon Valley's attention on the needs of our children, encouraging us all to take responsibility for their well-being. Candidates are nominated by a committee of notable community members involved in children's education, health care, human and social services, and the arts.[106] The street address of the Children's Discovery Museum of San Jose is 180 Woz Way.
+
+On June 20, 2015, The Cal Alumni Association (UC Berkeley's Alumni Association) presented Wozniak with the 2015 Alumnus of the Year Award. "We are honored to recognize Steve Wozniak with CAA’s most esteemed award," said CAA President Cynthia So Schroeder '91. "His invaluable contributions to education and to UC Berkeley place him among Cal's most accomplished and respected alumni."[107]
+
+In March 2016, High Point University announced that Wozniak will serve as their Innovator in Residence. Wozniak was High Point University's commencement speaker in 2013. Through this ongoing partnership, Wozniak will connect with High Point University students on a variety of topics and make campus-visits periodically.[108][109]
+
+Paul_Allen_and_Steve_Wozniak_at_the_Living_Computer_Museum.jpg and Wozniak at the Living Computer Museum in 2017]] In March 2017, Wozniak was listed by UK-based company Richtopia at number 18 on its list of the 200 Most Influential Philanthropists and Social Entrepreneurs.[110][111]
+
+In 2018 Wozniak won the "Human of the Year Award" at The Human Project Summit. The award highlighted the work of the Inspiring Children Foundation and the children and leaders in the program. He nominated Ryan Wolfington, founder of the program, to receive the award with him. Foundation Executive Director Trent Alenik and mentor program leader Cherrial Odell accepted the award with Wozniak on behalf of Wolfington and the Foundation.[112]
+
+On November 13, 2018, Wozniak received the CME Group Melamed-Arditti Innovation Award. This award honors an individual or group of individuals whose innovative ideas, products or services have created significant change to markets, commerce or trade.
+
+Honorary degrees
+
+For his contributions to technology, Wozniak has been awarded a number of Honorary Doctor of Engineering degrees, which include the following:
+
+-   University of Colorado Boulder: 1989[113]
+-   North Carolina State University: 2004[114]
+-   Kettering University: 2005[115]
+-   Nova Southeastern University, Fort Lauderdale: 2005[116]
+-   ESPOL University in Ecuador: 2008[117]
+-   Michigan State University, in East Lansing 2011[118]
+-   Concordia University in Montreal, Canada: June 22, 2011[119]
+-   State Engineering University of Armenia: November 11, 2011[120]
+-   Santa Clara University: June 16, 2012[121]
+-   University Camilo José Cela in Madrid, Spain: November 8, 2013[122]
+
+
+In media
+
+Steve Wozniak has been mentioned, represented, or interviewed countless times in media from the founding of Apple to the present. _Wired_ magazine described him as a person of "tolerant, ingenuous self-esteem" who interviews with "a nonstop, singsong voice".[123]
+
+Documentaries
+
+-   _Steve Jobs: The Man in the Machine_ (2015)
+-   _Camp Woz: The Admirable Lunacy of Philanthropy_ a 2009 documentary[124]
+-   "Geeks On Board" a 2007 documentary[125]
+-   _The Secret History of Hacking_ a 2001 documentary film featuring Wozniak.
+-   _Triumph of the Nerds_ a 1996 PBS documentary series about the rise of the personal computer.
+-   _Steve Wozniak's Formative Moment_ a March 15, 2016, original short feature film from Reddit Formative Moment[126]
+
+Feature films
+
+-   1999: _Pirates of Silicon Valley_ a TNT film directed by Martyn Burke. Wozniak is portrayed by Joey Slotnick while Jobs is played by Noah Wyle.
+-   2013: _Jobs_ a film directed by Joshua Michael Stern. Wozniak is portrayed by Josh Gad, while Jobs is portrayed by Ashton Kutcher.
+-   2015: _Steve Jobs_ a feature film by Danny Boyle, with a screenplay written by Aaron Sorkin. Wozniak is portrayed by Seth Rogen, while Jobs is portrayed by Michael Fassbender.
+-   2015: _Steve Jobs vs. Bill Gates: The Competition to Control the Personal Computer, 1974–1999_: Original film from the National Geographic Channel for the _American Genius_ series.[127]
+
+Television
+
+Start_of_the_shoot_(2399650563)_(cropped2).jpg'']] After seeing her stand-up performance in Saratoga, California, Wozniak began dating comedian Kathy Griffin.[128] Together, they attended the 2007 Emmy Awards,[129] and subsequently made many appearances on the fourth season of her show _Kathy Griffin: My Life on the D-List_. Wozniak is on the show as her date for the Producers Guild of America award show. However, on a June 19, 2008 appearance on _The Howard Stern Show_, Griffin confirmed that they were no longer dating and decided to remain friends.[130]
+
+Wozniak portrays a parody of himself in the first episode of the television series _Code Monkeys_; he plays the owner of Gameavision before selling it to help fund Apple. He later appears again in the twelfth episode when he is in Las Vegas at the annual Video Game Convention and sees Dave and Jerry. He also appears in a parody of the "Get a Mac" ads featured in the final episode of _Code Monkeys_ second season. Wozniak is also interviewed and featured in the documentary _Hackers Wanted_ and on the BBC.
+
+Wozniak competed on Season 8 of _Dancing with the Stars_ in 2009[131][132] where he danced with Karina Smirnoff. Though Wozniak and Smirnoff received 10 combined points from the three judges out of 30, the lowest score of the evening, he remained in the competition. He later posted on a social networking site that he believed that the vote count was not legitimate and suggested that the _Dancing with the Stars_ judges had lied about the vote count to keep him on the show.[133] After being briefed on the method of judging and vote counting, he retracted and apologized for his statements.[134] Though suffering a pulled hamstring and a fracture in his foot, Wozniak continued to compete,[135] but was eliminated from the competition on March 31, with a score of 12 out of 30 for an Argentine Tango.[136]
+
+On September 30, 2010, he appeared as himself on _The Big Bang Theory_ season 4 episode "The Cruciferous Vegetable Amplification". While dining in The Cheesecake Factory where Penny works, he is approached by Sheldon via telepresence on a Texai robot. Leonard tries to explain to Penny who Wozniak is, but she says she already knows him from _Dancing with the Stars_.
+
+On September 30, 2013, he appeared along with early Apple employees Daniel Kottke and Andy Hertzfeld on the television show _John Wants Answers_ to discuss the movie _Jobs_.
+
+
+Personal life
+
+Kathy_and_Woz_(2400485190)_(cropped2).jpg in 2008]] Woz_signs_Modbook.jpg at Macworld Expo in 2009]] Wozniak lives in Los Gatos, California. He applied for Australian citizenship in 2012, and has stated that he would like to live in Melbourne, Australia in the future.[137] Wozniak has been referred to frequently by the nickname "Woz", or "The Woz"; he has also been called "The Wonderful Wizard of Woz" and "The Second Steve" (in regard to his early business partner and longtime friend, Steve Jobs).[138] "WoZ" (short for "Wheels of Zeus") is the name of a company Wozniak founded in 2002.
+
+Wozniak describes his impetus for joining the Freemasons in 1979 as being able to spend more time with his then-wife, Alice Robertson, who belonged to the Order of the Eastern Star, associated with the Masons. Wozniak has said that he quickly rose to a third degree Freemason because, whatever he does, he tries to do well. He was initiated in 1979 at Charity Lodge No. 362 in Campbell, California, now part of Mt. Moriah Lodge No. 292 in Los Gatos.[139] Today he is no longer involved: "I did become a Freemason and know what it's about but it doesn't really fit my tech/geek personality. Still, I can be polite to others from other walks of life. After our divorce was filed I never attended again but I did contribute enough for a lifetime membership."[140]
+
+Wozniak was married to slalom canoe gold-medalist Candice Clark from June 1981 to 1987. They have three children together, the youngest being born after their divorce was finalized.[141][142] After a high-profile relationship with actress Kathy Griffin, who described him on _Tom Green's House Tonight_ in 2008 as "the biggest techno-nerd in the Universe", Wozniak married Janet Hill, his current spouse.[143]
+
+On his religious views, Wozniak has called himself an "atheist or agnostic".[144][145]
+
+He is a member of a Segway Polo team, the _Silicon Valley Aftershocks_.
+
+In 2006, he co-authored with Gina Smith his autobiography, _iWoz: From Computer Geek to Cult Icon: How I Invented the Personal Computer, Co-Founded Apple, and Had Fun Doing It_. The book made _The New York Times Best Seller list_.[146]
+
+Wozniak's favorite video game is _Tetris_ for Game Boy,[147] and he had a high score for _Sabotage_.[148] In the 1990s he submitted so many high scores for Tetris to _Nintendo Power_ that they would no longer print his scores, so he started sending them in under the alphabetically reversed name "Evets Kainzow".[149] Prior to the release of Game Boy, Wozniak called _Gran Trak 10_ his "favorite game ever" and said that he played the arcade while developing hardware for the first version of _Breakout_ for Atari.[150][151] In 1985, Steve Jobs referred to Wozniak as a _Gran Trak 10_ "addict".[152]
+
+Wozniak has the condition prosopagnosia, or face-blindness.[153]
+
+Artificial superintelligence views
+
+In March 2015, Wozniak stated that while he had originally dismissed the writings of Ray Kurzweil who stated machine intelligence will outpace human intelligence within several decades, Wozniak had come to change his mind: "I agree that the future is scary and very bad for people. If we build these devices to take care of everything for us, eventually they'll think faster than us and they'll get rid of the slow humans to run companies more efficiently." Wozniak stated that he had started to identify a contradictory sense of foreboding about artificial intelligence, while still supporting the advance of technology.[154]
+
+By June 2015, Wozniak changed his mind, stating that a superintelligence takeover would be good for humans: "They're going to be smarter than us and if they're smarter than us then they'll realise they need us... We want to be the family pet and be taken care of all the time... I got this idea a few years ago and so I started feeding my dog filet steak and chicken every night because 'do unto others'".[155][156]
+
+In 2016, Wozniak changed his mind again, stating that he no longer worried about the possibility of superintelligence emerging because he is skeptical that computers will be able to compete with human "intuition": "A computer could figure out a logical endpoint decision, but that’s not the way intelligence works in humans". Wozniak added that if computers do become superintelligent, "they're going to be partners of humans over all other species just forever".[157][158][159]
+
+
+See also
+
+-   -   Apple IIGS (limited edition case molded with Woz's signature)
+-   _Hackers: Heroes of the Computer Revolution_
+-   Group coded recording
+
+
+References
+
+
+External links
+
+-   -   Steve Wozniak @ Andy Hertzfeld's _The Original Macintosh_ (folklore.org)
+-
+
+Photographs
+
+-   Edwards, Jim (December 26, 2013). "These Pictures Of Apple's First Employees Are Absolutely Wonderful", _Business Insider_
+-   "Macintosh creators rekindle the 'Twiggy Mac'". CNET
+-   "Twiggy Lives! At the Computer Museum: Happiness is a good friend – Woz and Rod Holt". The Twiggy Mac Pages
+
+Category:1950 births Category:Living people Category:Amateur radio people Category:American agnostics Category:American atheists Category:American computer businesspeople Category:American computer programmers Category:American computer scientists Category:Engineers from California Category:American inventors Category:American people of Polish descent Category:American people of Swiss-German descent Category:American technology company founders Category:Apple II family Category:Apple Inc. people Category:Apple Inc. executives Category:Atari people Category:Businesspeople from San Jose, California Category:Computer designers Category:De Anza College alumni Category:Education activists Category:Grace Murray Hopper Award laureates Category:Hewlett-Packard people Category:Internet activists Category:Steve Jobs Category:Members of the United States National Academy of Engineering Category:National Medal of Technology recipients Category:Nerd culture Category:People from Los Gatos, California Category:People who were expelled from school Category:People with traumatic brain injuries Category:People with prosopagnosia Category:Personal computing Category:Philanthropists from California Category:Survivors of aviation accidents or incidents Category:University of California, Berkeley alumni Category:University of Colorado Boulder alumni Category:University of Technology Sydney faculty
+
+[1]
+
+[2]
+
+[3]
+
+[4]
+
+[5]
+
+[6]
+
+[7]
+
+[8]
+
+[9]
+
+[10]
+
+[11]
+
+[12]
+
+[13]
+
+[14]
+
+[15]
+
+[16]
+
+[17]  The report is in Ukrainian, but part of his English speech can be heard behind the translation.
+
+[18]
+
+[19]
+
+[20]
+
+[21]
+
+[22] Huffingtonpost interview. Retrieved on April 22, 2017.
+
+[23]
+
+[24]
+
+[25]
+
+[26]
+
+[27]
+
+[28]
+
+[29]
+
+[30] , Woz.org
+Kent, Stevn: "The Ultimate History of Video Games", pp. 71–73. Three Rivers, 2001.
+
+[31]
+
+[32]
+
+[33]
+
+[34]
+
+[35]
+
+[36]
+
+[37]
+
+[38]
+
+[39]
+
+[40]
+
+[41]
+
+[42]
+
+[43]
+
+[44]
+
+[45]
+
+[46]
+
+[47]
+
+[48]
+
+[49]
+
+[50]
+
+[51]
+
+[52]
+
+[53]
+
+[54]
+
+[55]
+
+[56]
+
+[57]
+
+[58]
+
+[59]
+
+[60]
+
+[61]
+
+[62]
+
+[63]
+
+[64]
+
+[65]
+
+[66] Flatow, Ira. _Present at the Future: From Evolution to Nanotechnology, Candid and Controversial Conversations on Science and Nature_. USA: HarperCollins, 2007. 263-4. Print.
+
+[67]
+
+[68]
+
+[69]
+
+[70]
+
+[71]
+
+[72]
+
+[73]
+
+[74]
+
+[75]
+
+[76]
+
+[77]
+
+[78]
+
+[79]
+
+[80] Apple's _Other_ Steve (Stock Research) March 2, 2000, The Motley Fool.
+
+[81]
+
+[82]
+
+[83]
+
+[84] US Patent No. 4,136,359, US Patent & Trademark Office, Patent Full Text and Image Database.
+
+[85] Controller for magnetic disc, recorder, or the like US Patent 4210959, US Patent & Trademark Office, Patent Full Text and Image Database.
+
+[86] Apparatus for digitally controlling PAL color display US Patent 4217604, US Patent & Trademark Office, Patent Full Text and Image Database.
+
+[87] Digitally-controlled color signal generation means for use with display US Patent 4278972, US Patent & Trademark Office, Patent Full Text and Image Database.
+
+[88]
+
+[89]
+
+[90]
+
+[91]
+
+[92]
+
+[93]
+
+[94]
+
+[95]
+
+[96]
+
+[97]
+
+[98]
+
+[99] Inventor Profile — National Inventors Hall of Fame.
+
+[100]
+
+[101] Honorary Doctorate — Kettering University List of Honorary Degrees.
+
+[102] Honorary Doctorate — North Carolina State University List of Honorary Degrees.
+
+[103]
+
+[104]
+
+[105]
+
+[106]
+
+[107]
+
+[108]
+
+[109]
+
+[110]
+
+[111]
+
+[112]
+
+[113]
+
+[114]
+
+[115]
+
+[116]
+
+[117]
+
+[118]
+
+[119]
+
+[120]
+
+[121]
+
+[122]
+
+[123]
+
+[124]
+
+[125]
+
+[126]
+
+[127]
+
+[128]
+
+[129] ()
+
+[130] Who’s so vain? June 19, 2008 — _The Howard Stern Show_.
+
+[131] "Apple co-founder Steve Wozniak to compete on 'Dancing With the Stars'" from _Los Angeles Times_. Retrieved on February 8, 2009.
+
+[132]
+
+[133]
+
+[134]
+
+[135] Injured Woz Will Perform _People_, March 23, 2009.
+
+[136] Woz Gets Hipchecked Off the Dance Floor, by Kara Swisher, April 1, 2009, All Things Digital.
+
+[137]
+
+[138]
+
+[139]
+
+[140]
+
+[141]
+
+[142]
+
+[143]
+
+[144]
+
+[145]
+
+[146]
+
+[147] "Woz and I agree: 'Tetris' for the Gameboy is the best game ever, by Daniel Terdiman, December 11, 2007, Geek Gestalt on CNET News.
+
+[148]
+
+[149]
+
+[150]
+
+[151]
+
+[152]
+
+[153]
+
+[154]
+
+[155]
+
+[156]
+
+[157]
+
+[158]
+
+[159]

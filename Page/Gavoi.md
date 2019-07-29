@@ -1,0 +1,32 @@
+GAVOI is a _comune_ in central Sardinia (Italy), part of the province of Nuoro, in the natural region of Barbagia. It overlooks the Lake of Gusana.
+
+
+History
+
+Gavoi_-_Costume_tradizionale_(13).JPG The territory of Gavoi is inhabited since the prenuragic period. During the middleage is cited various times in the list of villages and towns that paid the taxes to the Roman curia.
+
+Gavoi was hit by the plague in the 18th century.[1]
+
+
+Main sights
+
+City_of_Gavoi_2014-07-21_13.30.41.jpg The Roman church of San Gavino is Gavoi's foremost sacred spot, through there are eight other ancient churches in the village. The village's center contains rock houses with balconies, and a village fountain is known as "Antana 'e Cartzonna".
+
+Near the lake are the archaeological areas of Orrui and San Michele di Fonni. A Roman bridge is submerged beneath the lake.
+
+
+Economy
+
+Mountain tourism is among the sources of income. Agriculture production include potatoes and cheese (the town is famous for its Fiore Sardo).
+
+
+Traditions and culture
+
+The "tumbarinu" is a traditional drum made of lamb skin, and more rarely, dog or donkey skin. The tumbarinu is often accompanied with the pipiolu, the traditional sheppard's fife. The "ballu tundu", is a traditional dance in the round, as in the Balkan area. Poetry is esteemed, including extemporaneous rhyme competitions on given topics.
+
+The nearby Sanctuary of Madonna d'Itria hosts a palio, in this case a peculiar horse competition very similar to that of Siena.
+
+
+References
+
+[1] Storia di Gavoi

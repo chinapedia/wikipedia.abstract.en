@@ -1,0 +1,12 @@
+The JAVARY RIVER, JAVARI RIVER or YAVARÍ RIVER(; ) is a tributary of the Amazon that forms the boundary between Brazil and Peru for more than .[1] It is navigable by canoe for from above its mouth to its source in the Ucayali highlands, but only 260 were found suitable for steam navigation. The Brazilian Boundary Commission ascended it in 1866 to the junction of the Shino with its Jaquirana branch. The country it traverses in its extremely sinuous course is very level, similar in character to that of the Juruá. Río_Yavarí.JPG There are a number of small private reserves along the river, which arrange wildlife viewing.[2]
+
+The town of Benjamin Constant lies at the mouth of the river, on the Brazilian bank.
+
+
+References
+
+Category:Tributaries of the Amazon River Category:Rivers of Peru Category:Rivers of Acre (state) Category:Rivers of Amazonas (Brazilian state) Category:Brazil–Peru border Category:International rivers of South America Category:Rivers of Ucayali Region
+
+[1] The Nation, Volume 50
+
+[2]

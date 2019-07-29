@@ -1,0 +1,26 @@
+KAB-500L.png KAB-500L_aerial_bomb_in_Park_Patriot_01.jpg KAB-500L_aerial_bomb_in_Park_Patriot_03.jpg The KAB-500L is a laser-guided bomb developed by the Soviet Air Force. It remains in service with the CIS and post-Soviet Russian Air Force.
+
+The KAB-500L is a standard FAB-500 general-purpose bomb, which has a nominal weight of , fitted with a semi-active laser seeker and guidance fins, turning it into an unpowered guided bomb.
+
+The KAB-500L is long and weighs . Its warhead makes up of the total weight, of which roughly 50% is blast-effect high explosive. Russian sources credit it with a CEP of . The technology of KAB-500L is also used for larger bombs, such as the KAB-1500L family.[1]
+
+It is also deployed by the Indian Air Force. The primary launch platform is Su-30MKI.
+
+
+KAB-500S-E
+
+KAB-500S-E[2] is a Precision-Guided Munition (PGM) whose guidance system is based on GLONASS. The weapon can be dropped from aircraft flying at an altitude from 500 meters to 5000 meters and with an airspeed of 500–1150 km/h. The CEP is 7–12 meters. These bombs were used for the first time in the Russian military intervention in the Syrian Civil War in September 2015.
+
+
+References
+
+
+External links
+
+-   Asia’s Advanced Precision Guided Munitions
+
+Category:Cold War aerial bombs of the Soviet Union Category:Aerial bombs of Russia Category:Guided bombs
+
+[1]
+
+[2]

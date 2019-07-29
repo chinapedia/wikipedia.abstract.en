@@ -1,0 +1,119 @@
+The SOFTWARE ENGINEERING INSTITUTE (SEI) is an American research and development center headquartered in Pittsburgh, Pennsylvania. Its activities cover cybersecurity, software assurance, software engineering and acquisition, and component capabilities critical to the Department of Defense.
+
+
+Authority
+
+The Carnegie Mellon Software Engineering Institute is a federally funded research and development center headquartered on the campus of Carnegie Mellon University in Pittsburgh, Pennsylvania, United States. The SEI also has offices in Washington, DC and Los Angeles, California. The SEI operates with major funding from the U.S. Department of Defense. The SEI also works with industry and academia through research collaborations.
+
+On November 14, 1984, the U.S. Department of Defense elected Carnegie Mellon University as the host site of the Software Engineering Institute.[1] The institute was founded with an initial allocation of $6 million, with another $97 million to be allocated in the subsequent five years. The SEI's contract with the Department of Defense is subject to review and renewal every five years.
+
+The SEI program of work is conducted in several principal areas: cybersecurity, software assurance, software engineering and acquisition, and component capabilities critical to the Department of Defense.[2]
+
+
+Areas of work
+
+The SEI defines specific initiatives aimed at improving organizations' software engineering capabilities.
+
+Management practices
+
+Organizations need to effectively manage the acquisition, development, and evolution (ADE) of software-intensive systems. Success in software engineering management practices helps organizations predict and control quality, schedule, cost, cycle time, and productivity. The best-known example of SEI in management practices is the SEI's Capability Maturity Model (CMM) for Software (now Capability Maturity Model Integration (CMMI)). The CMMI approach consists of models, appraisal methods, and training courses that have been proven to improve process performance. In 2006, Version 1.2 of the CMMI Product Suite included the release of CMMI for Development. CMMI for Development was the first of three constellations defined in Version 1.2: the others include CMMI for Acquisition and CMMI for Services. The CMMI for Services constellation was released in February 2009. Another management practice developed by CERT, which is part of the SEI, is the Resilience Management Model (CERT-RMM). The CERT-RMM is a capability model for operational resilience management. Version 1.0 of the Resilience Management Model was released in May 2010.
+
+Engineering practices
+
+SEI work in engineering practices increases the ability of software engineers to analyze, predict, and control selected functional and non-functional properties of software systems. Key SEI tools and methods include the SEI Architecture Tradeoff Analysis Method (ATAM) method, the SEI Framework for Software Product Line Practice, and the SEI Service Migration and Reuse Technique (SMART).
+
+Security
+
+The SEI is also the home of the CERT/CC (CERT Coordination Center), a federally funded computer security organization. The SEI CERT Program's primary goals are to ensure that appropriate technology and systems-management practices are used to resist attacks on networked systems and to limit damage and ensure continuity of critical services in spite of successful attacks, accidents, or failures. The SEI CERT program is working with US-CERT to produce the Build Security In (BSI) website, which provides guidelines for building security into every phase of the software development lifecycle. The SEI has also conducted research on insider threats and computer forensics. Results of this research and other information now populate the CERT Virtual Training Environment.
+
+Carnegie Mellon, Capability Maturity Model, CMM, CMMI, Architecture Tradeoff Analysis Method, ATAM, and CERT are registered in the U.S. Patent and Trademark Office by Carnegie Mellon University.
+
+
+Special programs
+
+SEI Partner Network
+
+The SEI Partner Network helps the SEI disseminate software engineering best practices. Organizations and individuals in the SEI Partner Network are selected, trained, and licensed by the SEI to deliver authentic SEI services, which include courses, consulting methods, and management processes. The network currently consists of nearly 250 partner organizations worldwide.
+
+Conferences
+
+The SEI sponsors national and international conferences, workshops, and user-group meetings. Other events cover subjects including acquisition of software-intensive systems, commercial off-the-shelf (COTS)-based systems, network security and survivability, software process research, software product lines, CMMI, and the SEI Team Software Process.
+
+Education and training
+
+Software_Engineering_Institute.jpg SEI courses are currently offered at the SEI's locations in the United States and Europe. In addition, using licensed course materials, SEI Partners train individuals.
+
+Membership program
+
+The SEI Membership Program helps the software engineering community to network. SEI Members include small business owners, software and systems programmers, CEOs, directors, and managers from both Fortune 500 companies and government organizations[3]
+
+Affiliate program
+
+Through the SEI Affiliate Program, organizations place technical experts with the SEI for periods ranging from 12 months to four years. Affiliates currently are working on projects with the SEI to identify, develop, and demonstrate improved software engineering practices.
+
+Software Process Achievement award program
+
+In order to recognize outstanding achievement in improving an organization's ability to create and evolve software-dependent systems, the SEI and IEEE Computer Society created the Software Process Achievement Award program.[4] In addition to rewarding excellence, the purpose of this award is to foster continuous advancement in the practice of software engineering and to disseminate insights, experiences, and proven practices throughout the relevant research and practitioner communities.
+
+
+Research and publications
+
+The SEI publishes reports that offer new technical information about software engineering topics, whether theoretical or applied. The SEI also publishes books on software engineering for industry, government and military applications and practices.
+
+In addition, the SEI offers public courses, workshops, and conferences in process improvement, software architecture and product lines, and security.
+
+
+Controversies
+
+On November 11, 2015, the Software Engineering Institute was accused of aiding Federal Bureau of Investigation in uncovering the identities of users of the Tor network. Later prosecution showed the hack was paid for by the Department of Defense and subpoena by the FBI.[5]
+
+
+Focus of progressive protests
+
+SEI has been an occasional site of anti-war movement and peace movement protests,[6][7][8] many of which have been organized by Pittsburgh's Thomas Merton Center.
+
+
+References in popular culture
+
+SEI_from_Mellon_Institute.jpg
+
+-   SEI served as the Blackgate Prison in the 2012 film _The Dark Knight Rises_.
+
+
+See also
+
+-   Software engineering
+-   Software engineer
+-   Personal software process (PSP)
+-   Team software process (TSP)
+
+
+References
+
+
+Further reading
+
+-
+
+
+External links
+
+-
+
+Category:Organizations established in 1984 Category:Software engineering organizations Category:Computer science institutes in the United States Category:Organizations based in Pittsburgh Category:1984 establishments in the United States Category:Cyberwarfare Category:Carnegie Mellon University
+
+[1] O'Toole, James. "CMU Wins Software War." Pittsburgh Post Gazette, November 15, 1984. https://news.google.com/newspapers?id=RYRIAAAAIBAJ&sjid=mm4DAAAAIBAJ&pg=4978%2C3800166
+
+[2] http://www.sei.cmu.edu/research/index.cfm
+
+[3] Work With Us Page
+
+[4] Software Process Award program.
+
+[5] Confirmed: Carnegie Mellon University Attacked Tor, Was Subpoenaed By Feds
+
+[6] Democracy Now! | Carnegie Military University : How the Pentagon Funds Universities to Contribute to War
+
+[7] The Tartan Online : Pittsburgh walks for peace
+
+[8]

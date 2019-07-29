@@ -1,0 +1,152 @@
+POPE URBAN VIII (; baptised 5 April 1568 – 29 July 1644) reigned as Pope from 6 August 1623 to his death in 1644. He expanded the papal territory by force of arms and advantageous politicking, and was also a prominent patron of the arts and a reformer of Church missions.
+
+However, the massive debts incurred during his pontificate greatly weakened his successors, who were unable to maintain the papacy's longstanding political and military influence in Europe. He was also an opponent of Copernicanism and involved in the Galileo affair.
+
+
+Biography
+
+Early life
+
+Caravaggio_Maffeo_Barberini.jpg]] He was born MAFFEO BARBERINI in April 1568[1] to Antonio Barberini, a Florentine nobleman, and Camilla Barbadoro. His father died when he was only three years old and his mother took him to Rome, where he was put in the charge of his uncle, Francesco Barberini, an apostolic protonotary.[2] At the age of 16 he became his uncle's heir.[3] He was educated by the Society of Jesus, ("Jesuits") and received a doctorate of law from the University of Pisa in 1589.
+
+In 1601, Barberini, through the influence of his uncle, was able to secure from Pope Clement VIII appointment as a papal legate to the court of King Henry IV of France. In 1604, the same pope appointed him as the Archbishop of Nazareth,[4] an office joined with that of Bishop of the suppressed Dioceses of Canne and Monteverde, with his residence at Barletta. At the death of his uncle, he inherited his riches, with which he bought a palace in Rome which he made into a luxurious Renaissance residence.
+
+Pope Paul V also later employed Barberini in a similar capacity, afterwards raising him, in 1606, to the order of the Cardinal-Priest, with the titular church of San Pietro in Montorio and appointing him as a papal legate of Bologna.[5]
+
+
+Papacy
+
+Coin_of_Urban_VIII,_dated_1629.jpg mint, dated 1629]]
+
+Papal election
+
+Barberini was considered someone who could be elected as pope, though there were those such as Cardinal Ottavio Bandini who worked to prevent it. Despite this, throughout 29-30 July, the cardinals began an intense series of negotiations to test the numbers as to who could emerge from the conclave as pope, with Cardinal Ludovico Ludovisi dismissing Barberini's chances as long as Barberini remained a close ally of Cardinal Scipione Borghese, whose faction Barberini supported. Ludovisi had discussions with Cardinals Farnese, Medici and Aldobrandini on 30 July about seeing to Barberini's election. The three supported his candidature and went about securing the support of others, which lead to Barberini's election just over a week later.[6] On 6 August 1623, at the papal conclave following the death of Pope Gregory XV, Barberini was chosen as Gregory XV's successor and took the name Urban VIII.
+
+Upon Pope Urban VIII's election, Zeno, the Venetian envoy, wrote the following description of him:[7]
+
+Activities
+
+Urban VIII's papacy covered 21 years of the Thirty Years' War, (1618-1648), and was an eventful one even by the standards of the day. He canonized Elizabeth of Portugal, Andrew Corsini and Conrad of Piacenza, and issued the papal bulls of canonization for Ignatius of Loyola (founder of the Society of Jesus,"Jesuits") and Francis Xavier, (also a Jesuit ) who had been canonized by his predecessor, Pope Gregory XV.
+
+Despite an early friendship and encouragement for his teachings, Urban VIII was responsible for summoning the scientist and astronomer Galileo to Rome in 1633 to recant his work. Urban VIII was opposed to Copernican heliocentrism and he ordered Galileo's second trial after the publication of _Dialogue Concerning the Two Chief World Systems_, in which Urban's point of view is argued by the character "Simplicio".
+
+Urban VIII practiced nepotism on a grand scale; various members of his family were enormously enriched by him, so that it seemed to contemporaries as if he were establishing a Barberini dynasty.[8] He elevated his brother Antonio Marcello Barberini (Antonio the Elder) and then his nephews Francesco Barberini and Antonio Barberini (Antonio the Younger) to Cardinal. He also bestowed upon their brother, Taddeo Barberini, the titles _Prince of Palestrina_, Gonfalonier of the Church, Prefect of Rome and _Commander of Sant'Angelo_. Historian Leopold von Ranke estimated that during his reign, Urban VIII's immediate family amassed 105 million scudi in personal wealth.[9] Dankaerts-Historis-9264.tif Urban VIII was a skilled writer of Latin verse, and a collection of Scriptural paraphrases as well as original hymns of his composition have been frequently reprinted.
+
+The 1638 papal bull _Commissum Nobis_ protected the existence of Jesuit missions in South America by forbidding the enslavement of natives who were at the Jesuit Reductions.[10][11] At the same time, Urban VIII repealed the Jesuit monopoly on missionary work in China and Japan, opening these countries to missionaries of other orders and missionary societies.[12]
+
+Urban VIII issued a 1624 papal bull that made the use of tobacco in holy places punishable by excommunication;[13] Pope Benedict XIII repealed the ban one hundred years later.[14]
+
+Canonizations and beatifications
+
+Urban VIII canonized five saints during his pontificate: Stephen Harding (1623), Elizabeth of Portugal and Conrad of Piacenza (1625), Peter Nolasco (1628), and Andrea Corsini (1629). The pope also beatified 68 individuals including the Martyrs of Nagasaki (1627).
+
+Consistories
+
+The pope created 74 cardinals in eight consistories throughout his pontificate, and this included his nephews Francesco and Antonio, cousin Lorenzo Magalotti, and the pope's own brother Antonio Marcello. He also created Giovanni Battista Pamphili as a cardinal, with Pamphili becoming his immediate successor Pope Innocent X. The pope also created eight of those cardinals whom he had reserved _in pectore_.
+
+Politics
+
+Urban VIII's military involvement was aimed less at the restoration of Catholicism in Europe than at adjusting the balance of power to favour his own independence in Italy. In 1626, the duchy of Urbino was incorporated into the papal dominions, and, in 1627, when the direct male line of the Gonzagas in Mantua became extinct, he controversially favoured the succession of the Protestant Duke Charles of Nevers against the claims of the Catholic Habsburgs. He also launched the Wars of Castro in 1641 against Odoardo Farnese, Duke of Parma and Piacenza, whom he excommunicated. Castro was destroyed and its duchy incorporated into the Papal States. Bust_of_Pope_Urban_VIII_by_Bernini.jpg Urban VIII was the last pope to extend the papal territory. He fortified Castelfranco Emilia on the Mantuan frontier and commissioned Vincenzo Maculani to fortify the Castel Sant'Angelo in Rome. Urban VIII also established an arsenal in the Vatican, an arms factory at Tivoli and fortified the harbour of Civitavecchia.
+
+For the purposes of making cannon and the baldacchino in St Peters, massive bronze girders were pillaged from the portico of the Pantheon leading to the well known lampoon: _quod non fecerunt barbari, fecerunt Barberini,_ "what the barbarians did not do, the Barberini did."[15]
+
+Patron of the arts
+
+Urban VIII and his family patronized art on a grand scale.[16] He expended vast sums bringing polymaths like Athanasius Kircher to Rome and funding various substantial works by the sculptor and architect Bernini, from whom he had already commissioned _Boy with a Dragon_ around 1617 and who was particularly favored during Urban VIII's reign. As well as several portrait busts of Urban, Urban commissioned Bernini to work on the family palace in Rome, the Palazzo Barberini, the College of the Propaganda Fide, the Fontana del Tritone in the Piazza Barberini, the baldacchino and _cathedra_ in St Peter's Basilica and other prominent structures in the city. Numerous members of Barberini's family also had their likeness caught in stone by Bernini, such as his brothers Carlo and Antonio. Urban also had rebuilt the Church of Santa Bibiana and the Church of San Sebastiano al Palatino on the Palatine Hill.
+
+The Barberini patronised painters such as Nicolas Poussin and Claude Lorrain. One of the most eulogistic of these artistic works in its celebration of his reign, is the huge _Allegory of Divine Providence and Barberini Power_ painted by Pietro da Cortona on the ceiling of the large salon of the Palazzo Barberini.
+
+Later life
+
+Urban_VIII_Bernini_Musei_Capitolini.jpg and his students between 1635 and 1640, and currently on display at the Palazzo dei Conservatori in Rome.]]
+
+A consequence of these military and artistic endeavours was a massive increase in papal debt. Urban VIII inherited a debt of 16 million scudi, and by 1635 had increased it to 28 million.
+
+According to contemporary John Bargrave, in 1636 members of the Spanish faction of the College of Cardinals were so horrified by the conduct of Pope Urban VIII that they conspired to have him arrested and imprisoned (or killed) so that they could replace him with a new pope; namely Laudivio Zacchia.[17] When Urban VIII travelled to Castel Gandolfo to rest, the members of the Spanish faction met in secret and discussed ways to advance their plan. But they were discovered and the pope raced back to Rome where he immediately held a consistory and demanded to know who the new pope was. To put an end to the conspiracy, the pope decreed that all Cardinal-Bishops should leave Rome and return to their own churches.[18]
+
+With the Spanish plan having failed, by 1640 the debt had reached 35 million scudi, consuming more than 80% of annual papal income in interest repayments.[19]
+
+Death and legacy
+
+Urban VIII's death on 29 July 1644 is said to have been hastened by chagrin at the result of the Wars of Castro. Because of the costs incurred by the city of Rome to finance this war, Urban VIII became immensely unpopular with his subjects.
+
+On his death, the bust of Urban VIII that lay beside the Palace of the Conservators on the Capitoline Hill was rapidly destroyed by an enraged crowd, and only a quick-thinking priest saved the sculpture of the late pope belonging to the Jesuits from a similar fate.[20]
+
+Following his death, international and domestic machinations resulted in the papal conclave not electing Cardinal Giulio Cesare Sacchetti, who was closely associated with some members of the Barberini family. Instead, it elected Cardinal Giovanni Battista Pamphili, who took the name of Innocent X, as his successor at the papal conclave of 1644.
+
+
+Private revelation
+
+Giovanni_Gonnelli,_Busto_di_Urbano_VIII.jpg]] In the papal bull _Sanctissimus Dominus Noster_ of 13 March 1625, Urban instructed Catholics not to venerate the deceased or represent them in the manner of saints without Church sanction. It required a bishop’s approval for the publication of private revelations. Since the nineteenth century, it has become common for books of popular devotion to carry a disclaimer. One read in part: "In obedience to the decrees of Urban the Eighth, I declare that I have no intention of attributing any other than a purely human authority to the miracles, revelations, favours, and particular cases recorded in this book...."[21][22][23]
+
+
+Portrayals in fiction
+
+Urban VIII is a recurring character in the _Ring of Fire_ alternative history hypernovel by Eric Flint _et al._ where he is favorably portrayed. He is especially prominent in _1634: The Galileo Affair_ (in which he made the fictional Grantville priest, Larry Mazzare, a cardinal), and in _1635: The Cannon Law_, _1635: The Papal Stakes_, and _1636: The Vatican Sanction_.
+
+
+See also
+
+-   Barberini
+-   Wars of Castro
+-   Portrait of Maffeo Barberini
+-   Cardinals created by Urban VIII
+-   Pontificio Collegio Urbano de Propaganda Fide
+
+
+References
+
+
+External links
+
+Information about Barbernini's membership of Italian academies, and of his links with other intellectuals of his time can be found on the British Library's database of Italian Academies and their members
+
+-   http://www.bl.uk/catalogues/ItalianAcademies/Default.aspx
+
+Category:Popes Pope_Urban_VIII Category:1568 births Category:1644 deaths Category:People from Florence Category:University of Pisa alumni Category:Barberini family Category:Bishops of Spoleto Category:Diplomats of the Holy See Category:Apostolic Nuncios to France Urban 08 Category:16th-century Italian people Category:17th-century Italian people Category:17th-century popes Category:Italian art patrons
+
+[1]
+
+[2]
+
+[3] Keyvanian, Carla. "Concerted Efforts: The Quarter of the Barberini Casa Grande in Seventeenth- Century Rome". _Journal of the Society of Architectural Historians_ 64, no 3 (2005): 294.
+
+[4]
+
+[5]
+
+[6]
+
+[7] _The triple crown: an account of the papal conclaves from the fifteenth century to the present day_ by Valérie Pirie (Sidgwick & Jackson, 1935)
+
+[8]
+
+[9] _History of the popes; their church and state (Volume III)_ by Leopold von Ranke (Wellesley College Library, reprint; 2009)
+
+[10]
+
+[11] Joel S. Panzer, _The Popes and Slavery_, Staten Island, New York, Society of St. Paul, 1996, pp.89-91.
+
+[12]
+
+[13]
+
+[14] Cutler, Abigail. "The Ashtray of History", _The Atlantic Monthly_, January/February 2007.
+
+[15]
+
+[16]
+
+[17] _Pope Alexander the Seventh and the College of Cardinals_ by John Bargrave, edited by James Craigie Robertson (reprint; 2009)
+
+[18]
+
+[19]
+
+[20] Ernesta Chinazzi, Sede Vacante per la morte del Papa Urbano VIII Barberini e conclave di Innocenzo X Pamfili, Rome, 1904, 13.
+
+[21]
+
+[22]
+
+[23]

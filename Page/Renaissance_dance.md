@@ -1,0 +1,50 @@
+RENAISSANCE DANCES belong to the broad group of historical dances. During the Renaissance period, there was a distinction between country dances and court dances. Court dances required the dancers to be trained and were often for display and entertainment, whereas country dances could be attempted by anyone. At Court, the formal entertainment would often be followed by many hours of country dances which all present could join in. Dances described as country dances such as Chiarantana or Chiaranzana remained popular over a long period - over two centuries in the case of this dance. A Renaissance dance can be likened to a ball.
+
+Knowledge of court dances has survived better than that of country dances as they were collected by dancing masters in manuscripts and later in printed books. The earliest surviving manuscripts that provide detailed dance instructions are from 15th century Italy. The earliest printed dance manuals come from late 16th century France and Italy. The earliest dance descriptions in England come from the Gresley manuscript 1500 found in the Derbyshire Record Office, D77 B0x 38 pp 51–79. These have been recently published as "Cherwell Thy Wyne (Show your joy): Dances of fifteenth-century England from the Gresley manuscript".[1] The first printed English source appeared in 1651, the first edition of Playford.
+
+The dances in these manuals are extremely varied in nature. They range from slow, stately "processional" dances (bassadance, pavane, almain) to fast, lively dances (galliard, coranto, canario). The former, in which the dancers' feet were not raised high off the floor were styled the _dance basse_ while energetic dances with leaps and lifts were called the _haute dance_.[2] Queen Elizabeth I enjoyed galliards, and _la spagnoletta_ was a court favourite.[3]
+
+Some were choreographed, others were improvised on the spot. One dance for couples, a form of the galliard called lavolta or volta, involved a rather intimate hold between the man and woman, with the woman being lifted into the air while the couple made a turn. Other dances, such as branles or bransles, were danced by many people in a circle or line.
+
+
+Fifteenth-century Italian dance
+
+Our knowledge of 15th-century Italian dances comes mainly from the surviving works of three Italian dance masters: Domenico da Piacenza, Antonio Cornazzano and Guglielmo Ebreo da Pesaro. Their work deals with similar steps and dances, though some evolution can be seen. The main types of dances described are bassa danze and _balletti_. These are the earliest European dances to be well-documented, as we have a reasonable knowledge of the choreographies, steps and music used.
+
+
+Gallery
+
+  ------------------------------------------------------------------------------------------------ ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ---------------------------------------------------------------------------------------------------------------
+  Print,_Dance_at_Herod's_Court,_ca._1490_(CH_18420585-2).jpg by Israhel van Meckenem, c. 1490]]   Ambrosius_Benson_-_Elegant_couples_dancing_in_a_landscape_leo_sobre_tabla_museo_de_bellas_artes_de_la_universidad_de_utah_utah_usa.jpg, _Elegant couples dancing in a landscape_, before 1550]]   Robert_Dudley_Elizabeth_Dancing.jpg, from Penshurst Place, Kent, often wrongly assumed to be of Elizabeth I]]
+  ------------------------------------------------------------------------------------------------ ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ---------------------------------------------------------------------------------------------------------------
+
+
+References
+
+Sources
+
+-   -   -   -   -
+
+
+External links
+
+-   www.earlydancecircle.co.uk
+-   The Renaissance Dance Homepage
+-   Society for Creative Anachronism (SCA) Renaissance Dance Homepage
+-   -   Renaissance Dance Events listed at the Calendar of Early-Dance
+-   Official website
+
+Modern performance
+
+Many groups exist that recreate historical music and dance from the Renaissance period
+
+-   The Early Dance Circle is an umbrella group for early dance in the UK
+-   Renaissance Footnotes, a UK dance group recreating dances of the renaissance
+
+Category:History of dance Renaissance_dance Dance Category:European court festivities
+
+[1] Ann and Paul Kent DHDS,2013
+
+[2]
+
+[3]

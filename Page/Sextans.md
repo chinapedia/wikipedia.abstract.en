@@ -1,0 +1,36 @@
+SEXTANS is a minor equatorial constellation which was introduced in 1687 by Johannes Hevelius. Its name is Latin for the astronomical sextant, an instrument that Hevelius made frequent use of in his observations.
+
+
+Notable features
+
+SextansDoppelmayr.png's Atlas Coelestis, c. 1730 (Plate 19, Southern Celestial Hemisphere).]] Sextans as a constellation covers a rather dim, sparse region of the sky. It has only one star above the fifth magnitude, namely α Sextantis at 4.49^(m). The constellation contains a few double stars, including γ, 35, and 40 Sextantis. There are a few notable variable stars, including β, 25, 23 Sextantis, and LHS 292. NGC 3115, an edge-on lenticular galaxy, is the only noteworthy deep-sky object. It also lies near the ecliptic, which causes the Moon, and some of the planets to occasionally pass through it for brief periods of time.
+
+The constellation is the location of the field studied by the COSMOS project, undertaken by the Hubble Space Telescope.
+
+Sextans B is a fairly bright dwarf irregular galaxy at magnitude 6.6, 4.3 million light-years from Earth. It is part of the Local Group of galaxies.
+
+CL J1001+0220 is as of 2016 the most distant known galaxy cluster at redshift z=2.506, 11.1 billion light-years from Earth.[1]
+
+In June 2015, astronomers reported evidence for Population III stars in the Cosmos Redshift 7 galaxy (at _z_ = 6.60) found in Sextans. Such stars are likely to have existed in the very early universe (i.e., at high redshift), and may have started the production of chemical elements heavier than hydrogen that are needed for the later formation of planets and life as we know it.[2][3]
+
+
+Gallery
+
+
+References
+
+-   -   Ian Ridpath and Wil Tirion (2007). _Stars and Planets Guide_, Collins, London. . Princeton University Press, Princeton. .
+
+
+External links
+
+-   The Deep Photographic Guide to the Constellations: Sextans
+-   Star Tales – Sextans
+
+Sextans_(constellation) Category:Equatorial constellations Category:Constellations listed by Johannes Hevelius
+
+[1]
+
+[2]
+
+[3]

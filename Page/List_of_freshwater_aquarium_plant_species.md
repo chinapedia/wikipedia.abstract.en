@@ -1,0 +1,583 @@
+Bolbitis_heudelotii.jpeg Aquatic plants are used to give the freshwater aquarium a natural appearance, oxygenate the water, absorb ammonia, and provide habitat for fish, especially fry (babies) and for invertebrates. Some aquarium fish and invertebrates also eat live plants. Hobbyists use aquatic plants for aquascaping, of several aesthetic styles.
+
+Most of these plant species are found either partially or fully submerged in their natural habitat. Although there are a handful of obligate aquatic plants that must be grown entirely underwater, most can grow fully emersed if the soil is moist. Though some are just living at the water margins, still, they can live in the completely submerged habitat.
+
+
+By scientific name
+
+The taxonomy of most plant genera is not final. Scientific names listed here may, therefore, contradict other sources.
+
+Common aquarium plant species:
+
+-   ''Aciotis acuminifolia
+-   ''Acmella repens
+-   ''Acorus calamus (Common sweet flag)
+-   ''Acorus gramineus (Japanese sweet flag)
+-   ''Aldrovanda vesiculosa
+-   _Alisma canaliculatum_
+-   _Alisma gramineum_
+-   _Alisma lanceolatum_
+-   _Alisma nanum_
+-   _Alisma orientale_
+-   _Alisma plantago-aquatica_
+-   _Alisma subcordatum_
+-   _Alisma triviale_
+-   _Alisma wahlenbergii_
+-   _Alternanthera bettzickiana_
+-   _Alternanthera philoxeroides_
+-   _Alternanthera reineckii_
+-   _Alternanthera sessilis_
+-   _Ammania capitellata_
+-   _Ammannia crassicaulis_ (Synonym Nesaea crassicaulis)
+-   _Ammania gracilis_ (Delicate ammania, red ammania)
+-   _Ammania latifolia_
+-   _Ammannia pedicellata_
+-   _Ammannia praetemissa_
+-   _Ammania senegalensis_
+-   _Anubias afzelii_ (Narrow-leafed anubias)
+-   _Anubias barteri var. barteri_ (Broadleaved anubias)
+-   _Anubias barteri var. angustifolia_
+-   _Anubias barteri var. caladiifolia_
+-   _Anubias barteri var. glabra_
+-   _Anubias barteri var. nana_ (Dwarf anubias)
+-   _Anubias gigantea_
+-   _Anubias gilletti_
+-   _Anubias gracilis_
+-   _Anubias hastifolia_
+-   _Anubias heterophylla_
+-   _Anubias pynaertii_
+-   _Aponogeton appendiculatus_
+-   _Aponogeton bernierianus_
+-   _Aponogeton boivinianus_
+-   _Aponogeton capuronii_
+-   _Aponogeton crispus_ (Crinkled or ruffled aponogeton)
+-   _Aponogeton decartyi_
+-   _Aponogeton desertorum_
+-   _Aponogeton dioecus_
+-   _Aponogeton distachyos_
+-   _Aponogeton elongatus_
+-   _Aponogeton fenestralis_
+-   _Aponogeton henkelianus_
+-   _Aponogeton junceus_
+-   _Aponogeton longiplumulosus_
+-   _Aponogeton loriae_
+-   _Aponogeton madagascariensis_ (Madagascar laceleaf, lace plant)
+-   _Aponogeton natans_
+-   _Aponogeton rigidifolius_
+-   _Aponogeton tenuispicatus_
+-   _Aponogeton ulvaceus_ (Compact apongeton)
+-   _Aponogeton undulatus_
+-   _Armoracia aquatica_
+-   _Arthraxon hispidus_
+-   _Azolla caroliniana_ (water velvet, mosquito fern)
+-   _Azolla filiculoïdes_ (Azolla, moss fern)
+-   _Azolla pinnata_
+-   _Bacopa amplexicaulis_
+-   _Bacopa australis_
+-   _Bacopa caroliniana_ (lemon bacopa, water hyssop, giant bacopa)
+-   _Bacopa crenata_
+-   _Bacopa innominata_
+-   _Bacopa lanigera_
+-   _Bacopa madagascarensis_
+-   _Bacopa monnieri_ (water hyssop, dwarf bacopa, baby tears)
+-   _Bacopa myriophylloides_
+-   _Bacopa rotundifolia_ (Round bacopa)
+-   _Bacopa salzmannii_
+-   _Bacopa serpyllifolia_
+-   _Baldellia ranunculoides_
+-   _Barclaya longifolia_ (Orchid lily)
+-   _Barclaya motleyi_
+-   _Berula erecta_
+-   _Blyxa aubertii_
+-   _Blyxa echinosperma_
+-   _Blyxa japonica_ (Japanese rush)
+-   _Blyxa novoguineensis_
+-   _Blyxa octandra_
+-   _Bolbitis heteroclita_ (sometimes sold as _B. asiatica_)
+-   _Bolbitis heudelotii_ (African or Congo fern)
+-   _Bucephalandra gigantea_
+-   _Bucephalandra motleyana_
+-   _Bucephalandra catherineae_
+-   _Cabomba aquatica_ (Yellow cabomba, giant cabomba)
+-   _Cabomba caroliniana_ (Green cabomba)
+-   _Cabomba furcata_
+-   _Cabomba palaeformis_
+-   _Cabomba piauhyensis_ (Red cabomba)
+-   _Caldesia parnassifolia_
+-   _Calla palustris_
+-   _Caltha palustris_
+-   _Callitriche hamulata_
+-   _Callitriche hermaphroditica_
+-   _Callitriche palustris_
+-   _Callitriche stagnalis_
+-   _Callitriche terestris_
+-   _Cardamine lyrata_ (Chinese ivy, Japanese cress)
+-   _Cardamine rotundifolia_
+-   _Ceratophyllum demersum_ (hornwort)
+-   _Ceratophyllum submersum_ (tropical hornwort)
+-   _Ceratopteris cornuta_
+-   _Ceratopteris pteridoides_
+-   _Ceratopteris thalictroides_ (water sprite)
+-   _Cladophora aegagropila_
+-   _Clinopodium brownei_
+-   _Crassula aquatica_
+-   _Crassula helmsii_
+-   _Crinum calamistratum_
+-   _Crinum natans_ (African onion plant)
+-   _Crinum purpurascens_
+-   _Crinum thaianum_ (water onion)
+-   _Cryptocoryne affinis_
+-   _Cryptocoryne alba_
+-   _Cryptocoryne albida_
+-   _Cryptocoryne aponogetifolia_
+-   _Cryptocoryne auriculata_
+-   _Cryptocoryne axelrodii_
+-   _Cryptocoryne balansae_
+-   _Cryptocoryne beckettii_ (Beckett's Cryptocoryne)
+-   _Cryptocoryne blassii_
+-   _Cryptocoryne bogneri_
+-   _Cryptocoryne bullosa_
+-   _Cryptocoryne ciliata_
+-   _Cryptocoryne cognata_
+-   _Cryptocoryne cordata_ (Giant cryptocoryne)
+-   _Cryptocoryne crispatula_
+-   _Cryptocoryne cruddasiana_
+-   _Cryptocoryne dewitii_
+-   _Cryptocoryne diderici_
+-   _Cryptocoryne elliptica_
+-   _Cryptocoryne ferruginea_
+-   _Cryptocoryne fusca_
+-   _Cryptocoryne gasserii_
+-   _Cryptocoryne grabowskii_
+-   _Cryptocoryne gracilis_
+-   _Cryptocoryne griffithii_
+-   _Cryptocoryne hudoroi_
+-   _Cryptocoryne keei_
+-   _Cryptocoryne legroi_
+-   _Cryptocoryne lingua_
+-   _Cryptocoryne longicauda_
+-   _Cryptocoryne lucens_
+-   _Cryptocoryne lutea_
+-   _Cryptocoryne minima_
+-   _Cryptocoryne moehlmannii_ (Moehlmann's cryptocoryne)
+-   _Cryptocoryne nevillii_
+-   _Cryptocoryne nurii_
+-   _Cryptocoryne pallidinervia_
+-   _Cryptocoryne parva_ (Tiny cryptocoryne)
+-   _Cryptocoryne petchii_
+-   _Cryptocoryne pontederiifolia_
+-   _Cryptocoryne purpurea_
+-   _Cryptocoryne retrospiralis_
+-   _Cryptocoryne schulzei_
+-   _Cryptocoryne scrurillis_
+-   _Cryptocoryne siamensis_
+-   _Cryptocoryne spiralis_
+-   _Cryptocoryne striolata_
+-   _Cryptocoryne thwaitesii_
+-   _Cryptocoryne tonkinensis_
+-   _Cryptocoryne undulata_ (Undulate cryptocoryne)
+-   _Cryptocoryne usteriana_
+-   _Cryptocoryne venemae_
+-   _Cryptocoryne versteegii_
+-   _Cryptocoryne walkeri_
+-   _Cryptocoryne wendtii 'Tropica'_
+-   _Cryptocoryne x willisii_
+-   _Cryptocoryne zewaldiae_
+-   _Cryptocoryne zonata_
+-   _Cryptocoryne zukalii_
+-   _Cuphea anagalloidea_
+-   _Cyperus alternifolius_
+-   _Cyperus helferi_
+-   _Cyperus papyrus_
+-   _Damasonium alisma_
+-   _Didiplis diandra_ (Water hedge)
+-   _Diodia kuntzei_
+-   _Diodia virginiana_
+-   _Echinodorus africanus_
+-   _Echinodorus amazonicus_ (Amazon sword)
+-   _Echinodorus andrieuxii_
+-   _Echinodorus angustifolius_
+-   _Echinodorus argentinensis_
+-   _Echinodorus aschersonianus_
+-   _Echinodorus barthii_
+-   _Echinodorus berteroi_
+-   _Echinodorus bleheri_ (Broadleaved amazon)
+-   _Echinodorus brevipedicellatus_
+-   _Echinodorus cordifolius_ (Radicans sword, spade leaf sword)
+-   _Echinodorus fluitans_
+-   _Echinodorus grandiflorus_ (Large-flowered amazon)
+-   _Echinodorus horemanii_ (Black-red amazon)
+-   _Echinodorus horizontalis_
+-   _Echinodorus humilis_
+-   _Echinodorus latifolius_
+-   _Echinodorus longiscapus_
+-   _Echinodorus macrophyllus_ (Large-leaved amazon sword)
+-   _Echinodorus martii_
+-   _Echinodorus major_ (Ruffled amazon sword)
+-   _Echinodorus opacus_ (Opaque amazon sword)
+-   _Echinodorus osiris_ (Red amazon sword)
+-   _Echinodorus 'Ozelot'_
+-   _Echinodorus palaefolius_
+-   _Echinodorus paniculatus_
+-   _Echinodorus parviflorus_ (Black amazon sword)
+-   _Echinodorus pelliscidus_
+-   _Echinodorus quadricostatus_ (Dwarf sword)
+-   _Echinodorus radicans_
+-   _Echinodorus rigidifolius_
+-   _Echinodorus 'Rubin'_
+-   _Echinodorus rubra_
+-   _Echinodorus schlueteri_
+-   _Echinodorus subalatus_
+-   _Echinodorus tunicatus_
+-   _Echinodorus uruguayensis_ (Uruguay amazon sword)
+-   _Egeria densa_ (Elodea, pondweed)
+-   _Egeria najas_
+-   _Egleria fluctuans_
+-   _Eichhornia azurea_
+-   _Eichhornia crassipes_ (Water hyacinth)
+-   _Eichhornia diversifolia_
+-   _Elatine gussonei_
+-   _Elatine hydropiper_
+-   _Elatine macropoda_
+-   _Elatine triandra_
+-   _Eleocharis acicularis_ (Hairgrass)
+-   _Eleocharis dulcis_
+-   _Eleocharis minima_
+-   _Eleocharis obtusa_
+-   _Eleocharis parvula_
+-   _Eleocharis vivipara_
+-   _Elodea canadensis_ (Canadian pondweed)
+-   _Elodea granatensis_
+-   _Elodea nuttallii_
+-   _Elodea occidentalis_
+-   _Equisetum_ spp.
+-   _Eriocaulon amanoanum_
+-   _Eriocaulon cinereum_
+-   _Eriocaulon depressum_
+-   _Eriocaulon parkeri_
+-   _Eusteralis stellata_ (Star rotala)
+-   _Fittonia argyroneura_
+-   _Fontinalis antipyretica_ (Willow moss)
+-   _Glossadelphus zollingeri_
+-   _Glossostigma diandrum_
+-   _Glossostigma elatinoides_
+-   _Gratiola amphiantha_
+-   _Gratiola brevefolia_
+-   _Gratiola viscidula_
+-   _Gymnocoronis spilanthoides_ (Spadeleaf plant)
+-   _Helanthium bolivianum_ (Bolivian sword) (Synonym - Echinodorus bolivianus)
+-   _Helanthium tenellum_ (Pygmy chain sword) (Synonym - Echinodorus tenellus)
+-   _Helanthium zombiense_
+-   _Hemianthus callitrichoides_ (Dwarf helzine)
+-   _Hemianthus micranthemoides_ (Pearlweed)
+-   _Heteranthera dubia_
+-   _Heteranthera reniformis_
+-   _Heteranthera zosterifolia_ (Stargrass)
+-   _Hippuris vulgaris_
+-   _Hottonia inflata_
+-   _Hottonia palustris_ (Water violet)
+-   _Hydrilla verticillata_
+-   _Hydrocharis morsus-ranae_
+-   _Hydrocleys martii_
+-   _Hydrocleys nymphoides_
+-   _Hydrocotyle leucocephala_ (Brazilian pennywort)
+-   _Hydrocotyle sibthorpioides_
+-   _Hydrocotyle tripartita_
+-   _Hydrocotyle verticillata_ (Whorled umbrella plant)
+-   _Hydrocotyle vulgaris_
+-   _Hydrothrix gardneri_
+-   _Hydrotriche hottoniiflora_
+-   _Hygrophila angustifolia_
+-   _Hygrophila corymbosa 'crispa'_
+-   _Hygrophila corymbosa 'glabra'_ (Broadlead giant stricta)
+-   _Hygrophila corymbosa 'gracilis'_
+-   _Hygrophila corymbosa 'siamensis'_
+-   _Hygrophila corymbosa 'strigosa'_
+-   _Hygrophila difformis_ (Water wisteria)
+-   _Hygrophila guianensis_
+-   _Hygrophila lacustris_
+-   _Hygrophila lancea_
+-   _Hygrophila natalis_
+-   _Hygrophila polysperma_ (Dwarf hygrophilia)
+-   _Hygrophila salicifolia_
+-   _Hygrophila stricta_ (Thai stricta, green stricta)
+-   _Hygroryza aristata_
+-   _Hyptis lorentziana_
+-   _Iris_ spp.
+-   _Isoetes lacustris_ (quillwort)
+-   _Isoetes malinverniana_
+-   _Isoetes taiwanensis_
+-   _Isoetes velata_
+-   _Isolepis setracea_
+-   _Jasarum steyermarkii_
+-   _Juncus repens_
+-   _Lagarosiphon cordofanus_
+-   _Lagarosiphon madagascariensis_
+-   _Lagarosiphon major_ (Elodea crispa)
+-   _Lagenandra dewitii_
+-   _Lagenandra insignis_
+-   _Lagenandra koenigii_
+-   _Lagenandra lancifolia_
+-   _Lagenandra meeboldii_
+-   _Lagenandra nairii_
+-   _Lagenandra ovata_
+-   _Lagenandra thwaitesii_
+-   _Lemna gibba_
+-   _Lemna minor_ (Duckweed)
+-   _Lemna paucicostata_
+-   _Lemna perpusilla_
+-   _Lemna trisulca_
+-   _Lilaeopsis brasiliensis_
+-   _Lilaeopsis carolinensis_
+-   _Lilaeopsis macloviana_
+-   _Lilaeopsis mauritiana_
+-   _Lilaeopsis novae-zelandiae_ (New Zealand grassplant)
+-   _Lilaeopsis ruthiana_
+-   _Limnobium laevigatum_ (Amazon frogbit)
+-   _Limnobium spongia_
+-   _Limnocharis flava_
+-   _Limnophila aquatica_ (Giant ambulia)
+-   _Limnophila aromatica_
+-   _Limnophila glabra_
+-   _Limnophila heterophylla_
+-   _Limnophila indica_ (Indian ambulia)
+-   _Limnophila sessiliflora_ (Dwarf ambulia)
+-   _Limnophyton fluitans_
+-   _Lindernia crustacea_ F. Muell.
+-   _Lindernia dubia_
+-   _Lindernia grandiflora_
+-   _Lindernia parviflora_
+-   _Lindernia rotundifolia_
+-   _Littorella uniflora_
+-   _Lobelia cardinalis_ (Cardinal flower, scarlet lobelia)
+-   _Lobelia dortmanna_
+-   _Lomariopsis_ sp. (Süsswassertang)
+-   _Ludwigia alternifolia_
+-   _Ludwigia arcuata_
+-   _Ludwigia glandulosa_ (Glandular ludwigia, red star ludwigia)
+-   _Ludwigia helminthorrhiza_
+-   _Ludwigia inclinata_
+-   _Ludwigia inclinata var. verticellata 'Cuba'_
+-   _Ludwigia mullertii_
+-   _Ludwigia natans_
+-   _Ludwigia sedioides_
+-   _Ludwigia palustris_
+-   _Ludwigia pulvinaris_
+-   _Ludwigia repens_ (Creeping ludwigia, narrow-leaf ludwigia)
+-   _Luronium natans_
+-   _Lycopodiella inundata (Lycopodium inundatum)_
+-   _Lysimachia nummularia_ (creeping Jenny, moneywort)
+-   _Marsilea crenata_
+-   _Marsilea drummondii_
+-   _Marsilea hirsuta_
+-   _Marsilea pubescens_
+-   _Marsilea quadrifolia_ (water-clover)
+-   _Mayaca fluviatilis_
+-   _Mayaca madida_ (Synonym Mayaca sellowiana)
+-   _Mayaca vandellii_
+-   _Mentha aquatica_
+-   _Micranthemum umbrosum_ (Helzine)
+-   _Microcarpaea minima_
+-   _Microsorum pteropus_ (Java fern)
+-   _Monochoria vaginalis_
+-   _Monosolenium tenerum_ (commercial name; plants sold under this name are actually a fern _Lomariopsis sp._[1])
+-   _Murdannia keisak_
+-   _Myriophyllum alterniflorum_
+-   _Myriophyllum aquaticum_ (Brazilian milfoil, milfoil)
+-   _Myriophyllum elatinoides_
+-   _Myriophyllum heterophyllum_
+-   _Myriophyllum hippuroides_ (Green milfoil, water milfoil)
+-   _Myriophyllum mattogrossense_
+-   _Myriophyllum proserpinacoides_
+-   _Myriophyllum scabratum_ (Foxtail)
+-   _Myriophyllum spicatum_
+-   _Myriophyllum tuberculatum_ (Red myriophyllum)
+-   _Myriophyllum ussuriense_
+-   _Myriophyllum verticillatum_
+-   _Myriophylumm oguraense_
+-   _Najas graminea_
+-   _Najas guadelupensis_
+-   _Najas indica_
+-   _Najas marina_
+-   _Najas minor_
+-   _Najas pectinata_
+-   _Nechamandra alternifolia_
+-   _Nelumbo nucifera_
+-   _Neptunia oleracea_
+-   _Nitella capillaris_
+-   _Nitella flexilis_
+-   _Nitella gracilis_
+-   _Nomaphila siamensis_
+-   _Nuphar advenum_
+-   _Nuphar japonica_ (Spatterdock)
+-   _Nuphar lutea_ (Yellow water-lily)
+-   _Nuphar pumilum_
+-   _Nuphar sagittifolium_
+-   _Nymphaea alba_
+-   _Nymphaea lotus_ (Tiger lotus)
+-   _Nymphaea lotus var. rubra_
+-   _Nymphaea micrantha_
+-   _Nymphaea pubescens_
+-   _Nymphaea pygmea_
+-   _Nymphaea stellata_ (Red and blue water lily)
+-   _Nymphaea zenkeri 'Red'_ (Red tiger lotus)
+-   _Nymphoides aquatica_ (Banana plant)
+-   _Nymphoides humboldtiana_
+-   _Nymphoides indica_
+-   _Nymphoides peltata_
+-   _Oenanthe javanica_
+-   _Oenanthe aquatica_
+-   _Oldenlandia salzmannii_ (Synonym Hedyotis salzmannii)
+-   _Orontium aquaticum_
+-   _Ottelia alismoides_
+-   _Ottelia mesenterum_
+-   _Ottelia ulvifolia_
+-   _Penthorum sedoides_
+-   _Persicaria hydropiperoides_
+-   _Persicaria praetermissa_
+-   _Phyllanthus fluitans_
+-   _Pilularia americana_
+-   _Pilularia globulifera_
+-   _Pistia stratiotes_ (Water lettuce)
+-   _Phyllanthus fluitans_
+-   _Physostegia purpurea_
+-   _Pogostemon helferi_
+-   _Pogostemon stellatus_
+-   _Pontederia cordata_
+-   _Potamogeton coloratus_
+-   _Potamogeton crispus_
+-   _Potamogeton densus_
+-   _Potamogeton filiformis_
+-   _Potamogeton gayi_
+-   _Potamogeton gramineus_
+-   _Potamogeton lucens_
+-   _Potamogeton malaianus_
+-   _Potamogeton natans_
+-   _Potamogeton perfoliatus_
+-   _Proserpinaca palustris_
+-   _Ranunculus aquatilis_
+-   _Ranunculus limosella_
+-   _Regnellidium diphyllum_
+-   _Riccia fluitans_ (Crystalwort)
+-   _Ricciocarpos natans_
+-   _Rorippa aquatica_
+-   _Rotala indica_
+-   _Rotala macrandra_ (Giant red rotala)
+-   _Rotala mexicana_
+-   _Rotala ramosior_
+-   _Rotala rotundifolia_ (Dwarf rotala)
+-   _Rotala pusilla_
+-   _Rotala wallichii_ (Whorly rotala)
+-   _Ruppia maritima_
+-   _Sagittaria chapmani_
+-   _Sagittaria eatonii_
+-   _Sagittaria filiformis_
+-   _Sagittaria graminea_
+-   _Sagittaria guyanensis_
+-   _Sagittaria isoëtiformis_
+-   _Sagittaria latifolia_
+-   _Sagittaria microfila_
+-   _Sagittaria montevidensis_
+-   _Sagittaria natans_
+-   _Sagittaria papillosa_
+-   _Sagittaria platyphylla_ (giant sagittaria)
+-   _Sagittaria pusilla_ (dwarf sagittaria)
+-   _Sagittaria sagittifolia_
+-   _Sagittaria subulata_ (needle sagittaria, floating arrowhead)
+-   _Salvinia auriculata_
+-   _Salvinia cucullata_
+-   _Salvinia minima_
+-   _Salvinia natans_ (water spangles)
+-   _Salvinia oblongifolia_
+-   _Salvinia rotundifolia_
+-   _Samolus valerandi_ (Water cabbage)
+-   _Saururus cernuus_ (Lizard's tail)
+-   _Selaginella_ sp.
+-   _Sium floridanum_
+-   _Sium latifolium_
+-   _Shinnersia rivularis_ (Mexican oak leaf)
+-   _Spiranthes romanzoffiana_
+-   _Spirodela polyrhiza_
+-   _Staurogyne repens_[2]
+-   _Staurogyne stolonifera_
+-   _Stratiotes aloides_
+-   _Stuckenia vaginata_
+-   _Subularia aquatica_
+-   _Syngonanthus caulescens_
+-   _Synnema triflorum_ (out of date synonym)
+-   _Taxiphyllum barbieri_ (Java moss)
+-   _Tonina fluviatilis_
+-   _Trapa natans_ (Water chestnut)
+-   _Triglochin maritima_
+-   _Triglochin palustris_
+-   _Triglochin striata_
+-   _Trithuria austinensis_
+-   _Trithuria austinensis_
+-   _Trithuria australis_
+-   _Trithuria inconspicua_
+-   _Typha angustifolia_
+-   _Typha latifolia_
+-   _Utricularia bifida_
+-   _Utricularia gibba_
+-   _Utricularia graminifolia_
+-   _Utricularia minor_
+-   _Utricularia vulgaris_
+-   _Vallisneria americana_ (Dwarf vallisneria)
+-   _Vallisneria asiatica_
+-   _Vallisneria asiatica var. biwaensis_ (Corkscrew vallisneria)
+-   _Vallisneria gigantea_ (Giant vallisneria)
+-   _Vallisneria neotropicalis_
+-   _Vallisneria rubra_
+-   _Vallisneria spiralis_ (Straight vallisneria)
+-   _Vallisneria tortifolia_ (Twisted vallisneria, dwarf vallisneria)
+-   _Vallisneria tortissima_
+-   _Vesicularia montagnei_ (Christmas moss, Xmas moss)
+-   ''Veronica americana
+-   _Wolffia arrhiza_
+-   _Wolffia microscopica_
+-   _Wolffiella floridana_
+-   _Zannichellia palustris_
+
+
+False aquatics or pseudo-aquarium plants
+
+Several species of terrestrial plants are frequently sold as "aquarium plants". While such plants are beautiful and can survive and even flourish for months under water, they will eventually die and must be removed so their decay does not contaminate the aquarium water. These plants have no necessary biology to live underwater.
+
+-   _Aglaonema modestum_ (Chinese evergreen)
+-   _Aglaonema simplex_
+-   _Chlorophytum bichetii_ (Pongol sword)
+-   _Dracaena sanderiana_ (Striped dragonplant)
+-   _Hemigraphis colorata_ (Crimson ivy)
+-   _Ophiopogon japonicus_ (Fountain plant)
+-   _Pilea cadierei_ (Aluminum plant)
+-   _Sciadopitys verticillata)_ (Umbrella pine, koyamaki)
+-   _Spathiphyllum tasson_ (Brazil sword)
+-   _Syngonium podophyllum_ (Stardust ivy)
+-   _Trichomanes javanicum_
+
+
+Images
+
+Photos
+
+File:Acorus calamus1.jpg|_Acorus calamus_ File:Anubias barteri var nana.jpg|_Anubias barteri_ var. _glabra_ File:Aponogeton distachyos.jpg|_Aponogeton distachyos_ File:Starr_010818-0007_Bacopa_monnieri.jpg|_Bacopa monnieri_ File:Damasonium californicum.jpg|_Damasonium californicum_ File:Echinodorus cordifolius.jpg|_Echinodorus cordifolius_ File:Elodea canadensis.jpg|_Elodea canadensis_ File:Eriocaulon decangulare.jpg|_Eriocaulon decangulare_ File:Wasserpest.jpg|_Elodea densa_ File:Ludwigia alternifolia (USDA).jpg| File:Lysimachia nummularia0.jpg| File:LuroniumNatans.jpg| File:Myriophyllum aquaticum - side (aka).jpg| File:Nuphar lutea 170803.jpg| File:Egyptiantigerlotus.jpg|_Nymphaea lotus_ File:NymphoidesPeltata-flower1.jpg|_Nymphoides Peltata_ File:Ranunculus aquatilis plant.jpg|_Ranunculus aquatilis_ File:Sagittaria sagittifolia (2005 08 08).jpg|_Sagittaria sagittifolia_ File:Sagittaria latifolia.jpg|_Sagittaria latifolia_ File:Samolus valerandi ssp parviflorus.jpg File:Selaginella-sp.jpg File:Water-caltrops.jpg|_Trapa natans_ File:Typha latifolia 02 bgiu.jpg File:Uk pond bladderwort.jpg|_Utricularia vulgaris (Common Bladderwort)_ File:Vallisneria americana UMFS 3.JPG|_Vallisneria americana_
+
+Illustrations
+
+File:Eleocharis dulcis Blanco1.15.jpg|_Eleocharis dulcis_ File:Illustration Hippuris vulgaris0.jpg|_Hippuris vulgaris_ File:Illustration Hottonia palustris0.jpg|_Hottonia palustris_ File:Illustration Isoetes lacustris0.jpg|_Isoetes lacustris_
+
+
+References
+
+-   -
+
+
+See also
+
+-   List of freshwater aquarium fish species
+
+Category:Fishkeeping Aqaurium Freshwater aquarium plant species
+
+[1]
+
+[2] http://www.theplantlist.org/browse/A/Acanthaceae/Staurogyne/

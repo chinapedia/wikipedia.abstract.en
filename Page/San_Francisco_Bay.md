@@ -1,0 +1,226 @@
+SF-Marin-Pt_Reyes_aerial_panorama.jpg, and Marin Headlands on a clear morning. November 2014 photo by Doc Searls.]] SAN FRANCISCO BAY is a shallow estuary in the US state of California. It is surrounded by a contiguous region known as the San Francisco Bay Area (often simply "the Bay Area"), and is dominated by the large cities of San Jose, San Francisco and Oakland.
+
+San Francisco Bay drains water from approximately 40 percent of California. Water from the Sacramento and San Joaquin rivers, and from the Sierra Nevada mountains, flow into Suisun Bay, which then travels through the Carquinez Strait to meet with the Napa River at the entrance to San Pablo Bay, which connects at its south end to San Francisco Bay. The Guadalupe River enters the bay at its southernmost point in San Jose. The Guadalupe drains water from the Santa Cruz mountains and Hamilton Mountain ranges in southernmost San Jose. It enters the bay at the town of Alviso. It then connects to the Pacific Ocean via the Golden Gate strait. However, this entire group of interconnected bays is often called the _San Francisco Bay_. The bay was designated a Ramsar Wetland of International Importance on February 2, 2012.
+
+
+Size
+
+The bay covers somewhere between , depending on which sub-bays (such as San Pablo Bay), estuaries, wetlands, and so on are included in the measurement.[1][2] The main part of the bay measures wide east-to-west and somewhere between ¹ and ² north-to-south. It is the largest Pacific estuary in the Americas.
+
+The bay was navigable as far south as San Jose until the 1850s, when hydraulic mining released massive amounts of sediment from the rivers that settled in those parts of the bay that had little or no current. Later, wetlands and inlets were deliberately filled in, reducing the Bay's size since the mid-19th century by as much as one third. Recently, large areas of wetlands have been restored, further confusing the issue of the Bay's size. Despite its value as a waterway and harbor, many thousands of acres of marshy wetlands at the edges of the bay were, for many years, considered wasted space. As a result, soil excavated for building projects or dredged from channels was often dumped onto the wetlands and other parts of the bay as landfill.
+
+From the mid-19th century through the late 20th century, more than a third of the original bay was filled and often built on. The deep, damp soil in these areas is subject to soil liquefaction during earthquakes, and most of the major damage close to the Bay in the Loma Prieta earthquake of 1989 occurred to structures on these areas.
+
+The Marina District of San Francisco, hard hit by the 1989 earthquake, was built on fill that had been placed there for the Panama-Pacific International Exposition, although liquefaction did not occur on a large scale. In the 1990s, San Francisco International Airport proposed filling in hundreds more acres to extend its overcrowded international runways in exchange for purchasing other parts of the bay and converting them back to wetlands. The idea was, and remains, controversial. (For further details, see the "Bay Fill and Depth Profile" section.) SF,_Bay_Bridge_and_Oakland_2014.jpg, 2014]]
+
+There are five large islands in San Francisco Bay. Alameda, the largest island, was created when a shipping lane was cut to form the Port of Oakland in 1901. It is now a suburban community. Angel Island was known as "Ellis Island West" because it served as the entry point for immigrants from East Asia. It is now a state park accessible by ferry. Mountainous Yerba Buena Island is pierced by a tunnel linking the east and west spans of the San Francisco–Oakland Bay Bridge. Attached to the north is the artificial and flat Treasure Island, site of the 1939 Golden Gate International Exposition. From the Second World War until the 1990s, both islands served as military bases and are now being redeveloped. Isolated in the center of the Bay is Alcatraz, the site of the famous federal penitentiary. The federal prison on Alcatraz Island no longer functions, but the complex is a popular tourist site. Despite its name, Mare Island in the northern part of the bay is a peninsula rather than an island.
+
+
+Geology
+
+San Francisco Bay is thought to represent a down-warping of the Earth's crust between the San Andreas Fault to the west and the Hayward Fault to the east, though the precise nature of this remains under study. About 560,000 years ago, a tectonic shift caused the large inland Lake Corcoran to spill out the central valley and through the Carquinez Strait, carving out sediment and forming canyons in what is now the northern part of the San Francisco Bay and Golden Gate strait.[3]
+
+Until the last ice age, the basin which is now filled by the San Francisco Bay was a large linear valley with small hills, similar to most of the valleys of the Coast Ranges. As the great ice sheets began to melt, around 11,000 years ago, the sea level started to rise. By 5000 BC the sea level rose , filling the valley with water from the Pacific.[4] The valley become a bay, and the small hills became islands.
+
+
+History
+
+1781_Cañizares_Map_of_San_Francisco_Bay.pdf
+
+From 15,000 – 10,000 years ago, the Ohlone tribe inhabited the area that is now the San Francisco Bay. The natives were displaced 5,000 years ago as the bay filled with water due to the rising sea level at the end of the ice age.[5]
+
+The first European to see San Francisco Bay is likely N. de Morena who was left at New Albion at Drakes Bay in Marin County, California by Sir Francis Drake in 1579 and then walked to Mexico.[6][7]
+
+The first recorded European discovery of San Francisco Bay was on November 4, 1769 when Spanish explorer Gaspar de Portolà, unable to find the port of Monterey, California, continued north close to what is now Pacifica and reached the summit of the Sweeney Ridge, now marked as the place where he first sighted San Francisco Bay. Portolá and his party did not realize what they had discovered, thinking they had arrived at a large arm of what is now called Drakes Bay.[8] At the time, Drakes Bay went by the name _Bahia de San Francisco_ and thus both bodies of water became associated with the name. Eventually, the larger, more important body of water fully appropriated the name _San Francisco Bay_.
+
+The first European to enter the bay is believed to have been the Spanish explorer Juan de Ayala, who passed through the Golden Gate on August 5, 1775 in his ship the _San Carlos_, and moored in a bay of Angel Island now known as Ayala Cove. Ayala continued to explore the Bay area and the expedition's cartographer, José de Cañizares, gathered the information necessary to produce the first map of the San Francisco Bay area. A number of place names survive (anglicized) from that first map, including Point Reyes, Angel Island, Farallon Islands and Alcatraz Island.
+
+The United States seized the region from Mexico during the Mexican–American War (1846–1848). On February 2, 1848, the Mexican province of Alta California was annexed to the U.S. with the signing of the Treaty of Guadalupe Hidalgo. A year and a half later, California requested to join the United States on December 3, 1849 and was accepted as the 31st State of the Union on September 9, 1850.
+
+The bay became the center of American settlement and commerce in the Far West through most of the remainder of the 19th century. During the California Gold Rush (1848–1855), San Francisco Bay suddenly became one of the world's great seaports, dominating shipping in the American West until the last years of the 19th century. The bay's regional importance increased further when the First Transcontinental Railroad was connected to its western terminus at Alameda on September 6, 1869.[9] The terminus was switched to the Oakland Long Wharf two months later on November 8, 1869.[10]
+
+Duck_Hunt_Marshy_Shoreline_San_Francisco_Bay_Alameda_County_california.jpg
+
+During the 20th century, the bay was subject to the Reber Plan, which would have filled in parts of the bay in order to increase industrial activity along the waterfront. In 1959, the United States Army Corps of Engineers released a report stating that if current infill trends continued, the bay would be as big as a shipping channel by 2020. This news created the Save the Bay movement in 1960, which mobilized to stop the infill of wetlands and the bay in general, which had shrunk to two-thirds of its size in the century before 1961.[11]
+
+San Francisco Bay continues to support some of the densest industrial production and urban settlement in the United States. The San Francisco Bay Area is the American West's second-largest urban area with approximately seven million residents.[12]
+
+
+Ecology
+
+Sfestuaryhistorical.gif South_San_Francisco_Bay_salt_ponds_and_wildlife_refuges.jpg
+
+Despite its urban and industrial character, San Francisco Bay and the Sacramento-San Joaquin Delta remain perhaps California's most important ecological habitats. California's Dungeness crab, California halibut, and Pacific salmon fisheries rely on the bay as a nursery. The few remaining salt marshes now represent most of California's remaining salt marsh, supporting a number of endangered species and providing key ecosystem services such as filtering pollutants and sediments from the rivers. San Francisco Bay is recognized for protection by the California Bays and Estuaries Policy, with oversight provided by the San Francisco Estuary Partnership.[13]
+
+Most famously, the bay is a key link in the Pacific Flyway. Millions of waterfowl annually use the bay shallows as a refuge. Two endangered species of birds are found here: the California least tern and the Ridgway's Rail. Exposed bay muds provide important feeding areas for shorebirds, but underlying layers of bay mud pose geological hazards for structures near many parts of the bay perimeter. San Francisco Bay provided the nation's first wildlife refuge, Oakland's artificial Lake Merritt, constructed in the 1860s, and America's first urban National Wildlife Refuge, the Don Edwards San Francisco Bay National Wildlife Refuge (SFBNWR) in 1972. The Bay is also plagued by non-native species.
+
+Salt produced from San Francisco Bay is produced in salt evaporation ponds and is shipped throughout the Western United States to bakeries, canneries, fisheries, cheese makers and other food industries and used to de-ice winter highways, clean kidney dialysis machines, for animal nutrition, and in many industries. Many companies have produced salt in the Bay, with the Leslie Salt Company the largest private land owner in the Bay Area in the 1940s.[14][15]
+
+Low-salinity salt ponds mirror the ecosystem of the bay, with fish and fish-eating birds in abundance. Mid-salinity ponds support dense populations of brine shrimp, which provide a rich food source for millions of shorebirds. Only salt-tolerant micro-algae survive in the high salinity ponds, and impart a deep red color to these ponds from the pigment within the algae protoplasm.
+
+The seasonal range of water temperature in the Bay is from January's to September's when measured at Fort Point, which is near the southern end of the Golden Gate Bridge and at the entrance to San Francisco Bay.[16]
+
+For the first time in 65 years, Pacific Harbor Porpoise (_Phocoena phocoena_) returned to the Bay in 2009.[17] Golden Gate Cetacean Research, a non-profit organization focused on research on cetaceans, has developed a photo-identification database enabling the scientists to identify specific porpoise individuals and is trying to ascertain whether a healthier bay has brought their return.[18] Pacific harbor porpoise range from Point Conception, California to Alaska and across to the Kamchatka Peninsula and Japan. Recent genetic studies show that there is a local stock from San Francisco to the Russian River and that eastern Pacific coastal populations rarely migrate far, unlike western Atlantic Harbor porpoise.[19]
+
+
+Pollution
+
+Industrial, mining, and other uses of mercury have resulted in a widespread distribution in the bay, with uptake in the bay's phytoplankton and contamination of its sportfish.[20] In January 1971, two Standard Oil tankers collided in the bay, creating an oil spill disaster, which spurred environmental protection of the bay. In November 2007, a ship named _COSCO Busan_ collided with the San Francisco–Oakland Bay Bridge and spilled over of bunker fuel, creating the largest oil spill in the region since 1996.[21]
+
+The Bay was once considered a hotspot for polybrominated diphenyl ether (PBDE) flame retardants used to make upholstered furniture and infant care items less flammable. PBDEs have been largely phased out and replaced with alternative phosphate flame retardants. A 2019 San Francisco Estuary Institute (SFEI) study assayed a wide range of these newer flame retardant chemicals in Bay waters, bivalve California mussels (_Mytilus californianus_), and harbor seals (_Phoca vitulina_) which haul out in Corkscrew Slough[22] on Bair Island in San Mateo County, with phosphate flame retardant contaminants such as tris(1,3-dichloro-2-propyl)phosphate (TDCPP) and triphenyl phosphate (TPhP) found at levels comparable to thresholds for aquatic toxicity.[23]
+
+
+Bay fill and depth profile
+
+Boats_in_San_Francisco_bay.jpg San Francisco Bay's profile changed dramatically in the late 19th century and again with the initiation of dredging by the US Army Corps of Engineers in the 20th century. Before about 1860, most bay shores (with the exception of rocky shores, such as those in Carquinez Strait; along Marin shoreline; Point Richmond; Golden Gate area) contained extensive wetlands that graded nearly invisibly from freshwater wetlands to salt marsh and then tidal mudflat. A deep channel ran through the center of the bay, following the ancient drowned river valley.
+
+In the 1860s and continuing into the early 20th century, miners dumped staggering quantities of mud and gravel from hydraulic mining operations into the upper Sacramento and San Joaquin Rivers. GK Gilbert's estimates of debris total more than eight times the amount of rock and dirt moved during construction of the Panama Canal. This material flowed down the rivers, progressively eroding into finer and finer sediment, until it reached the bay system. Here some of it settled, eventually filling in Suisun Bay, San Pablo Bay, and San Francisco Bay, in decreasing order of severity.
+
+By the end of the 19th century, these "slickens" had filled in much of the shallow bay flats, raising the entire bay profile. New marshes were created in some areas.
+
+San_Francisco_Bay_bridges.svg, (2) Golden Gate Bridge, (3) San Francisco-Oakland Bay Bridge, (4) San Mateo-Hayward Bridge, (5) Dumbarton Bridge, (6) Carquinez Bridge, (7) Benicia-Martinez Bridge, (8) Antioch Bridge]]
+
+In the decades surrounding 1900, at the behest of local political officials and following Congressional orders, the US Army Corps began dredging the Sacramento and San Joaquin Rivers and the deep channels of San Francisco Bay. This work has continued without interruption ever since an enormous federal subsidy to San Francisco Bay shipping. Some of the dredge spoils were initially dumped in the bay shallows (including helping to create Treasure Island on the former shoals to the north of Yerba Buena Island) and used to raise an island in the Sacramento-San Joaquin Delta. The net effect of dredging has been to maintain a narrow deep channel—deeper perhaps than the original bay channel—through a much shallower bay. At the same time, most of the marsh areas have been filled or blocked off from the bay by dikes.
+
+Large ships transiting the bay must follow deep underwater channels that are maintained by frequent dredging as the average depth of the bay is only as deep as a swimming pool—approximately . Between Hayward and San Mateo to San Jose it is . The deepest part of the bay is under and out of the Golden Gate Bridge, at .[24]
+
+In the late 1990s, a 12-year harbor-deepening project for the Port of Oakland began; it was largely completed by September 2009. Previously, the bay waters and harbor facilities only allowed for ships with a draft of , but dredging activities undertaken by the United States Army Corps of Engineers in partnership with the Port of Oakland succeeded in providing access for vessels with a draft. Four dredging companies were employed in the US$432 million project, with $244 million paid for with federal funds and $188 million supplied by the Port of Oakland. Some of mud from the dredging was deposited at the western edge of Middle Harbor Shoreline Park to become a shallow-water wetlands habitat for marine and shore life.[25][26] Further dredging followed in 2011, to maintain the navigation channel.[27][28] This dredging enabled the arrival of the largest container ship ever to enter the San Francisco Bay, the _MSC Fabiola_. Bay pilots trained for the visit on a simulator at the California Maritime Academy for over a year. The ship arrived drawing less than its full draft of because it held only three-quarters of a load after its stop in Long Beach.[29]
+
+
+Transportation
+
+San_Francisco_Bay_aerial_view.jpg San Francisco Bay was traversed by watercraft since long before the coming of Europeans. Indigenous peoples used canoes to fish and clam along the shoreline. The era of sail brought ships that connected the area to the rest of the world—and served as early ferries and freighters within the Bay and between the Bay and inland ports, such as Sacramento and Stockton. These were gradually replaced by steam-powered vessels starting in the late 19th century. Several shipyards were early established around the Bay, augmented during wartime. (e.g., the Kaiser Shipyards (Richmond Shipyards) near Richmond in 1940 for World War II for construction of revolutionary mass-produced, assembly line Liberty and Victory cargo ships)
+
+San Francisco Bay is spanned by nine bridges, eight of which carry cars.
+
+-   The Golden Gate Bridge on U.S. Route 101/State Route 1 (US 101/SR 1) was the largest single span suspension bridge ever built at the time of its 1937 construction. It spans the Golden Gate, the strait between San Francisco and Marin County, and is the only bridge in the area not owned by the State of California.
+-   The Richmond–San Rafael Bridge on Interstate 580 (I-580) connects Marin and Contra Costa counties.
+-   The San Francisco–Oakland Bay Bridge on I-80 connects Alameda and San Francisco counties.
+-   The San Mateo–Hayward Bridge on SR 92 connects Alameda and San Mateo counties.
+-   The Dumbarton Bridge on SR 84 connects Alameda and San Mateo counties.
+-   The Carquinez Bridge (including the Alfred Zampa Memorial Bridge) on I-80 connects Contra Costa and Solano counties.
+-   The Benicia Bridge on I-680 also connects Contra Costa and Solano counties.
+-   The Antioch Bridge on SR 160 connects Contra Costa and Sacramento counties.
+-   The Dumbarton Rail Bridge is an abandoned bridge that used to carry rail traffic.
+
+The Transbay Tube, an underwater rail tunnel, carries BART services between Oakland and San Francisco.
+
+Prior to the bridges and, later, the Transbay Tube, transbay transportation was dominated by fleets of ferryboats operated by the Southern Pacific Railroad and the Key System transit company. However, in recent decades, ferries have returned, primarily serving commuters from Marin County, relieving the traffic bottleneck of the Golden Gate Bridge. (See article Ferries of San Francisco Bay). Port_Of_Oakland_California.png
+
+The bay also continues to serve as a major seaport. The Port of Oakland is one of the largest cargo ports in the United States, while the Port of Richmond and the Port of San Francisco provide smaller services.
+
+
+Recreation
+
+San Francisco Bay is a mecca for sailors (boats, as well as windsurfing and kitesurfing), due to consistent strong westerly/northwesterly thermally-generated winds – Beaufort force 6 () is common on summer afternoons – and protection from large open ocean swells. Yachting and yacht racing are popular pastimes and the San Francisco Bay Area is home to many of the world's top sailors. A shoreline bicycle and pedestrian trail known as the San Francisco Bay Trail encircles the edge of the bay. The San Francisco Bay Area Water Trail, a growing network of launching and landing sites around the Bay for non-motorized small boat users (such as kayakers) is being developed. Parks and protected areas around the bay include Eden Landing Ecological Reserve, Hayward Regional Shoreline, Don Edwards San Francisco Bay National Wildlife Refuge, Hayward Shoreline Interpretive Center, Crown Memorial State Beach, Eastshore State Park, Point Isabel Regional Shoreline, Brooks Island Regional Shoreline, and César Chávez Park.
+
+The California Office of Environmental Health Hazard Assessment (OEHHA) has developed a safe eating advisory for fish caught in the San Francisco Bay based on levels of mercury or PCBs found in local species.[30]
+
+The San Francisco Bay Area Water Trail is a planned system of designated trailheads designed to improve non-motorized small boat access to the bay. The California Coastal Conservancy approved funding in March 2011 to begin implementation of the water trail.
+
+
+Gallery
+
+  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  File:San Francisco from Forbes Island pier 39, 544.jpg|San Francisco from Forbes Island, pier 39 File:AlbertBierstadt-San Francisco Bay.jpg|"San Francisco Bay", painting by Albert Bierstadt, 1871–73 File:berkeleyfromclaremont800x600.jpg%7CThe City of Berkeley, the Bay and Marin County in the background as seen from the Claremont Canyon reserve File:TamFromPinole.jpg|Mount Tamalpais view across San Pablo Bay at Point Pinole Regional Shoreline in Richmond File:San Francisco Bay from the air in May 2010 01.jpg|Looking north into San Pablo Bay at the Richmond-San Rafael Bridge, 2010 File:Alcatraz dawn 2005-01-07.jpg|Alcatraz at dawn on San Francisco Bay File:Airbayarea.JPG%7CAerial view of Golden Gate and the northern Bay, looking east from the Pacific File:Kellerbeach1.jpg%7CPeople also swim recreationally, at Kellar Beach in Richmond's Miller/Knox Regional Shoreline. File:Oil spill in san francisc bay 1.jpg|Oil Spill in the Bay File:RMS Queen Mary 2 in san francisco bay.jpg|RMS Queen Mary 2 in San Francisco Bay File:Fort Baker on San Francisco Bay.jpg|Fort Baker on San Francisco Bay, just east of the Golden Gate File:San Francisco Bay NASA World Wind Globe.jpg|NASA satellite image, showing water flow File:View from Mission Peak 2.JPG|Salt ponds at the southern tip of the bay File:Golden Gate Bridge and San Francisco Bay.jpg|The bay seen in July 2010 File:Ships in San Francisco Bay aerial.jpg|Ships at anchor in the bay
+  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+See also
+
+-   Golden Gate
+-   Golden Gate Bridge
+-   Hydrography of the San Francisco Bay Area
+-   Islands of San Francisco Bay
+-   J.C. Barthel, who prepared "plans for the docks and other water-front improvements in the San Francisco Bay district"
+-   McLaughlin Eastshore State Park
+-   Mount Diablo
+-   Mount Tamalpais State Park
+-   Napa Sonoma Marsh
+-   Point Pinole Regional Shoreline, Richmond
+
+
+References
+
+
+Literature
+
+-   The Bay of San Francisco: the metropolis of the Pacific Coast and its suburban cities: a history. Volume I. by Lewis Publishing Company, Chicago, Ill. Published 1892 Contains index to biographical sketches
+-   Volume II – Biographies
+
+
+External links
+
+-   _San Francisco Bay: Portrait of an Estuary_, David Sanger and John Hart, University of California Press
+-   Barging In – A Short History of Liveaboards on the Bay
+-   _The Islands of San Francisco Bay_, James A. Martin | Michael T. Lee, Down Window Press
+-   Army Corps of Engineers Bay Model: Working scale model of the Bay
+-   SF Bay Kayak, Canoe, and Boat Launch Ramp guide. A collaboratively edited guide to the SF bay.
+-   BoatingSF.com: Photos of SF Bay and its boats, plus online cruising guide
+-   Save San Francisco Bay: Protect and Restore San Francisco Bay
+-   sfbaywildlife.info Guide to San Francisco Bay wildlife
+-   Early History of the California Coast, a National Park Service _Discover Our Shared Heritage_ Travel Itinerary
+-   Cartography & History _The representations of San Francisco Bay: a portable harbor in the fragile geography of the North Pacific_
+-   _San Francisco Estuary and Watershed Science_: a peer-reviewed online science journal
+
+Category:Bays of California Category:Bodies of water of Richmond, California San_Francisco_Bay Category:San Francisco Bay watershed Category:Estuaries of California Category:Tourist attractions in the San Francisco Bay Area Category:Ramsar sites in the United States Category:Wetlands of California Category:Bodies of water of San Francisco Category:Bodies of water of Alameda County, California Category:Bodies of water of Santa Clara County, California Category:Bodies of water of Contra Costa County, California Category:Bodies of water of Solano County, California Category:Bodies of water of San Mateo County, California Category:Bays of Marin County, California Category:Estuaries of Marin County, California Category:Bays of Contra Costa County, California
+
+[1] Symphonies in Steel: San Francisco – Oakland Bay Bridge and the Golden Gate
+
+[2] San Francisco Bay Watershed Database and Mapping Project
+
+[3]
+
+[4]
+
+[5]
+
+[6]
+
+[7]
+
+[8] The representations of San Francisco (California): a portable harbor in the fragile geography of the North Pacific.
+
+[9] Alta California, September 7, 1869
+
+[10] Cprr.org
+
+[11]
+
+[12]
+
+[13] State Water Resources Control Board _Water Quality Control Policy for the Enclosed Bays and Estuaries of California_ (1974) State of California
+
+[14] Spatial History Project
+
+[15] Hidden Ecologies » Blog Archive » Arden Salt Works
+
+[16]
+
+[17]
+
+[18]
+
+[19]
+
+[20]
+
+[21]
+
+[22]
+
+[23]
+
+[24]
+
+[25]
+
+[26]
+
+[27]
+
+[28]
+
+[29]
+
+[30]

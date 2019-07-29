@@ -1,0 +1,129 @@
+Beadwork_on_Container_(2131611625).jpgn beadwork on basket, from the ethnographic collection of the National Museum, Addis Ababa]] BEADWORK is the art or craft of attaching beads to one another by stringing them with a sewing needle or beading needle and thread or thin wire, or sewing them to cloth.[1] Beads come in a variety of materials, shapes and sizes. Beads are used to create jewelry or other articles of personal adornment; they are also used in wall hangings and sculpture and many other artworks.
+
+Beadwork techniques are broadly divided into loom and off-loom weaving, stringing, bead embroidery, bead crochet, bead knitting, and bead tatting.[2]
+
+Beads, made of durable materials, survive in the archaeological record appearing with the very advent of modern man, _Homo sapiens_.[3]
+
+Beads are used for religious purposes, as good luck talismans, for barter, and as curative agents. MRAW_Bellyband_Tri_Wing_Ring_from_Contemporary_Geometric_Beadwork_by_Kate_McKinnon_.webm
+
+
+Modern beading
+
+Beadwork_adaptation_of_Vittore_Crivelli.jpg.]] Modern beadwork is often used as a creative hobby to create jewelry, handbags, coasters, plus dozens of other crafts, and even copies of paintings. Beads are available in many different designs, sizes, colors, shapes, and materials, allowing much variation among bead artisans and projects. Simple projects can be created in less than an hour by novice beaders, while complex beadwork may take weeks of meticulous work with specialized tools and equipment. Many free patterns and tutorials can be found in Internet.
+
+
+Ancient beading
+
+Broad_Collar,_ca._1336-1327_B.C.E.,_ca._1327-1323_B.C.E.,_or_ca.1323-1295_B.C.E.,40.522.jpg]] Faience is a mixture of powdered clays and lime, soda and silica sand. This is mixed with water to make a paste and molded around a small stick or bit of straw. It is then ready to be fired into a bead. As the bead heats up, the soda, sand and lime melt into glass that incorporates and covers the clay. The result is a hard bead covered in bluish glass.
+
+This process was probably discovered first in Mesopotamia and then imported to ancient Egypt. However, it was the Egyptians who made it their own art form. Since before the 1st dynasty of Narmer (3100 B.C.) to the last dynasty of the Ptolemaic Kingdom (33 B.C.) and to the present day, faience beads have been made in the same way.
+
+These beads predate glass beads and were probably a forerunner of glass making. If a beadmaker was a little short of clay and had a little extra lime and the fire is hotter than usual, the mixture will become glass. In fact some early tubular faience beads are clayish at one end and pure glass at the other end. Apparently the beads weren't fired evenly.
+
+The uneven beads were noticed early on, this led to experimentation, slowly at first. It took a long time for new ideas to be accepted in a conservative, agricultural society. One of the first variations to take hold was to color the faience beads by adding metallic salts. By the beginning of the eighteenth dynasty (1850 B.C.), faience making and glass making had become two separate crafts.
+
+Faience beads were so common because they were cheaper and less labor-intensive to make than stone beads. Aside from personal use and daily wear they were used to create beaded netting to cover mummies. Most of the archaeological specimens come from burials.[4]
+
+As early as the Old Kingdom (circa 2670–2195 B.C.), Egyptian artisans fashioned images of gods, kings, and mortals wearing broad collars made of molded tubular and teardrop beads. These beaded collars may have been derived from floral prototypes. In antiquity the collar was called a _wesekh_, literally "the broad one".[5]
+
+In the Americas, the Cherokee used bead work to tell stories. They told them by the patterns in the beads. They used dried berries, gray Indian corn, teeth, bones, claws, or sometimes sea shells when they traded with coastal tribes.[6][7]
+
+
+3D beading
+
+Perlentier.JPG Beadknitting.JPG on double-pointed
+
+knitting needles]]
+
+3D beading generally uses the techniques of bead weaving, which can be further divided into right angle weave and peyote stitch.
+
+Many 3D beading patterns are done in right angle weave, but sometimes both techniques are combined in the same piece. Both stitches are done using either fishing line or nylon thread. Fishing line lends itself better to right angle weave because it is stiffer than nylon thread, so it holds the beads in a tighter arrangement and does not easily break when tugged upon.
+
+Nylon thread is more suited to peyote stitch because it is softer and more pliable than fishing line, which permits the beads of the stitch to sit straight without undue tension bending the arrangement out of place. Two needle right angle weave is done using both ends of the fishing line, in which beads are strung in repeated circular arrangements, and the fishing line is pulled tight after each bead circle is made. Single needed right angle weave was popularized in the 90's by David Chatt and has become the norm.
+
+Peyote stitch is stitched using only one end of the nylon thread. The other end of the string is left dangling at the beginning of the piece, while the first end of the thread progresses through the stitch. In peyote stitch, beads are woven into the piece in a very similar fashion to knitting or cross stitching.
+
+In fact, it is not uncommon for cross stitch patterns to be beaded in peyote stitch technique. Peyote stitch patterns are very easy to depict diagrammatically because they are typically stitched flat.
+
+Right angle weave lends itself better to 3D beading, but peyote stitch offers the advantage of allowing the beads to be more tightly knit, which is sometimes necessary to portray an object properly in three dimensions.
+
+
+European beadwork
+
+Beadwork in Europe has a history dating back millennia to a time when shells and animal bones were used as beads in necklaces.
+
+Glass beads were being made in Murano by the end of the 14th century. French beaded flowers were being made as early as the 16th century, and lampwork glass was invented in the 18th century. Seed beads began to be used for embroidery, crochet, and numerous off-loom techniques.
+
+
+Native American beadwork
+
+Nat_Am_beadwork_sampler.jpg Beadwork is a Native American art form which evolved to mostly use glass beads imported from Europe and recently Asia. Glass beads have been in use for almost five centuries in the Americas. Today a wide range of beading styles flourish.
+
+Alongside the widespread popularity of glass beads, bead artists continue incorporating natural items such as dyed porcupine quills, shell such as wampum, and dendrite, and even sea urchin spines in a similar manner as beads.
+
+Wampum shell beads are ceremonially and politically important to a range of Eastern tribes,[8] and were used to depict several important treaties between the Native peoples and the colonists, as in the case of the Two Row Wampum Treaty.
+
+In the Great Lakes, Ursuline nuns introduced floral patterns to tribes who quickly applied them to beadwork.[9] Great Lakes tribes are known for their bandolier bags that might take an entire year to complete.[10] During the 20th century the Plateau tribes, such as the Nez Perce, perfected contour-style beadwork in which the lines of beads are stitched to emphasize the pictorial imagery. Plains tribes are master beaders, and today dance regalia for men and women feature a variety of beadwork styles. While Plains and Plateau tribes are renowned for their beaded horse trappings, Subarctic tribes such as the Dene create lavish beaded floral dog blankets.[11] Eastern tribes have a completely different beadwork aesthetic: Innu, Mi'kmaq, Penobscot, and Haudenosaunee tribes are known for symmetrical scroll motifs in white beads, called the "double curve."[12] Iroquois are also known for "embossed" beading in which strings pulled taut force beads to pop up from the surface, creating a bas-relief. Tammy Rahr (Cayuga) is a contemporary practitioner of this style. Zuni artists have developed a tradition of three-dimensional beaded sculptures.
+
+Huichol_Trabajando.JPGHuichol Indians of Jalisco and Nayarit, Mexico have a completely unique approach to beadwork. They adhere beads one by one to a surface such as wood or a gourd with a mixture of resin and beeswax.[13]
+
+Most Native beadwork is created for tribal use, but beadworkers also create conceptual work for the art world. Richard Aitson (Kiowa-Apache), enjoying both an Indian and non-Indian audience, is known for his fully beaded cradleboards. Another Kiowa beadworker, Teri Greeves, has won top honors for her beadwork which consciously integrates both traditional and contemporary motifs such as beaded dancers on Converse high-tops. Greeves also beads on buckskin and explores such issues as warfare or Native American voting rights.[14]
+
+Marcus Amerman, Choctaw, one of today's most celebrated bead artists, pioneered a movement of highly realistic beaded portraits.[15] His imagery ranges from 19th century Native leaders to pop icons including Janet Jackson and Brooke Shields.
+
+Roger Amerman, Marcus' brother, and Martha Berry, Cherokee, have effectively revived Southeastern beadwork, a style that had been lost because of the forced removal of their tribes to Indian Territory. Their beadwork commonly features white bead outlines, an echo of the shell beads or pearls Southeastern tribes used before contact.[16]
+
+Jamie Okuma (Luiseño-Shoshone-Bannock) has won top awards with her beaded dolls, which can include entire families or horses and riders, all with fully beaded regalia. The antique Venetian beads she uses can be as small as size 22°, about the size of a grain of salt.[17] Juanita Growing Thunder Fogarty, Rhonda Holy Bear, and Charlene Holy Bear are also prominent beaded doll makers.
+
+
+See also
+
+-   Beetlewing
+-   French wire
+-   Jewelry wire gauge
+
+
+References
+
+-   -   Dubin, Lois Sherr (1999). _North American Indian Jewelry and Adornment: From Prehistory to the Present._ New York: Harry N. Abrams.
+-   Dubin, Lois Sherr (2009). _The History of Beads: From 100,000 B.C. to the Present_. New York: Harry N. Abrams. .
+-   Beads and beadwork. (1996). _In Encyclopedia of north american indians, Houghton Mifflin._ Retrieved January 27, 2014, from http://search.credoreference.com/
+
+
+External links
+
+01 Category:Handicrafts * Category:Decorative arts Category:Articles containing video clips
+
+[1]
+
+[2]
+
+[3]
+
+[4]
+
+[5]
+
+[6]
+
+[7]  Cherokee, NC|last=Cherokee|first=Eastern Band of|website=Cherokee, NC|language=en|access-date=2017-11-14}}
+
+[8] Dubin, p. 170-171
+
+[9] Dubin, p. 50
+
+[10] Dubin, p. 218
+
+[11] Berlo and Philips, p. 151
+
+[12] Berlo and Phillips, p. 146
+
+[13]  Lesson Two: Jicaras, Kukus and Seeds |last1=Hillman |first1=Paul |url=http://www.beadmuseumaz.org/Huichol/huichol4.htm |website=Community Arts Resource Exchange |publisher=The Bead Museum |accessdate=13 March 2009 |archiveurl=https://web.archive.org/web/20080518111414/http://www.beadmuseumaz.org/Huichol/huichol4.htm |archivedate=18 May 2008 |deadurl=yes}}
+
+[14]  Teri Greeves |magazine=Southwest Art Magazine |date=August 2000 |url=https://www.southwestart.com/articles-interviews/feature-articles/focus_artists |accessdate=13 March 2009}}
+
+[15] Berlo and Phillips, p. 32
+
+[16] Berlo and Phillips, p. 87
+
+[17]  Jamie Okuma |magazine=Southwest Art Magazine |date=May 2001 |url=https://www.southwestart.com/native-american-arts/jamie_okuma |accessdate=13 March 2009}}

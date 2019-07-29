@@ -1,0 +1,29 @@
+RUDOLPH PARISER (born December 8, 1923) is a physical and polymer chemist. He was born in Harbin, China to merchant parents, Ludwig Jacob Pariser and Lia Rubinstein. He attended the Von Hindenburg Schule in Harbin, an American Missionary School in Beijing and American School in Japan in Tokyo. He left for the United States just before World War II broke out.[1][2]
+
+He received his Bachelor of Science degree from the University of California, Berkeley in 1944, and his Ph. D. degree from the University of Minnesota in physical chemistry in 1950. From 1944 to 1946, during World War II and shortly afterward, he served in the United States Army. He became a naturalized citizen of the United States of America in 1944.[3]
+
+He spent most of his career as a polymer chemist working for DuPont in the Central Research Department at the Experimental Station. He rose to the level of Director of Polymer Sciences, leading it during a time of great innovation. After retiring from DuPont, he formed his own consulting company.[4]
+
+Pariser is best known for his work with Robert G. Parr on the method of molecular orbital computation[5] now known (because it was independently developed by John A. Pople) as the Pariser–Parr–Pople method (PPP method), published both by Pariser and Parr and by Pople in almost simultaneous papers in 1953.
+
+He married Margaret Louise Marsh on July 31, 1972.
+
+
+References
+
+
+External links
+
+-
+
+Category:1923 births Category:Living people Category:University of Minnesota alumni Category:American physical chemists Category:DuPont people Category:United States Army soldiers Category:American army personnel of World War II Category:American School in Japan alumni Category:Computational chemists
+
+[1]
+
+[2]
+
+[3]
+
+[4]
+
+[5]

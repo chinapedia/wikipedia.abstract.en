@@ -1,0 +1,117 @@
+The POLITICS OF MOLDOVA take place in a framework of a parliamentary representative democratic republic, wherein the prime minister is the head of the government, and a multi-party system. The government exercises executive power while the legislative power is vested in the Parliament. The judiciary is independent of the executive and the legislature. The position of the breakaway region of Transnistria (a self-proclaimed autonomous region, on the left side of the river Nistru), relations with Romania and with Russia, and integration into the EU dominate political discussions.
+
+The Economist Intelligence Unit has rated Moldova as "flawed democracy" in 2016.[1]
+
+
+Legislative branch
+
+Parliament_Building_Moldova.jpg in Chişinău.]] The Moldovan Parliament (_Parlamentul_) has 101 members, elected for a four-year term by proportional representation. The president is elected for a four-year term by the citizens.
+
+The seat of the legislature is known simply as the .
+
+Parliamentary election results
+
+  -----------------------------
+  Moldova_Parliament_2019.svg
+  Party/alliance
+  Votes
+  style=background:|
+  style=background:|
+  Invalid/blank votes
+  TOTAL
+  Registered voters/turnout
+  Source: CEC
+  -----------------------------
+
+
+Executive branch
+
+|President |Igor Dodon |PSRM |23 December 2016 |- |Prime Minister |Maia Sandu |ACUM |8 June 2019 |}
+
+The president is elected by popular vote for a four-year term. According to the Moldovan constitution, the president, on consulting with the Parliament, will designate a candidate for the office of prime minister; within 15 days from designation, the prime minister-designate will request a vote of confidence from the Parliament regarding his/her work program and entire cabinet. The cabinet is selected by prime minister-designate, subject to approval of Parliament. The cabinet meets at the on Stephen the Great Boulevard in Central Chișinău.
+
+Ministries
+
+The 9 ministries of the Government of Moldova are:[2]
+
+-   Ministry of Internal Affairs of Moldova
+-   Ministry of Defence
+-   Ministry of Finance
+-   Ministry of Foreign Affairs and European Integration
+-   Ministry of Justice
+-   Ministry of Economy and Infrastructure
+-   Ministry of Education, Culture and Research
+-   Ministry of Health, Labour and Social Protection
+-   Ministry of Agriculture, Regional Development and Environment
+
+
+Judicial branch
+
+
+Administrative divisions
+
+Moldova is divided into 32 raions, or _raioane_, three municipalities (Chişinău, Bălţi and Bender), one autonomous region (Gagauzia), and the breakaway region of Transnistria, the status of which is disputed.
+
+
+Issues
+
+Ethnic identity and unification with Romania
+
+The underlying issue in the Republic of Moldova revolves around ethnicity and whether the country should re-unite with Romania, with which it shares a common ethnicity, language, culture and history. The Republic of Moldova represents roughly the eastern half of what is historically known as the Principality of Moldova. As a result of the Treaty of Bucharest (1812), ending the Russo-Turkish War of 1806, it was separated from the western part of the principality along the Prut river and annexed by the Russian Empire, which named it Bessarabia (Basarabia). The western half of the former Principality of Moldova, which was not annexed by Russia, united with Wallachia (Țara Românească) in 1859 to form the basis for modern day Romania. The eastern half united with Romania in 1918, but was re-annexed by the Soviet Union in 1940 as a result of the Ribbentrop-Molotov Pact.
+
+Russian and Soviet-era identity politics focused on Russification in the colonial sense as well as on stressing artificial differences between the Moldovans and the Romanians in an attempt to create a uniquely "Moldovan" identity, including indoctrination against Romania and Romanians. As a result, Moldovan ethnic identity is complicated and divided between those who consider themselves Moldovan and those who consider themselves Romanian. Although Moldovans comprise a sizeable ethnic majority of the population, they are fragmented in terms of degree of Russification and cultural indoctrination. The more pro-Russian the Moldovan, the more likely it is that s/he will call his/her language and ethnicity Moldovan rather than Romanian. Today, Moldova is effectively bilingual, with a Romanian-speaking majority and a sizable and influential, multiethnic, Russian-speaking minority, and with the Russian language still dominating the media. The Russophile population is generally hostile to the idea of unification with Romania and typically votes for left-wing parties. The Moldovan majority is divided between pro-Russian nostalgia and growing pro-Romanian and pro-EU sympathies, with a growing number of people supporting the idea of re-unification with Romania, especially among the youth.[3][4][5][6]
+
+Transnistria
+
+TransnistrianRegionMap.pngn region of Moldova]]
+
+Transnistria (Pridnestyrovie) is a strip of land running along Moldova's eastern border with Ukraine, named after the Nistru (Dniestr) river. The Transnistrian region is majority Slavic (Ukrainian and Russian) and russophone, in contrast with the rest of the country, and it was heavily industrialized during USSR rule. The Moldovan Declaration of Independence claims continuity of Moldovan sovereignty over the territory of Transnistria as it is "a component part of the historical and ethnic territory of our people". However, the Moldovan Declaration of Independence is itself used as an argument against Moldovan sovereignty over Transnistria as it denounces the Ribbentrop-Molotov agreement of 23 August 1939 between the government of the Soviet Union and the government of Nazi Germany "null and void" being the only formal union between the two territories.[7]
+
+After failing to establish control over the breakaway region in the War of Transnistria, Moldova offered a broad cultural and political autonomy to the region. The dispute has strained Moldova's relations with Russia. The July 1992 cease-fire agreement established a tripartite peacekeeping force composed of Moldovan, Russian, and Transnistrian units. Negotiations to resolve the conflict continue, and the cease-fire is still in effect. The Organization for Security and Co-operation in Europe can (OSCE) is trying to facilitate a negotiated settlement and has had an observer mission in place for several years.
+
+The country remains divided, with the Transnistrian region controlled by separatist forces, supported _de facto_ by a contingency of Russian troops posing as a peacekeeping mission.
+
+Human trafficking
+
+Due to the high rate of poverty, Moldova remains a large source-country of illegal sex workers that are exported to Western Europe, Russia and the Middle East. Because of pervasive corruption and a general lack of awareness, many victims of human trafficking are lured into the business with offers of high-salary jobs abroad, and are often trapped once out of the country. The US government urged Moldova to pass an anti-trafficking law in 2005, but due to a lack of enforcement, low regard of legal institutions, and unequal benchmark requirements, clear progress is difficult to ascertain. Organizations such as the International Organization for Migration provide non-governmental support integral to helping victims. However, NGOs are often subject to domestic constraints and government interference in their work, complicating their operations.
+
+Other issues
+
+There is disagreement as to whether elections and politics in Moldova are carried out in a free and democratic climate on the part of certain organizations. The United States Senate has held committee hearings on irregularities that marred elections in Moldova, including arrests and harassment of opposition candidates, intimidation and suppression of independent media, and state-run media bias in favor of candidates backed by the Communist-led Moldovan Government.[8] Other critics have also referred to the Communist Party government as being authoritarian.[9][10] Nevertheless, then-U.S. President George W. Bush stated that: "We note and welcome Moldova's positive record since independence in conducting free and fair elections and in implementing democratic reforms."[11]
+
+There were also reports of politically motivated arrests and arrests without valid legal grounds in 2005. Such arrests were allegedly carried out against opponents of the Communist Party government of President Vladimir Voronin. In one case which was criticized by various Western organizations and individuals, opposition politician Valeriu Pasat was sentenced to ten years imprisonment on dubious grounds.[12]
+
+Moldova joined the World Trade Organization and the Southeast European Stability Pact in 2001. Of primary importance have been the government's efforts to improve relations with the International Monetary Fund and the World Bank and to comply with agreements negotiated in 2000 by the former government. Agreement in these areas was critical, because large government debts that were due in 2002 had to be rescheduled. The government has made concerted efforts to find ways to pay for Moldova's energy supplies.
+
+Political parties and other groups publish newspapers, which often criticize government policies. There are several independent news services, radio stations, and an independent television station. Peaceful assembly is allowed, though permits for demonstrations must be obtained; private organizations, including political parties, are required to register with the government. Legislation passed in 1992 codified freedom of religion but required that religious groups be recognized by the government.
+
+A 1990 Soviet law and a 1991 Parliamentary decision authorizing formation of social organizations provide for independent trade unions. However, the Federation of Independent Trade Unions of Moldova, successor to the former organizations of the Soviet trade union system, is the sole structure. It has tried to influence government policy in labor issues and has been critical of many economic policies. Moldovan labor law, which is based on former Soviet legislation, provides for collective bargaining rights.
+
+
+Notes
+
+Politics_of_Moldova Category:History of Moldova since 1991
+
+[1]
+
+[2] Government's reform under implementation
+
+[3]
+
+[4]
+
+[5]
+
+[6]
+
+[7] Tiraspol Times; Former ASSR Pridnestrovie reminds Moldova: "You yourself denounced our union"
+
+[8] U.S. Library of Congress, Senate report 2004
+
+[9] Statement of Committee to Protect Journalists (CPJ)
+
+[10] Press freedom report (CPJ)
+
+[11] Joint Statement by President George W. Bush and President Vladimir Voronin on U.S.-Moldovan Relations U.S. State Department 17 December 2002. Retrieved 11-20 2006.
+
+[12] Moldova: An Insider Looks At The Pasat Case Radio Free Europe. 4 July 2005. Retrieved 11-15 2006

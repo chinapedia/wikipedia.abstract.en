@@ -1,0 +1,194 @@
+Un-niger.png Ancient rock engraving showing herds of giraffe, ibex, and other animals in the southern Sahara and africA Niger. Niger_saharan_medieval_trade_routes.PNG SONGHAI_empire_map.PNG at its greatest extent, c. 1500.]] Djado-nah.jpg in northeast Niger.]] French_West_Africa_1913_map.png 1997_277-31A_Tuareg.jpg This is the HISTORY OF NIGER. See also the history of Africa and the history of West Africa.
+
+
+Pre-historic Niger
+
+Humans have lived in what is now Niger from the earliest times. 2 to 3.5 million-year-old Australopithecus bahrelghazali remains have been found in neighboring Chad.
+
+Archeologists in Niger have much work to do, with little known of the prehistory of the societies that inhabited the south, the home of the vast majority of modern Nigeriens.[1] The deserts and the mountains of the north, though, have garnered attention for the ancient abandoned cities and pre-historic rock carvings found in the Aïr Mountains and the Ténéré desert.
+
+Considerable evidence indicates that about 60,000 years ago, humans inhabited what has since become the desolate Sahara Desert of northern Niger. Later, on what was then huge fertile grasslands, from at least 7,000 BCE there was pastoralism, herding of sheep and goats, large settlements and pottery. Cattle were introduced to the Central Sahara (Ahaggar) from 4,000 to 3,500 BCE. Remarkable rock paintings, many found in the Aïr Mountains, dated 3,500 to 2,500 BCE, portray vegetation and animal presence rather different from modern expectations.[2]
+
+One discovery suggests what is now the Sahara of northeast Niger was home to a succession of Holocene era societies. One Saharan site illustrated how sedentary hunter-fisher-gatherers lived at the edge of shallow lakes around 7700–6200 BCE, but disappeared during a period of extreme drought that may have lasted for a millennium over 6200–5200 BCE. Several former northern villages and archaeological sites date from the Green Sahara period of 7500–7000 to 3500–3000 BCE.[3] When the climate returned to savanna grasslands—wetter than today's climate—and lakes reappeared in what is the modern Ténére desert, a population practicing hunting, fishing, and cattle husbandry. This last population survived until almost historical times, from 5200–2500 BCE, when the current arid period began.[4]
+
+As the Sahara dried after 2000 BCE, the north of Niger became the desert it is today, with settlements and trade routes clinging to the Air in the north, the Kaouar and shore of Lake Chad in the west, and (apart for a scattering of oases) most people living along what is now the southern border with Nigeria and the southwest of the country.
+
+The probable ancient regional ecology
+
+North Africa enjoyed a fertile climate during the subpluvial era; what is now the Sahara supported a savanna type of ecosystem, with elephant, giraffe, and other grassland and woodland animals now typical of the Sahel region south of the desert. Historian and Africanist Roland Oliver has described the scene as follows:
+
+  [In] the highlands of the central Sahara beyond the Libyan desert,... in the great massifs of the Tibesti and the Hoggar, the mountaintops, today bare rock, were covered at this period with forests of oak and walnut, lime, alder and elm. The lower slopes, together with those of the supporting bastions — the Tassili and the Acacus to the north, Ennedi and Air to the south — carried olive, juniper and Aleppo pine. In the valleys, perennially flowing rivers teemed with fish and were bordered by seed-bearing grasslands.[5]
+
+Metalworking technology
+
+A 2002 UNESCO published study suggested that iron smelting at Termit, in eastern Niger may have begun as early as 1500 BC.[6] This finding, which would be of great importance to both the history of Niger and the history of the diffusion of Iron Age metalworking technology in all of sub-Saharan Africa, is as yet contentious.[7] Older accepted studies place the spread of both copper and Iron technology to date from the early first Millennium CE: 1500 years later than the Termit Massif finds.[8]
+
+
+Ancient history
+
+By at least the 5th century BCE, Carthage and Egypt became terminals for West African gold, ivory, and slaves trading salt, cloth, beads, and metal goods. With this trade, Niger was on the route between the empires of the Sahel and the empires of the Mediterranean basin.
+
+Trade continued into Roman times. Although there are Classical references to direct travel from the Mediterranean to West Africa (Daniels, p. 22f), most of this trade was conducted through middlemen who inhabited the area and so were aware of safe passages through the drying lands.[9]
+
+Recent archaeological discoveries at Bura (in southwest Niger) and in adjacent southeast Burkina Faso have documented the existence of the iron-age Bura culture from the 3rd century CE to the 13th century CE. The Bura-Asinda system of settlements apparently covered the lower Niger River valley. But further research is needed to understand the role this early civilization played in the ancient and medieval history of West Africa.
+
+Introduction of the camel
+
+Herodotus wrote of the Garamantes hunting the Ethiopian Troglodytes with their chariots; this account was associated with depictions of horses drawing chariots in contemporary cave art in southern Morocco and the Fezzan, giving origin to a theory that the Garamantes, or some other Saran people, had created chariot routes to provide Rome and Carthage with gold and ivory. However, it has been argued that no horse skeletons have been found dating from this early period in the region, and chariots would have been unlikely vehicles for trading purposes due to their small capacity.[10]
+
+The earliest evidence for domesticated camels in the region dates from the 3rd century. Used by the Berber people, they enabled more regular contact across the entire width of the Sahara, but regular trade routes did not develop until the beginnings of the Islamic conversion of West Africa in the 7th and 8th centuries.[11] Two main trade routes developed. The first ran through the western desert from modern Morocco to the Niger Bend, the second from modern Tunisia to the Lake Chad area. These stretches were relatively short and had the essential network of occasional oases that established the routing as inexorably as pins in a map. Further east of the Fezzan with its trade route through the valley of Kaouar to Lake Chad, Libya was impassable due to its lack of oases and fierce sandstorms.[12] A route from the Niger Bend to Egypt was abandoned in the 10th century due to its dangers.
+
+
+Imperial Niger
+
+Niger was an important economic crossroads, and the empires of Songhai, Mali, the Dendi Kingdom, Gao, and Kanem-Bornu, as well as a number of Hausa states, claimed control over portions of the area. During recent centuries, the nomadic Tuareg formed large confederations, pushed southward, and, siding with various Hausa states, clashed with the Fulani Empire of Sokoto, which had gained control of much of the Hausa territory in the late 18th century. The area eventually became known as the Bornu Empire, which ended in 1893.
+
+
+Colonization
+
+In the 19th century, contact with Europe began when the first European explorers—notably Mungo Park (British) and Heinrich Barth (German)-explored the area searching for the mouth of the Niger River. Although French efforts at pacification began before 1900, dissident ethnic groups, especially the desert Tuareg, were not subdued until 1922, when Niger became a French colony.
+
+Niger's colonial history and development parallel that of other French West African territories. France administered her West African colonies through a governor general at Dakar, Senegal, and governors in the individual territories, including Niger. In addition to conferring a limited form of French citizenship on the inhabitants of the territories, the 1946 French constitution provided for decentralization of power and limited participation in political life for local advisory assemblies.
+
+
+Towards independence
+
+A further revision in the organization of overseas territories occurred with the passage of the Overseas Reform Act (Loi Cadre) of 23 July 1956, followed by re-organizational measures enacted by the French Parliament early in 1957. In addition to removing voting inequalities, these laws provided for creation of governmental organs, assuring individual territories a measure of self-government over internal matters such as education, health, and infrastructure.
+
+After the establishment of the Fifth French Republic on 4 October 1958, the territories of French West Africa and French Equatorial Africa were given the right to hold a referendum on their membership in the French Community, a modified form of the French Union which allowed some limited self-government and was viewed as a path to eventual independence.
+
+The 4 December elections (on whether to remain in the French Community, followed shortly by those for the Nigerien territorial assembly) were contested by the two political blocks of the Territorial Assembly. The Nigerien Progressive Party (PPN), originally a regional branch of the African Democratic Rally (RDA), led the Union for the Franco-African Community (UCFA) and was headed by PPN leader and deputy-speaker of the Assembly Hamani Diori. The other block was led by the then majority leader of the Assembly, Djibo Bakary. His Movement Socialist Africain (known by the name Sawaba – _independence_ in the Hausa language) called for a "no" vote: one of only two major formations in French West Africa to do so.[13]
+
+While there have always been questions about French influence in the voting[14] The results of both elections were confirmed on the 16th. The PPN led UCFA (yes 358,000) defeated Sawaba (no 98,000), winning 54 seats to 4 in the 60 seat assembly.[15] On the 18th Niger declared itself a republic within the French Community and the Territorial Assembly became the Constituent Assembly. This date (18 December 1958) is celebrated as Republic Day, the national holiday of Niger, and considered date of the founding of the nation. In March 1959 this became the Legislative Assembly.[16]
+
+In 1958 Diori became president of the provisional government, and then became Prime Minister of Niger in 1959. Having organised a powerful coalition of Hausa, Fula, and Djerma leaders, especially made up of chiefs and traditional leaders, in support of Niger's "Yes" vote in the 1959 referendum, Diori gained French favor. During the 1959–1960 period, the French government banned all political parties except the PPN, effectively making Niger a one-party state. The Sawaba leaders fled into exile, and the member parties of the UCFA were folded into the PPN.
+
+
+Independence
+
+On 11 July 1960 France agreed to Niger becoming fully independent.[17] The French Fifth Republic passed a revision of the French Community allowing membership of independent states. On 28 July the Nigerien Legislative Assembly became the Nigerien National Assembly. Independence was declared on 3 August 1960 under the leadership of Prime Minister Diori. Subsequently in November 1960 Diori was elected to the new position of President of Niger by the National Assembly. During his presidency, Diori's government favored the maintenance of traditional social structures and the retention of close economic ties with France. He was re-elected unopposed in 1965 and 1970.
+
+Diori gained worldwide respect for his role as a spokesman for African affairs and as a popular arbitrator in conflicts involving other African nations. Domestically, however, his administration was rife with corruption, and the government was unable to implement much-needed reforms or to alleviate the widespread famine brought on by the Sahelian drought of the early 1970s. Increasingly criticized at home for his negligence in domestic matters, Diori put down a coup in 1963 and narrowly escaped assassination in 1965. Faced with an attempted military coup and attacks by members of Sawaba, he used French advisers and troops to counter threats to his rule, despite student and union protests against what they perceived French neocolonialism. However, his relationship with France suffered when his government voiced dissatisfaction with the level of investment in uranium production when French President Georges Pompidou visited Niger in 1972.
+
+The PPN functioned as a platform for a handful of Politburo leaders grouped around Diori and his advisors Boubou Hama and Diamballa Maiga, who were largely unchanged from their first election in 1956. By 1974 the party had not held a congress since 1959 (one was scheduled for late 1974 during the famine induced political crisis, but never held). The PPN election lists were made up of traditional rulers from the main ethnic regions who, upon election to the Assembly, were given only ceremonial power. Ethnic tensions, too, mounted during Diori's regime. The Politburo and successive cabinets were made up almost exclusively of Djerma, Songhai and Maouri ethnic groups from the west of the country, the same ethnic base the French had relied on during colonial rule. No Politburo ever contained a member of Hausa or Fula groups, even though the Hausa were the plurality of the population, forming over 40% of Nigeriens.[18]
+
+Widespread civil disorder followed allegations that some government ministers were misappropriating stocks of food aid and accused Diori of consolidating power. Diori limited cabinet appointments to fellow Djerma, family members, and close friends. In addition, he acquired new powers by declaring himself the minister of foreign and defense affairs.[19]
+
+
+1974 to 1990
+
+On 15 April 1974, Lieutenant colonel Seyni Kountché led a military coup that ended Diori's rule. Diori was imprisoned until 1980 and remained under house arrest. The government that followed, while plagued by coup attempts of its own, survived until 1993. While a period of relative prosperity, the military government of the period allowed little free expression and engaged in arbitrary imprisonment and killing. The first presidential elections took place in 1993 (33 years after independence), and the first municipal elections only took place in 2007.[20] Niger_soldier-89-07307.JPEG
+
+Upon Kountché's death in 1987, he was succeeded by his Chief of Staff and cousin, Col. Ali Saibou. Saibou liberalized some of Niger's laws and policies, and promulgated a new constitution. He released political prisoners, including Diori and his old political nemesis Djibo Bakary. However, President Saibou's efforts to control political reforms failed in the face of union and student demands to institute a multi-party democratic system. The Saibou regime acquiesced to these demands by the end of 1990. New political parties and civic associations sprang up, and a National Conference was convened in July 1991 to prepare the way for the adoption of a new constitution and the holding of free and fair elections. The debate was often contentious and accusatory, but under the leadership of Prof. André Salifou, the conference developed consensus on the modalities of a transitional government.
+
+
+1990s
+
+A transitional government was installed in November 1991 to manage the affairs of state until the institutions of the Third Republic were put in place in April 1993. While the economy deteriorated over the course of the transition, certain accomplishments stand out, including the successful conduct of a constitutional referendum; the adoption of key legislation such as the electoral and rural codes; and the holding of several free, fair, and nonviolent nationwide elections. Freedom of the press flourished with the appearance of several new independent newspapers. In 1993, Mahamane Ousmane, the Democratic and Social Convention (CDS) party candidate, won the presidential election with the support of a coalition of parties. The agreement between the parties fell apart in 1994 leading to governmental paralysis as the CDS on its own no longer had a majority in the assembly. Ousmane dissolved the legislature and called new legislative elections, but the National Movement for the Development of Society (MNSD) party won the largest group of seats, so Ousmane was compelled to appoint Hama Amadou of the MNSD as prime minister. The prime minister then prepared for a _surprise_ attack.
+
+Since 1990 Tuareg and Toubou groups that had been leading the Tuareg Rebellion claiming they lacked attention and resources from the central government. As the culmination of an initiative started in 1991, the government signed peace accords in April 1995 with these groups. The government agreed to absorb some former rebels in the military and, with French assistance, help others return to a productive civilian life.
+
+The paralysis of government between the President and the Prime Minister who no longer agreed gave Col. Ibrahim Baré Maïnassara a rationale to overthrow the Third Republic and depose the first democratically elected president of Niger, on 27 January 1996. While leading a military authority that ran the government (Conseil de Salut National) during a six-month transition period, Baré enlisted specialists to draft a new constitution for a Fourth Republic announced in May 1996.
+
+Baré organized a presidential election in June 1996. He ran against four other candidates, including Ousmane. Before voting had finished, Baré dissolved the national electoral committee and appointed another, which announced him the winner with over 50% of the votes cast. When his efforts to justify his coup and subsequent questionable election failed to convince donors to restore multilateral and bilateral economic assistance, a desperate Baré ignored the international embargo on Libya seeking funds for Niger's economy. In repeated violations of basic civil liberties by the regime, opposition leaders were imprisoned; journalists often arrested, beaten, and deported by an unofficial militia composed of police and military; and independent media offices were looted and burned with impunity.
+
+In April 1999, Baré was assassinated in a coup led by Maj. Daouda Malam Wanké who established a transitional National Reconciliation Council to oversee the drafting of a constitution for a Fifth Republic with a French style semi-presidential system. In votes that international observers found to be generally free and fair, the Nigerien electorate approved the new constitution in July 1999 and held legislative and presidential elections in October and November 1999. Heading a MNSD/CDS coalition, Tandja Mamadou won the presidency. The council transitioned to civilian rule in December 1999.
+
+
+2000s
+
+In July 2004, Niger held municipal elections nationwide as part of its decentralization process. Some 3,700 people were elected to new local governments in 265 newly established communes. The ruling MNSD party won more positions than any other political party; however, opposition parties made significant gains.[21]
+
+In November and December 2004, Niger held presidential and legislative elections. Mamadou Tandja was elected to his second five-year presidential term with 65% of the vote in an election that international observers called generally free and fair. This was the first presidential election with a democratically elected incumbent and a test to Niger's young democracy.[22]
+
+In the 2004 legislative elections, the MNSD, the CDS), the Rally for Social Democracy (RSD), the Rally for Democracy and Progress (RDP), the Nigerien Alliance for Democracy and Progress (ANDP), and the Social Party for Nigerien Democracy (PSDN) coalition, which backed Tandja, won 88 of the 113 seats in the National Assembly.[23]
+
+The Second Tuareg insurgency in Niger began in 2007 when a previously unknown group, the Mouvement des Nigeriens pour la Justice (MNJ), emerged. The predominantly Tuareg group issued a number of demands, mainly related to development in the north. It attacked military and other facilities and laid landmines in the north. The resulting insecurity devastated Niger's tourist industry and deterred investment in mining and oil. Algeria helped negotiate an August 2008 Malian peace deal, which was broken by a rebel faction in December, crushed by the Malian military and wholesale defections of rebels to the government. Niger saw heavy fighting and disruption of Uranium production in the mountainous north, before a Libyan backed peace deal, aided by a factional split among the rebels, brought a negotiated ceasefire and amnesty in May 2009.
+
+On 26 May 2009, President Tandja dissolved parliament after the country's constitutional court ruled against plans to hold a referendum on whether to allow him a third term in office. According to the constitution, a new parliament was elected within three months.[24] This touched off a political struggle between Tandja, trying to extend his term-limited authority beyond 2009 through the establishment of a Sixth Republic, and his opponents who demanded that he step down at the end of his second term in December 2009. See 2009 Nigerien constitutional crisis. The military took over the country and President Tandja was put in prison, charged with corruption.
+
+The military kept their promise to return the country to democratic civilian rule. A constitutional referendum and national elections were held. A presidential election was held on 31 January 2011, but as no clear winner emerged, run-off elections were held on 12 March 2011. Mahamadou Issoufou of the Nigerien Party for Democracy and Socialism was elected president. A parliamentary election was held at the same time.[25][26][27]
+
+
+See also
+
+-   Niamey history and timeline (capital and largest city)
+-   History of Africa
+-   History of West Africa
+-   List of heads of government of Niger
+-   List of heads of state of Niger
+-   Politics of Niger
+-   Green Sahara
+
+
+References
+
+-   James Decalo. Historical Dictionary of Niger. Scarecrow Press/ Metuchen. NJ – London (1979)
+-   Finn Fuglestad. A History of Niger: 1850–1960. Cambridge University Press (1983)
+
+
+Further reading
+
+-   Chafer, Tony. _The End of Empire in French West Africa: France's Successful Decolonization_. Berg (2002).
+
+
+External links
+
+-   Background Note: Niger
+-   Initiated by Agence universitaire de la Francophonie
+
+History_of_Niger Niger (colonial)
+
+[1] Anne C. Haour. One Hundred Years of Archaeology in Niger. Journal of World Prehistory. Volume 17, Number 1, June 2003, pp. 181–234(54)
+
+[2] Shillington, Kevin (1989, 1995). _History of Africa, Second Edition_. St. Martin's Press, New York. Page 32.
+
+[3] Peter Gwin. "Lost Tribes of the Green Sahara." National Geographic Magazine (September 2008) Accessed 28 June 2010.
+
+[4] Sereno PC, Garcea EAA, Jousse H, Stojanowski CM, Saliège J-F, et al. (2008) Lakeside Cemeteries in the Sahara: 5000 Years of Holocene Population and Environmental Change. PLoS ONE 3(8): e2995. .
+
+[5] Oliver, Roland (1999), _The African Experience: From Olduvai Gorge to the 21st Century_ (Series: History of Civilization), London: Phoenix Press, revised edition, pg 39.
+
+[6] Iron in Africa: Revisiting the History – Unesco (2002)
+
+[7]
+
+[8] Duncan E. Miller and N.J. Van Der Merwe, 'Early Metal Working in Sub Saharan Africa' Journal of African History 35 (1994) 1–36; Minze Stuiver and N.J. Van Der Merwe, 'Radiocarbon Chronology of the Iron Age in Sub-Saharan Africa' Current Anthropology 1968.
+
+[9] Daniels, Charles (1970). _The Garamantes of Southern Libya_. Oleander, North Harrow, Middlesex. Page 22.
+
+[10] Masonen, P: "Trans-Saharan Trade and the West African Discovery of the Mediterranean World. "
+
+[11]
+
+[12] Lewicki, T. (1994). "The Role of the Sahara and Saharians in Relationships between North and South". In _UNESCO General History of Africa: Volume 3._ University of California Press, .
+
+[13] The other was Guinea's Sekou Toure, which won a no vote.
+
+[14] Fuglestad (1983), the major English language history on this says the election was rigged.
+
+[15] Decalo (1979) p.201
+
+[16] Decalo (1979) pp.36–37, 189
+
+[17] https://select.nytimes.com/mem/archive/pdf?res=F70F1FFD385A1A7A93C0A8178CD85F448685F9
+
+[18] Decalo (1979) p. 180-82. Entry on the "Parti Progressiste Nigerien (PPN)"
+
+[19] for details on this section, see: James Decalo (1979), and especially, Finn Fuglestad (1983) who describes the process of party formation and political horse-trading in the 1950s in great detail
+
+[20] For a detailed account in English of the inner workings of the military regime, see Samuel Decalo (1990), pp.241–285.
+
+[21] US State Dept
+
+[22]
+
+[23]
+
+[24]
+
+[25] Ahmad, Romoke W. "West Africa: Ecowas, EU Say Niger Elections Satisfactory" , _Daily Trust_ (republished at AllAfrica.com), 3 February 2011.
+
+[26] Saidou, Djibril. Niger’s Presidential Election Heads to March Runoff" , _Bloomberg Businessweek_, 4 February 2011.
+
+[27] Look, Anne. "Niger Politicians Forge Alliances Before March Election" , _Voice of America_, 14 February 2011.

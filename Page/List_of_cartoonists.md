@@ -1,0 +1,536 @@
+This is a LIST OF CARTOONISTS, visual artists who specialize in drawing cartoons. This list includes only notable cartoonists and is not meant to be exhaustive.
+
+
+Notable cartoonists
+
+-   Scott Adams, _Dilbert_
+-   Charles Addams, macabre cartoons featured in _The New Yorker_ and elsewhere
+-   Attila Adorjany
+-   Barry Appleby
+-   Sergio Aragonés, known for his contributions to _Mad_
+-   Arotxa (Rodolfo Arotxarena)
+-   Jim Bamber, cartoonist of _Autosport_, magazine specialising in motor sports
+-   Edgar Henry Banger
+-   Carl Barks, inventor of _Duckburg_ and many of its characters like _Scrooge McDuck_ and _Gladstone Gander_; Fantagraphics Books called him "the Hans Christian Andersen of comic books."[1]
+-   Sumanta Baruah
+-   Niko Barun
+-   Darrin Bell, _Candorville_ and _Rudy Park_
+-   Steve Bell, _The Guardian_ (UK)
+-   Stephen Bentley, "Herb and Jamaal"
+-   Oscar Berger, _Aesop's Foibles (1947)_; active 1920s–1960s
+-   Mark Beyer, _Amy and Jordan_, _Agony_
+-   Berkeley Breathed, _Bloom County_ and _Outland_
+-   Frédéric-Antonin Breysse
+-   Ed Brubaker
+-   Tom Bunk, cartoonist for _Mad_
+-   Mark Burrier
+-   John Byrne
+-   Al Capp, _Li'l Abner_
+-   Tom Cheney, staff cartoonist for _The New Yorker_
+-   Edgar Church
+-   Chester Commodore, political cartoonist
+-   George Cruikshank
+-   Isaac Cruikshank
+-   Isaac Robert Cruikshank
+-   Robert Crumb, _Mr. Natural_, _Fritz the Cat_, _Keep on Truckin'_
+-   Natalie d'Arbeloff
+-   Jack Davis
+-   Jim Davis, _Garfield_
+-   Abner Dean
+-   Narayan Debnath, Indian cartoonist known for _Handa Bhonda_, _Bantul the Great_, and _Nonte Phonte_
+-   Richard Decker, _The New Yorker_
+-   Walt Disney, _Mickey Mouse_, _Donald Duck_
+-   Ralph Waddell Douglass
+-   Stan Drake
+-   George du Maurier, also the author of Trilby
+-   Robert W. Edgren, American political cartoonist known for his "Sketches from Death" from the Spanish–American War
+-   Will Eisner, _The Spirit_
+-   Otto Eppers
+-   Michael Esser, known for motorcycle and hot rod-related cartoons in American magazines such as _Easyriders_ and _American Iron Magazine_
+-   Charles Evenden
+-   Lyonel Feininger, rare fine artist who did strips, _The Kin-der-Kids_ and _Wee Willie Winkie's World_
+-   Rod Filbrandt
+-   David Fletcher
+-   Ellen Forney
+-   André François
+-   André Franquin, _Spirou et Fantasio_, _Gaston Lagaffe_, _Marsupilami_
+-   Yuliy Abramovich Ganf, Soviet Russian
+-   Eddie Germano
+-   Denis Gifford, strips in _Whizzer and Chips_, _Knockout_, _Marvelman_
+-   Carl Giles
+-   James Gillray, called "the father of the political cartoon".
+-   John Glashan, _Genius_
+-   Rube Goldberg, cartoons of complex and convoluted machines doing very simple tasks.
+-   Larry Gonick, _The Cartoon History of the Universe series, Kokopelli & Company_
+-   Cleven "Goodie" Goudeau, known for his pioneering Afrocentric images on greeting cards
+-   Jimmy Gownley, _Amelia Rules! series, Simon & Schuster_
+-   Bud Grace, "Ernie/Piranha Club"
+-   Matt Groening, _Life in Hell_, _The Simpsons_, _Futurama_
+-   Sam Gross, for his _The New Yorker_ work, plus many other magazines
+-   Shekhar Gurera, well known for his accurate prick of quirky cartoons at India's political and social trends
+-   Martin Handford, _Where's Wally?_
+-   Steven Harris
+-   Andrew Kennaway Henderson
+-   Henfil, Brazilian cartoonist
+-   Hergé, _The Adventures of Tintin_
+-   George Herriman, _Krazy Kat_
+-   Watson Heston
+-   Stephen Hillenburg, _SpongeBob SquarePants_
+-   Bill Hinds, "Tank McNamara"
+-   Dick Hodgins, Jr.
+-   William Hogarth, English pictorial satirist and editorial cartoonist; credited with pioneering western sequential art; work ranged from realistic portraiture to comic strip
+-   Bill Holbrook, _On the Fastrack_, _Safe Havens_, and _Kevin and Kell_
+-   Nicole Hollander, _Sylvia_
+-   John Holmstrom
+-   Geoff "Jeff" Hook, Australian
+-   George William Houghton, British golf cartoonist
+-   Jim Hummel
+-   Edgar Pierre Jacobs, _Blake and Mortimer_
+-   Al Jaffee, _Mad_
+-   Kirk Jarvinen
+-   S. Jithesh, World's Fastest Performing Cartoonist
+-   Herbert Johnson
+-   Mike Judge, _Beavis and Butt-head_, _King of the Hill_, _The Goode Family_
+-   Arja Kajermo
+-   Avi Katz
+-   Bil Keane, "Family Circus"
+-   Jeff Keane. "Family Circus"
+-   Walt Kelly, _Pogo_
+-   Rik Kemp
+-   Molly Kiely
+-   Wyncie King
+-   Jeff Kinney, _Diary of a Wimpy Kid_
+-   Rick Kirkman, "Baby Blues"
+-   Heinrich Kley
+-   B. Kliban
+-   John Kricfalusi, _The Ren & Stimpy Show_
+-   Gary Larson, _The Far Side_
+-   Rick Law, _Beyond the Veil_
+-   R K Laxman, cartoonist for _The Times of India_, India
+-   Mell Lazarus. "Momma, Miss Peach"
+-   John Leech, 19th-century _Punch_ cartoonist
+-   Michael Leunig, Australian
+-   Arnold Levin
+-   David Liljemark
+-   Neil Lonsdale (1907–1989), New Zealand editorial cartoonist
+-   Jay Lynch
+-   Trey Parker and Matt Stone, _South Park_
+-   Seth MacFarlane, _Family Guy_, _American Dad!_, _The Cleveland Show_
+-   Butch Hartman, _The Fairly OddParents_, _T.U.F.F. Puppy_, _Danny Phantom_, _Bunsen Is a Beast_
+-   Manjul, _India Today_, _The Economic Times_ and _Daily News and Analysis_
+-   Bob Mankoff, _The New Yorker_
+-   Jack Markow
+-   Sasha Matthews, 12-year-old cartoonist
+-   Enrico Mazzanti
+-   Scott McCloud, _Zot!_, _Understanding Comics_
+-   Aaron McGruder, _The Boondocks_
+-   Ronald Michaud
+-   Yevgeniy Migunov
+-   Mario Miranda, _The Economic Times_, India
+-   Shigeru Mizuki, _Ge Ge Ge no Kitaro_, master of horror of Japanese manga
+-   Guillermo Mordillo
+-   Lorin Morgan-Richards
+-   Morris, _Lucky Luke_
+-   Rachel Nabors
+-   Ogden Nash
+-   Nigar Nazar, first female cartoonist of the Muslim world, creator of cartoon character "Gogi"
+-   Roy Nelson
+-   Mana Neyestani, Iranian cartoonist
+-   Ajit Ninan, _India Today_ and _The Times of India_
+-   Floyd Norman
+-   Murray Olderman, sports columnist, author of 14 books, National Cartoonist Society Sports Cartoon Award for 1974 and 1978
+-   Jack Edward Oliver
+-   Bruce Ozella
+-   Paul Palnik, American Jewish cartoonist
+
+-   Virgil Franklin Partch, known as "VIP;" leading American gag cartoonist from the 1940s to the 1980s
+-   Alan Stuart Paterson, New Zealand cartoonist
+-   Andrea Pazienza
+-   René Pellos, French cartoonist
+-   Bob Penuelas, _Wilbur Kookmeyer_
+-   Camillus Perera
+-   Bruce Petty
+-   Peyo, _The Smurfs_, _Steven Strong_, _Johan and Peewit_
+-   Shivram Dattatreya Phadnis
+-   Ziraldo Alves Pinto; Brazilian cartoonist
+-   Hugo Pratt, _Corto Maltese_
+-   Ken Pyne
+-   Quino (Joaquín Salvador Lavado), Argentine cartoonist and social satirist, known for _Mafalda_
+-   Jacki Randall
+-   Roy Raymonde, English cartoonist whose work appeared principally in Punch (magazine) and Playboy
+-   W. Heath Robinson, British satirist known for drawings of convoluted machines, similar to Rube Goldberg
+-   Christine Roche
+-   Artie Romero
+-   Ed "Big Daddy" Roth
+-   Thomas Rowlandson
+-   Martin Rowson
+-   Øystein Runde
+-   Malik Sajad Indian cartoonist, author of graphic novel _Munnu - A Boy from Kashmir_'
+-   Armando Salas
+-   Gerald Scarfe ( political)
+-   Jerry Scott, "Baby Blues, Zits"
+-   Ronald Searle, St Trinians, Molesworth, _The Rake's Progress_, editorial work
+-   Elzie Crisler Segar, _Popeye_
+-   Sempé
+-   Claude Serre
+-   Lee Sheppard
+-   Shel Silverstein
+-   Posy Simmonds, _The Silent Three of St Botolph's_, _Gemma Bovery_
+-   Siné
+
+-   Jeff Smith, _Bone_, _RASL_, _Shazam!: The Monster Society of Evil_, _Little Mouse Gets Ready_
+-   Mauricio de Sousa, _Monica's Gang_, _Chuck Billy 'n' Folks_, _The Cavern Clan_
+-   Art Spiegelman, author of _Maus_; co-editor of _RAW_ magazine
+-   Dan Spiegle
+-   George Sprod, _Punch_ and other publications
+-   Ralph Steadman, editorial cartoonist and book illustrator
+-   Ralph Stein
+-   Saul Steinberg
+-   Jay Stephens
+-   Matt Stone, with Trey Parker, co-creator of _South Park_
+-   Jakob Martin Strid
+-   Ed Subitzky, known for his _National Lampoon_ work, also _The New York Times_
+-   Joost Swarte, Dutch comic artist known for his ligne claire or clear line style of drawing
+-   Betty Swords
+-   Les Tanner, political cartoonist
+-   Howard Tayler, pioneered web-cartooning as a profession
+-   Raina Telgemeier
+-   Osamu Tezuka, _Astro Boy_, _Phoenix_; known as the "God" of Japanese manga who defined modern Japanese cartooning
+-   Bal Thackeray, formed a political party in India
+-   Prabhakar Thokal
+-   Lefred Thouron
+-   Morrie Turner, credited with the first multicultural syndicated cartoon strip
+-   Albert Uderzo, _Asterix_
+-   Willy Vandersteen, _Spike and Suzy_, _De Rode Ridder_
+-   Joan Vizcarra
+-   Vicco von Bülow, _Loriot_
+-   Keith Waite, New Zealand-born English editorial cartoonist
+-   Arthur Watts
+-   Ben Wicks, Canadian cartoonist and illustrator: _The Outsider_, _Wicks_
+-   S. Clay Wilson, _Zap Comix_, _Underground Comix_
+-   Rhie Won-bok
+-   Art Young
+-   José Zabala-Santos
+-   Zapiro
+
+Cartoonists of comic strips
+
+-   Scott Adams, _Dilbert_
+-   Alex Akerbladh
+-   Bill Amend, _FoxTrot_
+-   George Baker, _Sad Sack_
+-   Tom Batiuk, _Funky Winkerbean_
+-   Murray Ball, ''Footrot Flats'
+-   Darrin Bell, _Candorville_, _Rudy Park_
+-   Stephen Bentley, "Herb and Jamaal"
+-   Jerry Bittle
+-   Boulet, pseudonym of French cartoonist Gilles Roussel
+-   Berkeley Breathed, _Bloom County_ (1980s American social-political), _Outland_, _Opus_
+-   Dave Breger, _Mister Breger_
+-   Dik Browne, _Hi and Lois_, _Hägar the Horrible_
+-   Ernie Bushmiller, _Nancy_
+-   Milton Caniff, _Terry and the Pirates_, _Steve Canyon_
+-   Al Capp, _Li'l Abner_
+-   Ad Carter, _Just Kids_
+-   Jok Church, _You Can With Beakman and Jax_
+-   Francis Cleetus, _It's Geek 2 Me_
+-   Mitch Clem, _Nothing Nice to Say_, _San Antonio Rock City_
+-   Darby Conley, _Get Fuzzy_
+-   Joan Cornellà
+-   Dave Coverly, _Speed Bump_
+-   Jaime Crespo, _Tales from the Edge of Hell_
+-   Max Crivello
+-   Stan Cross, _The Potts_
+-   Stacy Curtis, _Cul de Sac_
+-   Lyman Dally, _Max Rep_
+-   Harry Grant Dart
+-   Lou Darvas
+-   Jim Davis, _Gnorm Gnat_, _Garfield_, _U.S. Acres_, a _Mr. Potato Head_ comic strip
+-   Reginald Ben Davis
+-   Derf (John Backderf)
+-   Brad Diller
+-   J. C. Duffy, _The Fusco Brothers_
+-   Edwina Dumm
+-   Frank Dunne
+-   Benita Epstein, _Six Chix_
+-   Larry Feign, _The World of Lily Wong_
+-   Norm Feuti, _Retail_
+-   George Fett, _Sniffy and Norbert_
+-   Charles Fincher, creator of _Thadeus & Weez_ and _The Daily Scribble_
+-   Bud Fisher, _Mutt and Jeff_
+-   Ham Fisher, _Joe Palooka_
+-   Evelyn Flinders, _The Silent Three_
+-   J.D. Frazer, _User Friendly_
+-   David Füleki, _78 Tage auf der Straße des Hasses_
+-   Paul Gilligan, _Pooch Cafe_
+-   Erich von Götha de la Rosière
+-   Chester Gould, _Dick Tracy_
+-   Bud Grace, "Ernie/Piranha Club", "Babs and Aldo"
+-   Bill Griffith, _Zippy the Pinhead_
+-   Cathy Guisewite, _Cathy_
+-   Nicholas Gurewitch, _Perry Bible Fellowship_
+-   Alex Hallatt
+-   Johnny Hart, _B.C._, _The Wizard of Id_
+-   Bill Hinds, _Tank McNamara_, _Cleats_, _Buzz Beamer_
+-   Bill Holman, _Smokey Stover_
+-   Daniel Hulet
+-   Billy Ireland
+-   Tatsuya Ishida, _Sinfest_
+-   Tove and Lars Jansson, _The Moomins_
+-   Ferd Johnson, _Moon Mullins_
+-   Kerry G. Johnson, _Harambee Hills_, caricaturist and children's book illustrator
+-   Russell Johnson, _Mister Oswald_
+-   Lynn Johnston, _For Better or For Worse_
+-   Eric Jolliffe, _Andy_
+-   Bil Keane, ''Family Circus"
+-   Jeff Keane. "Family Circus"
+-   Walt Kelly, _Pogo_
+-   James Kemsley, _Ginger Meggs_
+-   Hank Ketcham, _Dennis the Menace_
+-   Kazu Kibuishi, _Copper_
+-   Frank King, _Gasoline Alley_
+-   Rick Kirkman, "Baby Blues"
+-   Keith Knight, _The K Kronicles_
+-   Charles Kuhn, _Grandma_
+-   Fred Lasswell, _Barney Google_
+-   Mell Lazarus, "Momma, Miss Peach"
+-   Virginio Livraghi
+-   Edgar Martin
+-   Clifford McBride, _Napoleon_
+-   Winsor McCay, _Little Nemo_
+-   Patrick McDonnell, _Mutts_
+-   Brian McFadden, _Big Fat Whale_
+-   Aaron McGruder, creator of the controversial strip _The Boondocks_
+-   George McManus, _Bringing Up Father_
+-   Caesar Meadows
+-   Dale Messick, _Brenda Starr_
+-   Tim Molloy
+-   Bill Murray, _Sonny Boy_
+-   Fred Negro, _Pub Strip_
+-   Chris Onstad, _Achewood_
+-   Phil Ortiz
+-   Frode Øverli, _Pondus_
+-   Nina Paley, _Nina's Adventures_, _Fluff_, _The Hots_
+-   Brant Parker, _The Wizard of Id_
+-   Stephan Pastis, _Pearls Before Swine_
+-   Charles Peattie and Russell Taylor, _Alex_
+-   Mike Peters, _Mother Goose & Grimm_
+-   Keats Petree
+-   Stan Pitt, _Larry Flynn, Detective_
+-   Vic Pratt
+-   Dariush Ramezani
+-   John Rivas, _Bonzzo_
+-   Leigh Rubin, _Rubes_
+-   Warren Sattler, _Grubby_, _Billy the Kid_ and _Yang_, as well as contributing artist for _Barnaby_ daily, _The Jackson Twins_, _Bringing Up Father_ and _Hi and Lois_
+-   Charles M. Schulz, _Peanuts_, _Young Pillars_
+-   Jerry Scott, "Baby Blues, Zits, Nancy"
+-   Caroll Spinney, _Harvey_
+-   Lee W. Stanley, _The Old Home Town_
+-   Kris Straub, _Starslip Crisis_, _Checkerboard Nightmare_
+-   Henry Matthew Talintyre
+-   Harold Tamblyn-Watts
+-   Russell Taylor and Charles Peattie, _Alex_
+-   Richard Thompson, _Cul de Sac_
+-   Jim Toomey, _Sherman's Lagoon_
+-   Milton Trajano, _Lendas da Bola_, _Placar_ magazine
+-   Harry J. Tuthill, _The Bungle Family_
+-   Gustave Verbeek, _The Upside Downs_, _The Terrors of the Tiny Tads_
+-   Bill Watterson, _Calvin and Hobbes_
+-   Bob Weber, _Moose & Molly_
+-   Monty Wedd, _Ned Kelly_
+-   Alex Williams, _Queen's Counsel_
+-   Tom Wilson, _Ziggy_
+
+Cartoonists of single-panel cartoons
+
+-   Charles Addams
+-   Gene Ahern
+-   Belsky
+-   Charles Boyce, _Compu-Toon_
+-   Barry Bradfield
+-   Sheree Bradford-Lea
+-   Bo Brown
+-   Ivan Brunetti
+-   John Callahan
+-   Irwin Caplan
+-   Patrick Chappatte (Chappatte)
+-   Roz Chast
+-   Chumy Chúmez
+-   DansCartoons
+-   Chon Day
+-   Donelan
+-   Denise Dorrance
+-   Nick Downes
+-   Mort Drucker
+-   Vladimir Flórez
+-   Stanley Arthur Franklin
+-   Carl Giles (Giles), _Daily Express_
+-   Ted Goff
+-   Bud Grace
+-   Sam Gross
+-   Dick Guindon
+-   Jessica Hagy
+-   Baron Halpenny
+-   Sidney Harris
+-   William Haselden
+-   Bill Hoest
+-   Judy Horacek
+-   Stan Hunt
+-   Hank Ketcham
+-   Ted Key
+-   Clyde Lamb
+-   Gary Larson
+-   Mel Lazarus
+-   Robert Leighton
+-   George Lichty
+-   Mike Lynch
+-   Lorin Morgan-Richards
+-   Fred Neher
+-   John Norment
+-   Don Orehek
+-   W. B. Park
+-   Virgil Partch
+-   Dave Pascal
+-   Mad Peck
+-   Matt Percival
+-   Martin Perscheid
+-   Josefina Tanganelli Plana
+-   Gardner Rea
+-   John Reiner
+-   Dan Reynolds
+-   Victoria Roberts
+-   Burr Shafer
+-   Vahan Shirvanian
+-   Chris Slane
+-   Dan Steffan
+-   James Thurber
+-   Jerry Van Amerongen
+-   H. T. Webster
+-   Gluyas Williams
+-   J. R. Williams, _Out Our Way_
+-   Gahan Wilson
+-   George Wolfe
+-   Kevin Woodcock
+-   Bill Yates
+-   ZAK, pseudonym of Belgian cartoonist Jacques Moeraert
+-   Zero
+
+Cartoonists of comic books
+
+-   Carlo Ambrosini
+-   Jack Herbert
+-   Sergio Aragones, _Mad_; creator of _Groo_
+-   Daniel A. Baker
+-   Ken Battefield
+-   Bill Benulis, _War is Hell_
+-   Dawn Best
+-   Steve Bialik
+-   François Bourgeon, _Le Cycle de Cyann_
+-   Anna Brandoli
+-   Reg Bunn
+-   Ben Caldwell, creator of the Dare Detectives
+-   Aldo Capitanio
+-   Onofrio Catacchio
+-   Domitille Collardey
+-   Carlo Cossio, _Dick Fulmine_
+-   Jason Craig
+-   Hugleikur Dagsson
+-   Dame Darcy, creator of _Meat Cake_
+-   Patryck de Froidmont
+-   Gianni De Luca, _Commissario Spada_
+-   Dan DeCarlo, _Archie_, _Josie and the Pussycats_, _Sabrina, the Teenage Witch_
+-   Kim Deitch creator of _Waldo the Cat_ and comic novels
+-   Vince Deporter, DC Comics; Nickelodeon, Spirou (Belgium)
+-   Julie Doucet, creator of _Dirty Plotte_, _My New York Diary_
+-   Will Elder, _Mad_, _Little Annie Fanny_ in _Playboy_
+-   Steve Fiorilla, mini-comics
+-   Andy Fish
+-   Brad W. Foster, creator of _Mechthings_ mini-comics, _The Mechthings_, _Adventures of Olivia_ mini-comics
+-   Chandra Free
+-   Al Gordon
+-   Vernon Grant, creator of _The Love Rangers_
+-   Dick Hafer
+-   Marc Hansen, creator of Ralph Snart
+-   Los Bros Hernandez, creators of _Love and Rockets_
+-   Don Hillsman II
+-   Yvonne Hutton
+-   Al Jaffee, _Mad_, _Snappy Answers to Stupid Questions_
+-   Robyn E. Kenealy
+-   Helena Klakocar
+-   Andrea Kruis
+-   Harvey Kurtzman, founding editor of _Mad_
+-   Tom Kurzanski
+-   Antonio Lara de Gavilán
+-   Selena Lin
+-   Craig McKay
+-   Mark Marderosian
+-   David Messer, adaptations of _Macbeth_ and the _Tempest_
+-   Erika Moen
+-   Colonel Moutarde
+-   Art Nugent
+-   Gaman Palem
+-   Fung Chin Pang
+-   Eduardo Vañó Pastor
+-   Craig Phillips
+-   Darren Sanchez
+-   Seth, creator of _Palookaville_
+-   Ravi Shankar
+-   Pran Kumar Sharma, _Chacha Chaudhary_
+-   Jeff Smith, _Bone Book_
+-   Cal Sobrepeña
+-   Fermín Solís
+-   Hans Steinbach
+-   Kazimir Strzepek
+-   Ramon Torrents
+-   Przemysław Truściński
+-   Jhonen Vasquez, _Johnny the Homicidal Maniac_, _Squee!_, _I Feel Sick_, _Everything Can be Beaten_, _Fillerbunny_, _Bad Art Collection_, _Happy Noodle Boy_
+-   Wally Wood, _Mad_
+-   Chao Yat
+-   Carlos Zéfiro
+
+Cartoonists of action/superhero comic books
+
+-   Kyle Baker, creator of _Why I Hate Saturn_
+-   Barry Bradfield, _Batman: The Animated Homepage_
+-   Greg Brooks
+-   Jack Cole, creator of Plastic Man, later set the style for cartoons in _Playboy_
+-   Alan Davis, creator of ClanDestine
+-   Steve Ditko, creator of many Marvel Comics, including Spider-Man and Doctor Strange, with editor Stan Lee
+-   Will Eisner, creator of _The Spirit_, teacher, publisher, one of the first to popularize the term _graphic novel_, in his book _A Contract with God_
+-   Bob Kane, creator of The Batman with writer Bill Finger
+-   Jack Kirby, creator of Captain America with his partner Joe Simon, and many other comics
+-   Erik Larsen, creator of _Savage Dragon_
+-   Jim McDermott
+-   Shawn McManus
+-   Mike Mignola, creator of _Hellboy_
+-   Frank Miller, creator of _Sin City_
+-   James O'Barr, creator of _The Crow_
+-   Paul Palnik, creator of _The God of Cartoons_
+-   Roberto Raviola, creator of _La Compagnia della Forca_
+-   Shelby Robertson
+-   Alberto Saichann
+-   Horacio Sandoval
+-   Dave Sim, creator of Cerebus
+-   Jeff Smith, creator of _Bone_
+-   Ed Tourriol
+-   Alain Voss
+
+
+See also
+
+-   Editorial cartoons
+-   Indian Institute of Cartoonists
+-   List of American comics creators
+-   List of animators
+-   List of editorial cartoonists
+-   List of illustrators
+-   List of newspaper comic strips
+-   List of manga artists
+-   List of comic strips
+
+
+References
+
+*List * Category:Lists of artists by medium Category:Lists of comics creators
+
+[1] A Timeless Classic For All Ages - Fantagraphics Books

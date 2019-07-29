@@ -1,0 +1,715 @@
+DUBLIN (, or ; [1] ) is the capital and largest city of Ireland.[2][3] Situated on a bay on the east coast, at the mouth of the River Liffey, it lies within the province of Leinster. It is bordered on the south by the Dublin Mountains, a part of the Wicklow Mountains range. It has an urban area population of 1,173,179,[4] while the population of the Dublin Region (formerly County Dublin), , was 1,347,359,[5] and the population of the Greater Dublin Area was 1,904,806.[6]
+
+There is archaeological debate regarding precisely where Dublin was established by the Gaels in or before the 7th century AD.[7] Later expanded as a Viking settlement, the Kingdom of Dublin, the city became Ireland's principal settlement following the Norman invasion.[8] The city expanded rapidly from the 17th century and was briefly the second largest city in the British Empire before the Acts of Union in 1800. Following the partition of Ireland in 1922, Dublin became the capital of the Irish Free State, later renamed Ireland.
+
+Dublin is a historical and contemporary centre for education, the arts, administration and industry. the city was listed by the Globalization and World Cities Research Network (GaWC) as a global city, with a ranking of "Alpha −", which places it amongst the top thirty cities in the world.[9][10]
+
+
+Etymology
+
+The name _Dublin_ comes from the Irish word _Dubhlinn_, early Classical Irish /, from (, , ) meaning "black, dark", and () "pool", referring to a dark tidal pool. This tidal pool was located where the River Poddle entered the Liffey, on the site of the castle gardens at the rear of Dublin Castle. In Modern Irish the name is _Duibhlinn_, and Irish rhymes from County Dublin show that in Dublin Leinster Irish it was pronounced _Duílinn_ . The original pronunciation is preserved in the names for the city in other languages such as Old English , Old Norse , modern Icelandic and modern Manx as well as Welsh . Other localities in Ireland also bear the name _Duibhlinn_, variously anglicised as Devlin,[11] Divlin[12] and Difflin.[13] Historically, scribes using the Gaelic script wrote _bh_ with a dot over the _b_, rendering Duḃlinn or Duiḃlinn. Those without knowledge of Irish omitted the dot, spelling the name as _Dublin_. Variations on the name are also found in traditionally Gaelic-speaking areas of Scotland (Gàidhealtachd, cognate with Irish Gaeltacht), such as _An Linne Dhubh_ ("the black pool"), which is part of Loch Linnhe.
+
+It is now thought that the Viking settlement was preceded by a Christian ecclesiastical settlement known as _Duibhlinn_, from which _Dyflin_ took its name.[14] Beginning in the 9th and 10th century, there were two settlements where the modern city stands. The Viking settlement of about 841, _Dyflin_, and a Gaelic settlement, Áth Cliath ("ford of hurdles")[15] further up river, at the present day Father Mathew Bridge (also known as Dublin Bridge), at the bottom of Church Street. __, meaning "town of the hurdled ford", is the common name for the city in modern Irish. __ is a place name referring to a fording point of the River Liffey near Father Mathew Bridge. __ was an early Christian monastery, believed to have been in the area of Aungier Street, currently occupied by Whitefriar Street Carmelite Church. There are other towns of the same name, such as _Àth Cliath_ in East Ayrshire, Scotland, which is anglicised as Hurlford.
+
+
+History
+
+The area of Dublin Bay has been inhabited by humans since prehistoric times, but the writings of Ptolemy (the Greco-Roman astronomer and cartographer) in about AD 140 provide possibly the earliest reference to a settlement there. He called it _Eblana polis_ ().[16]
+
+Dublin celebrated its 'official' millennium in 1988, meaning the Irish government recognised 988 as the year in which the city was settled and that this first settlement would later become the city of Dublin. Dublin_-_Father_Mathew_Bridge_-_110508_182542.jpg, also known as Dublin Bridge]]
+
+It is now thought[17] the Viking settlement of about 841 was preceded by a Christian ecclesiastical settlement known as _Duibhlinn_, from which _Dyflin_ took its name. Beginning in the 9th and 10th century, there were two settlements which later became the modern Dublin. The subsequent Scandinavian settlement centred on the River Poddle, a tributary of the Liffey in an area now known as Wood Quay. The Dubhlinn was a pool on the lowest stretch of the Poddle, used to moor ships. This pool was finally fully infilled during the early 18th century, as the city grew. The Dubhlinn lay where the Castle Garden is now located, opposite the Chester Beatty Library within Dublin Castle. _Táin Bó Cuailgne_ ("The Cattle Raid of Cooley") refers to _Dublind rissa ratter Áth Cliath_, meaning "Dublin, which is called Ath Cliath".
+
+Middle Ages
+
+Dublin was established as a Viking settlement in the 10th century and, despite a number of attacks by the native Irish, it remained largely under Viking control until the Norman invasion of Ireland was launched from Wales in 1169.[18] It was upon the death of Muirchertach Mac Lochlainn in early 1166 that Ruaidrí Ua Conchobair, King of Connacht, proceeded to Dublin and was inaugurated _King of Ireland_ without opposition.
+
+According to some historians, part of the city's early economic growth is attributed to a trade in slaves.[19] Slavery in Ireland and Dublin reached its pinnacle in the 9th and 10th centuries.[20] Prisoners from slave raids and kidnappings, which captured men, women and children, brought revenue to the Gaelic Irish Sea raiders, as well as to the Vikings who had initiated the practice.[21] The victims came from Wales, England, Normandy and beyond.[22]
+
+The King of Leinster, Diarmait Mac Murchada, after his exile by Ruaidhrí, enlisted the help of Strongbow, the Earl of Pembroke, to conquer Dublin. Following Mac Murrough's death, Strongbow declared himself King of Leinster after gaining control of the city. In response to Strongbow's successful invasion, King Henry II of England affirmed his ultimate sovereignty by mounting a larger invasion in 1171 and pronounced himself Lord of Ireland.[23] Around this time, the _county of the City of Dublin_ was established along with certain liberties adjacent to the city proper. This continued down to 1840 when the barony of Dublin City was separated from the barony of Dublin. Since 2001, both baronies have been redesignated as the _City of Dublin_.
+
+Dublin_castle.JPG, with its 13th-century tower, was the fortified seat of British rule in Ireland until 1922]] Dublin Castle, which became the centre of Norman power in Ireland, was founded in 1204 as a major defensive work on the orders of King John of England.[24] Following the appointment of the first Lord Mayor of Dublin in 1229, the city expanded and had a population of 8,000 by the end of the 13th century. Dublin prospered as a trade centre, despite an attempt by King Robert I of Scotland to capture the city in 1317.[25] It remained a relatively small walled medieval town during the 14th century and was under constant threat from the surrounding native clans. In 1348, the Black Death, a lethal plague which had ravaged Europe, took hold in Dublin and killed thousands over the following decade.[26][27]
+
+Dublin was incorporated into the English Crown as the Pale, which was a narrow strip of English settlement along the eastern seaboard. The Tudor conquest of Ireland in the 16th century spelt a new era for Dublin, with the city enjoying a renewed prominence as the centre of administrative rule in Ireland. Determined to make Dublin a Protestant city, Queen Elizabeth I of England established Trinity College in 1592 as a solely Protestant university and ordered that the Catholic St. Patrick's and Christ Church cathedrals be converted to Protestant.[28]
+
+The city had a population of 21,000 in 1640 before a plague in 1649–51 wiped out almost half of the city's inhabitants. However, the city prospered again soon after as a result of the wool and linen trade with England, reaching a population of over 50,000 in 1700.[29]
+
+Early modern
+
+HENRIETTA_STREET_-_DUBLIN_(402556531).jpg developed in the 1720s is the earliest Georgian street in Dublin]]
+
+As the city continued to prosper during the 18th century, Georgian Dublin became, for a short period, the second largest city of the British Empire and the fifth largest city in Europe, with the population exceeding 130,000. The vast majority of Dublin's most notable architecture dates from this period – the Four Courts, the Custom House, Temple Bar and Grafton Street are some of the few remaining areas that were not affected by the wave of Georgian reconstruction and maintained their medieval character.[30]
+
+Dublin grew even more dramatically during the 18th century, with the construction of many new districts and buildings, such as Merrion Square, Parliament House and the Royal Exchange.[31] The Wide Streets Commission was established in 1757 at the request of Dublin Corporation to govern architectural standards on the layout of streets, bridges and buildings. In 1759, the Guinness brewery was founded; and would eventually grow to become the largest brewery in the world and the largest employer in Dublin.[32][33]
+
+Late modern and contemporary
+
+General_Post_Office_Dublin_20060803.jpg on O'Connell Street was at the centre of the 1916 Easter Rising]] Dublin suffered a period of political and economic decline during the 19th century following the Acts of Union 1800, under which the seat of government was transferred to the Westminster Parliament in London. The city played no major role in the Industrial Revolution, but remained the centre of administration and a transport hub for most of the island. Ireland had no significant sources of coal, the fuel of the time, and Dublin was not a centre of ship manufacturing, the other main driver of industrial development in Britain and Ireland.[34] Belfast developed faster than Dublin during this period on a mixture of international trade, factory-based linen cloth production and shipbuilding.[35]
+
+Life_goes_on..._(6937669789).jpg with the ruins of the GPO to the left]] The Easter Rising of 1916, the Irish War of Independence, and the subsequent Irish Civil War resulted in a significant amount of physical destruction in central Dublin. The Government of the Irish Free State rebuilt the city centre and located the new parliament, the Oireachtas, in Leinster House. Since the beginning of Norman rule in the 12th century, the city has functioned as the capital in varying geopolitical entities: Lordship of Ireland (1171–1541), Kingdom of Ireland (1541–1800), as part of the United Kingdom of Great Britain and Ireland (1801–1922), and the Irish Republic (1919–1922). Following the partition of Ireland in 1922, it became the capital of the Irish Free State (1922–1937) and now is the capital of Ireland. One of the memorials to commemorate that time is the Garden of Remembrance.
+
+Dublin was also a victim of the Northern Irish Troubles, although during this 30-year conflict, violence mainly occurred within Northern Ireland. However, the Provisional IRA drew some support from within the Republic, including from Dublin. A Loyalist paramilitary group, the Ulster Volunteer Force, bombed the city during this time – notably in an atrocity known as the Dublin and Monaghan bombings in which 34 people died, mainly in central Dublin.
+
+Since 1997, the landscape of Dublin has changed. The city was at the forefront of Ireland's economic expansion during the Celtic Tiger period, with private sector and state development of housing, transport and business. Following an economic decline during the Great Recession, Dublin has rebounded and has close to full employment,[36] but a significant problem with housing supply in both city and surrounds.[37]
+
+
+Government
+
+Local
+
+Dublin_City_Council_Civic_Offices.JPG]] From 1842, the boundaries of the city were comprehended by the baronies of Dublin City and the Barony of Dublin. In 1930, the boundaries were extended by the Local Government (Dublin) Act.[38] Later, in 1953, the boundaries were again extended by the Local Government Provisional Order Confirmation Act.[39]
+
+Dublin City Council is a unicameral assembly of 63[40] members elected every five years from Local Election Areas. It is presided over by the Lord Mayor, who is elected for a yearly term and resides in Dublin's Mansion House. Council meetings occur at Dublin City Hall, while most of its administrative activities are based in the Civic Offices on Wood Quay. The party or coalition of parties with the majority of seats assigns committee members, introduces policies, and proposes the Lord Mayor. The Council passes an annual budget for spending on areas such as housing, traffic management, refuse, drainage, and planning. The Dublin City Manager is responsible for implementing City Council decisions but also has considerable executive power.
+
+National
+
+Leinsterhouse.jpg on Kildare Street houses the Oireachtas]] As the capital city, Dublin is the seat of the national parliament of Ireland, the Oireachtas. It is composed of the President of Ireland, Seanad Éireann as the upper house, and Dáil Éireann as the lower house. The President resides in Áras an Uachtaráin in Phoenix Park, while both houses of the Oireachtas meet in Leinster House, a former ducal palace on Kildare Street. It has been the home of the Irish parliament since the creation of the Irish Free State in 1922. The old Irish Houses of Parliament of the Kingdom of Ireland are located in College Green.
+
+Government Buildings house the Department of the Taoiseach, the Council Chamber, the Department of Finance and the Office of the Attorney General. It consists of a main building (completed 1911) with two wings (completed 1921). It was designed by Thomas Manley Dean and Sir Aston Webb as the Royal College of Science. The First Dáil originally met in the Mansion House in 1919. The Irish Free State government took over the two wings of the building to serve as a temporary home for some ministries, while the central building became the College of Technology until 1989.[41] Although both it and Leinster House were intended to be temporary locations, they became the permanent homes of parliament from then on.
+
+For elections to Dáil Éireann, the city is divided into five constituencies: Dublin Central (3 seats), Dublin Bay North (5 seats), Dublin North-West (3 seats), Dublin South-Central (4 seats) and Dublin Bay South (4 seats). Nineteen TD's are elected in total.[42]
+
+Representation
+
+In the 2016 general election the Dublin Region elected 14 Fine Gael, 7 Sinn Féin, 6 Fianna Fáil, 3 People Before Profit, 2 Socialist Party, 2 Labour Party, 2 Green Party, 1 Social Democrats and 7 Independent TDs.[43]
+
+
+Geography
+
+Landscape
+
+Dublin_SPOT_1023.jpg entering the Irish Sea as it divides Dublin into the Northside and the Southside]] Dublin is situated at the mouth of the River Liffey and encompasses a land area of approximately in east-central Ireland. It is bordered by the Dublin Mountains, a low mountain range and sub range of the Wicklow Mountains, to the south and surrounded by flat farmland to the north and west.[44]
+
+Watercourses
+
+The River Liffey divides the city in two, between the Northside and the Southside. The Liffey bends at Leixlip from a northeasterly route to a predominantly eastward direction, and this point also marks the transition to urban development from more agricultural land usage.[45]
+
+Two secondary rivers further divide the city  – the River Tolka, running southeast into Dublin Bay, and the River Dodder running northeast to near the mouth of the Liffey, and these and the Liffey have multiple tributaries. A number of lesser rivers and streams also flow to the sea.
+
+Two canals – the Grand Canal on the southside and the Royal Canal on the northside – ring the inner city on their way from the west and the River Shannon.
+
+Cultural divide
+
+A north-south division once, to some extent, traditionally existed, with the River Liffey as the divider.[46] The Northside was generally seen as working class to middle class, while the Southside was seen as middle class to upper-middle class, although containing "pockets" of working class life.[47] There have also been some social divisions evident between the coastal suburbs in the east of the city, and the newer developments further to the west.[48]
+
+In some tourism and real-estate marketing contexts, inner Dublin is sometimes divided into a number of "quarters" or districts.[49][50] These include, the 'Medieval Quarter' (in the area of Dublin Castle, Christ Church and St Patrick's Cathedral and the old city walls),[51] the 'Georgian Quarter' (including the area around St Stephen's Green, Trinity College, and Merrion Square), the 'Docklands Quarter' (around the Dublin Docklands and Silicon Docks), the 'Cultural Quarter' (around Temple Bar), and 'Creative Quarter' (between South William Street and George's Street).[52]
+
+Climate
+
+Similar to much of the rest of northwestern Europe, Dublin experiences a maritime climate (_Cfb_) with cool summers, mild winters, and a lack of temperature extremes. The average maximum January temperature is , while the average maximum July temperature is . On average, the sunniest months are May and June, while the wettest month is October with of rain, and the driest month is February with . Rainfall is evenly distributed throughout the year.
+
+Dublin's sheltered location on the east coast makes it the driest place in Ireland, receiving only about half the rainfall of the west coast. Ringsend in the south of the city records the lowest rainfall in the country, with an average annual precipitation of ,[53] with the average annual precipitation in the city centre being . The main precipitation in winter is rain; however snow showers do occur between November and March. Hail is more common than snow. The city experiences long summer days and short winter days. Strong Atlantic winds are most common in autumn. These winds can affect Dublin, but due to its easterly location, it is least affected compared to other parts of the country. However, in winter, easterly winds render the city colder and more prone to snow showers.
+
+In the 20th century, smog and air-pollution were an issue in the city, precipitating a ban on bituminous fuels across Dublin.[54][55] The ban was implemented in 1990 to address black smoke concentrations, that had been linked to cardiovascular and respiratory deaths in residents. Since the ban, non-trauma death rates, respiratory death rates and cardiovascular death rates have declined – by an estimated 350 deaths annually.[56][57]
+
+  Climate data for Dublin
+  ---------------------------------
+  Month
+  Average sea temperature °C (°F)
+  Mean daily daylight hours
+  Average Ultraviolet index
+  Source: Weather Atlas[58]
+
+
+Places of interest
+
+Molly_Malone.jpg statue]]
+
+Landmarks
+
+Dublin has many landmarks and monuments dating back hundreds of years. One of the oldest is Dublin Castle, which was first founded as a major defensive work on the orders of England's King John in 1204, shortly after the Norman invasion of Ireland in 1169, when it was commanded that a castle be built with strong walls and good ditches for the defence of the city, the administration of justice, and the protection of the King's treasure.[59] Largely complete by 1230, the castle was of typical Norman courtyard design, with a central square without a keep, bounded on all sides by tall defensive walls and protected at each corner by a circular tower. Sited to the south-east of Norman Dublin, the castle formed one corner of the outer perimeter of the city, using the River Poddle as a natural means of defence.
+
+O'Connell_Street_Dublin_&_Jim_Larkin.JPG rises behind the statue of Jim Larkin]] One of Dublin's newest monuments is the Spire of Dublin, officially entitled the "Monument of Light."[60] It is a conical spire made of stainless steel, located on O'Connell Street where it meets Henry Street and North Earl Street. It replaces Nelson's Pillar and is intended to mark Dublin's place in the 21st century. The spire was designed by Ian Ritchie Architects,[61] who sought an "Elegant and dynamic simplicity bridging art and technology". The base of the monument is lit and the top is illuminated to provide a beacon in the night sky across the city.
+
+The Old Library of Trinity College, Dublin, holding the Book of Kells, is one of the city's most visited sites.[62] The Book of Kells is an illustrated manuscript created by Irish monks circa 800 AD. The Ha'penny Bridge, an iron footbridge over the River Liffey, is one of the most photographed sights in Dublin and is considered to be one of Dublin's most iconic landmarks.[63]
+
+Other landmarks and monuments include Christ Church Cathedral and St Patrick's Cathedral, the Mansion House, the Molly Malone statue, the complex of buildings around Leinster House, including part of the National Museum of Ireland and the National Library of Ireland, The Custom House and Áras an Uachtaráin. Other sights include the Anna Livia monument. The Poolbeg Towers are also landmark features of Dublin, and visible from various spots around the city.
+
+Parks
+
+Dublin_Stephen's_Green-44_edit.jpg]] There are many green-spaces around the city, and Dublin City Council manages over of parks.[64] Public parks include the Phoenix Park, Herbert Park, St Stephen's Green, Saint Anne's Park and Bull Island. The Phoenix Park is about west of the city centre, north of the River Liffey. Its perimeter wall encloses , making it one of the largest walled city parks in Europe.[65] It includes large areas of grassland and tree-lined avenues, and since the 17th century has been home to a herd of wild fallow deer. The residence of the President of Ireland (Áras an Uachtaráin), which was built in 1751,[66] is located in the park. The park is also home to Dublin Zoo, Ashtown Castle, and the official residence of the United States Ambassador. Music concerts are also sometimes held in the park.
+
+St Stephen's Green is adjacent to one of Dublin's main shopping streets, Grafton Street, and to a shopping centre named for it, while on its surrounding streets are the offices of a number of public bodies.
+
+Saint Anne's Park is a public park and recreational facility, shared between Raheny and Clontarf, both suburbs on the Northside. The park, the second largest municipal park in Dublin, is part of a former estate assembled by members of the Guinness family, beginning with Benjamin Lee Guinness in 1835 (the largest municipal park is nearby (North) Bull Island, also shared between Clontarf and Raheny), featuring a 5 km beach.
+
+
+Economy
+
+The_Ulster_Bank_Group_HQ,_George's_Quay_Plaza_-_geograph.org.uk_-_1743476.jpg on George's Quay Plaza]] The Dublin region is the economic centre of Ireland, and was at the forefront of the country's economic expansion during the Celtic Tiger period. In 2009, Dublin was listed as the fourth richest city in the world by purchasing power and 10th richest by personal income.[67][68] According to _Mercer's 2011 Worldwide Cost of Living Survey_, Dublin is the 13th most expensive city in the European Union (down from 10th in 2010) and the 58th most expensive place to live in the world (down from 42nd in 2010).[69] , approximately 874,400 people were employed in the Greater Dublin Area. Around 60% of people who are employed in Ireland's financial, ICT, and professional sectors are located in this area.[70]
+
+A number of Dublin's traditional industries, such as food processing, textile manufacturing, brewing, and distilling have gradually declined, although Guinness has been brewed at the St. James's Gate Brewery since 1759. Economic improvements in the 1990s attracted a number of global pharmaceutical, information and communications technology companies to the city and Greater Dublin Area. Companies such as Microsoft, Google, Amazon, eBay, PayPal, Yahoo!, Facebook, Twitter, Accenture and Pfizer now have European headquarters and/or operational bases in the city, with several located in enterprise clusters like the Digital Hub and Silicon Docks. This presence of these companies has driven economic expansion in the city and led to Dublin sometimes being referred to as the "Tech Capital of Europe".[71]
+
+Financial services have also become important to the city since the establishment of Dublin's International Financial Services Centre in 1987. More than 500 operations are approved to trade under the IFSC programme. The centre is host to half of the world's top 50 banks and to half of the top 20 insurance companies.[72] Many international firms have established major headquarters in the city, such as Citibank. The Irish Stock Exchange (ISEQ), Internet Neutral Exchange (INEX) and Irish Enterprise Exchange (IEX) are also located in Dublin. Dublin has been positioned as one of the main cities vying to host Financial Services companies hoping to retain access to the Eurozone after Brexit. The Celtic Tiger also led to a temporary boom in construction, with large redevelopment projects in the Dublin Docklands and Spencer Dock. Completed projects include the Convention Centre, the 3Arena, and the Bord Gáis Energy Theatre.
+
+In the second quarter of 2018, Dublin touched its lowest unemployment rate in a decade, when it fell down to 5.7% as reported by the Dublin Economic Monitor.[73][74]
+
+
+Transport
+
+Road
+
+DublinM50.png surrounding Dublin]] The road network in Ireland is primarily focused on Dublin. The M50 motorway, a semi-ring road which runs around the south, west and north of the city, connects important national primary routes to the rest of the country. In 2008, the West-Link toll bridge was replaced by the eFlow barrier-free tolling system, with a three-tiered charge system based on electronic tags and car pre-registration.[75]
+
+The first phase of a proposed eastern bypass for the city is the Dublin Port Tunnel, which officially opened in 2006 to mainly cater for heavy vehicles. The tunnel connects Dublin Port and the M1 motorway close to Dublin Airport. The city is also surrounded by an inner and outer orbital route. The inner orbital route runs approximately around the heart of the Georgian city and the outer orbital route runs primarily along the natural circle formed by Dublin's two canals, the Grand Canal and the Royal Canal, as well as the North and South Circular Roads.
+
+The 2016 TomTom Traffic Index ranked Dublin the 15th most congested city in the world and the 7th most congested in Europe.[76][77]
+
+Bus
+
+Dublin is served by a network of nearly 200 bus routes which cover the city and suburbs. The majority of these are provided by Dublin Bus, with a modest number having been transferred to Go Ahead Ireland in 2018, but a number of smaller companies also operate. Fares are generally calculated on a stage system based on distance travelled. There are several different levels of fares, which apply on most services. A "Real Time Passenger Information" system was introduced at Dublin Bus bus stops in 2012. Electronically displayed signs relay information about the time of the next bus' arrival based on its GPS determined position. The National Transport Authority is responsible for integration of bus and rail services in Dublin and has been involved in introducing a pre-paid smart card, called a Leap card, which can be used on all of Dublin's public transport services.
+
+Cycling
+
+The 2011 Census showed that 5.9 percent of commuters in Dublin cycled. A 2013 report by Dublin City Council on traffic flows crossing the canals in and out of the city found that just under 10% of all traffic was made up of cyclists, representing an increase of 14.1% over 2012 and an 87.2% increase over 2006 levels and is attributed to measures, such as, the Dublinbikes bike rental scheme, the provision of cycle lanes, public awareness campaigns to promote cycling and the introduction of the 30kph city centre speed limit.[78]
+
+Dublin City Council began installing cycle lanes and tracks throughout the city in the 1990s, and the city had over of specific on- and off-road tracks for cyclists.[79] In 2011, the city was ranked 9th of major world cities on the _Copenhagenize Index of Bicycle-Friendly Cities_.[80] The same index showed a fall to 15th in 2015,[81] and Dublin was outside the top 20 in 2017.[82]
+
+Dublin_Bikes.jpg terminal in the Docklands]] Dublinbikes is a self-service bicycle rental scheme which has been in operation in Dublin since 2009. Sponsored by JCDecaux and Just Eat, the scheme consists of hundreds of unisex bicycles stationed at 44 terminals throughout the city centre. Users must make a subscription for either an annual Long Term Hire Card or purchase a three-day ticket.[83] , Dublinbikes had over 66,000 long-term subscribers making over 2 million journeys per year.[84][85]
+
+Rail and tram
+
+LUAS_trams_at_Tallacht_terminus._-_geograph.org.uk_-_1387090.jpg trams at the Tallaght terminus]] Heuston and Connolly stations are the two main railway stations in Dublin. Operated by Iarnród Éireann, the Dublin Suburban Rail network consists of five railway lines serving the Greater Dublin Area and commuter towns such as Drogheda and Dundalk in County Louth. One of these lines is the electrified Dublin Area Rapid Transit (DART) line, which runs primarily along the coast of Dublin, comprising 31 stations, from Malahide and Howth southwards as far as Greystones in County Wicklow.[86] Commuter rail operates on the other four lines using Irish Rail diesel multiple units. In 2013, passengers for DART and Dublin Suburban lines were 16 million and 11.7 million, respectively (around 75% of all Irish Rail passengers).[87]
+
+Dublin once had an extensive system of trams but this was largely phased out by 1949. A new light rail system, often described as a tram system, the Luas, was launched in 2004, and is run by Transdev Ireland (under contract from Transport Infrastructure Ireland), carrying over 34 million passengers annually.[88] The network consists of two interconnecting tram lines; the Red Line links the Docklands and city centre with the south-western suburbs of Tallaght and Saggart, while the Green Line connects northern inner city suburbs and the main city centre with suburbs to the south of the city including Sandyford and Brides Glen. Together these lines comprise a total 67 stations and of track.[89] Construction of a 6 km extension to the Green Line, bringing it into the north of the city, commenced in June 2013 and was opened for passenger travel on 9 December 2017.[90]
+
+A metro service is proposed under the name of Metrolink, and planned to run from Dublin's northside to Sandyford via Dublin Airport and St. Stephen's Green, with construction projected to start after 2021.[91]
+
+Rail and ferry
+
+Dublin Connolly is connected by bus to Dublin Port and ferries run by Irish Ferries and Stena Line to Holyhead for connecting trains on the North Wales Coast Line to Chester, Crewe and London Euston. Dublin Connolly to Dublin Port can be reached via Amiens Street, Dublin into Store Street or by Luas via Busáras where Dublin Bus operates services to the Ferry Terminal.[92]
+
+Air
+
+Dublin Airport
+
+Dublinairport-terminal2.jpg]] Dublin Airport (owned and operated by DAA) is located north of Dublin city, near Swords in the administrative county of Fingal. The headquarters of Ireland's flag carrier Aer Lingus and regional airlines Stobart Air and CityJet are located there, and those of low-cost carrier Ryanair nearby. The airport offers a short and medium haul network, domestic services to regional airports in Ireland, and long-haul services to the United States, Canada, the Middle East and Hong Kong. Dublin Airport is the 11th busiest in the European Union,[93] and by far the busiest airport on the island of Ireland.
+
+In 2014, Dublin Airport was the 18th busiest airport in Europe, serving over 21 million passengers.[94] By 2016 this increased to 27.9 million passengers passing through the airport, establishing an all-time record supported by growth in both short- and long-haul networks.[95] In 2015 and 2016, transatlantic traffic grew, with 158 summer flights a week to North America, making it the sixth largest European hub for that route over the year.[96] Transatlantic traffic was also the fastest-growing segment of the market for the airport in 2016, in which a 16% increase from 2015 brought the yearly number of passengers travelling between Dublin and North America to 2.9 million.[97]
+
+From 2010 to 2016, Dublin Airport saw an increase of nearly 9.5 million passengers in its annual traffic,[98] as the number of commercial aircraft movements has similarly followed a growth trend from 163,703 in 2013 to 191,233 in 2015.[99]
+
+Other air transport
+
+Dublin is also served by Weston Airport and other small facilities, by a range of helicopter operators, and the military and some State services use Casement Aerodrome nearby.
+
+
+Higher education
+
+Dublin is the largest centre of education in Ireland, and is home to four universities and a number of other higher education institutions. It was the European Capital of Science in 2012.[100][101]
+
+Trinity_College.jpg]] Long_Room_Interior,_Trinity_College_Dublin,_Ireland_-_Diliff.jpg]] The University of Dublin is the oldest university in Ireland, dating from the 16th century, and is located in the city centre. Its sole constituent college, Trinity College (TCD), was established by Royal Charter in 1592 under Elizabeth I. It was closed to Roman Catholics until 1793, and the Catholic hierarchy then banned Roman Catholics from attending until 1970.[102] It is situated in the city centre, on College Green, and has 15,000 students.
+
+The National University of Ireland (NUI) has its seat in Dublin, which is also the location of the associated _constituent university_ of University College Dublin (UCD), which has over 30,000 students. Founded in 1854, it is now the largest university in Ireland. UCD's main campus is at Belfield, about from the city centre, in the southeastern suburbs.
+
+As of 2019, Dublin's principal, and Ireland's largest, institution for technological education and research, Dublin Institute of Technology (DIT), with origins in 1887, has merged with two major suburban third level institutions, Institute of Technology, Tallaght and Institute of Technology, Blanchardstown, to form Technological University Dublin, Ireland's second largest university by student population. The new university offers a wide range of courses in areas include engineering, architecture, the sciences, health, journalism, digital media, hospitality, business, art and design, music and the humanities programmes, and has three long-term campuses, at Grangegorman, Tallaght and Blanchardstown.
+
+Dublin City University (DCU), formerly the National Institute for Higher Education (NIHE) Dublin, offers courses in business, engineering, science, communication courses, languages and primary education. It has around 16,000 students, and its main campus is located about from the city centre, in the northern suburbs. Aside from the main Glasnevin Campus, the Drumcondra campus includes the former St Patrick's College of Education, now also hosting students from the nearby Mater Dei Institute and students from the Church of Ireland College of Education.[103]
+
+The Royal College of Surgeons in Ireland (RCSI) conducts a medical school which is a recognised college of the NUI, and is situated at St. Stephen's Green in the city centre; there are also large medical schools within UCD and Trinity College. The National College of Art and Design (NCAD) provides education and research in art, design and media. The National College of Ireland (NCI) is also based in Dublin, as well as the Economic and Social Research Institute, a social science research institute, on Sir John Rogerson's Quay, and the Dublin Institute for Advanced Studies.
+
+Dublin is also home to the Royal Irish Academy, membership of which is considered Ireland's highest academic honour.
+
+The Institute of International and European Affairs is also in Dublin. Dublin Business School (DBS) is Ireland's largest private third level institution with over 9,000 students located on Aungier Street, and Griffith College Dublin has its main facility in Portobello. There are also smaller specialised colleges, including The Gaiety School of Acting and the New Media Technology College.
+
+The Irish public administration and management training centre has its base in Dublin, the Institute of Public Administration provides a range of undergraduate and post graduate awards via the National University of Ireland and in some instances, Queen's University Belfast.
+
+The suburban town of Dún Laoghaire is home to the Dún Laoghaire Institute of Art, Design and Technology (IADT), which supports training and research in art, design, business, psychology and media technology.
+
+
+Demographics
+
+  ----------------------------------------------------------------- ------------- ------------
+  MAIN IMMIGRANT GROUPS IN DUBLIN CITY AND SUBURBS, 2016[104] |-\   Nationality   Population
+  Poland                                                            33,751[105]
+  United Kingdom                                                    19,196[106]
+  Romania                                                           16,808[107]
+  Lithuania                                                         9,869[108]
+  Brazil                                                            8,903[109]
+  Italy                                                             6,834[110]
+  India                                                             6,546[111]
+  Spain                                                             6,341[112]
+  Latvia                                                            5,771[113]
+  China                                                             5,748[114]
+  France                                                            5,576[115]
+  United States                                                     4,042[116]
+  Nigeria                                                           2,563[117]
+  Pakistan                                                          2,515[118]
+  Philippines                                                       2,204[119]
+  ----------------------------------------------------------------- ------------- ------------
+
+The City of Dublin is the area administered by Dublin City Council, but the term "Dublin" is also used to refer to the contiguous urban area which includes parts of the adjacent local authority areas of Dún Laoghaire–Rathdown, Fingal and South Dublin. Together, the four areas form the traditional County Dublin. This area is sometimes known as the Dublin Region. The population of the administrative area controlled by the City Council was 554,554 in the 2016 census,[120] while the population of the urban area was 1,173,179. The County Dublin population was 1,273,069 and that of the Greater Dublin Area 1,904,806. The area's population is expanding rapidly, and it is estimated by the Central Statistics Office that it will reach 2.1 million by 2020.[121]
+
+After World War Two, Italians were by far the largest immigrant group in both Dublin and Ireland and became synonymous with the catering and restaurant landscape.[122][123] Since the late 1990s, Dublin has experienced a significant level of net immigration, with the greatest numbers coming from the European Union, especially the United Kingdom, Poland and Lithuania.[124] There is also immigration from outside Europe, including from Brazil, India, the Philippines, China and Nigeria. Dublin is home to a greater proportion of newer arrivals than any other part of the country. Sixty percent of Ireland's Asian population lives in Dublin.[125] Over 15% of Dublin's population was foreign-born in 2006.[126]
+
+The capital attracts the largest proportion of non-Catholic migrants from other countries. Increased secularisation in Ireland has prompted a drop in regular Catholic church attendance in Dublin from over 90 percent in the mid-1970s down to 14 percent according to a 2011 survey.[127]
+
+According to the 2016 census, the population of Dublin was 86.2% white (including 862,381 white Irish [86.2%], 132,846 other white [13.2%] and 5,092 [.5%] white Irish traveller), 2% black (23,892), and 4.6% Asian (46,626). Additionally, 2.7% (27,412) are from other ethnic or cultural background, while 4.9% (49,092) did not state their ethnicity.[128] In terms of religion, 68.2% identified as Catholic, 12.7% as other stated religions, with 19.1% having no religion or no religion stated.[129]
+
+, there were 1,367 families within the Dublin region living in homeless accommodation or other emergency housing.[130]
+
+
+Culture
+
+National_Museum_of_Ireland.jpg]]
+
+The arts
+
+Dublin has a significant literary history, and produced many literary figures, including Nobel laureates William Butler Yeats, George Bernard Shaw and Samuel Beckett. Other influential writers and playwrights include Oscar Wilde, Jonathan Swift and the creator of Dracula, Bram Stoker. It is also the location of key and notable works of James Joyce, including _Ulysses_, which is set in Dublin and includes much topical detail. _Dubliners_ is a collection of short stories by Joyce about incidents and typical characters of the city during the early 20th century. Other renowned writers include J. M. Synge, Seán O'Casey, Brendan Behan, Maeve Binchy, John Banville and Roddy Doyle. Ireland's biggest libraries and literary museums are found in Dublin, including the National Print Museum of Ireland and National Library of Ireland. In July 2010, Dublin was named as a UNESCO City of Literature, joining Edinburgh, Melbourne and Iowa City with the permanent title.[131] KellsFol032vChristEnthroned.jpg]] There are several theatres within the city centre, and various well-known actors have emerged from the Dublin theatrical scene, including Noel Purcell, Michael Gambon, Brendan Gleeson, Stephen Rea, Colin Farrell, Colm Meaney and Gabriel Byrne. The best known theatres include the Gaiety, Abbey, Olympia, Gate, and Grand Canal. The Gaiety specialises in musical and operatic productions, and also opens its doors after the evening theatre production to host a variety of live music, dancing, and films. The Abbey was founded in 1904 by a group that included Yeats with the aim of promoting indigenous literary talent. It went on to provide a breakthrough for some of the city's most famous writers, such as Synge, Yeats himself and George Bernard Shaw. The Gate was founded in 1928 to promote European and American Avant Garde works. The Grand Canal Theatre is a newer 2,111 capacity theatre which opened in 2010 in the Grand Canal Dock area.
+
+Apart from being the focus of the country's literature and theatre, Dublin is also the focal point for much of Irish art and the Irish artistic scene. The Book of Kells, a world-famous manuscript produced by Celtic monks in AD 800 and an example of Insular art, is on display in Trinity College. The Chester Beatty Library houses a collection of manuscripts, miniature paintings, prints, drawings, rare books and decorative arts assembled by American mining millionaire (and honorary Irish citizen) Sir Alfred Chester Beatty (1875–1968). The collections date from 2700 BC onwards and are drawn from Asia, the Middle East, North Africa and Europe.
+
+Image_Floor_Mosaic_of_City_Hall_of_Dublin.jpg In addition public art galleries are found across the city, including the Irish Museum of Modern Art, the National Gallery, the Hugh Lane Municipal Gallery, the Douglas Hyde Gallery, the Project Arts Centre and the Royal Hibernian Academy. Some of the leading private galleries include Green on Red Gallery, Kerlin Gallery, Kevin Kavangh Gallery and Mother's Tankstation.
+
+Three branches of the National Museum of Ireland are located in Dublin: Archaeology in Kildare Street, Decorative Arts and History in Collins Barracks and Natural History in Merrion Street.[132] The same area is also home to a number of smaller museums such as Number 29 on Fitzwilliam Street and the Little Museum of Dublin on St. Stephen's Green. Dublin is home to the National College of Art and Design, which dates from 1746, and Dublin Institute of Design, founded in 1991. Dublinia is a living history attraction showcasing the Viking and Medieval history of the city.
+
+Dublin has long had an 'underground' arts scene, with Temple Bar hosting artists in the 1980s, and spaces such as the Project Arts Centre acting as a hub for collectives and new exhibitions. _The Guardian_ noted that Dublin's independent and underground arts flourished during the economic recession of c.2010.[133] Dublin also has many dramatic, musical and operatic companies, including Festival Productions, Lyric Opera Productions, the Pioneers' Musical & Dramatic Society, the Glasnevin Musical Society, Second Age Theatre Company, Opera Theatre Company and Opera Ireland.
+
+Dublin was shortlisted to be World Design Capital 2014.[134] Taoiseach Enda Kenny was quoted to say that Dublin "would be an ideal candidate to host the World Design Capital in 2014".[135]
+
+Entertainment
+
+Dublin has a vibrant nightlife and is reputedly one of Europe's most youthful cities, with an estimate of 50% of citizens being younger than 25.[136][137] There are many pubs across the city centre, with the area around St. Stephen's Green and Grafton Street, especially Harcourt Street, Camden Street, Wexford Street and Leeson Street, the location of many nightclubs and pubs.
+
+Temple_Bar_Dublin_at_Night.jpg]]
+
+The best known area for nightlife is Temple Bar, south of the River Liffey. The area has become popular among tourists, including stag and hen parties from Britain.[138] It was developed as Dublin's cultural quarter and does retain this spirit as a centre for small arts productions, photographic and artists' studios, and in the form of street performers and small music venues. However, it has been criticised as overpriced, false and dirty by Lonely Planet.[139] The areas around Leeson Street, Harcourt Street, South William Street and Camden/George's Street are popular nightlife spots for locals.
+
+Live music is popularly played on streets and at venues throughout Dublin, and the city has produced several musicians and groups of international success, including The Dubliners, Thin Lizzy, The Boomtown Rats, U2, The Script, Sinéad O'Connor, Boyzone, Kodaline and Westlife. The two best known cinemas in the city centre are the Savoy Cinema and the Cineworld Cinema, both north of the Liffey. Alternative and special-interest cinema can be found in the Irish Film Institute in Temple Bar and in the Light House Cinema in Smithfield. Large modern multiscreen cinemas are located across suburban Dublin. The 3Arena venue in the Dublin Docklands has played host to many world-renowned performers.
+
+Shopping
+
+Moore_Street_market,_Dublin.jpg Market]] Grafton_St,_Dublin.jpg]] Dublin city centre is a popular shopping destination for both locals and tourists. The city has numerous shopping districts, particularly around Grafton Street and Henry Street. The city centre is also the location of large department stores, including Arnotts, Brown Thomas and (prior to its 2015 closure) Clerys.
+
+The city retains a thriving market culture, despite new shopping developments and the loss of some traditional market sites. Amongst several historic locations, Moore Street remains one of the city's oldest trading districts.[140] There has also been some growth in local farmers' markets and other markets.[141][142] In 2007, Dublin Food Co-op relocated to a warehouse in The Liberties area, where it is home to market and community events.[143][144] Suburban Dublin has several modern retail centres, including Dundrum Town Centre, Blanchardstown Centre, the Square in Tallaght, Liffey Valley Shopping Centre in Clondalkin, Omni Shopping Centre in Santry, Nutgrove Shopping Centre in Rathfarnham, and Swords Pavilions in Swords.
+
+Media
+
+Dublin is the centre of both media and communications in Ireland, with many newspapers, radio stations, television stations and telephone companies based there. RTÉ is Ireland's national state broadcaster, and is based in Donnybrook. Fair City is RTÉ's soap opera, located in the fictional Dublin suburb of _Carraigstown_.
+
+Virgin Media Television, eir Sport, MTV Ireland and Sky News are also based in the city. The headquarters of An Post and telecommunications companies such as Eir, as well as mobile operators Vodafone and 3 are all located there. Dublin is also the headquarters of national newspapers such as _The Irish Times_ and _Irish Independent_, as well as local newspapers such as _The Evening Herald_.
+
+As well as being home to RTÉ Radio, Dublin also hosts the national radio networks Today FM and Newstalk, and local stations. Commercial radio stations based in the city include 4fm (94.9 MHz), Dublin's 98FM (98.1 MHz), Radio Nova 100FM (100.3 MHz), Q102 (102.2 MHz), SPIN 1038 (103.8 MHz), FM104 (104.4 MHz), Sunshine 106.8 (106.8 MHz). There are also numerous community and special interest stations, including Dublin City FM (103.2 MHz), Dublin South FM (93.9 MHz), Liffey Sound FM (96.4 MHz), Near FM (90.3 MHz), and Raidió Na Life (106.4 MHz).
+
+Sport
+
+GAA
+
+Croke_Park_from_the_hill.jpg]] Croke Park is the largest sport stadium in Ireland. The headquarters of the Gaelic Athletic Association, it has a capacity of 82,300. It is the third-largest stadium in Europe after Nou Camp in Barcelona and Wembley Stadium in London.[145] It hosts the premier Gaelic football and hurling games, international rules football and irregularly other sporting and non-sporting events including concerts. Muhammad Ali fought there in 1972 and it played host to the opening and closing ceremonies of the 2003 Special Olympics. It also has conference and banqueting facilities. There is a GAA Museum there and tours of the stadium are offered, including a rooftop walk of the stadium. During the redevelopment of Lansdowne Road, Croke Park played host to the Irish Rugby Union Team and Republic of Ireland national football team as well as hosting the Heineken Cup rugby 2008–09 semi-final between Munster and Leinster which set a world record attendance for a club rugby match.[146] The Dublin GAA team plays most of their home league hurling games at Parnell Park.
+
+Rugby
+
+Aviva_Stadium(Dublin_Arena).JPG]] I.R.F.U. Stadium Lansdowne Road was laid out in 1874. This was the venue for home games of both the Irish Rugby Union Team and the Republic of Ireland national football team. A joint venture between the Irish Rugby Football Union, the FAI and the Government, saw it redeveloped into a new state-of-the-art 50,000 seat Aviva Stadium, which opened in May 2010.[147] Aviva Stadium hosted the 2011 UEFA Europa League Final.[148] Rugby union team Leinster Rugby play their competitive home games in the RDS Arena & the Aviva Stadium while Donnybrook Stadium hosts their friendlies and A games, Ireland A and Women, Leinster Schools and Youths and the home club games of All Ireland League clubs Old Wesley and Bective Rangers. County Dublin is home for 13 of the senior rugby union clubs in Ireland including 5 of the 10 sides in the top division 1A.[149]
+
+Football
+
+County Dublin is home to six League of Ireland association clubs; Bohemians F.C., Shamrock Rovers, St Patrick's Athletic, University College Dublin, Shelbourne and Cabinteely. The first Irish side to reach the group stages of a European competition (2011–12 UEFA Europa League group stage) are Shamrock Rovers, who play at Tallaght Stadium in South Dublin. Bohemian F.C play at Dalymount Park, the oldest football stadium in the country, and home ground for the Ireland football team from 1904 to 1990. St Patrick's Athletic play at Richmond Park; University College Dublin at the UCD Bowl in Dún Laoghaire–Rathdown; and Shelbourne at Tolka Park. Tolka Park, Dalymount Park, UCD Bowl and Tallaght Stadium, along with the Carlisle Grounds in Bray, hosted all Group 3 games in the intermediary round of the 2011 UEFA Regions' Cup.
+
+Cricket
+
+Dublin has two ODI cricket grounds in Castle Avenue, Clontarf and Malahide Cricket Club. The Castle Avenue hosted its first One Day International match on 21 May 1999 as part of the 1999 Cricket World Cup when Bangladesh played against the West Indies. College Park has Test status and played host to Ireland's first Test cricket match, a women's match against Pakistan in 2000.[150] The men's Irish cricket team also played their first Test match against Pakistan at Malahide Cricket Club Ground during 2018.[151] Leinster Lightning play their home inter-provincial matches in Dublin at College Park.[152]
+
+Other
+
+The Dublin Marathon has been run since 1980 at the end of October, having been staged on the final Monday in October from 1980 to 2015, before moving to the final Sunday in 2016 and 2017. The Women's Mini Marathon has been run since 1983 on the first Monday in June, which is also a bank holiday in Ireland. It is said to be the largest all female event of its kind in the world.[153]
+
+The Dublin area hosts greyhound racing at Shelbourne Park and horse racing at Leopardstown. The Dublin Horse Show takes place at the RDS, which hosted the Show Jumping World Championships in 1982. The national boxing arena is located in The National Stadium on the South Circular Road. The National Basketball Arena is located in Tallaght, is the home of the Irish basketball team, the venue for the basketball league finals, and has also hosted boxing and wrestling events. The National Aquatic Centre in Blanchardstown is Ireland's largest indoor water leisure facility. There are also Gaelic Handball, hockey and athletics stadia, most notably Morton Stadium in Santry, which held the athletics events of the 2003 Special Olympics.
+
+Cuisine
+
+As of the 2018 Michelin Guide, five Dublin restaurants shared six Michelin stars – including Restaurant Patrick Guilbaud with two.[154] Irish-born Kevin Thornton was awarded two Michelin stars in 2001 – though his restaurant, Thornton's, closed in 2016.[155] The Dublin Institute of Technology commenced a bachelor's degree in culinary skills in 1999.[156]
+
+Historically, Irish coffee house were associated with those working in media.[157] Since the beginning of the 21st century, with the growth of apartment living in the city, Dublin's cafés attracted younger patrons looking for an informal gathering place and an ad hoc office.[158] Cafés became more popular in the city, and Irish-owned coffee chains like Java Republic, Insomnia, and O'Brien's Sandwich Bars now compete internationally. In 2008, Irish barista Stephen Morrissey won the title of World Barista Champion.[159]
+
+
+Irish language
+
+There are 12,950 students in the Dublin region attending 34 gaelscoileanna (Irish-language primary schools) and 10 gaelcholáistí (Irish-language secondary schools).[160] Two Irish language radio stations Raidió Na Life and RTÉ Raidió na Gaeltachta have studios in the city, and the online and DAB station Raidió Rí-Rá broadcasts from studios in the city. A number of Irish language agencies are also located in the capital. Conradh na Gaeilge offers language classes, has a book shop and is a meeting place for different groups. The closest Gaeltacht to Dublin is the County Meath Gaeltacht of Ráth Cairn and Baile Ghib which is away.
+
+
+Twin cities
+
+Dublin is twinned with four places:[161][162][163]
+
+  ! style="background:#659ec7; width:10%;"| City    ! style="background:#659ec7; width:15%;"| Nation      ! style="background:#659ec7; width: 5%;"| Since
+  ------------------------------------------------- ----------------------------------------------------- -------------------------------------------------
+  ! ! style="background:lemonchiffon;"| SAN JOSE    ! ! style="text-align:center;"| United States[164]    ! !| 1986
+  ! ! style="background:lemonchiffon;"| LIVERPOOL   ! ! style="text-align:center;"| United Kingdom[165]   ! !| 1986
+  ! ! style="background:lemonchiffon;"| BARCELONA   ! ! style="text-align:center;"| Spain[166][167]       ! !| 1998
+  ! ! style="background:lemonchiffon;"| BEIJING     ! ! style="text-align:center;"| China[168][169]       ! !| 2011
+
+The city also has "co-operation agreements" with a number of other cities,[170] and has previously proposed agreements with Rio de Janeiro and the Mexican city of Guadalajara.[171][172]
+
+
+See also
+
+-   Dublin English
+-   List of people from Dublin
+-   List of subdivisions of County Dublin
+
+
+References
+
+
+Further reading
+
+-   John Flynn and Jerry Kelleher, _Dublin Journeys in America_ (High Table Publishing, 2003)
+-   Hanne Hem, _Dubliners, An Anthropologist's Account_, Oslo, 1994
+-   Pat Liddy, _Dublin A Celebration – From the 1st to the 21st century_ (Dublin City Council, 2000)
+-   Maurice Craig, _The Architecture of Ireland from the Earliest Times to 1880_ (Batsford, Paperback edition 1989)
+-   Frank McDonald, _Saving the City: How to Halt the Destruction of Dublin_ (Tomar Publishing, 1989)
+-   Edward McParland, _Public Architecture in Ireland 1680–1760_ (Yale University Press, 2001)
+
+
+External links
+
+-   Dublin City Council – Official website of the local authority for Dublin
+-   Dublin Tourist Board – Official tourism site
+-   Alternative Dublin Guide Hidden-Dublin Guide
+-   Dublin UNESCO City of Literature official site
+
+Dublin_(city) Category:841 establishments Category:Capitals in Europe Category:Cities in the Republic of Ireland Category:County towns in the Republic of Ireland Category:Leinster Category:Local administrative units of the Republic of Ireland Category:Populated coastal places in the Republic of Ireland Category:Port cities and towns of the Irish Sea Category:Staple ports Category:University towns in Ireland Category:Viking Age populated places Category:Populated places established in the 9th century Category:9th-century establishments in Ireland Category:Tourism regions of the island of Ireland
+
+[1]
+
+[2]
+
+[3]
+
+[4]
+
+[5]
+
+[6]
+
+[7]
+
+[8]
+
+[9]
+
+[10]
+
+[11]
+
+[12]
+
+[13]
+
+[14]
+
+[15]
+
+[16]
+
+[17] Clarke, Howard (1995). Medieval Dublin, the making of a metropolis. Irish Academic Press. p. 44.
+
+[18]
+
+[19]
+
+[20]
+
+[21]
+
+[22]
+
+[23]
+
+[24]
+
+[25]
+
+[26] "_The Story of Ireland_". Brian Igoe (2009). p.49.
+
+[27] "_Black Death_". Joseph Patrick Byrne (2004). p.58.
+
+[28]
+
+[29] "_Dublin: a cultural history_". Siobhán Marie Kilfeather (2005). Oxford University Press US. pp. 34–35.
+
+[30]
+
+[31]
+
+[32]
+
+[33]
+
+[34]
+
+[35]
+
+[36]
+
+[37]
+
+[38] Irish Statute Book. Local Government (Dublin) Act
+
+[39]
+
+[40]
+
+[41] Department of the Taoiseach: Guide to Government Buildings (2005)
+
+[42]
+
+[43]
+
+[44]
+
+[45]
+
+[46]
+
+[47]
+
+[48]
+
+[49]
+
+[50]
+
+[51]
+
+[52]
+
+[53]
+
+[54]
+
+[55]
+
+[56]
+
+[57]
+
+[58]
+
+[59]
+
+[60]
+
+[61]
+
+[62]
+
+[63]
+
+[64]
+
+[65] It is larger than all of London's city parks put together, and more than twice the area of New York's Central Park.
+
+[66]
+
+[67]
+
+[68]
+
+[69]
+
+[70]
+
+[71]
+
+[72]
+
+[73]
+
+[74]
+
+[75]
+
+[76]
+
+[77]
+
+[78]
+
+[79]
+
+[80]
+
+[81]
+
+[82]
+
+[83]
+
+[84]
+
+[85]
+
+[86]
+
+[87]
+
+[88]
+
+[89]
+
+[90]
+
+[91]
+
+[92]
+
+[93]
+
+[94]
+
+[95]
+
+[96]
+
+[97]
+
+[98]
+
+[99]
+
+[100]
+
+[101]
+
+[102]
+
+[103]
+
+[104]
+
+[105]
+
+[106] https://www.cso.ie/px/pxeirestat/Statire/SelectOut/PxSort.asp?file=20189181510459916935E7002&PLanguage=0&MainTable=E7002&MainTablePrestext=Population%20Usually%20Resident%20and%20Present%20in%20the%20State%202011%20to%202016%20(Number)&potsize=4
+
+[107]
+
+[108]
+
+[109] https://www.cso.ie/px/pxeirestat/Statire/SelectOut/PxSort.asp?file=2018918155169916935E7002&PLanguage=0&MainTable=E7002&MainTablePrestext=Population%20Usually%20Resident%20and%20Present%20in%20the%20State%202011%20to%202016%20(Number)&potsize=4
+
+[110]
+
+[111] https://www.cso.ie/px/pxeirestat/Statire/SelectOut/PxSort.asp?file=201891815739916935E7002&PLanguage=0&MainTable=E7002&MainTablePrestext=Population%20Usually%20Resident%20and%20Present%20in%20the%20State%202011%20to%202016%20(Number)&potsize=4
+
+[112]
+
+[113]
+
+[114] https://www.cso.ie/px/pxeirestat/Statire/SelectOut/PxSort.asp?file=20189181517289916935E7002&PLanguage=0&MainTable=E7002&MainTablePrestext=Population%20Usually%20Resident%20and%20Present%20in%20the%20State%202011%20to%202016%20(Number)&potsize=4
+
+[115]
+
+[116] https://www.cso.ie/px/pxeirestat/Statire/SelectOut/PxSort.asp?file=2018918158239916935E7002&PLanguage=0&MainTable=E7002&MainTablePrestext=Population%20Usually%20Resident%20and%20Present%20in%20the%20State%202011%20to%202016%20(Number)&potsize=4
+
+[117] https://www.cso.ie/px/pxeirestat/Statire/SelectOut/PxSort.asp?file=20189181511179916935E7002&PLanguage=0&MainTable=E7002&MainTablePrestext=Population%20Usually%20Resident%20and%20Present%20in%20the%20State%202011%20to%202016%20(Number)&potsize=4
+
+[118] https://www.cso.ie/px/pxeirestat/Statire/SelectOut/PxSort.asp?file=20189181518439916935E7002&PLanguage=0&MainTable=E7002&MainTablePrestext=Population%20Usually%20Resident%20and%20Present%20in%20the%20State%202011%20to%202016%20(Number)&potsize=4
+
+[119] https://www.cso.ie/px/pxeirestat/Statire/SelectOut/PxSort.asp?file=2018918159459916935E7002&PLanguage=0&MainTable=E7002&MainTablePrestext=Population%20Usually%20Resident%20and%20Present%20in%20the%20State%202011%20to%202016%20(Number)&potsize=4
+
+[120]
+
+[121]
+
+[122]
+
+[123] https://www.ucd.ie/t4cms/WP13_19.pdf
+
+[124] "Dublin heralds a new era in publishing for immigrants". _The Guardian_ 12 March 2006.
+
+[125]
+
+[126] "Dublin". OPENCities, a British Council project.
+
+[127] Catholic Church's Hold on Schools at Issue in Changing Ireland _The New York Times_, 21 January 2016
+
+[128]
+
+[129]
+
+[130]
+
+[131] _Irish Independent_ – Delight at City of Literature accolade for Dublin. Retrieved 26 July 2010.
+
+[132]
+
+[133]
+
+[134]
+
+[135]
+
+[136]
+
+[137]
+
+[138] Article on stag/hen parties in Edinburgh, Scotland (which mentions their popularity in Dublin), mentioning Dublin. Retrieved 15 February 2009.
+
+[139]
+
+[140]
+
+[141]
+
+[142]
+
+[143]
+
+[144] Dublin Food Co-op website _ref. Markets / News and Events / Recent Events / Events Archive_
+
+[145]
+
+[146]
+
+[147]
+
+[148]
+
+[149]
+
+[150]
+
+[151] {{ cite web|url = http://www.cricketireland.ie/news/article/pakistan-confirmed-as-irelands-first-test-opponents | title = Pakistan Confirmed as Ireland's First Test Opponents | website = cricketireland.ie | accessdate = 28 August 2018 }}
+
+[152]
+
+[153]
+
+[154]
+
+[155]
+
+[156]
+
+[157]
+
+[158]
+
+[159]
+
+[160]
+
+[161]
+
+[162]
+
+[163]
+
+[164]
+
+[165]
+
+[166]
+
+[167]
+
+[168]
+
+[169]
+
+[170]
+
+[171]
+
+[172]

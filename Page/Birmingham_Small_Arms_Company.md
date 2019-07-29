@@ -1,0 +1,356 @@
+THE BIRMINGHAM SMALL ARMS COMPANY LIMITED (BSA) was a major British industrial combine, a group of businesses manufacturing military and sporting firearms; bicycles; motorcycles; cars; buses and bodies; steel; iron castings; hand, power, and machine tools; coal cleaning and handling plants; sintered metals; and hard chrome process.
+
+After the Second World War, BSA did not manage its business well, and a government-organised rescue operation in 1973 led to a takeover of such operations as it still owned. Those few that survived this process disappeared into the ownership of other businesses.
+
+
+History of the BSA industrial group
+
+Machine-made guns
+
+BSA began in June 1861 in the Gun Quarter, Birmingham, England. It was formed by a group of fourteen gunsmith members of the Birmingham Small Arms Trade Association specifically to manufacture guns by machinery. They were encouraged to do this by the War Office which gave the BSA gunsmiths free access to technical drawings and to the War Office's Board of Ordnance's Royal Small Arms Factory factory at Enfield. New machinery developed in the USA installed at Enfield had greatly increased its output without needing more skilled craftsmen.[1] This new machinery brought to Birmingham the principle of the interchangeability of parts.[2] Gevär_-_Livrustkammaren_-_96933.tif BSA bought of land at Small Heath, Birmingham, built a factory there and made a road on the site calling it Armoury Road.[3] Their enterprise was rewarded in 1863 with an order for 20,000 Turkish infantry rifles.[4]
+
+The system of management of BSA was changed in 1863 when shareholders elected a Board of Directors: Joseph Wilson, Samuel Buckley, Isaac Hollis, Charles Playfair, Charles Pryse, Birmingham mayor Sir John Ratcliffe (c.1798-1864), Edward Gem, and J.F. Swinburn under the chairmanship of John Dent Goodman (1816-1900).[5]
+
+Erratic demand
+
+The first War Office contract was not agreed until 1868. In 1879 without work the factory was shut for a year.[6]
+
+New ventures
+
+Bicycles
+
+The next year, 1880, BSA branched out into bicycle manufacture.[7] The gun factory proved remarkably adaptable to the manufacture of cycle parts. What cycles needed was large quantities of standard parts accurately machined at low prices.[8] In 1880 BSA manufactured the Otto Dicycle, In the 1880s the company began to manufacture safety bicycles on their own account and not until 1905 was the company's first experimental motorcycle constructed. Bicycle production ceased in 1887 as the company concentrated on producing the Lee–Metford magazine-loading rifle for the War Office which was re-equipping the British Army with it. The order was for 1,200 rifles per week. BSA recommenced manufacturing bicycles on their own behalf from 1908. BSA Cycles Ltd was set up in 1919 for the manufacture of both bicycles and motorcycles. BSA sold the bicycle business to Raleigh in 1957 after separating the bicycle and motorcycle business in 1953.
+
+Bicycle components
+
+In 1893, BSA commenced making bicycle hubs[9] and continued to supply the cycle trade with bicycle parts up to 1936. BSA bought The Eadie Manufacturing Company of Redditch in 1907 and so began to manufacture the Eadie two speed hub gear and the Eadie coaster brake hub. BSA also signed an agreement with the Three Speed Gear Syndicate in 1907 to manufacture a 3 speed hub under licence. This was later classified as the Sturmey Archer Type X. BSA introduced a 'Duo' hub in the late 1930s which was capable of one fixed gear and one gear with a freewheel. All BSA hub gear production temporarily ceased in 1939, until they recommenced making their 3 speed hub around 1945. The Eadie coaster hub made a brief return in 1953 on two BSA bicycle models. BSA forever ceased production of their hub gears in 1955.
+
+Ammunition
+
+BSA sold its ammunition business in 1897 to Birmingham Metal and Munitions Company Limited part of the Nobel-Dynamite Trust, through Kynoch a forerunner of ICI.[10]
+
+Sparkbrook Royal Small Arms Factory
+
+In 1906 Frank Dudley Docker was appointed a director of the company. By the autumn of that year BSA was in some difficulty. They had purchased the Sparkbrook Royal Small Arms Factory from the War Office, and in return, the War Office undertook to give BSA a quarter of all orders for Lee–Enfield rifles. But, the War Office did not honour their undertaking.[11] The ensuing financial crisis did not prevent BSA from signing an agreement to purchase control of bicycle component manufacturer, the Eadie Manufacturing Company of Redditch, on 11 February 1907. That decision was ratified by the shareholders of both companies at separate Extraordinary General Meetings held in the Grand Hotel, Birmingham on 27 February 1907. Albert Eadie became a BSA director, a post he held until his death in 1931.[12]
+
+Sporting firearms
+
+The very variable military market was now supported by sales of target military rifles, sporting rifles, various patterns of miniature rifles and air rifles. Aperture sights were in demand for Bisley and other military rifle meetings.[13]
+
+Motorcycles
+
+Motor bicycles were added to bicycle products in 1910. The BSA 3½ hp was exhibited at the 1910 Olympia Show, London for the 1911 season. The entire BSA production sold out in 1911, 1912 and 1913.[14]
+
+Motor cars
+
+BSA cars
+
+In an effort to make use of the Sparkbrook factory BSA established a motorcar department there. An independent part of it was occupied by Lanchester Motor Company. The first prototype automobile was produced in 1907. The following year, marketed under BSA Cycles Ltd, the company sold 150 automobiles and again began producing complete bicycles on its own account. By 1909 it was clear the new motorcar department was unsuccessful; an investigation committee reported to the BSA Board on the many failures of its management and their poor organisation of production.
+
+Daimler cars and trucks
+
+Dudley Docker had joined the board in 1906 and was appointed deputy chairman of BSA in 1909. He had made a spectacular financial success of a merger of five large rolling-stock companies in 1902 and become the leader of the period's merger movement. Believing he could buy the missing management skills that could not be found within BSA he started merger talks with The Daimler Company Limited of Coventry. Daimler and Rover were then the largest British car producers. Daimler was immensely profitable. After its capital reconstruction in 1904 Daimler's profits were 57 per cent and 150 per cent returns on invested capital in 1905 and 1906. The attraction for Daimler shareholders was the apparent stability of BSA.[15] Daimler_DK400_RSP5533b.jpg So in 1910 BSA purchased Daimler with BSA shares but Docker who negotiated the arrangements either ignored or failed in his assessment of their consequences for the new combine. The combine was never adequately balanced or co-ordinated. One of the financial provisions obliged Daimler to pay BSA an annual dividend of £100,000 representing approximately 40 per cent of the actual cash BSA had put into Daimler. This financial burden deprived Daimler of badly needed cash to fund development, forcing the Daimler company to borrow money from the Midland Bank.[16]
+
+BSA had still not recovered financially from the earlier purchase of Royal Small Arms factory at Sparkbrook and BSA were not in a position to finance Daimler, nor had either company ample liquid resources. BSA went ahead with motorcycle production in 1910, their first model available for the 1911 season. In 1913 the BSA group were compelled through pressure from the Midland Bank to make a capital issue of 300,000 preference shares. In the short term this was to solve the liquidity issue but further diluted the group's capitalisation.[17]
+
+Dudley Docker retired as a BSA director in 1912 and installed Lincoln Chandler on the BSA board as his replacement. Dudley Docker liked to draw a comparison between the BSA~Daimler merger he engineered and that of his 1902 merger of Metropolitan Carriage Wagon & Finance Company and Patent Shaft. However, there was not the integration of facilities in the BSA~Daimler case, nor was there a reorganisation of either BSA or Daimler and in view of the earlier criticism contained in the 1909 report of the investigation committee, BSA continued to produce cars of their own using Daimler engines. In 1913 Daimler employed 5,000 workers to manufacture 1,000 vehicles, an indication that things were not well.[18]
+
+Steel bodies
+
+In 1912, BSA would be one of two automobile manufacturers pioneering the use of all-steel bodies, joining Hupmobile in the US.[19] Lewis_MG_(_tanyacameron).jpg]]
+
+Lewis Automatic Machine Gun
+
+In 1913 BSA undertook to manufacture quick-firing machine guns for the Lewis Automatic Arms Company whose rights covered the world except for the American Continent.[20]
+
+First World War
+
+During the First World War, the company returned to arms manufacture and greatly expanded its operations. BSA produced rifles, Lewis guns, shells, bicycles, motorcycles and, through Daimler, aero engines, aircraft and other vehicles for the war effort as well as machine tools.
+
+Following the Armistice the BSA group was described by its chairman as:
+
+-   Three distinct legal entities: BSA guns, BSA (machine) tools† and BSA cycles all at Sparkbrook, Smallheath and Redditch
+-   Daimler at Coventry
+-   William Jessop and Savilles the two steel-making companies in Sheffield
+-   Daimler Hire and Burton Griffiths† in London[21]
+
+
+
+        † later known as BSA's _Tool Group_.
+
+New ventures
+
+Motorcycles
+
+In November 1919 BSA launched their first 50 degree vee-twin, Model E, 770cc side valve (6-7 hp) motorcycle for the 1920 season.[22] The machine had interchangeable valves, total loss oil system with mechanical pump and an emergency hand one. Retail price was £130. Other features were Amac carburettor, chain drive, choice of magneto or Magdyno, 7-plate clutch, 3 speed gear box with kickstarter and new type of cantilever fork[23]
+
+Aviation
+
+During the war Daimler had built enormous numbers of aero engines and aircraft and by the end was building 80 Airco de Havilland bombers a month. In February 1920 BSA amalgamated[24] with what was the world's largest aircraft manufacturer, Aircraft Manufacturing Company (Airco), Airco's main plant at Hendon had employed between 7,000 and 8,000 people.[25] The Airco group of companies had turned out a new aircraft every 45 minutes.[26]
+
+Within days BSA discovered Airco was in a far more serious financial state than George Holt Thomas had revealed. Holt Thomas was immediately dropped from his new seat on the BSA board and all BSA's new acquisitions were placed in the hands of a liquidator. Some of the businesses were allowed to continue for some years, Aircraft Transport and Travel's assets being eventually rolled into Daimler Air Hire to make Daimler Airway Limited. BSA failed to pay a dividend for the following four years while it tried to recover from its losses.[27] Some relief was achieved when in March 1924 Daimler Airway and its management became the major constituent of Imperial Airways. BSA_TB210HP_Roadster_1922-26_V_Twin.jpg As well as the Daimler car range, BSA Cycles Ltd re-entered the car market under the BSA name in 1921 with a V-twin engined light car followed by four-cylinder models up to 1926, when the name was temporarily dropped. In 1929 a new range of 3- and 4-wheel cars appeared and production of these continued until 1936.
+
+By the end of 1924 difficult economic conditions left the bulk of BSA profits coming from cars and cycles. There were no sales of arms for military purposes in spite of large new facilities built at Government's request. The shares in Pennsylvania's Jessop Steel Co were disposed of without loss.[28] During 1928 there was a drastic reorganisation of the business of some BSA subsidiaries.[29]
+
+By 1930 the BSA Group's primary activities were BSA cycles and Daimler vehicles.[30]
+
+Car production under the BSA name ceased in the 1930s. BSA remained the largest manufacturer of motorcycles but the market was less than half the size of the late 1920s and production was unprofitable yet the value of BSA's motor cars and cycles was now more than half group turnover.[31]
+
+Lanchester
+
+In 1931 the Lanchester Motor Company at Sparkbrook was acquired[32][33][34] and production of their cars transferred to Daimler's Coventry works. The first new product was a version of the Daimler Light Twenty or 16/20 and called Lanchester 15/18.
+
+Lanchester Type 1518 - 1932 5905514590.jpg|Lanchester 15/18
+October 1931
+2504 cc
+6 Lanchester Ten 6-light saloon 1936 5917710821 3a71f2bf4b o.jpg|Lanchester Ten
+September 1932
+1203 cc
+4 Daimler 15 HP 1934 4860323967 .jpg|Daimler Fifteen
+September 1932
+1805 cc
+6 BSA 10 1185cc October 1933.JPG|BSA Ten
+October 1932
+1185 cc
+4
+
+Economic conditions began to improve in the mid 1930s and BSA's activities and profits all grew sharply. International tensions added more activity. An aero engine shadow factory was built and entered production during 1938. Motor cycle sales shrank but BSA maintained its relative position. 1937's new British registrations fell from 57,000 to 46,500. Defence and military equipment including Daimler's Scout car were in heavy demand in Britain and in export markets.[35]
+
+Armaments
+
+In the 1930s, the board of directors authorised expenditure on bringing their arms-making equipment back to use – it had been stored at company expense since the end of the Great War in the belief that BSA might again be called upon to perform its patriotic duty. In 1939, BSA acquired the blueprints for a submachine gun designed by Hungarian arms designer Pál Király as well as the rights to manufacture it. Examples were produced in 9mm Mauser Export calibre according to Kiraly's design. It was estimated that these arms would only cost 5 pounds each to manufacture. However, at the time, submachine guns were viewed as "gangster weapons" and plans to manufacture it were shelved.[36]
+
+Second World War
+
+Daimler_mark_14_x_4_armoured_car_-_Imperial_War_Museum_1.jpg]] By the outbreak of the Second World War, BSA Guns Ltd at Small Heath, was the only factory producing rifles in the UK. The Royal Ordnance Factories did not begin production until 1941. BSA Guns Ltd was also producing .303 Browning machine guns for the Air Ministry at the rate of 600 guns per week in March 1939 and Browning production was to peak at 16,390 per month by March 1942. The armed forces had chosen the 500 cc side-valve BSA M20 motorcycle as their preferred machine. On the outbreak of war the Government requisitioned the 690 machines BSA had in stock as well as placing an order for another 8,000 machines. South Africa, Ireland, India, Sweden and the Netherlands also wanted machines.
+
+The Government passed the Emergency Powers (Defence) Act 1939 on 24 August allowing the drafting of defence regulations affecting food, travel, requisitioning of land and supplies, manpower and agricultural production. A second Emergency Powers (Defence) Act was passed on 22 May 1940 allowing the conscription of labour. The fall of France had not been anticipated in Government planning and the encirclement of a large part of the British Expeditionary Force into the Dunkirk pocket resulted in a hasty evacuation of that part of the B.E.F following the abandonment of their equipment. The parlous state of affairs "no arms, no transport, no equipment" in the face of the threat of imminent invasion of Britain by Nazi forces was recorded by the Chief of the Imperial General Staff Field Marshal Sir Alan Brooke, 1st Viscount Alanbrooke in his diary entries of the 1/2 July 1940.[37] BSA_G14_with_sidecar_and_machine_gun.JPG The creation of the Home Guard (initially as the Local Defence Volunteers) following Anthony Eden's broadcast appeal to the Nation on Tuesday 14 May 1940 also created further demand for arms production to equip this new force. BSA, as the only rifle producer in Britain, had to step up to the mark and the workforce voluntarily went onto a seven-day week.[38] Motorcycle production was also stepped up from 500 to 1,000 machines per week which meant a finished machine coming off the production line every 5 minutes. The motorcycle department had been left intact in 1939 due to demand which was doubled following Dunkirk. At the same time BSA staff were providing lectures and demonstrations on motorcycle riding and maintenance to 250,000 officers and men in all parts of the UK.
+
+The BSA factory at Small Heath was bombed by the Luftwaffe on 26 August 1940 resulting in one high explosive bomb and a shower of incendiaries hitting the main barrel mill which was the only one operating on service rifles in the country, causing the unaffordable loss of 750 machine tools but fortunately no loss of life.[39] Two further air raids took place on 19 and 22 November 1940.[40] The air raid of 19 November did the most damage, causing loss of production and trapping hundreds of workers. Two BSA night-shift electricians, Alf Stevens and Alf Goodwin, helped rescue their fellow workers. Alf Stevens was awarded the George Medal for his selfless acts of bravery in the rescue and Alf Goodwin was awarded the British Empire Medal. Workers involved in the works Civil Defence were brought in to help search for and clear bodies to get the plant back into production. The net effect of the November raids was to destroy machine shops in the four-storey 1915 building, the original 1863 gunsmiths' building and nearby buildings, 1,600 machine tools, kill 53 employees, injure 89, 30 of them seriously and halt rifle production for three months. IWM-E-16827-light-tank-AA-MkI-19420915.jpg]] The Government Ministry of Supply and BSA immediately began a process of production dispersal throughout Britain, through the shadow factory scheme. Factories were set up at Tipton, Dudley, Smethwick, Blackheath, Lye, Kidderminster, Stourport, Tyseley, and Bromsgrove to manufacture Browning machine guns, Stoke, Corsham, and Newcastle-under-Lyme produced the Hispano cannon, Leicester and Studley Road produced the Besa machine gun, Ruislip produced the Oerlikon 20mm cannon, Stafford produced rocket projectiles, Tamworth produced two-pounder gun carriages, Mansfield produced the Boys Anti-tank gun and Shirley produced rifles. These were dispersal factories which were in addition to Small Heath and the other BSA factories opened in the two years following the 1940 blitz. At its peak Small Heath was running 67 factories engaged in war production. BSA operations were also dispersed to other companies under licence. Thinktank_Birmingham_-_object_1983S03719(2).jpg In 1941 BSA was approached to produce a new pedal cycle with a maximum weight allowance of only 22 lb especially for airborne use. This required a new concept in frame design which BSA found, producing a machine which weighed 21 lb, one pound less than the design specification and which also exceeded the design requirement for an effective life of 50 miles many times over. Over 60,000 folding bicycles were produced, a figure equal to half the total production of military bicycles during World War II. BSA also produced folding motorcycles for the Airborne Division. In late 1942 BSA examined the Special Operations Executive designed Welgun with a view to manufacture. BSA were willing to manufacture the gun in the quantities required starting April 1943 but the cheaper and less accurate Sten Mk IV was adopted for production by the Ministry of Supply.[41] BSA bought the Sunbeam motorcycles and bicycle business from Associated Motor Cycles Ltd in 1943 and then Ariel Motors Ltd in 1944. During the course of the conflict BSA produced 1,250,000 Lee–Enfield .303 service rifles, 404,383 Sten sub-machine guns, 468,098 Browning machine guns plus spares equivalent to another 100,000, 42,532 Hispano cannon, 32,971 Oerlikon cannon, 59,322 7.9 mm Besa machine guns, 3,218 15 mm Besa machine guns, 68,882 Boys Anti-tank guns, 126,334 motorcycles, 128,000 military bicycles (over 60,000 of which were folding paratrooper bicycles), 10,000,000 shell fuse cases, 3,485,335 magazines and 750,000 anti-aircraft rockets were supplied to the armed forces.[42]
+
+At the same time other parts of the Group were having similar problems. Before World War II Daimler had been linked with other Coventry motor manufacturers in a government-backed scheme for aero engine manufacture and had been allocated two shadow factories. Apart from this, BSA-owned Daimler was producing Scout Cars and Daimler Mk I Armoured Cars which had been designed by BSA at Small Heath not Coventry as well as gun turrets, gun parts, tank transmissions, rocket projectiles and other munitions. This activity had not gone unnoticed by the enemy, which made Radford Works a target in the Coventry air raids. Radford Works received direct hits in four separate air raids during 1940. None of these attacks were to seriously disrupt production, however two more serious air raids were carried out in April 1941 which destroyed half the factory. In all it is estimated that 170 bombs containing 52,000 lbs of explosive were dropped on Radford Works as well as the thousands of incendiaries. Like BSA, Daimler had to find dispersal units.[43] A back-handed compliment was paid by Field Marshal Rommel to the workers at Radford Works when he used a captured Daimler Scout to escape following his defeat at El Alamein.
+
+Post-war
+
+BSA cycles
+
+BSA produced the first Sunbeam bicycle catalogue in 1949 and produced its own '4 Star' derailleur gear with an associated splined cassette hub and 4 sprocket cassette.[44] This design was different from the 1930s Bayliss Wiley cassette hub which had a threaded sprocket carrier. BSA bought New Hudson motorcycle and bicycle business in 1950 and followed this up in 1951 with the purchase of Triumph Motorcycles which brought Jack Sangster onto the BSA board. The effect of this acquisition was to make BSA into the largest producer of motorcycles in the world at that time.
+
+1952 saw BSA establish a Professional Cycling Team. Bob Maitland a successful amateur cyclist and the highest placed British finisher in the 1948 Olympic Games road race and now an independent rider in the BSA team was a BSA employee working in the design office as a draughtsman. It was Bob Maitland who was responsible for the design of post war BSA range of lightweight sports bicycles based on his knowledge of cycling.[45] Bob Maitland also made some of the components used on the bicycles of the professional team which were not standard production machines. In the 1952 Tour of Britain Road Race run between Friday 22 August and Saturday 6 September, involving 14 individual stages and covering a total race distance of 1,470 miles, the BSA team of Bob Maitland, “Tiny” Thomas, Pete Proctor, Alf Newman and Stan Jones won the overall team race and Pete Proctor “King of the Mountains” classification. The riders also enjoyed success on the individual stages of the race. The team competed in four further events, 14 September Tour of the Chilterns, 1st “Tiny” Thomas and Team Prize, 21 September Weston-Super-Mare Grand Prix, Team Prize, 28 September Staffordshire Grand Prix, 1st Bob Maitland and Team Prize, 5 October Tour Revenge Race, Dublin, 1st “Tiny” Thomas and Team prize.[46]
+
+In 1953 BSA withdrew motorcycle production from BSA Cycles Ltd, the company it has established in 1919, by creating BSA Motorcycles Ltd.
+
+In 1953 the BSA Professional Cycling Team was managed by Syd Cozens. Successes were 5/6 April Bournemouth Two Day Road Race, 1st Bob Maitland, 12 April Dover to London 63 Miles Road Race, 1st Stan Jones, 31 May Langsett 90 Miles Road Race, 1st Bob Maitland and “King of the Mountains”, 7 June Tour of the Wrekin, 1st Bob Maitland, 12 July Severn Valley 100 Miles Road Race, 1st “Tiny” Thomas, 19 July Jackson Trophy, Newcastle, Team Prize, 9 August Les Adams Memorial 80 Miles Road Race, 1st Alf Newman, Team Prize, “King of the Mountains” Arthur Ilsley, 30 August Weston-Super-Mare 100 Miles Grand Prix, 1st Bob Maitland, Team Prize. The team also competed in the 1,624 mile, 12 stage, 1953 Tour of Britain Road Race. The 1953 line up had changed as Arthur Ilsley replaced Pete Proctor in the team. “Tiny” Thomas won the overall individual classification, the Team were runners-up in the team competition and Arthur Ilsley was 3rd in the “King of the Mountains” competition. Bob Maitland also had notable success by winning the Independent National Championship.[47]
+
+1954 saw the introduction of the BSA Quick Release 3 Speed hub gear. It was a split axle three speed gear intended for use with bicycles equipped with oil bath chainguards. The original BSA 3 speed hub gear had been made under licence from the Three-Speed Gear Syndicate since 1907. The design was later to be classified as the Sturmey-Archer 'Type X', but all BSA hub gear production ceased in 1955[48] 1955_Daimler_DK_400_'Golden_Zebra'_Coupé_p1.JPG
+
+Management
+
+Sir Bernard Docker remained chairman of BSA until 1956 when the BSA removed him. In an acrimonious dispute conducted in the media the matter was brought to the BSA shareholders at the Annual General Meeting where the decision of the Board was upheld. Another significant departure for the fortune of the BSA Group but less controversial was the retirement on ill health grounds of James Leek CBE, Managing Director from 1939 until his retirement. Sir Bernard Docker was replaced as Chairman of the BSA Board by Jack Sangster.[49]
+
+
+Dispersals
+
+The BSA bicycle division, BSA Cycles Ltd., including the BSA cycle dealer network was sold to Raleigh in 1957.[50] Raleigh initially continued bicycle production in Birmingham at Coventry Road, Sheldon, Birmingham 26 into the early 1960s using up BSA parts but as time went on more stock Raleigh parts and fittings were used, some continuing to bear the 'piled arms' stamp. TI Group owners of the British Cycle Corporation bought Raleigh in 1960 thus gaining access to the BSA brand. Bicycles bearing the BSA name are currently manufactured and distributed within India by TI Cycles of India but have no direct connection to the original Birmingham BSA company.
+
+In 1960, Daimler was sold to Jaguar.
+
+1961 was the centenary year of the BSA Group and in recognition of this milestone the company magazine produced an anniversary issue of _BSA Group News_ in June _BSA Centenary 1861–1961_ in which many of the achievements of the Group were celebrated. This year also saw the end of military rifle production, however BSA still continued to make sporting guns.
+
+
+Products
+
+Bicycles
+
+According to Charles Spencer, BSA was manufacturing the "Delta" bicycle circa 1869. In 1880 the company was approached to manufacture the "Otto Dicycle". An initial contract was signed to produce 210 and a further contract followed for a further 200. In all it is believed that a total of 953 Otto machines were made. BSA then went into bicycle production on their own account, the first machines to their own specification being exhibited at the 1881 Stanley Show. BSA went on to design and manufacture a "safety" bicycle (patent:15,342 of 1884). BSA was also producing tricycles and a licence was obtained in 1885 to manufacture ball bearings. BSA ceased bicycle manufacture in 1887 because of the demand for arms. Bicycle component manufacture commenced in 1894 and BSA continued to supply the bicycle trade up to 1936. The company recommenced bicycle manufacture on their own account again in 1908 and these were exhibited at the Stanley Show in 1909.[51] Bicycle manufacture was what led BSA into motorcycles. BSA produced bicycles for both the police and military and notably a folding bicycle for the British Army during World War I[52][53] and the more well known folding Paratroopers bicycle during World War II. BSA supplied the Irish Army with bicycles after 1922.
+
+BSA manufactured a range of bicycles from utility roadsters through to racing bicycles. The BSA range of Sports bicycles expanded in the 1930s following the granting of a patent for a new lighter design of seat lug in 1929[54] and tandems were introduced into the BSA bicycle range as well. BSA had a reputation for quality and durability and their components were more expensive that either Chater-Lea or Brampton. BSA launched a high end club cyclists machine in the early 1930s initially branded as the "Super-eeze". Never slow to avail of publicity BSA sponsored the great Australian cyclist Hubert Opperman [55] and re-branded the top of the range machine the "Opperman" model.[56][57] A less expensive range of clubman lightweight machines was introduced from 1936 with the "Cyclo" 3 speed derailleur equipped "Clubman". Subtle changes were made to the range, most models being equipped with "Russ" patent forks [58] and some models were made for only two seasons. This all stopped around September 1939 with the outbreak of war. A revised catalogue with a much reduced range was issued in March 1940 which also saw the launch of the BSA "Streamlight" model.[59] A novel all white bicycle [60] was produced for the blackout but had disappeared from a severely reduced bicycle range the details of which were circulated to dealers from December 1941. BSA had ceased production of their 3 speed hub gear in 1939 and production appears to have started again by 1945 although with a black finish instead of chromium plating. BSA bought SUNBEAM in 1943 and produced Sunbeam bicycles using up existing frames and parts and using BSA components for the missing bits. The first BSA produced Sunbeam catalogue was published in 1949[61]
+
+Post war BSA expanded their bicycle range but faced problems of shortages of raw materials such as steel and was required to export a lot of their manufactured output in order to get a Government licence to purchase the necessary raw materials. The company moved bicycle production to the new Waverley Works after World War II. BSA continued to innovate introducing the 4 Star derailleur gear in 1949[62][63] along with an associated 4-speed 'unit' or cassette hub. The derailleur design was altered from 1950[64] and was certainly available up to 1953 but was not a great success. BSA bought New Hudson in 1950[65] and started to manufacture and sell New Hudson branded machines as well as Sunbeam. It appears that the top of the range BSA lightweight club cyclist machine was the "Gold Column" and this appears to have been changed into the BSA "Tour of Britain" model following the success of the BSA Professional Cycling Team in the 1952 Tour of Britain race. The "Tour of Britain" model was heavily promoted in the BSA 1953 sales literature. The factory made "Tour of Britain" model was not the same as those ridden by the professional team. Only eight machines were crafted for the professional team and none of the components appear to have been standard BSA parts. 1953 saw BSA separate the bicycle / motorcar and motorcycle business into different holdings.
+
+The good times were coming to an end and demand for bicycles fell with the end of rationing in 1954.[66] James Leek, managing director of BSA Cycles Ltd was suffering ill health and he retired in 1956, the same year the BSA Chairman, Sir Bernard Docker,[67] was removed from the BSA Board. Jack Sangster who had joined the BSA Board in 1951 following the purchase of his company Triumph Motorcycles became Chairman. The bicycle manufacturing business BSA Cycles Ltd was sold to Raleigh Industries in 1957.
+
+Motorcycles
+
+BSA_1956_DBD34_Gold_Star_Daytona_500cc_1_cyl_ohv.jpg BSA Motorcycles were made by BSA Cycles Ltd, under the BSA parent, until 1953 when the motorcycle business was moved into holding _BSA Motorcycles Ltd_. The first instance of intention to produce motorcycles was reported in The Motor Cycle, a British motorcycling journal, in July 1906.[68] The first wholly BSA motorcycle, the 3½ H.P.[69] was built in 1910 and displayed at the first Olympia Show, London on 21 November in that year. Sir Hallewell Rogers, BSA Chairman, had informed the shareholders at the Company's 1910 AGM in Birmingham "We have decided to put a motor-bicycle on the market for the coming season .... These machines will be on exhibit at the Cycle and Motor Show on November 21st, after which date we look forward to commencing delivery".[70] The machines were available for the 1911 season and entire production sold out. BSA had previously acquired a commercially available engine in 1905 and fitted it to one of their bicycle frames and discovered at first hand the problems that needed to be overcome. BSA Cycles Ltd was set up as a subsidiary company in 1919 under Managing Director Charles Hyde to manufacture both bicycles and motorcycles.[71]
+
+Civilian firearms
+
+-   The 1906 war office pattern rifle[72]
+-   The Sportsman series of .22 Long Rifle bolt-action rifles
+-   Various Martini action target .22lr rifles[73]
+-   The Ralock and Armatic semi automatic .22lr rifles[74]
+-   Various bolt action hunting rifles
+
+
+Trademarks
+
+Rights to the motorcycle brand went to Norton Villiers Triumph and on its liquidation were purchased by B.S.A. Company. Rights to the guns brand were acquired by Gamo for its new subsidiary, BSA Guns (UK) Limited.
+
+
+See also
+
+-   List of modern armament manufacturers
+
+
+Notes
+
+
+References
+
+
+External links
+
+-   BSA History from the Days of the Crimea (1918)
+-   Catalogue of the BSA archives, held at the Modern Records Centre, University of Warwick
+-
+
+Category:British brands Category:BSA motorcycles Category:Defunct companies based in Birmingham, West Midlands Category:British companies established in 1861 Category:Manufacturing companies established in 1861 Category:Defunct cycle manufacturers of the United Kingdom Category:Firearm manufacturers of the United Kingdom Category:Extant firearms manufacturers in the United Kingdom Category:Former defence companies of the United Kingdom Category:Machine tool builders Category:Manufacturing companies based in Birmingham, West Midlands Category:Military vehicle manufacturers Category:Defunct motor vehicle manufacturers of the United Kingdom Category:Motorcycle manufacturers of the United Kingdom Category:Scooter manufacturers Category:World War I vehicles of the United Kingdom Category:Small Heath, Birmingham Category:1861 establishments in England
+
+[1] Taylerson, A. W. F. (1983). pages 469–472. in Pollard, Hugh B. C. and Blair, Claude (eds.). _Pollard's History of Firearms_. Feltham, Middlesex: Country Life Books.
+
+[2] W.B. Stephens (Editor), _A History of the County of Warwick: Volume 7: The City of Birmingham_. Victoria County History, 1964
+
+[3]
+
+[4]
+
+[5] Ryerson, Barry (1980). _The Giants of Small Heath: The History of BSA_. [Sparkford: Haynes].
+
+[6] Davenport-Hines, R. P. T. (2002). _Dudley Docker: The Life and Times of a Trade Warrior_. Cambridge: Cambridge University Press. p. 48.
+
+[7]
+
+[8]
+
+[9]
+
+[10] Ryerson, Barry (1980). _The Giants of Small Heath: The History of BSA_. [Sparkford: Haynes]. p. 16.
+
+[11] Davenport-Hines, R. P. T. (2002). _Dudley Docker: The Life and Times of a Trade Warrior_. Cambridge: Cambridge University Press. p. 49.
+
+[12]
+
+[13] Birmingham Small Arms Company (Limited). _The Times_, Thursday, Oct 05, 1911; pg. 15; Issue 39708
+
+[14]
+
+[15] Davenport-Hines, R. P. T. (2002). _Dudley Docker: The Life and Times of a Trade Warrior_. Cambridge: Cambridge University Press. pp. 49-50.
+
+[16] Davenport-Hines, R. P. T. (2002). _Dudley Docker: The Life and Times of a Trade Warrior_. Cambridge: Cambridge University Press. p. 51.
+
+[17] Davenport-Hines, R. P. T. (2002). _Dudley Docker: The Life and Times of a Trade Warrior_. Cambridge: Cambridge University Press. pp. 50-52.
+
+[18] Davenport-Hines, R. P. T. (2002). _Dudley Docker: The Life and Times of a Trade Warrior_. Cambridge: Cambridge University Press. p. 52.
+
+[19] , p. 63.
+
+[20] Company Meetings. _The Times_, Thursday, Oct 09, 1913; pg. 17; Issue 40338.
+
+[21] Company Meeting. _The Times_, Saturday, Nov 06, 1920; pg. 19; Issue 42561
+
+[22] BSA Cycles Ltd 1920 _Advertisement Suggestions for BSA Bicycles and Motor Bicycles_, The Birmingham Small Arms Company, no ISBN
+
+[23] Ryerson, Barry 1980 _The Giants of Small Heath - The History of BSA_, Sparkford,
+
+[24] Air Transport Combine. Aircraft And B.S.A. Firms Unite _The Times_, Monday, 1 Mar 1920; pg. 14; Issue 42347
+
+[25] Mr. G. Holt Thomas. _The Times_, Friday, 4 Jan 1929; pg. 14; Issue 45092
+
+[26] Mr. G. Holt Thomas. Colonel G. W. Dawes. _The Times_, Saturday, 5 Jan 1929; pg. 14; Issue 45093
+
+[27] _Dudley Docker: The Life and Times of a Trade Warrior_ R. P. T. Davenport-Hines 1984 Cambridge University Press
+
+[28] Birmingham Small Arms Company. _The Times_, Wednesday, Apr 08, 1925; pg. 21; Issue 43931
+
+[29] City Notes. _The Times_, Saturday, Oct 05, 1929; pg. 17; Issue 45326
+
+[30] The Birmingham Small Arms Company _The Times_, Saturday, 1 November 1930; pg. 20; Issue 45659
+
+[31] irmingham Small Arms Company. _The Times_, Wednesday, Nov 16, 1932; pg. 21; Issue 46292.
+
+[32] The Lanchester Company, _The Times_, Tuesday, 6 Jan 1931; pg. 10; Issue 45713
+
+[33] The Birmingham Small Arms Company A Difficult Trading Year, Important Transactions Effected _The Times,_ Saturday, 28 Nov 1931; pg. 17; Issue 45992
+
+[34] from Hamilton Barnsley, the principal shareholder, chairman and managing director. Negotiated shortly before his death during Christmas time 1930. The Lanchester Motor Company held adjoining factory premises at Sparkbrook. The purchase of the whole of the shares was completed in January 1931 for £26,000.
+
+[35] The Birmingham Small Arms Company Limited. _The Times_, Wednesday, Nov 02, 1938; pg. 23; Issue 48141
+
+[36] Clark, D.M. Arming the British Home Guard 1940-1944, PhD Thesis, Cranfield University, 2010
+
+[37] _War Diaries 1939 -1945_ Field Marshal Lord Alanbrooke, London 2001,
+
+[38] _BSA Centenary 1861 - 1961, BSA Group News, No.17 June 1961_, The Birmingham Small Arms Company, no ISBN
+
+[39] _BSA Centenary 1861 - 1961, BSA Group News, No. 17 June 1961_, The Birmingham Small Arms Company, no ISBN
+
+[40] Godwin, Tommy _It wasn't that easy - The Tommy Godwin story_, John Pinkerton Memorial Publishing Fund, 2007,
+
+[41] Boyce, Frederick and Everett, Douglas, _S.O.E.- The Scientific Secrets_ Stroud, Gloucester, 2003,
+
+[42]
+
+[43]
+
+[44] BSA Cycles Ltd, 1951 _Bicycle Replacement Parts, BSA, Sunbeam, New Hudson_ Birmingham Small Arms Company Ltd, no ISBN
+
+[45]
+
+[46] BSA Cycles Ltd, _The Story of How BSA Won The “Daily Express” TOUR OF BRITAIN TEAM PRIZE and “The King of the Mountains”_, Birmingham Small Arms (1952), no ISBN
+
+[47] BSA Cycles Ltd, _1st BSA Wins “Daily Express” Tour of Britain_, Birmingham Small Arms, (November 1953), no ISBN
+
+[48] Hadland, Tony _The Sturmey-Archer Story_, privately published, (1987),
+
+[49]
+
+[50] Bowden, Gregory Houston (1975). _The Story of the Raleigh Cycle_. London: Allen.
+
+[51] Millar, Ray (2009). _An Encyclopaedia of Cycle Manufacturers: The Early Years up to 1918_. (2nd ed.) [Great Britain]: John Pinkerton Memorial Publishing Fund.
+
+[52] Birmingham Small Arms, 1918, '' BSA History from the days of the Crimea '', Birmingham, no ISBN
+
+[53] B.S.A. History booklet 1914
+
+[54] Intellectual Property Office, (patent application date 4 July 1929), _GB332384(A) Improvements in or relating to the construction of cycle frames_ BSA Birmingham, no ISBN
+
+[55] 1
+
+[56] 2
+
+[57] 3
+
+[58] 4
+
+[59] 5
+
+[60] 6
+
+[61] Pinkerton, John; Roberts, Derek; Hadland, Tony; and Lawrence, Scotford (2002). ''Sunbeam Cycles: The Story from the Catalogues, 1887–1957 ''. Birmingham: Pinkerton Press.
+
+[62]
+
+[63]
+
+[64] BSA Cycles Ltd, June 1950 Bicycle Catalogue _It's Time You Had a BSA_ Birmingham Small Arms Company Ltd, no ISBN
+
+[65] BSA Cycles Ltd, April 1950 _Letter to Dealers reference newspaper advertising campaign for New Hudson bicycles to be run in local newspapers from March to August 1950_, Birmingham, no ISBN
+
+[66] BBC ON THIS DAY | 4 | 1954: Housewives celebrate end of rationing
+
+[67] Time magazine 11 June 1956
+
+[68] Motor Cycle, 7 July 1966. p.26 _Flashbacks to 1906. 16 July 1906. "We hear that the Birmingham Small Arms Co Ltd, the makers of well known and renowned BSA fittings, who recently purchased the Government Small Arms factory at Sparkbrook, Birmingham, for motor work, have decided to take up the manufacture of a light motor bicycle_". Accessed and added 2014-05-29
+
+[69] VJMC Northern Counties Classic Bike Show 2009 | Flickr – Condivisione di foto!
+
+[70]
+
+[71]
+
+[72] The War Office Pattern Miniature Rifle
+
+[73] BSA Small-bore Target Rifles and Equipment
+
+[74] The BSA Ralock and Armatic semi-auto rifles

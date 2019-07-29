@@ -1,0 +1,103 @@
+AS-90_self-propelled_artillery.JPGs firing in Basra, Iraq, 2006.]] PzH2000_in_Afghanistan.jpg of the German Army arriving in Afghanistan]] AlabinoTraining0904-34.jpg-S of the Russian Army]]
+
+SELF-PROPELLED ARTILLERY (also called MOBILE ARTILLERY or LOCOMOTIVE ARTILLERY) is artillery equipped with its own propulsion system to move towards its target. Within the terminology are the self-propelled gun, self-propelled howitzer, self-propelled mortar, and rocket artillery. They are high mobility vehicles, usually based on continuous tracks carrying either a large field gun, howitzer, mortar, or some form of rocket/missile launcher. They are usually used for long-range indirect bombardment support on the battlefield.
+
+In the past, self-propelled artillery has included direct-fire vehicles, such as assault guns and tank destroyers. These have been heavily armoured vehicles, the former providing close fire-support for infantry and the latter acting as specialized anti-tank vehicles.
+
+Modern self-propelled artillery vehicles may superficially resemble tanks, but they are generally lightly armoured, too lightly to survive in direct-fire combat. However, they protect their crews against shrapnel and small arms and are therefore usually included as armoured fighting vehicles. Many are equipped with machine guns for defense against enemy infantry.
+
+The key advantage of self-propelled over towed artillery is that it can be brought into action much faster. Before the towed artillery can be used, it has to stop, unlimber and set up the guns. To move position, the guns must be limbered up again and brought—usually towed—to the new location. By comparison, self-propelled artillery can stop at a chosen location and begin firing almost immediately, then quickly move on to a new position. This shoot-and-scoot ability is very useful in a mobile conflict and particularly on the advance.[1]
+
+Conversely, towed artillery was and remains cheaper to build and maintain. It is also lighter and can be taken to places that self-propelled guns cannot reach. Since the Vietnam War, heavy transport helicopters have also been used for rapid artillery deployment. So, despite the advantages of the self-propelled artillery, towed guns remain in the arsenals of many modern armies.[2]
+
+
+History
+
+Precursors
+
+Camel_artillery_iran.JPGs were swivel guns mounted atop camels to provide swift-moving artillery during the early to mid-eighteenth century in west Asian military cultures. They saw extensive use during the Naderian Wars.]] Horse_artillery_rear.jpg in Stockholm, Sweden.]] During the Thirty Years' War, early 17th century experiments were made with early types of horse artillery. Batteries towed light field guns where most or all of the crew rode horses into battle. The gunners were trained to quickly dismount, deploy the guns and provide instant fire support to cavalry, and act as a flexible reserve. The Russian army organized small units of horse artillery that were distributed among their cavalry formations in the early 18th century. While not forming large batteries and employing only lighter 2- and 3-pound guns, they were still effective and inflicted serious losses to Prussian units in the Seven Years' War. This inspired Frederick the Great to organize the first regular horse artillery unit in 1759. Other nations quickly realized the capability of the new arm and by the start of French Revolutionary Wars in 1790s Austria, Hannover, Portugal, Russia, France, Great Britain and Sweden had all formed regular units of horse artillery. The arm was employed throughout the Napoleonic Wars and remained in use throughout the entire 19th century and into the first half of the 20th century, when advances in weapons technology finally made it obsolete.
+
+World War I
+
+British_Gun_Carrier_Mark_I_-_60_pdr.jpg
+
+The British Gun Carrier Mark I was the first example of a self-propelled gun, fielded in 1917 during World War I. It was based on the first tank, the British Mark I and carried a heavy field gun. The gun could either be fired from the vehicle, or removed and set up as normal. In effect, the carrier replaced the use of a separate horse team or internal combustion engine powered artillery tractor, and allowed a new way for the gun to be used.
+
+Between the wars
+
+The next major advance can be seen in the Birch gun developed by the British for their motorised warfare experimental brigade (the Experimental Mechanized Force) after the end of the War. This mounted a field gun, capable of both the usual artillery trajectories and high angle anti-aircraft fire, on a tank style chassis. It was designed and built as part of a general approach to warfare where all arms, infantry and artillery included, would be able to operate over the same terrain as tanks. The Red Army also experimented with truck- and tank-mounted artillery, but produced none in quantity.
+
+World War II
+
+Destroyed_german_self-propelled_gun_carriage.jpg ISU-152-latrun-2.jpg At the outbreak of World War II, virtually all artillery was still being moved around by artillery tractors or horses. While the German Blitzkrieg doctrine called for combined-arms action, which required fire support for armoured units, during the invasion of Poland and France this was provided by the Luftwaffe using Stuka dive-bombers effectively acting as artillery. Conventional towed howitzers followed.
+
+As the war progressed, most nations developed self-propelled artillery. Some early attempts were often no more than a field gun or anti-tank gun mounted on a truck—a technique known in the British Army as carrying _portee_. These were mobile, but lacked protection for the crew. The next step was to mount the guns on a tracked chassis (often that of an obsolete or superseded tank) and provide an armoured superstructure to protect the gun and its crew. Many of the early designs were improvised and the lessons learned led to better designs later in the war. For example, the first British design, "Bishop", carried the 25 pdr gun-howitzer, but in a mounting that severely limited the gun's performance. It was replaced by the more effective Sexton.
+
+The Germans were particularly prolific with designs. They created many examples of lightly armored self-propelled anti-tank guns using captured French equipment (example Marder I), their own obsolete light tank chassis (Marder II), or ex-Czech chassis (Marder III). These led to better-protected Assault guns or Sturmgeschütz with fully enclosed casemates, built on medium tank chassis such as the Jagdpanzer IV and Jagdpanther. Some designs were based on existing chassis (such as the Brummbär), leftover chassis from cancelled programs (Elefant and Sturer Emil); others were converted from battle-damaged tanks (Sturmtiger). The single most-produced armored fighting vehicle design for Germany in WW II, the Sturmgeschütz III (StuG III) assault gun, in 1936–37 pioneered the later casemate-style fully enclosed armor that would be used on almost all late-war German self-propelled artillery and _Jagdpanzer_-format tank destroyers.
+
+The Soviets experimented with truck-and tank-based self-propelled weapons, producing a few Komsomoletz tractor-mounted 57-mm ZiS-2 guns early in the war. By 1943, the series of _Samokhodnaya Ustanovka_ casemate-armored vehicles had started to appear at the front, starting with the SU-85, and by late 1944 the SU-100, which mounted powerful guns on modern chassis adopting the full-casemate enclosure of the crew compartment as the Germans had done with the StuG III. These had the advantage of being relatively cheap to build and mounting a larger gun compared to the conventional tank that they were derived from, but at the expense of flexibility.
+
+Heavily armoured assault guns were designed to provide direct-fire support to infantry in the face of enemy defenses. Although often similar to tank destroyers, they carried larger caliber guns with weaker anti-armor performance but capable of firing powerful HE projectiles. The German 105mm howitzer-armed StuH 42 based on the StuG III, and the immense 152mm howitzer-armed, Soviet ISU-152, both fully casemated in their design, are examples of this type of self-propelled artillery.
+
+All major nations developed self-propelled artillery that would be able to provide indirect support while keeping pace with advancing armoured formations. These were usually lightly armoured vehicles with an open-topped hull; the US M7 Priest, British Sexton (25 pdr) and German Wespe and Hummel being typical examples. A different route was chosen by the Soviets, who did not develop a specialized indirect fire vehicle, but following a tradition of dual-purpose towed artillery, built a series of versatile assault guns with indirect fire capabilities (example ISU-152). A related and novel program was the development of the Soviet Katyusha self-propelled multiple rocket launchers, which were unarmored trucks with a simple rocket rack on the back, a cheap and crushingly effective weapon, provided area saturation was called for rather than accurate fire.
+
+After the end of World War II, the assault gun fell from use with a general trend towards a single heavy gun-equipped vehicle, the main battle tank, although some wheeled AFV's such as the South African Rooikat, the Maneuver Combat Vehicle of the JGSDF, and the US M1128 MGS, among others, are still developed with large-caliber, direct fire weapons. Self-propelled indirect-fire artillery remains important and continues to develop alongside the general purpose field gun.
+
+
+Mortars
+
+Makmat-160.jpg).]] Many vehicles have used ancillary smoke mortars for local defense, which project one or more smoke grenades in a pattern that allows them to lay down a smoke screen some distance in order to conceal the vehicle from enemy observers. Mortar carriers are vehicles which carry a mortar as a primary weapon. Numerous vehicles have been used to mount mortars, from improvised civilian trucks used by insurgents, to modified IFV's, such as variants of the M3 half track and M113 APC, to vehicles specifically intended to carry a mortar, such as the 2S31 Vena. The Israeli Makmat is a mortar carrier based on the M4 Sherman tank chassis.
+
+The Russian army uses a _2S4 Tyulpan_ (Tulip) self-propelled 240 mm heavy mortar. Patria Hägglunds, a joint venture between Finnish Patria and Swedish BAE Systems Hägglunds manufactures AMOS (Advanced Mortar System), which is a 120 mm automatic twin barrelled, breech loaded mortar turret. There are also numerous AFV's and even MBT's that can be equipped with a mortar, either outside or inside of the cabin. The Israeli Merkava MBT carried a 60mm mortar in the small troop compartment in the rear, which fired through an opening in the roof, allowing the crew to remain protected. This was useful for fighting nearby infantry, as a mortar is shorter ranged and cheaper to shoot than the large main gun, as well as being better suited to wounding enemy infantry taking cover behind objects. However, since the mortar is only a secondary weapon in this case, the Merkava is not considered a mortar carrier.
+
+
+Howitzers and guns
+
+155mm_Skh_Zuzana.jpg]] Bandkanon_1.jpg]] Self-propelled artillery remains important in the equipment of many modern armies. It saw a significant role throughout the Cold War era conflicts and in the recent Gulf Wars.
+
+Modern SP artillery is highly computerized with the ability to self survey firing positions using systems such as GPS and inertial navigation systems. This, in conjunction with digital fire control/ballistic computers and digital communications, allows individual guns to disperse over a wide area and still deliver rounds on target simultaneously with the other guns in their battery.
+
+These capabilities also increase survivability many fold as modern SP artillery can displace and avoid counterbattery fire much more quickly and effectively and, if desired, more frequently than previously possible. In conjunction with modern logistic systems (where the SP gun's systems can track and report on ammunition consumption and levels) with similar navigation systems and palletized load dropping/lifting capabilities mean that the rapid displacement can occur without significant disruption to actually firing missions as it is possible for the ammunition to keep up with the guns.
+
+A modern battery of six guns, each firing 43 kg projectiles with a burst firing speed of four rounds per minute, can deliver over a metric tonne of ordnance per minute for up to four minutes. This is an immense weight of fire, which can be delivered with very high accuracy.
+
+One example of the increased firepower provided by modern mobile howitzers is the latest version, the _G6-52_, of the 155 mm G6 howitzer. It can fire up to six rounds in quick succession that will land nearly simultaneously. This is achieved by firing the shells at different trajectories so that the first round has the longest flight time and the last round the shortest. This is an improvement of the concept of MRSI (Multiple Rounds Simultaneous Impact), itself an enhancement of the earlier TOT (Time On Target) concept. The necessary rapid reloading is made possible by an automated ammunition feed system.[3]
+
+
+Rockets and missiles
+
+Army_mlrs_1982_02.jpg]]
+
+Rockets have greater ranges and carry much more complex "shells" than guns since there is less of a restriction on size (calibre). The MLRS can be used to saturate a large area with sub-munitions.
+
+
+See also
+
+-   List of artillery
+-   Howitzer
+-   Self-propelled anti-aircraft weapon
+-   Self-propelled gun
+-   G-numbers
+
+DS1991.jpg, 2nd Armored Division (FWD) conduct artillery strikes on Iraqi positions during the 1st Gulf War. 4-3 FA was the primary fire support battalion for Task Force 1-41 Infantry during the 1st Gulf War, February 1991.]]
+
+
+Notes
+
+
+Sources
+
+-
+
+
+External links
+
+-   Overview Self-propelled artillery Systems at www.dtig.org
+
+Category:Combat vehicles by type * Category:Weapon fixtures
+
+[1] Bailey, Johnathan B. A., _Field Artillery and Firepower_, Naval Institute Press, 2004, p.6
+
+[2]
+
+[3]

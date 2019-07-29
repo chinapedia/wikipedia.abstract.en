@@ -1,0 +1,189 @@
+CANADA DAY () is the national day of Canada. A federal statutory holiday, it celebrates the anniversary of July 1, 1867, the effective date of the _Constitution Act, 1867_ (then called the _British North America Act, 1867_), which united the three separate colonies of the Province of Canada, Nova Scotia, and New Brunswick into a single Dominion within the British Empire called Canada.[1][2] Originally called DOMINION DAY (), the holiday was renamed in 1982, the year the _Canada Act_ was passed.[3] Canada Day celebrations take place throughout the country, as well as in various locations around the world, attended by Canadians living abroad.[4]
+
+
+Commemoration
+
+Canada Day is often informally referred to as "Canada's birthday", particularly in the popular press.[5][6][7] However, the term "birthday" can be seen as an oversimplification, as Canada Day is the anniversary of only one important national milestone on the way to the country's full independence, namely the joining on July 1, 1867, of the colonies of Canada, Nova Scotia, and New Brunswick into a wider British federation of four provinces (the colony of Canada being divided into the provinces of Ontario and Quebec upon Confederation). Canada became a "kingdom in its own right" within the British Empire commonly known as the _Dominion of Canada_.[8][9][10][11] Although still a British colony, Canada gained an increased level of political control and governance over its own affairs, the British parliament and Cabinet maintaining political control over certain areas, such as foreign affairs, national defence, and constitutional changes. Canada gradually gained increasing independence over the years, notably with the passage of the Statute of Westminster in 1931, until finally becoming completely independent with the passing of the _Constitution Act, 1982_ which served to fully patriate the Canadian constitution.[12]
+
+Under the federal _Holidays Act_,[13] Canada Day is observed on July 1, unless that date falls on a Sunday, in which case July 2 is the statutory holiday. Celebratory events will generally still take place on July 1, even though it is not the legal holiday.[14] If it falls on a weekend, businesses normally closed that day usually dedicate the following Monday as a day off.[15]
+
+
+History
+
+Confederation_Day_Vancouver_1917.jpg celebrates Dominion Day in 1917, the golden jubilee of Confederation.]] The enactment of the _British North America Act, 1867_ (today called the _Constitution Act, 1867_), which confederated Canada, was celebrated on July 1, 1867, with the ringing of the bells at the Cathedral Church of St. James in Toronto and "bonfires, fireworks and illuminations, excursions, military displays and musical and other entertainments", as described in contemporary accounts.[16] On June 20 of the following year, Governor General the Viscount Monck issued a royal proclamation asking for Canadians to celebrate the anniversary of Confederation,[17] However, the holiday was not established statutorily until May 15, 1879,[18] when it was designated as _Dominion Day_, alluding to the reference in the _British North America Act_ to the country as a dominion.[19] The holiday was initially not dominant in the national calendar; any celebrations were mounted by local communities and the governor general hosted a party at Rideau Hall.[20] No larger celebrations were held until 1917 and then none again for a further decade—the gold and diamond anniversaries of Confederation, respectively.[21]
+
+In 1946, Philéas Côté, a Quebec member of the House of Commons, introduced a private member's bill to rename Dominion Day as _Canada Day_.[22] The bill was passed quickly by the lower chamber but was stalled by the Senate, which returned it to the Commons with the recommendation that the holiday be renamed _The National Holiday of Canada_, an amendment that effectively killed the bill.[23] Ottawa_fireworks_49_(27768773120).jpg during Canada Day. Official celebrations at Parliament Hill includes a fireworks display.]] Beginning in 1958, the Canadian government began to orchestrate Dominion Day celebrations.[24] That year, then Prime Minister John Diefenbaker requested that Secretary of State Ellen Fairclough put together appropriate events, with a budget of $14,000. Parliament was traditionally in session on July 1, but Fairclough persuaded Diefenbaker and the rest of the federal Cabinet to attend.[25] Official celebrations thereafter consisted usually of Trooping the Colour ceremonies on Parliament Hill in the afternoon and evening, followed by a mass band concert and fireworks display. Fairclough, who became Minister of Citizenship and Immigration, later expanded the bills to include performing folk and ethnic groups. The day also became more casual and family oriented.[26] Canada's centennial in 1967 is often seen as an important milestone in the history of Canadian nationalism and in Canada's maturing as a distinct, independent country, after which Dominion Day became more popular with average Canadians. Into the late 1960s, nationally televised, multi-cultural concerts held in Ottawa were added and the fête became known as _Festival Canada_. After 1980, the Canadian government began to promote celebrating Dominion Day beyond the national capital, giving grants and aid to cities across the country to help fund local activities.[27]
+
+Some Canadians were, by the early 1980s, informally referring to the holiday as _Canada Day_, a practice that caused some controversy:[28] Proponents argued that the name _Dominion Day_ was a holdover from the colonial era, an argument given some impetus by the patriation of the Canadian constitution in 1982, and others asserted that an alternative was needed as the term does not translate well into French.[29] Conversely, numerous politicians, journalists, and authors, such as Robertson Davies,[30] decried the change at the time and some continue to maintain that it was illegitimate and an unnecessary break with tradition.[31] Others claimed _Dominion_ was widely misunderstood and conservatively inclined commenters saw the change as part of a much larger attempt by Liberals to "re-brand" or re-define Canadian history.[32][33][34] Columnist Andrew Cohen called _Canada Day_ a term of "crushing banality" and criticized it as "a renunciation of the past [and] a misreading of history, laden with political correctness and historical ignorance".[35]
+
+The holiday was officially renamed as a result of a private member's bill that was passed through the House of Commons on July 9, 1982, two years after its first reading.[36] Only 12 Members of Parliament were present when the bill was taken up again, eight fewer than the necessary quorum; however, according to parliamentary rules, the quorum is enforceable only at the start of a sitting or when a member calls attention to it.[37] The group passed the bill in five minutes, without debate,[38] inspiring "grumblings about the underhandedness of the process".[39] It met with stronger resistance in the Senate. Ernest Manning argued that the rationale for the change was based on a misperception of the name and George McIlraith did not agree with the manner in which the bill was passed, urging the government to proceed in a more "dignified way". However, the Senate did eventually pass the bill, regardless.[40] With the granting of Royal Assent, the holiday's name was officially changed to Canada Day on October 27, 1982.[41] Newfoundland_National_War_Memorial.jpg in Newfoundland and Labrador, with memorials typically held in the morning of July 1.]] As the anniversary of Confederation, Dominion Day, and later Canada Day, was the date set for a number of important events, such as the first national radio network hookup by the Canadian National Railway (1927); the inauguration of the Canadian Broadcasting Corporation's cross-country television broadcast, with Governor General Vincent Massey's Dominion Day speech from Parliament Hill (1958);[42] the flooding of the Saint Lawrence Seaway (1958); the first colour television transmission in Canada (1966); the inauguration of the Order of Canada (1967); and the establishment of "O Canada" as the country's national anthem (1980). During the 150th anniversary of Canada in 2017, the Bank of Canada released a commemorative $10 banknote for Canada's sesquicentennial, which was expected to be broadly available by Canada Day.[43] Other events fell on the same day coincidentally, such as the first day of the Battle of the Somme in 1916—shortly after which Newfoundland recognized July 1 as Memorial Day to commemorate the Newfoundland Regiment's heavy losses during the battle[44][45]—and the enactment of the _Chinese Immigration Act_ in 1923—leading Chinese-Canadians to refer to July 1 as _Humiliation Day_ and boycott Dominion Day celebrations until the act was repealed in 1947.[46]
+
+
+Activities
+
+Most communities across the country will host organized celebrations for Canada Day, typically outdoor public events, such as parades, carnivals, festivals, barbecues, air and maritime shows, fireworks, and free musical concerts,[47] as well as citizenship ceremonies.[48][49] There is no standard mode of celebration for Canada Day; Jennifer Welsh, a professor of International Relations at the University of Oxford, said about this: "Canada Day, like the country, is endlessly decentralized. There doesn't seem to be a central recipe for how to celebrate it—chalk it up to the nature of the federation."[50] However, the locus of the celebrations is the national capital, Ottawa, Ontario, where large concerts and cultural displays are held on Parliament Hill in an event largely referred to as the "Noon Show".[51] Typically with the governor general and prime minister officiates, though the monarch or another member of the Royal Family may also attend or take the governor general's place. Smaller events are mounted in other parks around the city and in neighbouring Gatineau, Quebec.[52] Canada_Ottawa_William_Kate_2011_(2).jpg and Duchess of Cambridge at the official Canada Day celebration in Ottawa, 2011]] Given the federal nature of the anniversary, celebrating Canada Day can be a cause of friction in the province of Quebec, where the holiday is overshadowed by Quebec's National Holiday, on June 24.[53] For example, the federal government funds Canada Day events at the Old Port of Montreal—an area run by a federal Crown corporation—while the National Holiday parade is a grassroots effort that has been met with pressure to cease, even from federal officials.[54] The nature of the event has also been met with criticism outside of Quebec, such as that given by _Ottawa Citizen_ columnist David Warren, who said in 2007: "The Canada of the government-funded paper flag-waving and painted faces—the 'new' Canada that is celebrated each year on what is now called 'Canada Day'—has nothing controversially Canadian about it. You could wave a different flag, and choose another face paint, and nothing would be lost."[55]
+
+Canada Day also coincides with Quebec's Moving Day, when many fixed-lease apartment rental terms expire. The bill changing the province's moving day from May 1 to July 1 was introduced by a federalist member of the Quebec National Assembly, Jérôme Choquette, in 1973,[56] in order not to affect children still in school in the month of May.[57]
+
+International celebrations
+
+Canada_Day_London_2013.jpg during Canada Day in London, England, 2013]]
+
+Canadian expatriates will often organize Canada Day activities in their local area on or near the date of the holiday.[58] Examples include _Canada D'eh_, an annual celebration that takes place on June 30 in Hong Kong, at _Lan Kwai Fong_, where an estimated attendance of 12,000 was reported in 2008; Canadian Forces' events on bases in Afghanistan;[59][60][61] at Trafalgar Square outside Canada House in London, England;[62][63] in Mexico, at the Royal Canadian Legion in Chapala,[64] and at the Canadian Club in Ajijic.[65] In China, Canada Day celebrations are held at the Bund Beach by the Canadian Chamber of Commerce in Shanghai[66] and at Canadian International School in Beijing by Canada China Business Council.[67]
+
+
+See also
+
+-   Anthems and nationalistic songs of Canada
+-   Culture of Canada
+-   National Flag of Canada Day, a related celebration commemorating the creation of the Maple Leaf Flag in 1967.
+-   Public holidays in Canada
+
+
+Notes
+
+
+References
+
+
+External links
+
+-   Canada Day in the Capital Region - Government of Canada
+-   History of Canada Day - Government of Canada
+-   Canada Day - _Britannica_
+
+Category:Annual events in Canada Category:Public holidays in Canada Category:July observances Category:National days Category:Summer events in Canada
+
+[1]
+
+[2]
+
+[3]
+
+[4]
+
+[5]
+
+[6]
+
+[7]
+
+[8]
+
+[9]
+
+[10]
+
+[11]
+
+[12]
+
+[13]
+
+[14]
+
+[15]
+
+[16]
+
+[17]
+
+[18]
+
+[19]
+
+[20]
+
+[21]
+
+[22]
+
+[23]
+
+[24] https://books.google.com/books?id=X-mQ0TEnLBMC&pg=PA95&dq=canadian+trooping+the+colour&hl=en&sa=X&ved=0ahUKEwjsmramprfjAhVYHM0KHY3XBSIQ6AEIOjAE#v=onepage&q=canadian%20trooping%20the%20colour&f=false
+
+[25]
+
+[26]
+
+[27]
+
+[28]
+
+[29]
+
+[30]
+
+[31]
+
+[32]
+
+[33]
+
+[34]
+
+[35]
+
+[36]
+
+[37]
+
+[38]
+
+[39]
+
+[40]
+
+[41]
+
+[42]
+
+[43]
+
+[44]
+
+[45]
+
+[46]
+
+[47]
+
+[48]
+
+[49]
+
+[50]
+
+[51]
+
+[52]
+
+[53]
+
+[54]
+
+[55]
+
+[56]
+
+[57]
+
+[58]
+
+[59]
+
+[60]
+
+[61]
+
+[62]
+
+[63]
+
+[64]
+
+[65]
+
+[66]
+
+[67]

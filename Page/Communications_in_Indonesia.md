@@ -1,0 +1,78 @@
+COMMUNICATIONS IN INDONESIA has a complex history due to the need to reach an extended archipelago of over 17,500 islands. The once important non-electronic communication methods of the past have given away to a considerable telecommunications infrastructure in contemporary Indonesia.
+
+
+History
+
+Indonesia has long been using traditional forms of slayed communications between various islands and villages. It was not until the sixteenth century when the Dutch colonised Indonesia, constructing a more elaborate communication system, both within Indonesia and to other countries. The first connection to Australia was an undersea telegraph cable that was completed on 18 November 1871, connecting Java to Darwin, and eventually to the Australian Overland Telegraph Line across Australia.
+
+After gaining Independence, Indonesia started to develop its own communication systems, generally following the rest of the world. The construction of communication towers and launch of the Palapa series of communication satellites was done during the New Order period.
+
+
+Infrastructure
+
+A number of lines connect Indonesia to international communication routes. For example, the SEA-ME-WE 3 optical submarine telecommunications cable lands at both Medan and Jakarta connecting Europe with South eastern Asia (several countries up to Japan) and Australia (Perth).
+
+Domestically, Indonesia has good coverage for media across most major islands, although smaller and less populated Islands do not always receive attention from media companies, and rely on satellite communication.
+
+
+Media
+
+Print
+
+Indonesia has a long list of print media, in the form of newspapers and magazines. Some, such as Kompas and Koran Tempo are circulated daily and are relatively simple to obtain. Others are island- or city-specific, and are usually not distributed to other regions.
+
+Telephone
+
+Switchboard_operators,_Wanita_di_Indonesia_p98_(Ministry_of_Information).jpg
+
+-   Telephones - main lines in use: 9.99 million (2004)
+-   Telephones - mobile cellular: At the end of 2010, the mobile cellular penetration rate was 67 percent (22 percent at end of 2006).[1] CDMA use is declining in favour of GSM.[2]
+-   Telephone system: domestic service fair, international service good
+    -   domestic: interisland microwave system and HF radio police net; domestic satellite communications system
+    -   international: satellite earth stations - 2 Intelsat (1 Indian Ocean and 1 Pacific Ocean)
+
+Radio
+
+Jakarta_youths_on_radio,_Wanita_di_Indonesia_p70_(Ministry_of_Information).jpg
+
+-   Radio broadcast stations: AM 678, FM 43, shortwave 82 (1998)
+-   Radios: 31.5 million (1997)
+
+Television
+
+-   Television broadcast stations: 11 national TV, 60 local TV (From AC Nielsen Report - first Semester 2005):
+-   Televisions: 13.75 million (1997)
+
+Internet
+
+-   Internet Service Providers (ISPs): 24 (1999)
+-   Country code (Top-level domain): .id
+
+By June 2011, all sub-districts in Indonesia will be connected to the Internet.[3]
+
+
+Regulatory environment in Indonesia
+
+The media in Indonesia is regulated by the Ministry of Communications and Informatics.
+
+LIRNEasia's Telecommunications Regulatory Environment (TRE) index, which summarises stakeholders’ perception on certain TRE dimensions, provides insight into how conducive the environment is for further development and progress. The most recent survey was conducted in July 2008 in eight Asian countries, including Bangladesh, India, Indonesia, Sri Lanka, Maldives, Pakistan, Thailand, and the Philippines. The tool measured seven dimensions: i) market entry; ii) access to scarce resources; iii) interconnection; iv) tariff regulation; v) anti-competitive practices; and vi) universal services; vii) quality of service, for the fixed, mobile and broadband sectors.
+
+Below-average scores received in all sectors and across dimensions reflect general dissatisfaction of the TRE in Indonesia. However, this does not mean that respondents have ignored recent developments. The relatively healthy growth in mobile sector is reflected in the higher TRE scores received by the sector for most dimensions, when compared to the fixed sector. On average, the mobile sector scores best, with fixed and broadband following.[4]
+
+
+References
+
+
+See also
+
+-   National Press Monument
+
+Communications_in_Indonesia Category:Media in Indonesia
+
+[1] "Analysis: Indonesia: Mobile market", Josh Franken, _Jakarta Post_, 16 May 2011
+
+[2]
+
+[3] "Internet service to reach all sub-districts in June", Antara News, 22 May 2011
+
+[4]

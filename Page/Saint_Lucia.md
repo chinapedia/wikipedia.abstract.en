@@ -1,0 +1,491 @@
+SAINT LUCIA (; ) is a sovereign island country in the West Indies in the eastern Caribbean Sea on the boundary with the Atlantic Ocean. [1] The island was previously called Iyonola, the name given to the island by the native Amerindians and later, Hewanorra, the name given by the native Caribs. Part of the Lesser Antilles, it is located north/northeast of the island of Saint Vincent, northwest of Barbados and south of Martinique. It covers a land area of and reported a population of 165,595 in the 2010 census.[2] Its capital is Castries.
+
+The French were the island's first European settlers. They signed a treaty with the native Island Caribs in 1660. England took control of the island from 1663 to 1667. In ensuing years, it was at war with France fourteen times, and the rule of the island changed frequently (it was ruled seven times each by the French and British). In 1814, the British took definitive control of the island. Because it switched so often between British and French control, Saint Lucia was also known as the "Helen of the West Indies" after the Greek mythological character, Helen of Troy.
+
+Representative government came about in 1840 (universal suffrage was established in 1953). From 1958 to 1962, the island was a member of the West Indies Federation. On 22 February 1979, Saint Lucia became an independent state and a member of the Commonwealth of Nations.
+
+ "The Saint Lucia Constitution" (1978-December-20 effective
+ 1979-February-22), Government of St. Lucia, December 2008,
+ http://www.legislation.gov.uk/uksi/1978/1901/made
+
+Saint Lucia is a mixed jurisdiction,[3] meaning that it has a legal system based in part on both the civil law and English common law. The Civil Code of St. Lucia of 1867 was based on the Quebec Civil Code of 1866, as supplemented by English common law-style legislation. It is also a member of Organisation internationale de la Francophonie.[4]
+
+
+Etymology
+
+One of the Windward Islands, _Saint Lucia_ was named after Saint Lucy of Syracuse (AD 283 – 304).[5] It is the only country in the world named after a historical woman (Ireland is named after the Celtic goddess of fertility Eire).[6] Legend states French sailors were shipwrecked here on 13 December, the feast day of St. Lucy, thus naming the island in honor of _Sainte Lucie._
+
+
+History
+
+Pre-colonial period
+
+The first proven inhabitants were the peaceful Arawaks, though there may have been other native peoples prior to this. The Arawak are believed to have come from northern South America sometime around 200–400 AD, as there are numerous archaeological sites on the island where specimens of their well-developed pottery have been found. There is evidence to suggest that the Arawak called the island _Iouanalao_, meaning 'Land of the Iguanas', due to the island's high number of iguanas.[7]
+
+The more aggressive Caribs arrived around 800 AD, and seized control from the Arawaks by killing their men and assimilating the women into their own society.[8] They called the island _Hewanarau_, and later _Hewanorra_ (Ioüanalao, or "there where iguanas are found").
+
+Early European period
+
+Christopher Columbus may have sighted the island during his fourth voyage in 1502, since he made landfall on Martinique, yet he does not mention the island in his log. Juan de la Cosa noted the island on his map of 1500, calling it El Falcon, and another island to the south Las Agujas. A Spanish cédula from 1511 mentions the island within the Spanish domain, and a globe in the Vatican made in 1520, shows the island as Sancta Lucia.
+
+In the late 1550s, the French pirate François le Clerc (known as _Jambe de Bois_, due to his wooden leg) set up a camp on Pigeon Island, from where he attacked passing Spanish ships. In 1605, an English vessel called the _Oliphe Blossome_ was blown off-course on its way to Guyana, and the 67 colonists started a settlement on Saint Lucia, after initially being welcomed by the Carib chief Anthonie. By 26 September 1605 only 19 survived following continued attacks by the Carib chief Augraumart, so the settlers fled the island.
+
+French colony
+
+In 1664, Thomas Warner (son of Sir Thomas Warner, the governor of St Kitts) claimed Saint Lucia for England. He brought 1,000 men to defend it from the French, but after two years, only 89 survived with the rest dying mostly due to disease. In 1666, the French West India Company resumed control of the island, which in 1674 was made an official French crown colony as a dependency of Martinique.[9]
+
+18th and 19th centuries
+
+Both the British and the French found the island attractive after the slave-based sugar industry developed, and during the 18th century the island changed ownership or was declared neutral territory a dozen times, although the French settlements remained and the island was a de facto French colony well into the eighteenth century.
+
+In 1722, George I of Great Britain granted both Saint Lucia and Saint Vincent to The 2nd Duke of Montagu. He in turn appointed Nathaniel Uring, a merchant sea captain and adventurer, as deputy-governor. Uring went to the islands with a group of seven ships, and established settlement at Petit Carenage. Unable to get enough support from British warships, he and the new colonists were quickly run off by the French.[10]
+
+During the Seven Years' War, Britain occupied Saint Lucia for a year. Britain handed the island back to the French at the Treaty of Paris in 1763. Like the English and Dutch on other islands, the French began to develop the land for the cultivation of sugar cane as a commodity crop on large plantations in 1765.
+
+In January 1791, during the French Revolution, the National Assembly sent four _commissaires_ to St Lucia to spread their revolutionary philosophy. By August 1791, slaves began to abandon their estates and Governor de Gimat fled. In December 1792, Lt. Jean-Baptiste Raymond de Lacrosse arrived with revolutionary pamphlets, and the impoverished whites and free people of color began to arm themselves as _patriots_. On 1 February 1793, France declared war on England and Holland, and General Nicolas Xavier de Ricard took over as Governor. The National Convention abolished enslavement on 4 February 1794, but St. Lucia fell to a British invasion led by Vice Admiral John Jervis on 1 April 1794. Morne Fortune became _Fort Charlotte_. Soon, a patriot army of resistance, _L'Armee Française dans les Bois_, began to fight back. Thus started the First Brigand War.
+
+A short time later the British invaded the island as a part of the recently broken out war with France. On 21 February 1795 and a group of locals under the nominal control of Victor Hugues defeated a battalion of British troops at Vieux Fort and Rabot. In 1796, Castries was burned as part of the conflict. General John Moore retook Fort Charlotte in 1796 with the 27th Inniskilling Fusiliers after two days of bitter fighting. As an honour, the Fusiliers' regimental colour was displayed on the flagstaff of the captured fortress at Morne Fortune for an hour before being replaced by the Union Jack.[11] Moore would then participate in British efforts to repress the slave rebels until falling ill of yellow fever, upon which he returned to Britain before 1798.
+
+In 1803, the British regained control of the island. Many of the rebels escaped into the thick rainforest where they evaded capture and established maroon communities.[12]
+
+The slavery on the island was continued for a short time, but anti-slavery sentiment was rising in Britain. The British stopped the import of slaves by anyone, white or coloured, when they abolished the slave trade in 1807.
+
+France and Great Britain continued to contest Saint Lucia until the British secured it in 1814, as part of the Treaty of Paris ending the Napoleonic Wars. Thereafter, Saint Lucia was considered part of the British Windward Islands colony.
+
+The institution of slavery was abolished on the island in 1836, as it was throughout the British Empire. After abolition, all former slaves had to serve a four-year "apprenticeship," to accustom them to the idea of freedom. During this period, they worked for their former masters for at least three-quarters of the work week. Full freedom was duly granted by the British in 1838. By that time, people of African ethnicity greatly outnumbered those of ethnic European background. Some people of Carib descent also comprised a minority on the island.
+
+Castries' harbour was protected by a system of 60 surrounding forts. Along the top of Morne Fortune there are six military sites, building work by the French started in 1768, and the British completed the work by 1890. They include Fort Charlotte (Old Morne Fortress), the Apostle's Battery (1888–1890), The Powder Magazine built by the French in the 1750s, Provost's Redoubt (1792) built as a lookout point, and the Combermere barracks.[13]
+
+Flag_of_Saint_Lucia_(1939–1967).svg 1939–1967]] The best preserved installation is a battery at La Toc Point, completed in 1888 it was not abandoned till 1905. This fort in particular was built by the British to repel any attack from the United States on the then valuable coaling harbour of Castries.[14]
+
+20th and 21st centuries
+
+_See also West Indies Federation_
+
+The Second World War visited the island directly during the Battle of the Caribbean, when a German U-boat attacked and sank two British ships in Castries harbour on 9 March 1942.[15]
+
+In the mid-twentieth century, Saint Lucia joined the West Indies Federation (1958–1962) when the colony was dissolved. In 1967, Saint Lucia became one of the six members of the West Indies Associated States, with internal self-government. In 1979, it gained full independence under Sir John Compton of the conservative United Workers party (UWP). The new country chose to remain within the British Commonwealth and to retain Queen Elizabeth as Monarch, represented locally by a Governor-General.
+
+Post-independence era
+
+John_Compton,_former_PM_of_St_Lucia.jpg Compton's initial term as Prime Minister lasted only a few months, as he was defeated by the left-leaning Saint Lucia Labour Party (SLP) under Allan Louisy in the 1979 Saint Lucian general election.[16]The SLP sought to improve ties with socialist countries in the region such as Cuba, though the economy was severely affected by Hurricane Allen in 1980.[17] Louisy was replaced as Prime Minister by Winston Cenac in 1981. The SLP government faced a series of strikes and Cenac agreed to stand down, with Michael Pilgrim of the Progressive Labour Party briefly serving as Acting Prime Minister until the 1982 Saint Lucian general election.[18] This election was won by the UWP under John Compton, who proceeded to rule the country uninterrupted until 1996[19][20]; he was succeeded by Vaughan Lewis, who ruled for just over a year before losing the 1997 Saint Lucian general election to the SLP under Kenny Anthony. During this era the UWP adopted a generally pro-Western, pro-business outlook, seeking to diversify the economy away from over-reliance on bananas and boosting the tourism sector.[21] Compton was also a keen advocate of regional integration.[22]
+
+Kenny remained in power until 2006 when the UWP, again led by Compton, won control of parliament. Compton pledged to boost the economy and tackle the rising crime rate.[23] Police attempts to curb crime were criticised in 2015 when it emerged that several suspects had been unlawfully shot by police and the circumstances of their deaths covered up.[24] In May 2007, after Compton suffered a series of small strokes[25][26], Finance and External Affairs Minister Stephenson King became acting prime minister and succeeded Compton as Prime Minister when the latter died in September 2007. In November 2011, Kenny Anthony was re-elected as prime minister for a third time.[27] In the June 2016 election the United Worker's Party (UWP) assumed power again, with Allen Chastanet becoming prime minister.[28]
+
+
+Geography
+
+Saint_Lucia_geography_map_en.png The volcanic island of Saint Lucia is more mountainous than most Caribbean islands, with the highest point being Mount Gimie, at above sea level.[29][30] Two other mountains, the Pitons, form the island's most famous landmark.[31][32] They are located between Soufrière and Choiseul on the western side of the island. Saint Lucia is the only island in the world that contains a drive-in volcano. Forests cover about 77% of the land area.[33]
+
+There are a number of small islands off the coast, the largest of which are the Maria Islands in the south-east.
+
+The capital city of Saint Lucia is Castries (population 60,263) where 32.4% of the population lives. Other major towns include Gros Islet, Soufrière, and Vieux Fort. The population tends to be concentrated around the coast, with the interior more sparsely populated.[34][35]
+
+Climate
+
+The local climate is tropical, moderated by northeast trade winds, with a dry season from 1 December to 31 May, and a wet season from 1 June to 30 November.
+
+Average daytime temperatures are around , and average nightime temperatures are around . Since it is fairly close to the equator, the temperature does not fluctuate much between winter and summer. Average annual rainfall ranges from on the coast to in the mountain rainforests.
+
+
+Geology
+
+USGS_Saint_Lucia_geologic_map.png, where Tmov denotes Miocene/Oligocene volcanic rocks, Tplv are Pliocene calc-alkaline volcanic rocks, and Qv are Quaternary volcanic edifices, flows, and pyroclastic deposits.]] Qualibou_Caldera_tomography.png The geology of St. Lucia can be described as composing three main areas. The oldest, 16–18 Ma, volcanic rocks are exposed from Castries northward and consist of eroded basalt and andesite centres. The middle, central highlands, portion of the island consists of dissected andesite centres, 10.4 to 1 Mya, while the lower southwest portion of the island contains recent activity from the Soufriere Volcanic Centre (SVC). This SVC, centered about the Qualibou depression, contains pyroclastic flow deposits, lava flows, domes, block and ash flow deposits, and explosion craters. This depression's perimeter includes the town of Soufriere, Mount Tabac, Mt. Gimie, Morne Bonin, and Gros Piton. At in diameter, though the western portion is open towards the Grenada basin, the depression formed as recently as 100 kya. The depression is noted for its geothermal activity, especially at Sulphur Springs and Soufrière Estates, a phreatic eruption in 1776, and recent seismic activity (2000–2001).[36]
+
+Eroded andesitic stratovolcanoes to the north east of the depression include Mt. Gimie, Piton St Esprit, and Mt. Grand Magazin, all greater than 1 Ma in age. Andesitic and dacite pyroclastic flows from these volcanoes are found at Morne Tabac dome (532 ka), Morne Bonin dome (273 kya), and Bellevue (264 kya). Avalanche deposits from the formation of the Qualibou depression are found offshore, and in the massive blocks of Rabot, Pleisance, and Coubaril. The dacitic domes of Petit Piton (109 kya) and Gros Piton (71 kya) were then extruded onto the depression floor accompanied by the Anse John (104 kya) and La Pointe (59.8 kya) pyroclastic flows. Later, pyroclastic flows include pumice-rich Belfond and Anse Noir (20 kya). Finally, the dacitic domes of Terre Blanche (15.3 kya) and Belfond (13.6 kya) formed within the depression.[37]
+
+
+Government
+
+Saint Lucia is a Commonwealth realm. Elizabeth II is Queen of Saint Lucia, represented on the island by a governor-general. The prime minister[38] is normally the head of the party commanding the support of the majority of the members of the House of Assembly, which has 17 seats.[39] The other chamber of Parliament, the Senate, has eleven appointed members.
+
+Allen_Chastanet_2016.jpg]] Saint Lucia is a two-party parliamentary democracy. Three political parties participated in the 6 June 2016 General Election. Allen Chastanet of the United Workers Party won eleven of the seventeen seats.[40]
+
+Foreign relations
+
+Saint Lucia maintains friendly relations with the major powers active in the Caribbean, including the United States, the United Kingdom, Canada, and France. Saint Lucia has no current international disputes.
+
+Saint Lucia is a full and participating member of the Caribbean Community (CARICOM), Organisation of Eastern Caribbean States (OECS), and La Francophonie. Saint Lucia is a Commonwealth Realm.
+
+Saint Lucia became the 152nd member of the United Nations on December 9, 1979.[41] As of January 2018, Cosmos Richardson, who presented his credentials on 22 February 2017, was Saint Lucia's representative to the United Nations.[42]
+
+Organisation of American States (OAS)
+
+The Charter of the OAS was signed in Bogota in 1948 and was amended by several protocols which were named after the city and the year in which the protocol was signed, such as Managua in 1993 forming part of the name of the protocol.[43]
+
+Saint Lucia entered the OAS system on 22 February 1979.[44]
+
+Agreements which impact on financial relationships
+
+The Double Taxation Relief (CARICOM) Treaty 1994
+
+At a CARICOM Meeting, the representative of St. Lucia, John Compton signed The Double Taxation Relief (CARICOM) Treaty 1994 on 6 July 1994.[45]
+
+The representatives of seven CARICOM countries signed similar agreements at Sherbourne Conference Centre, St. Michael, Barbados.[46] The countries whose representatives signed the treaties in Barbados were Antigua and Barbuda, Belize, Grenada, Jamaica, St. Kitts and Nevis, St. Vincent and the Grenadines, and Trinidad and Tobago.[47]
+
+This treaty covered taxes, residence, tax jurisdictions, capital gains, business profits, interest, dividends, royalties and other areas.
+
+FATCA
+
+On 30 June 2014, Saint Lucia signed a Model 1 agreement with the United States of America in relation to Foreign Account Tax Compliance Act (FATCA).[48] As of 1 September 2016, the status of the agreement is listed as "in force".
+
+Preceding the 2014 FATCA agreement is one which was entered into on 30 January 1987 between the United States of America and Saint Lucia according to Paragraph 2 of the Model 1 agreement, the purpose of which was to exchange tax Information.[49]
+
+Military
+
+Saint Lucia has no regular military force. A Special Service Unit and the Coast Guard are both under the command of the Royal Saint Lucia Police.[50][51]
+
+Administrative divisions
+
+The districts of the island, established by the French colonial government and continued by the British, are:
+
+-   Anse la Raye, 31.0 km²
+-   Canaries
+-   Castries, 79.5 km²
+-   Choiseul, 31.3 km²
+-   Dauphin
+-   Dennery, 69.7 km²
+-   Gros Islet
+-   Laborie, 37.8 km²
+-   Micoud, 77.7 km²
+-   Soufrière, 50.5 km²
+-   Vieux Fort, 43.8 km
+
+An additional area is the Forest Reserve Area Quarter (78.3 km²).
+
+
+Economy
+
+St._Lucia_Export_Treemap.png
+
+The United Nations categorizes Saint Lucia as a Small Island Developing State, a designation similar to a developing country with a few substantial differences due to Saint Lucia's island nature.[52][53] The services sector accounted for 82.8% of GDP, followed by industry and agriculture at 14.2% and 2.9%, respectively.[54]
+
+An educated workforce and improvements in roads, communications, water supply, sewerage, and port facilities have attracted foreign investment in tourism and in petroleum storage and transshipment. However, with the US, Canada, and Europe in recession, tourism declined by double digits in early 2009. The recent change in the European Union import preference regime and the increased competition from Latin American bananas have made economic diversification increasingly important in Saint Lucia.
+
+Saint Lucia has been able to attract foreign business and investment, especially in its offshore banking and tourism industries, which is Saint Lucia's main source of revenue. The manufacturing sector is the most diverse in the Eastern Caribbean area, and the government is trying to revitalise the banana industry. Despite negative growth in 2011, economic fundamentals remain solid, and GDP growth should recover in the future.
+
+Inflation has been relatively low, averaging 5.5 percent between 2006 and 2008. Saint Lucia's currency is the East Caribbean Dollar (EC$), a regional currency shared among members of the Eastern Caribbean Currency Union (ECU). The Eastern Caribbean Central Bank (ECCL) issues the EC$, manages monetary policy, and regulates and supervises commercial banking activities in member countries. In 2003, the government began a comprehensive restructuring of the economy, including elimination of price controls and privatization of the state banana company.[55]
+
+Tourism
+
+MarigotBayStLucia.jpg At_the_top_of_Pigeon_Island.jpg Tourism is vital to Saint Lucia's economy. Its economic importance is expected to continue to increase as the market for bananas becomes more competitive. Tourism tends to be more substantial during the dry season (January to April). Saint Lucia tends to be popular due to its tropical weather and scenery and its numerous beaches and resorts.
+
+Other tourist attractions include a drive-in volcano, Sulphur Springs (in Soufrière),zip lining in beautiful Sault Falls, Dennery, the Botanical Gardens, the Majestic twin Peaks "The Pitons", a world heritage site, the rain forests, several options of boat trips, Frigate Island Nature Reserve (Operated by the St. Lucia National Trust), Dennery, and Pigeon Island National Park, which is home to Fort Rodney, an old British military base.
+
+The majority of tourists visit Saint Lucia as part of a cruise. Most of their time tends to be spent in Castries, although Soufriere, Marigot Bay, Rodney Bay and Gros Islet are popular locations to visit.
+
+The current Minister of Tourism is Dominic Fedee, he has been in his role since 2016.
+
+
+Demographics
+
++-------------+--------------+------------+
+| Rank        | Quarter      | Population |
++=============+==============+============+
+| 1           | Castries     |            |
++-------------+--------------+------------+
+| 2           | Gros Islet   |            |
++-------------+--------------+------------+
+| 3           | Vieux Fort   |            |
++-------------+--------------+------------+
+| 4           | Micoud       |            |
++-------------+--------------+------------+
+| 5           | Dennery      |            |
++-------------+--------------+------------+
+| 6           | Soufrière    |            |
++-------------+--------------+------------+
+| 7           | Laborie      |            |
++-------------+--------------+------------+
+| 8           | Anse la Raye |            |
++-------------+--------------+------------+
+| 9           | Choiseul     |            |
++-------------+--------------+------------+
+| 10          | Canaries     |            |
++-------------+--------------+------------+
+| Source:[56] |              |            |
++-------------+--------------+------------+
+
+Saint Lucia reported a population of 165,595 in the 2010 national census.[57] In , the United Nations Population Division estimated Saint Lucia's population at . The country's population is evenly divided between urban and rural areas, with more than a third living in the capital, Castries.
+
+Despite a high emigration rate, the population is growing rapidly at about 1.2% per year. Migration from Saint Lucia is primarily to Anglophone countries, with the United Kingdom having almost 10,000 Saint Lucian-born citizens, and over 30,000 of Saint Lucian heritage. The second most popular destination for Saint Lucian émigrés is the United States, where a combined (foreign and national-born Saint Lucians) almost 14,000 reside. Canada is home to a few thousand Saint Lucians.[58]
+
+Ethnic groups
+
+Saint Lucia's population is predominantly of African and mixed African-European-Carib descent, with a small Indo-Caribbean minority (3%). Members of other or unspecified ethnic groups, account for about 2% of the population.
+
+Languages
+
+The official language is English.[59][60] Saint Lucian French Creole (Kwéyòl), which is colloquially referred to as _Patois_ ("Patwa"), is spoken by 95% of the population.[61] This Antillean Creole is used in literature and music, and is gaining official acknowledgement.[62] As it developed during the early period of French colonisation, the creole is derived chiefly from French and West African languages, with some vocabulary from the Island Carib language and other sources. Antillean Creole is also spoken in Dominica, Martinique, Guadeloupe, and (to a lesser extent) St. Vincent and Grenada; it also resembles the creoles spoken in French Guiana, Haiti, Mauritius and the Seychelles. Saint Lucia is a member of _La Francophonie_.[63]
+
+Religion
+
+About 61.5% of the population is Roman Catholic. Another 25.5% belong to Protestant denominations, (includes Seventh Day Adventist 10.4%, Pentecostal 8.9%, Baptist 2.2%, Anglican 1.6%, Church of God 1.5%, other Protestant 0.9%). Evangelicals comprise 2.3% of the population and 1.1% are Jehovah's Witnesses. In addition, about 1.9% of the population adheres to the Rastafari movement. Other religions include Islam, Bahá'í Faith, Judaism, and Buddhism.
+
+Health
+
+_See Health in Saint Lucia_
+
+Crime
+
+In 2017, Saint Lucia recorded 60 homicides, the highest in the country's history.[64].
+
+
+Culture
+
+Day250castriesreduxd.jpg in Castries.]]
+
+The culture of Saint Lucia has been influenced by African, East Indian, French, and English heritage. One of the secondary languages is Saint Lucian French Creole or Kwéyòl, spoken by almost all of the population.[65][66]
+
+Saint Lucia boasts the second highest ratio of Nobel laureates produced with respect to the total population of any sovereign country in the world. Two winners have come from Saint Lucia: Sir Arthur Lewis won the Nobel Prize in Economics in 1979, and the poet Derek Walcott received the Nobel Prize in Literature in 1992.
+
+Festivals
+
+Saint Lucian cultural festivals include La Rose and La Marguerite, the first representing a native Saint Lucian fraternal society known as the Order of the Rose that is fashioned in the mould of Rosicrucianism, and the second representing its traditional rival, the native Saint Lucian equivalent of Freemasonry known as the Order of the Marguerite.[67] References to their origins as versions of pre-existing external secret societies can be seen in a mural painted by Dunstan St Omer, depicting the holy trinity of Osiris, Horus, and Isis.
+
+The biggest festival of the year is the Saint Lucia Jazz Festival. Held in early May at multiple venues throughout the island, it draws visitors and musicians from around the world. The grand finale or main stage is held at the Pigeon Island[68] which is located to the North of the Island.
+
+Traditionally in common with other Caribbean countries, Saint Lucia held a carnival before Lent. In 1999, the government moved Carnival to mid-July to avoid competing with the much larger Trinidad and Tobago carnival and so as to attract more overseas visitors.
+
+In May 2009, Saint Lucians commemorated the 150th Anniversary of West Indian Heritage on the island.
+
+Sport
+
+Beausejour_Stadium_Cricket_St_Lucia.jpg which hosts international cricket matches for the West Indies.]] Darren_Sammy,_2010.jpg The Windward Islands cricket team includes players from Saint Lucia and plays in the West Indies regional tournament. Daren Sammy became the first Saint Lucian to represent the West Indies on his debut in 2007, and since 2010 has captained the side.[69] In an international career spanning 2003 to 2008, and including 41 ODIs and one Test, Nadine George MBE became the first woman to score a Test century for the team.[70] Sammy and George were recognised by the Saint Lucian government as Sportsman of the Year and Sportswoman of the Year respectively for 2004.[71]
+
+For sailing enthusiasts, the annual Atlantic Rally for Cruisers (ARC) race begins in the Canary Islands and ends in Saint Lucia. The year 2015 marked the ARC's 30th year of existence. Every November, the race attracts over 200 boats and 1,200 people to sail across the Atlantic to the Caribbean.
+
+In 2019 a modern state of the art horse racing facility will open. One of the main contributors will be The China Horse Club, operators of race tracks in Asia.
+
+Music and dance
+
+Together with Caribbean music genres such as Calypso, Soca, Dancehall, Reggae, Compas, Zouk, and Salsa, Saint Lucia has a strong indigenous folk music tradition. Each May since 1991, Saint Lucia has hosted an internationally renowned Jazz Festival. In 2013, the festival was re-branded The Saint Lucia Jazz & Arts Festival which encompassed culture, visual art, alternative music, education, fashion, and food.
+
+Dancing in Saint Lucia is inspired by Caribbean culture and enjoys an active following. A popular folk dance is the _Kwadril_.
+
+Cinema
+
+Much of the scenery for the film _Dr. Dolittle_ was shot here in 1967.[72] _Water_ was shot here,[73] as were parts of _Firepower_.
+
+Education
+
+The Education Act provides for free and compulsory education in Saint Lucia from the ages of 5 to 15.[74][75] Public spending on education was at 5.8% among the 2002–2005 GDP.[76]
+
+Saint Lucia has one university, the University of the West Indies Open Campus,[77] and a few medical schools – American International Medical University, International American University − College of Medicine, Destiny University School of Medicine and Health Sciences, and the oldest of which is Spartan Health Sciences University.
+
+Cuisine
+
+Saint Lucia's national dish is green figs and saltfish.
+
+The island's cuisine is a unique blend of West African , European (mainly British and French) and East Indian cuisine; this creates dynamic meal dishes such as macaroni pie, Stew chicken, rice and peas, fish broth or fish water, and soups packed full with fresh locally produced vegetables. Typical essential foodstuffs are potatoes, onions, celery, thyme, coconut milk, the very hot scotch bonnet peppers, flour, and cornmeal. All mainstream meat and poultry are eaten in St. Lucia; meat and seafood are normally stewed and browned to create a rich gravy sometimes served over ground provisions or rice. The island is also home to the famous fried dough, known by many as a bake or Johnny Cake. These bakes can be served with different sides, such as saltfish which is either sautéed or lightly fried along with red, green peppers, onions, and seasoned well. This is the most common way for bake to be prepared, though it can also be served with meats such as stewed chicken or beef.
+
+One popular Saint Lucian dessert is the pastry called a turnover. The pastry is made with sweetened coconut that is boiled with spices, some sugar, and whatever is satisfying. It is boiled until cooked to a light or dark brown colour; then the mixture is separated into various size portions placed on a rolled out piece of dough. The dough size may vary too depending on how much is desired, and lastly, it is baked in the oven until the colour of the turnover is nicely browned.
+
+Due to Saint Lucia's Indo-Caribbean population, curry is very popular; however due to the blend of cooking styles, curry dishes have a distinct Caribbean twist. Roti is typically served as a fast food meal: the bread itself is very flat (sometimes very thin) and is wrapped around curried vegetables such as chickpeas and potato, seafood such as shrimp and conch, or meats such as chicken, beef, goat, and liver.
+
+LGBTQ acceptance
+
+Lesbian, gay, bisexual, and transgender (LGBT) people living in Saint Lucia face legal challenges not experienced by non-LGBT members of the population. Saint Lucia prohibits male-on-male sexual activity, punishing those found guilty with 10 years in jail. Saint Lucia was also the only UN member in the Americas to formally oppose the UN declaration on sexual orientation and gender identity.[78]
+
+
+Flora and fauna
+
+A species of lizard, _Anolis luciae_, is named for and is endemic to Saint Lucia.[79][80]
+
+
+Gallery
+
+File:Toraille Waterfall.JPG|Toraille Waterfall – July 2016 File:GrosPiton.JPG%7CGros Piton seen from the Ladera Hotel restaurant – September 2007 File:PetitPiton.JPG%7CPetit Piton seen from the Ladera Hotel restaurant – December 2004 File:MarigoldBay.jpg|Soufrière Bay – February 2006 File:saint lucia mountain resort.JPG| Aerial view of resort – June 2006 File:Day248bdrivem.JPG| Typical sight in Canaries: houses on hills, June 2006 File:AtlanticBeach.jpg| St Lucia beach – February 2006 File:St lucia z.jpg| View from the Le Sport
+  resort – March 2006 File:Day248bdriveq.JPG%7Cthumb%7Cright%7Cupright=2.25%7CA view of Soufrière
+
+
+See also
+
+-   Outline of Saint Lucia
+-   List of colonial governors and administrators of Saint Lucia
+-   Governor-General of Saint Lucia
+-   Index of Saint Lucia-related articles
+-   British African-Caribbean people
+-   Windward Islands
+-   LGBT rights in Saint Lucia
+-   Chief Justice of the Leeward Islands
+-   List of Saint Lucians
+
+
+References
+
+Citations
+
+Sources
+
+-   -   "The Saint Lucia Constitution" (1978-December-20 effective 1979-February-22), Government of St. Lucia, 2008, stlucia.gov.lc, webpage: The Saint Lucia Constitution Order 1978.
+-   "Members of the House of Assembly" (and Prime Minister), Government of St. Lucia, 2008, stlucia.gov.lc, webpage: stlucia.gov.lc/govfolks-members.
+
+
+External links
+
+-   -   Saint Lucia from _UCB Libraries GovPubs_
+-   -   St. Lucia from the BBC News
+-   -   Key Development Forecasts for Saint Lucia from International Futures
+-   Guide to the island of St. Lucia
+
+Saint_Lucia Category:Countries in the Caribbean Category:Windward Islands Category:English-speaking countries and territories Category:Islands of Saint Lucia Category:Member states of the Caribbean Community Category:Member states of the Commonwealth of Nations Category:Member states of the Organisation of Eastern Caribbean States Category:Member states of the Organisation internationale de la Francophonie Category:Member states of the United Nations Category:Small Island Developing States Category:Former colonies in North America Category:British Windward Islands Category:French Caribbean Category:1800s establishments in the Caribbean Category:1803 establishments in North America Category:1803 establishments in the British Empire Category:States and territories established in 1979 Category:1970s establishments in the Caribbean Category:1979 establishments in North America Category:Countries in North America
+
+[1]
+
+[2]
+
+[3] Mixed Legal Systems. juriglobe.ca
+
+[4]
+
+[5]
+
+[6]
+
+[7] All about St Lucia: _History_
+
+[8]
+
+[9] World Statesmen: _Saint Lucia Chronology_ Linked 2014-01-20
+
+[10]
+
+[11]
+
+[12] _They Called Us the Brigands. The Saga of St. Lucia's Freedom Fighters_ by Robert J Devaux
+
+[13]
+
+[14]
+
+[15]
+
+[16]
+
+[17]
+
+[18]
+
+[19]
+
+[20]
+
+[21]
+
+[22]
+
+[23]
+
+[24]
+
+[25] Anselma Aimable, "St Lucia PM remains in New York hospital after stroke" , Caribbean Net News, 18 May 2007.
+
+[26] "Compton suffered series of strokes" , _The Jamaica Gleaner_, 16 May 2007.
+
+[27]
+
+[28]
+
+[29]
+
+[30]
+
+[31]
+
+[32]
+
+[33]
+
+[34]
+
+[35]
+
+[36]
+
+[37]
+
+[38] http://opm.govt.lc/ The prime minister
+
+[39] "Members of the House of Assembly", Government of St. Lucia, 2008, stlucia.gov.lc (see below: _References_).
+
+[40]
+
+[41] Permanent Mission of Saint Lucia to the United Nations. Retrieved January 26, 2018.
+
+[42] Saint Lucia Press Release About New UN Ambassador. Retrieved January 26, 2018.
+
+[43] OAS Inter – American Treaties
+
+[44]
+
+[45] IRD Trinidad and Tobago – CARICOM Treaties
+
+[46]
+
+[47]
+
+[48]
+
+[49]
+
+[50]
+
+[51]
+
+[52]
+
+[53]
+
+[54]
+
+[55]
+
+[56] 2010 POPULATION AND HOUSING CENSUS PRELIMINARY REPORT. stats.gov.lc (Updated April 2011)
+
+[57]
+
+[58]
+
+[59]
+
+[60]
+
+[61]
+
+[62]
+
+[63]
+
+[64]
+
+[65]
+
+[66]
+
+[67]
+
+[68] St Lucia Jazz Festival. tropicalsky.co.uk (April 20, 2009)
+
+[69]
+
+[70]
+
+[71]
+
+[72] Harris, Mark (2008) _Pictures at A Revolution_, Penguin Press, pp. 242–43.
+
+[73]
+
+[74]
+
+[75]
+
+[76]
+
+[77]
+
+[78] General Assembly: 70th and 71st plenary meeting, morning session, 02:32:00
+
+[79] Beolens, Bo; Watkins, Michael; Grayson, Michael (2011). _The Eponym Dictionary of Reptiles_. Baltimore: Johns Hopkins University Press. xiii + 296 pp. . ("Lucia", p. 162).
+
+[80] . www.reptile-database.org

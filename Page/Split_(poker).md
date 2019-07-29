@@ -1,0 +1,14 @@
+In poker it is sometimes necessary to SPLIT, or divide the pot among two or more players rather than awarding it all to a single player. This can happen because of ties, and also by playing intentional split-pot poker variants (the most typical of these is high-low split poker, where the high hand and low hand split the pot).
+
+To split a pot, one player uses both hands to take the chips from the pot and make stacks, placing them side by side to compare height (and therefore value). Equal stacks are placed aside. If there is more than one denomination of chip in the pot, the largest value chip is done first, and then progressively smaller value chips. If there is an odd number of larger chips, smaller chips from the pot can be used to equalize stacks or make change as necessary. Pots are always split down to the lowest denomination of chip used in the game. Three-way ties or further splits can also be done this way.
+
+After fully dividing a pot, there may be a single odd lowest-denomination chip remaining (or two odd chips if splitting three ways, etc.). Odd chips can be awarded in several ways, agreed upon before the beginning of the game. The following rules are common:
+
+-   If playing a high-low split game and dividing a pot between the high and low hands, always award the odd chip to the high hand.
+-   If splitting a pot because of tied hands, award the odd chip to the hand that contains the highest-ranking single card, using suits to break ties if necessary (clubs ranking the lowest, followed by diamonds, hearts, and spades as in bridge).
+-   (Variation) Between tied hands, award the odd chip to the first player in clockwise rotation from the dealer. (Note that in a casino stud game with a house dealer and no button this gives an unfair advantage to players on the dealer's left, so the high card by suit method is preferred).
+-   (Variation) Leave the odd chip as an extra ante for the next deal. This is common in home games.
+
+Sometimes it is necessary to further split a half pot into quarters, or even smaller portions. This is especially common in community card high-low split games such as Omaha hold'em, where one player has the high hand and two or more players have tied low hands. Unfortunate players receiving such a fractional pot call it being _quartered_. When this happens, an exception to the odd chip rules above can be made: if the high hand wins its half of the pot alone, and the low half is going to be quartered, the odd chip (if any) from the first split should be placed in the low half, rather than being awarded to the high hand.
+
+Category:Poker gameplay and terminology

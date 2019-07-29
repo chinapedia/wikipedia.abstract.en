@@ -1,0 +1,223 @@
+051118-WSIS.2005-Bruce.Perens.ogv
+
+BRUCE PERENS (born around 1958[1]) is an American venture capitalist, computer programmer and advocate in the free software movement. He created The Open Source Definition and published the first formal announcement and manifesto of open source.[2][3] He co-founded the Open Source Initiative (OSI) with Eric S. Raymond.[4]. Today, he is a partner at OSS Capital.
+
+In 2005, Perens represented Open Source at the United Nations World Summit on the Information Society, at the invitation of the United Nations Development Programme. He has appeared before national legislatures and is often quoted in the press, advocating for open source and the reform of national and international technology policy.
+
+Perens is also an amateur radio operator, with call sign K6BP. He promotes open radio communications standards[5] and open-source hardware.[6]
+
+In 2016 Perens, along with Boalt Hall (Berkeley Law) professor Lothar Determann, co-authored "Open Cars"[7] which appeared in the Berkeley Technology Law Journal.
+
+In 2018 Perens founded the Open Research Institute (ORI), a non-profit research and development organization to address technologies involving Open Source, Open Hardware, Open Standards, Open Content, and Open Access to Research. ORI facilitate worldwide collaboration in the development of technology that would otherwise be restricted under national laws like ITAR and EAR.
+
+
+Companies
+
+Perens is a partner at OSS Capital, and continues to operate two companies: Algoram is a start-up which is creating a software-defined radio transceiver. Legal Engineering is a legal-technical consultancy which specializes in resolving copyright infringement in relation to open source software.
+
+
+Early life
+
+Perens grew up in Long Island, New York. He was born with cerebral palsy, which caused him to have slurred speech as a child, a condition that led to a misdiagnosis of him as developmentally disabled in school and led the school to fail to teach him to read.[8] He developed an interest in technology at an early age: besides his interest in amateur radio, he ran a pirate radio station in the town of Lido Beach and briefly engaged in phone phreaking.[9]
+
+
+Career
+
+Computer graphics
+
+Perens worked for seven years at the New York Institute of Technology Computer Graphics Lab. After that, he worked at Pixar for 12 years, from 1987 to 1999. He is credited as a studio tools engineer on the Pixar films _A Bug's Life_ (1998) and _Toy Story 2_ (1999).[10]
+
+No-Code International
+
+Perens founded No-Code International in 1998 with the goal of ending the Morse Code test then required for an amateur radio license. His rationale was that amateur radio should be a tool for young people to learn advanced technology and networking, rather than something that preserved antiquity and required new hams to master outmoded technology before they were allowed on the air.[11]
+
+Perens lobbied intensively on the Internet, at amateur radio events in the United States, and during visits to other nations.[12] One of his visits was to Iceland, where he had half of that nation's radio amateurs in the room, and their vote in the International Amateur Radio Union was equivalent to that of the entire United States.
+
+BusyBox
+
+In 1995, Perens created BusyBox, a package of UNIX-style utilities for operating systems including Linux and FreeBSD. He stopped working on it in 1996, after which it was taken over by other developers.
+
+Starting in 2007, several lawsuits were filed for infringement of BusyBox copyright and licensing. These lawsuits were filed by the Software Freedom Law Center (SFLC), and some of the later managing developers of BusyBox.
+
+In 2009, Bruce Perens released a statement about the lawsuits and those filing them. In it, he claims that he maintains a significant or even majority ownership of the software in the litigation, but was not contacted nor represented by the plaintiffs; and that some of the plaintiffs had themselves modified BusyBox and its distribution package in such a way as to violate applicable licensing terms and copyright owned by Perens and additional BusyBox developers. Perens supports enforcement of the GPL license used on Busybox. Because he was denied participation in the Busybox cases on the side of the prosecution, Perens started a consulting business to assist the defendants in coming into compliance with the GPL and arriving at an amicable settlement with the Software Freedom Law Center.
+
+Debian Project Leader
+
+From April 1996 to December 1997, while still working at Pixar, Perens served as Debian Project Leader, the person who coordinates development of the Debian open source operating system. He replaced Ian Murdock, the creator of Debian, who had been the first project leader.
+
+Software in the Public Interest
+
+In 1997, Perens was a co-founder of Software in the Public Interest (SPI), a nonprofit organization intended to serve as an umbrella organization to aid open-source software and hardware projects. It was originally created to allow the Debian Project to accept donations.
+
+Debian Social Contract
+
+In 1997,[13] Perens carbon-copied an email conversation between Donnie Barnes of Red Hat and Ean Schuessler, who was then working on Debian. Schuessler bemoaned that Red Hat had never stated its social contract with the developer community. Perens took this as inspiration to create a formal social contract for Debian. In a blog posting, Perens claims not to have made use of the Three Freedoms (later the Four Freedoms) published by the Free Software Foundation in composing his document. Perens proposed a draft of the Debian Social Contract to the Debian developers on the debian-private mailing list early in June 1997. Debian developers contributed discussion and changes for the rest of the month while Perens edited, and the completed document was then announced as Debian project policy. Part of the Debian Social Contract was the Debian Free Software Guidelines, a set of 10 guidelines for determining whether a set of software can be described as "free software", and thus whether it could be included in Debian.
+
+Open Source Definition and The Open Source Initiative
+
+On February 3, 1998, a group of people (not including Perens) met at VA Linux Systems to discuss the promotion of Free Software to business in pragmatic terms, rather than the moral terms preferred by Richard Stallman. Christine Petersen of the nanotechnology organization Foresight Institute, who was present because Foresight took an early interest in Free Software, suggested the term "Open Source". The next day, Eric S. Raymond recruited Perens to work with him on the formation of Open Source. Perens modified the Debian Free Software Guidelines into the Open Source Definition by removing Debian references and replacing them with "Open Source".
+
+The original announcement of The Open Source Definition was made on February 9, 1998 on Slashdot[14] and elsewhere; the definition was given in Linux Gazette on February 10, 1998.[15]
+
+Concurrently, Perens and Raymond established the Open Source Initiative, an organization intended to promote open source software.
+
+Perens left OSI in 1999, a year after co-founding it. In February 1999 in an email to the Debian developers mailing list he explained his decision and stated that, though "most hackers know that Free Software and Open Source are just two words for the same thing", the success of "open source" as a marketing term had "de-emphasized the importance of the freedoms involved in Free Software"; he added, "It's time for us to fix that." He stated his regret that OSI co-founder Eric Raymond "seems to be losing his free software focus."[16] But in the following 2000s he spoke about Open source again.[17][18]
+
+Linux Capital Group
+
+In 1999, Perens left Pixar and became the president of Linux Capital Group, a business incubator and venture capital firm focusing on Linux-based businesses. Their major investment was in Progeny Linux Systems, a company headed by Debian founder Ian Murdock. In 2000, as a result of the economic downturn, Perens shut down Linux Capital Group.[19] (Progeny Linux Systems would end operations in 2007.)
+
+Hewlett-Packard
+
+From December 2000 to September 2002, Perens served as "Senior Global Strategist for Linux and Open Source" at Hewlett-Packard, internally evangelizing for the use of Linux and other open-source software. He was fired as a result of his anti-Microsoft statements, which especially became an issue after HP acquired Compaq, a major manufacturer of Microsoft Windows-based PCs, in 2002.[20]
+
+Linux Standard Base
+
+In 1998, Perens founded, and became the first project leader, of the Linux Standard Base project, a joint project by several Linux distributions now under the organizational structure of the Linux Foundation to standardize the Linux software system structure.
+
+UserLinux
+
+In 2003 Perens created UserLinux, a Debian-based distribution whose stated goal was, "Provide businesses with freely available, high quality Linux operating systems accompanied by certifications, service, and support options designed to encourage productivity and security while reducing overall costs." UserLinux was eventually overtaken in popularity by Ubuntu, another Debian-based distribution, which was started in 2004, and UserLinux became unmaintained in 2006.[21]
+
+SourceLabs
+
+Perens was an employee of SourceLabs, a Seattle-based open source software and services company, from June 2005 until December 2007.[22] He produced a video commercial, _Impending Security Breach_, for SourceLabs in 2007. (SourceLabs was acquired by EMC in 2009.)
+
+University faculty
+
+Between 1981 and 1986, Perens was on the staff of the New York Institute of Technology Computer Graphics Lab as a Unix kernel programmer.
+
+In 2002, Perens was a remote Senior Scientist for Open Source with the Cyber Security Policy Laboratory of George Washington University under the direction of Tony Stanco. Stanco was director of the laboratory for a year, while its regular director was on sabbatical.
+
+Between 2006 and 2007, Perens was a visiting lecturer and researcher for the University of Agder under a three-year grant from the Competence Fund of Southern Norway. During this time he consulted the Norwegian Government and other entities on government policy issues related to computers and software.[23] After this time Perens worked remotely on Agder programs, mainly concerning the European Internet Accessibility Observatory.
+
+Other activities
+
+In 2007, some of Perens's government advisory roles included a meeting with the President of the Chamber of Deputies (the lower house of parliament) in Italy and testimony to the Culture Committee of the Chamber of Deputies;[24] a keynote speech at the foundation of Norway's Open Source Center, following Norway's Minister of Governmental Reform (Perens is on the advisory board of the center);[25] he provided input on the revision of the European Interoperability Framework;[26] and he was keynote speaker at a European Commission conference on _Digital Business Ecosystems at the Centre Borschette, Brussels, on November 7_.
+
+In 2009, Perens acted as an expert witness on open source in the Jacobsen v. Katzer U.S. Federal lawsuit. His report, which was made publicly available by Jacobsen, presented the culture and impact of open-source software development to the federal courts.[27]
+
+Perens delivered one of the keynote addresses at the 2012 linux.conf.au conference in Ballarat, Australia. He discussed the need for open source software to market itself better to non-technical users.[28] He also discussed some of the latest developments in open-source hardware, such as Papilio and Bus Pirate.[29]
+
+In 2013, Perens spoke in South America, as the closing keynote at Latinoware 2013. He was the keynote of CISL - Conferencia Internacional de Software Libre, in Buenos Aires, Argentina, and keynoted a special event along with the Minister of software and innovation of Chubut Province, in Puerto Madrin, Patagonia, Argentina. He keynoted the Festival de Software Libre 2013, in Puerto Vallarta, Mexico.
+
+In 2014-2015, Perens took a break from Open Source conferences, having spoken at them often since 1996. In 2016, he returned to the conference circuit, keynoting the Open Source Insight conference in Seoul, sponsored by the Copyright Commission of South Korea. Perens web site presently advertises his availability to keynote conferences as long as travel and lodging expenses are compensated.
+
+
+Views
+
+Perens poses "Open Source" as a means of marketing the free and open-source software idea to business people and mainstream who might be more interested in the practical benefits of an open source development model and ecosystem than abstract ethics. He states that open source and free software are only two ways of talking about the same phenomenon, a point of view not shared by Stallman and his Free software movement.[30][31] Perens postulated in 2004 an economic theory for business use of Open Source in his paper _The Emerging Economic Paradigm of Open Source_ and his speech _Innovation Goes Public_.[32] This differs from Raymond's theory in _The Cathedral and the Bazaar_, which having been written before there was much business involvement in open source, explains open source as a consequence of programmer motivation and leisure.
+
+In February 2008, for the 10th anniversary of the phrase "open source", Perens published a message to the community called "State of Open Source Message: A New Decade For Open Source".[33] Around the same time the ezine RegDeveloper published an interview with Perens where he spoke of the successes of open source, but also warned of dangers, including a proliferation of OSI-approved licenses which had not undergone legal scrutiny. He advocated the use of the GPLv3 license, especially noting Linus Torvalds' refusal to switch away from GPLv2 for the Linux kernel.[34]
+
+Bruce Perens supported Bernie Sanders for President[35] and he claims that his experience with the open source movement influenced that decision. On July 13, 2016, following Sanders's endorsement of Hillary Clinton for president,[36] Perens endorsed Clinton.
+
+
+Amateur radio and other activities
+
+Perens is an avid amateur radio enthusiast (call sign K6BP[37]) and maintained technocrat.net, which he closed in late 2008, because its revenues did not cover its costs.
+
+
+Media appearances
+
+Perens is featured in the 2001 documentary film _Revolution OS_ and the 2006 BBC television documentary _The Code-Breakers_.
+
+From 2002 to 2006, Prentice Hall PTR published the Bruce Perens' Open Source Series, a set of 24 books covering various open source software tools, for which Perens served as the series editor. It was the first book series to be published under an open license.[38]
+
+
+Personal life
+
+Perens lives in Berkeley, California with his wife, Valerie, and son, Stanley, born in 2000.[39][40]
+
+
+References
+
+
+External links
+
+-   -   Project Proposal and Call for Participation: The Linux Standard Base
+-   "It's Time to Talk About Free Software Again", 1999
+-   Video with Bruce Perens at Hannover Industry Trade Fair, Germany, May 2008
+-   A talk about open source recorded in Rome in June 2007
+
+Category:Debian Project leaders Category:Amateur radio people Category:Living people Category:People with cerebral palsy Category:Articles containing video clips Category:Members of the Open Source Initiative board of directors Category:People from Lido Beach, New York Category:New York Institute of Technology faculty Category:Open source advocates Category:1950s births
+
+[1]
+
+[2]
+
+[3]
+
+[4]
+
+[5] Interview with Leo Laporte on 'The Tech Guy' radio show, 2011-10-16
+
+[6] TAPR introduces open-source hardware license, OSI skeptical on Ars technica by Ryan Paul _"Bruce Perens and the Tucson Amateur Packet Radio Organization have submitted an Open hardware license"_ (Feb 23, 2007)
+
+[7]
+
+[8]
+
+[9]
+
+[10] Bruce Perens on IMDb.
+
+[11]
+
+[12]
+
+[13]
+
+[14]
+
+[15]
+
+[16]
+
+[17]
+
+[18]
+
+[19] Transcript of Bruce Perens about Marketing Open Source Software, _Age of Peers_
+
+[20]
+
+[21]
+
+[22]
+
+[23]
+
+[24]
+
+[25]
+
+[26]
+
+[27]
+
+[28]
+
+[29]
+
+[30]
+
+[31]
+
+[32]
+
+[33]
+
+[34]
+
+[35]
+
+[36]
+
+[37]
+
+[38]
+
+[39]
+
+[40]

@@ -1,0 +1,93 @@
+PROTEOBACTERIA is a major phylum of gram-negative bacteria. They include a wide variety of pathogens, such as _Escherichia_, _Salmonella_, _Vibrio_, _Helicobacter_, _Yersinia_, _Legionellales_ and many other notable genera.[1] Others are free-living (non-parasitic) and include many of the bacteria responsible for nitrogen fixation.
+
+Carl Woese established this grouping in 1987, calling it informally the "purple bacteria and their relatives".[2] Because of the great diversity of forms found in this group, it was named after Proteus, a Greek god of the sea capable of assuming many different shapes and is not named after the Proteobacteria genus _Proteus_.[3][4]
+
+Some Alphaproteobacteria can grow at very low levels of nutrients and have unusual morphology such as stalks and buds. Others include agriculturally important bacteria capable of inducing nitrogen fixation in symbiosis with plants. The type order is the Caulobacterales, comprising stalk-forming bacteria such as _Caulobacter_.
+
+The Betaproteobacteria are highly metabolically diverse and contain chemolithoautotrophs, photoautotrophs, and generalist heterotrophs. The type order is the Burkholderiales, comprising an enormous range of metabolic diversity, including opportunistic pathogens.
+
+The Hydrogenophilalia are obligate thermophiles and include heterotrophs and autotrophs. The type order is the Hydrogenophilales.
+
+The Gammaproteobacteria are the largest class in terms of species with validly published names. The type order is the Pseudomonadales, which include the genera _Pseudomonas_ and the nitrogen-fixing _Azotobacter_.
+
+The Acidithiobacillia contain only sulfur, iron and uranium-oxidising autotrophs. The type order is the Acidithiobacillales, which includes economically important organisms used in the mining industry such as _Acidithiobacillus_ spp.
+
+The Deltaproteobacteria include bacteria that are predators on other bacteria and are important contributors to the anaerobic side of the sulfur cycle. The type order is the Myxococcales, which includes organisms with self-organising abilities such as _Myxococcus_ spp.
+
+The Epsilonproteobacteria are often slender, Gram-negative rods that are helical or curved. The type order is the Campylobacterales, which includes important food pathogens such as _Campylobacter_ spp.
+
+The Oligoflexia are filamentous aerobes. The type order is the Oligoflexales, which contains the genus _Oligoflexus_.
+
+
+Characteristics
+
+All "Proteobacteria" are Gram-negative (though some may stain Gram-positive or Gram-variable in practice), with an outer membrane mainly composed of lipopolysaccharides. Many move about using flagella, but some are nonmotile or rely on bacterial gliding. The latter include the myxobacteria, an order of bacteria that can aggregate to form multicellular fruiting bodies. Also, a wide variety in the types of metabolism exists. Most members are facultatively or obligately anaerobic, chemolithoautotrophic, and heterotrophic, but numerous exceptions occur. A variety of genera, which are not closely related to each other, convert energy from light through photosynthesis.
+
+"Proteobacteria" are associated with the imbalance of microbiota of the lower reproductive tract of women. These species are associated with inflammation.[5]
+
+
+Taxonomy
+
+The group is defined primarily in terms of ribosomal RNA (rRNA) sequences. The "Proteobacteria" are divided into six classes with validly published names, referred to by the Greek letters alpha through epsilon and the Acidithiobacillia and Oligoflexia. These were previously regarded as subclasses of the phylum, but they are now treated as classes. These classes are monophyletic.[6][7][8] The genus _Acidithiobacillus_, part of the Gammaproteobacteria until it was transferred to class Acidithiobacillia in 2013,[9] was previously regarded as paraphyletic to the _Betaproteobacteria_ according to multigenome alignment studies.[10] In 2017, the Betaproteobacteria was subject to major revisions and the class Hydrogenophilalia was created to contain the order Hydrogenophilales[11]
+
+Proteobacterial classes with validly published names include some prominent genera:[12] e.g.:
+
+-   Alphaproteobacteria: _Brucella, Rhizobium, Agrobacterium, Caulobacter, Rickettsia, Wolbachia_, etc.
+-   Betaproteobacteria: _Bordetella, Ralstonia, Neisseria, Nitrosomonas_, etc.
+-   Gammaproteobacteria: _Escherichia, Shigella, Salmonella, Yersinia, Buchnera, Haemophilus, Vibrio, Pseudomonas_, etc.
+-   Deltaproteobacteria: _Desulfovibrio, Geobacter, Bdellovibrio_, etc.
+-   Epsilonproteobacteria: _Helicobacter, Campylobacter, Wolinella_, etc.
+-   Oligoflexia: _Oligoflexus_.
+-   Acidithiobacillia: _Acidithiobacillus thiooxidans_, _Thermithiobacillus tepidarius_
+-   Hydrogenophilalia: _Hydrogenophilus thermoluteolus_, _Tepidiphilus margaritifer_
+
+
+Transformation
+
+Transformation, a process in which genetic material passes from bacterium to another,[13] has been reported in at least 30 species of "Proteobacteria" distributed in the classes alpha, beta, gamma and epsilon.[14] The best-studied "Proteobacteria" with respect to natural genetic transformation are the medically important human pathogens _Neisseria gonorrhoeae_ (class beta), _Haemophilus influenzae_ (class gamma) and _Helicobacter pylori_ (class epsilon).[15] Natural genetic transformation is a sexual process involving DNA transfer from one bacterial cell to another through the intervening medium and the integration of the donor sequence into the recipient genome. In pathogenic "Proteobacteria", transformation appears to serve as a DNA repair process that protects the pathogen's DNA from attack by their host's phagocytic defenses that employ oxidative free radicals.[16]
+
+
+Notes
+
+
+References
+
+
+External links
+
+-   Proteobacteria information from Palaeos.
+-   Proteobacteria. – J. P. Euzéby: List of Prokaryotic names with Standing in Nomenclature.
+
+Proteobacteria Category:Gram-negative bacteria Category:Bacteria phyla
+
+[1]
+
+[2]
+
+[3]
+
+[4]
+
+[5]
+
+[6]
+
+[7]
+
+[8] .
+
+[9]
+
+[10]
+
+[11]
+
+[12] Interactive Tree of Life
+
+[13]
+
+[14]
+
+[15]
+
+[16]

@@ -1,0 +1,45 @@
+Traveling_in_Maldives.jpgs are major way of transportation.]] TRANSPORT IN THE MALDIVES includes, road, water and air.
+
+
+Road
+
+All roads in the capital city of Malé are paved with concrete cobblestones. Many of the roads in Addu city are paved with tarmac. A small highway in Addu is called "the link road". A causeway connects 3 islands.
+
+
+Ports and harbors
+
+Gan, Malé, is the local port authority.
+
+
+Merchant marine
+
+Total
+
+16 ships (1,000 GT or over) total 66 804 GT/.
+
+Ship types
+
+As of 2005 ships number 12 cargo, 1 passenger/cargo, 2 petroleum tanker and 1 refrigerated cargo 1,
+
+Foreign registry
+
+As of 2005 2 ships were registered in Panama.
+
+
+Air
+
+The archipelago had 11 airports as of 2016. Two had paved runways. One stretched over . Another covered . Three airports had unpaved runways of as of 2005.
+
+
+See also
+
+-   List of airports in Maldives
+-   Flyme
+-   Maldivian
+-   Mega Maldives
+-   Trans Maldivian Airways
+
+
+References
+
+Transport_in_the_Maldives

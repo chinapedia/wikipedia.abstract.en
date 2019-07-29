@@ -1,0 +1,165 @@
+The FRENCH ARMED FORCES () encompass the Army, the Navy, the Air Force, the National Guard and the Gendarmerie of the French Republic. The President of France heads the armed forces as _chef des armées_.
+
+France maintains the fifth largest defence budget in the world and the first in the European Union (EU). France has the largest armed forces in size in the European Union.[1] France also maintains the world's third-largest nuclear deterrent (behind Russia and the United States).
+
+
+History
+
+The military history of France encompasses an immense panorama of conflicts and struggles extending for more than 2,000 years across areas including modern France, greater Europe, and French territorial possessions overseas. According to the British historian Niall Ferguson, France has participated in 50 of the 125 major European wars fought since 1495, and in 168 battles fought since 387 BC, they have won 109, drawn 10 and lost 49: this makes France the most successful military power in European history—in terms of number of fought and won.[2]
+
+The Gallo-Roman conflict predominated from 60 BC to 50 BC, with the Romans emerging victorious in the conquest of Gaul by Julius Caesar. After the decline of the Roman Empire, a Germanic tribe known as the Franks took control of Gaul by defeating competing tribes. The "land of Francia," from which France gets its name, had high points of expansion under kings Clovis I and Charlemagne. In the Middle Ages, rivalries with England and the Holy Roman Empire prompted major conflicts such as the Norman Conquest and the Hundred Years' War. With an increasingly centralized monarchy, the first standing army since Roman times, and the use of artillery, France expelled the English from its territory and came out of the Middle Ages as the most powerful nation in Europe, only to lose that status to Spain following defeat in the Italian Wars. The Wars of Religion crippled France in the late 16th century, but a major victory over Spain in the Thirty Years' War made France the most powerful nation on the continent once more. In parallel, France developed its first colonial empire in Asia, Africa, and in the Americas. Under Louis XIV, France achieved military supremacy over its rivals, but escalating conflicts against increasingly powerful enemy coalitions checked French ambitions and left the kingdom bankrupt at the opening of the 18th century. Free_French_Foreign_Legionnairs.jpg Foreign Legionnaires at the Battle of Bir Hakeim (1942).]] Resurgent French armies secured victories in dynastic conflicts against the Spanish, Polish, and Austrian crowns. At the same time, France was fending off attacks on its colonies. As the 18th century advanced, global competition with Great Britain led to the Seven Years' War, where France lost its North American holdings. Consolation came in the form of dominance in Europe and the American Revolutionary War, where extensive French aid in the form of money and arms, and the direct participation of its army and navy led to America's independence. Internal political upheaval eventually led to 23 years of nearly continuous conflict in the French Revolutionary Wars and the Napoleonic Wars. France reached the zenith of its power during this period, dominating the European continent in an unprecedented fashion under Napoleon Bonaparte, but by 1815 it had been restored to its pre-Revolutionary borders. The rest of the 19th century witnessed the growth of the Second French colonial empire as well as French interventions in Belgium, Spain, and Mexico. Other major wars were fought against Russia in the Crimea, Austria in Italy, and Prussia within France itself.
+
+Following defeat in the Franco-Prussian War, Franco-German rivalry erupted again in the First World War. France and its allies were victorious this time. Social, political, and economic upheaval in the wake of the conflict led to the Second World War, in which the Allies were defeated in the Battle of France and the French government surrendered and was replaced with an authoritarian regime. The Allies, including the government in exile's Free French Forces and later a liberated French nation, eventually emerged victorious over the Axis powers. As a result, France secured an occupation zone in Germany and a permanent seat on the United Nations Security Council. The imperative of avoiding a third Franco-German conflict on the scale of those of two world wars paved the way for European integration starting in the 1950s. France became a nuclear power and since the 1990s its military action is most often seen in cooperation with NATO and its European partners.
+
+
+International stance today
+
+Today, French military doctrine is based on the concepts of national independence, nuclear deterrence (_see Force de frappe_), and military self-sufficiency. France is a charter member of NATO, and has worked actively with its allies to adapt NATO—internally and externally—to the post-Cold War environment. In December 1995, France announced that it would increase its participation in NATO's military wing, including the Military Committee (France withdrew from NATO's military bodies in 1966 whilst remaining full participants in the Organisation's political Councils). France remains a firm supporter of the Organisation for Security and Co-operation in Europe and other cooperative efforts. Paris hosted the May 1997 NATO-Russia Summit which sought the signing of the Founding Act on Mutual Relations, Cooperation and Security. Outside of NATO, France has actively and heavily participated in both coalition and unilateral peacekeeping efforts in Africa, the Middle East, and the Balkans, frequently taking a lead role in these operations. France has undertaken a major restructuring to develop a professional military that will be smaller, more rapidly deployable, and better tailored for operations outside of mainland France. Key elements of the restructuring include: reducing personnel, bases and headquarters, and rationalistion of equipment and the armaments industry.
+
+Since the end of the Cold War, France has placed a high priority on arms control and non-proliferation. French Nuclear testing in the Pacific, and the sinking of the _Rainbow Warrior_ strained French relations with its Allies, South Pacific states (namely New Zealand), and world opinion. France agreed to the Nuclear Non-Proliferation Treaty in 1992 and supported its indefinite extension in 1995. After conducting a controversial final series of six nuclear tests on Mururoa in the South Pacific, the French signed the Comprehensive Test Ban Treaty in 1996. Since then, France has implemented a moratorium on the production, export, and use of anti-personnel landmines and supports negotiations leading toward a universal ban. The French are key players in the adaptation of the Treaty on Conventional Armed Forces in Europe to the new strategic environment. France remains an active participant in: the major programs to restrict the transfer of technologies that could lead to the proliferation of weapons of mass destruction: the Nuclear Suppliers Group, the Australia Group (for chemical and biological weapons), and the Missile Technology Control Regime. France has also signed and ratified the Chemical Weapons Convention.
+
+2008 White Paper
+
+On 31 July 2007, President Nicolas Sarkozy ordered M. Jean-Claude Mallet, a member of the Council of State, to head up a thirty-five member commission charged with a wide-ranging review of French defence. The commission issued its White Paper in early 2008.[3] Acting upon its recommendations, President Sarkozy began making radical changes in French defense policy and structures starting in the summer of 2008. In keeping with post-Cold War changes in European politics and power structures, the French military's traditional focus on territorial defence will be redirected to meet the challenges of a global threat environment. Under the reorganisation, the identification and destruction of terrorist networks both in metropolitan France and in francophone Africa will be the primary task of the French military. Redundant military bases will be closed and new weapons systems projects put on hold to finance the restructuring and global deployment of intervention forces. In a historic change, Sarkozy furthermore has declared that France "will now participate fully in NATO," four decades after former French president General Charles de Gaulle withdrew from the alliance's command structure and ordered American troops off French soil.[4]
+
+Recent operations
+
+thumb|right|upright=2.0| There are currently 36,000 French troops deployed in foreign territories—such operations are known as "OPEX" for _Opérations Extérieures_ ("External Operations"). Among other countries, France provides troops for the United Nations force stationed in Haiti following the 2004 Haiti rebellion. France has sent troops, especially special forces, into Afghanistan to help the United States and NATO forces fight the remains of the Taliban and Al Qaeda. In Opération Licorne a force of a few thousand French soldiers is stationed in Ivory Coast on a UN peacekeeping mission. These troops were initially sent under the terms of a mutual protection pact between France and the Ivory Coast, but the mission has since evolved into the current UN peacekeeping operation. The French Armed Forces have also played a leading role in the ongoing UN peacekeeping mission along the Lebanon-Israel border as part of the cease-fire agreement that brought the 2006 Lebanon War to an end. Currently, France has 2,000 army personnel deployed along the border, including infantry, armour, artillery and air defence. There are also naval and air personnel deployed offshore.
+
+The French Joint Force and Training Headquarters (État-Major Interarmées de Force et d'Entraînement) at Air Base 110 near Creil maintains the ability to command a medium or large-scale international operation, and runs exercises .[5] In 2011, from 19 March, France participated in the enforcement of a no-fly zone over northern Libya, during the Libyan Civil war, in order to prevent forces loyal to Muammar Gaddafi from carrying out air attacks on Anti-Gaddafi forces. This operation was known as Opération Harmattan and was part of France's involvement in the conflict in the NATO-led coalition, enforcing UN Security Council Resolution 1973. On 11 January 2013 France begun Operation Serval to fight Islamists in Mali with African support but without NATO involvement.
+
+2013 White Paper
+
+In May 2014, high ranking defence chiefs of the French Armed Forces threatened to resign if the defence budget received further cuts on top of those already announced in the 2013 White Paper. They warned that further cuts would leave the armed forces unable to support operations abroad.[6]
+
+
+Personnel
+
+The head of the French armed forces is the President of the Republic, in his role as _chef des armées_. However, the Constitution puts civil and military government forces at the disposal of the _gouvernement_ (the executive cabinet of ministers chaired by the Prime Minister, who are not necessarily of the same political side as the president). The Minister of the Armed Forces (as of 2017, the incumbent Florence Parly) oversees the military's funding, procurement and operations. Historically, France relied a great deal on conscription to provide manpower for its military, in addition to a minority of professional career soldiers. Following the Algerian War, the use of non-volunteer draftees in foreign operations was ended; if their unit was called up for duty in war zones, draftees were offered the choice between requesting a transfer to another unit or volunteering for the active mission. In 1996, President Jacques Chirac's government announced the end of conscription and in 2001, conscription formally was ended. Young people must still, however, register for possible conscription (should the situation call for it). As of 2017 the French Armed Forces have total menpower of 426,265, and has an active personnel of 368,962 (with the Gendarmerie National).[7]
+
+It breaks down as follows (2015):[8]
+
+-   The French Army; 111,628 personnel.
+-   The French Air Force; 43,597 personnel.
+-   The French Navy; 36,044 personnel.
+-   Tri-service DHS, SEA, and DGA; 17,647 personnel in medical, support and administrative roles, and in the acquisition of weapon systems.
+
+The reserve element of the French Armed Forces consists of two structures; the Operational Reserve and the Citizens Reserve. As of 2015 the strength of the Operational Reserve is 27,785 personnel.[9]
+
+Apart from the three main service branches, the French Armed Forces also includes a fourth paramilitary branch called the National Gendarmerie. It had a reported strength of 103,000 active personnel and 25,000 reserve personnel in 2018.[10] They are used in everyday law enforcement, and also form a coast guard formation under the command of the French Navy. There are however some elements of the Gendarmerie that participate in French external operations, providing specialised law enforcement and supporting roles.
+
+Historically the National Guard functioned as the Army's reserve national defense and law enforcement militia. After 145 years since its disbandment, due to the risk of terrorist attacks in the country, the Guard was officially reactivated, this time as a service branch of the Armed Forces, on 12 October 2016.[11]
+
+
+Organisation and service branches
+
+The French armed forces are divided into five service branches:
+
+French Army (_Armée de terre_)
+
+Leclerc-openphotonet_PICT6015.JPG Tank of Armée de terre.]]
+
+-   Special Forces
+-   Airborne Units
+-   Infantry (_Infanterie_)
+-   Armoured Cavalry (_Arme blindée cavalerie_)
+-   Artillery (_Artillerie_)
+-   French Foreign Legion (_Légion étrangère_)
+-   Troupes de Marine
+-   French Army Light Aviation (_Aviation légére de l'armée de terre_, _ALAT_)
+-   Engineers (_Génie_)
+-   Paris Fire Brigade (brigade des sapeurs-pompiers de Paris)
+-   Signals (_Transmissions_)
+-   Transport and logistics (_Train_)
+-   Supply (_Matériel_)
+-   Intelligence (_Renseignement_)
+
+French Navy (_Marine nationale_)
+
+Charles_De_Gaulle_(R91)_underway_2009.jpg'', the nuclear aircraft carrier of Marine nationale.]]
+
+-   Parachute Units of the French Navy
+    -   Naval Infantry and Naval Commandos (_Fusiliers Marins_)
+-   Naval Air Arm (_Aviation navale_)
+-   Submarine Force (_Forces sous-marines_)
+-   Naval Action Force (_Force d'action navale_)
+-   The Marseille Marine Fire Battalion
+
+In addition, the National Gendarmerie form a Coast Guard force called the Gendarmerie Maritime which is commanded by the French Navy.
+
+French Air Force (_Armée de l'Air_)
+
+A_French_air_force_Rafale_aircraft_breaks_formation_after_refueling_from_a_U.S._Air_Force_KC-135_Stratotanker_aircraft_assigned_to_the_351st_Expeditionary_Air_Refueling_Squadron_(EARS)_over_an_undisclosed_130317-F-BY961-185.jpg of Armée de l'Air.]]
+
+-   Parachute Units of the French Air Force
+    -   Air force ground troops (_Fusiliers Commandos de l'Air_)
+    -   Paratroopers/Special forces (_Commando parachutiste de l'air_)
+-   Territorial Air Defence
+
+National Gendarmerie (_Gendarmerie nationale_)
+
+-   Parachute Units of the National Gendarmerie
+-   Gendarmerie Départementale (GD) – territorial police force
+-   Gendarmerie Mobile (GM) – anti-riot unit and counter-terrorism group (GIGN)
+-   Garde républicaine – republican guard of France
+-   Gendarmerie des Transports Aériens – airport security force
+-   Gendarmerie de l'Air – used for Air Force security
+-   Gendarmerie Maritime – coast guard unit
+-   Provost Gendarmerie – provides military police services to French Armed Forces personnel in deployments outside France
+-   Overseas Gendamerie - provides military police services in the French overseas dependencies and territories, as well as to embassies of France abroad
+
+The National Gendarmerie is primarily a military and airborne capable police force which serves as a rural and general purpose police force.
+
+National Guard (_Garde nationale_)
+
+Reactivated in 2016, the National Guard serves as the official primary military and police reserve service of the Armed Forces. It also doubles as a force multiplier for law enforcement personnel during contingencies and to reinforce military personnel whenever being deployed within France and abroad.
+
+
+See also
+
+-   Bastille Day Military Parade
+-   Combined Joint Expeditionary Force (CJEF)
+-   Ranks in the French Air Force
+-   French Foreign Legion
+-   History of French foreign relations
+-   List of French Paratrooper Units
+-   Military history of France
+-   National Gendarmerie#Ranks
+-   National Office for Veterans and Victims of War
+-   Ranks in the French Army
+-   Ranks in the French Navy
+-   The Lancaster House Treaties (2010)
+
+
+References
+
+
+External links
+
+-   Official site of the French Ministry of Defence
+-   French Military Strategy and NATO Reintegration—Council on Foreign Relations
+-   French Army rank insignia
+
+03 Category:1792 establishments in France Category:Permanent Structured Cooperation
+
+[1]
+
+[2]
+
+[3] Official Presidential Website, Letter of Engagement to M. Jean-Claude Mallet, 31 July 2007
+
+[4] Jim Hoagland, "France's Whirlwind of Change", Real Clear Politics, 18 June 2008 1
+
+[5] 2
+
+[6]
+
+[7] )
+
+[8]
+
+[9]
+
+[10] 3, gendarmerie.interieur.gouv.fr, 2018
+
+[11]

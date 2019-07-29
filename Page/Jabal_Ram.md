@@ -1,0 +1,21 @@
+JABAL RAM is a mountain in Jordan. Most authorities give its elevation as above sea level. It was once thought to be the highest point in Jordan, but SRTM data shows that Jabal Umm al Dami is [1] above sea level and therefore higher.
+
+Traditional climbing routes over its eastern face make it one of the main attractions for climbers.
+
+There are about ten scrambling routes across the mountain.
+
+Tony Howard wrote a valuable book about Jordan, including Wadi Rum and Jabal Rum: TREKS AND CLIMBS IN WADI RUM, JORDAN.
+
+The most popular scrambling routes are the Thamudic and Sheikh Hamdans.
+
+
+References
+
+
+External links
+
+-
+
+Ram
+
+[1]

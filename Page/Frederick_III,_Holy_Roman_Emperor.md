@@ -1,0 +1,127 @@
+FREDERICK III (21 September 1415 – 19 August 1493) was Holy Roman Emperor from 1452 until his death. He was the first emperor of the House of Habsburg, and the fourth member of the House of Habsburg to be elected King of Germany after Rudolf I of Germany, Albert I in the 13th century and his predecessor Albert II of Germany. He was the penultimate emperor to be crowned by the Pope, and the last to be crowned in Rome.
+
+Prior to his imperial coronation, he was duke of the Inner Austrian lands of Styria, Carinthia and Carniola from 1424, and also acted as regent over the Duchy of Austria (as FREDERICK V) from 1439. He was elected and crowned King of Germany (as FREDERICK IV) in 1440.[1] He was the longest-reigning German monarch when in 1493, after ruling his domains for more than 53 years, he was succeeded by his son Maximilian I.
+
+During his reign, Frederick concentrated on re-uniting the Habsburg "hereditary lands" of Austria and took a lesser interest in Imperial affairs. Nevertheless, by his dynastic entitlement to Hungary as well as by the Burgundian inheritance, he laid the foundations for the later Habsburg Empire. Mocked as "Arch-Sleepyhead of the Holy Roman Empire" () during his lifetime,[2] he is today increasingly seen as an efficient ruler.
+
+
+Early life
+
+Born at the Tyrolean residence of Innsbruck in 1415, Frederick was the eldest son of the Inner Austrian duke Ernest the Iron, a member of the Leopoldian line of the Habsburg dynasty, and his second wife Cymburgis of Masovia. According to the 1379 Treaty of Neuberg, the Leopoldinian branch ruled over the duchies of Styria, Carinthia and Carniola, or what was referred to as Inner Austria. Only three of Frederick's eight siblings survived childhood: his younger brother Albert (later to be Albert VI, archduke of Austria), and his sisters Margaret (later the electress of Saxony) and Catherine. In 1424, nine-year-old Frederick's father died, making Frederick the duke of Inner Austria, as Frederick V, with his uncle, Duke Frederick IV of Tyrol, acting as regent.
+
+From 1431, Frederick tried to obtain majority (to be declared "of age", and thus allowed to rule) but for several years was denied by his relatives. Finally, in 1435, Albert V, duke of Austria (later Albert II, the king of Germany), awarded him the rule over his Inner Austrian heritage. Almost from the beginning, Frederick's younger brother Albert asserted his rights as a co-ruler, as the beginning of a long rivalry. Already in these years, Frederick had begun to use the symbolic A.E.I.O.U. signature as a kind of motto with various meanings. In 1436 he made a pilgrimage to the Holy Land, accompanied by numerous nobles knighted by the Order of the Holy Sepulchre, which earned him great reputation.
+
+Upon the death of his uncle Duke Frederick IV in 1439, Frederick took over the regency of Tyrol and Further Austria for the duke's heir Sigismund. Again he had to ward off the claims raised by his brother Albert VI; he prevailed by the support of the Tyrolean aristocracy. Likewise he acted as regent for his nephew Ladislaus the Posthumous, son of late King Albert II and his consort Elizabeth of Luxembourg, in the duchy of Austria (Further Austria). (Ladislaus would die before coming of age). Frederick was now the undisputed head of the Habsburg dynasty, though his regency in the lands of the Albertinian Line (Further Austria) was still viewed with suspicion.
+
+As a cousin of late King Albert II, Frederick became a candidate for the imperial election. On 2 February 1440, the prince-electors convened at Frankfurt and unanimously elected him King of the Romans as Frederick IV; his rule was still based on his hereditary lands of Styria, Carinthia and Carniola, or Inner Austria.
+
+In 1442, Frederick allied himself with Rudolf Stüssi, burgomaster of Zurich, against the Old Swiss Confederacy in the Old Zurich War (Alter Zürichkrieg) but lost. In 1448, he entered into the Concordat of Vienna with the Holy See, which remained in force until 1806 and regulated the relationship between the Habsburgs and the Holy See.
+
+In 1452, at the age of 37, Frederick III travelled to Italy to receive his bride and to be crowned Holy Roman Emperor. His fiancée, the 18-year-old _infanta_ Eleanor, daughter of King Edward of Portugal, landed at Livorno (Leghorn) after a 104-day trip. Her dowry would help Frederick alleviate his debts and cement his power. The couple met at Siena on 24 February and proceeded together to Rome. As per tradition, they spent a night outside the walls of Rome before entering the city on 9 March, where Frederick and Pope Nicholas V exchanged friendly greetings. Because the emperor had been unable to retrieve the Iron Crown of Lombardy from the cathedral of Monza where it was kept, nor be crowned King of Italy by the archbishop of Milan (on account of Frederick's dispute with Francesco Sforza, lord of Milan), he convinced the pope to crown him as such with the German crown, which had been brought for the purpose. This coronation took place on the morning of 16 March, in spite of the protests of the Milanese ambassadors, and in the afternoon Frederick and Eleanor were married by the pope. Finally, on 19 March, Frederick and Eleanor were anointed in St Peter's Basilica by the Vice-Chancellor of the Holy Roman Church, Cardinal Francesco Condulmer, and Frederick was then crowned with the Imperial Crown by the pope.[3] Frederick was the last Emperor to be crowned in Rome; his great-grandson Charles V was the last emperor to be crowned, but this was done in Bologna.
+
+
+Personality
+
+200 px of Frederick III]]
+
+Frederick's style of rulership was marked by hesitation and a sluggish pace of decision making. The Italian humanist Enea Silvio Piccolomini, later Pope Pius II, who at one time worked at Frederick's court, described the Emperor as a person who wanted to conquer the world while remaining seated. Although this was regarded as a character flaw in older academic research, his delaying tactics are now viewed as a means of coping with political challenges in far-flung territorial possessions. Frederick is credited with having the ability to sit out difficult political situations patiently.[4]
+
+According to contemporary accounts, Frederick had difficulties developing emotional closeness to other persons, including his children and wife Eleanor. In general, Frederick kept himself away from women, the reasons for which are not known. As Frederick was rather distant to his family, Eleanor had a great influence on the raising and education of Frederick's children, and she therefore played an important role in the House of Habsburg's rise to prominence. Despite the fact that their marriage had been unhappy, when Eleanor died the Emperor was affected by her loss and remained widowed for the rest of his long life.[5]
+
+
+Emperor
+
+Pintoricchio_002a.jpg introduces Eleonora of Portugal to Frederick III'' by Pinturicchio (1454–1513)]]
+
+Frederick's political initiatives were hardly bold, but they were still successful. His first major opponent was his brother Albert VI, who challenged his rule. He did not manage to win a single conflict on the battlefield against him, and thus resorted to more subtle means. He held his second cousin once removed Ladislaus the Posthumous, the ruler of the Archduchy of Austria, Hungary and Bohemia, (born in 1440) as a prisoner and attempted to extend his guardianship over him in perpetuity to maintain his control over Lower Austria. Ladislaus was freed in 1452 by the Lower Austrian estates. He acted similarly towards his first cousin Sigismund of the Tyrolian line of the Habsburg family. Despite those efforts, he failed to gain control over Hungary and Bohemia in the Bohemian–Hungarian War (1468–78) and was even defeated in the Austrian–Hungarian War (1477–88) by the Hungarian King Matthias Corvinus in 1485, who managed to maintain residence in Vienna until his death five years later in the Siege of Vienna.
+
+Ultimately, Frederick prevailed in all those conflicts by outliving his opponents and sometimes inheriting their lands, as was the case with Ladislaus, from whom he gained Lower Austria in 1457, and with his brother Albert VI, whom he succeeded in Upper Austria. In 1462, his brother Albert raised an insurrection against him in Vienna and the emperor was besieged in his residence by rebellious subjects. In this war between the brothers, Frederick received support from the King of Bohemia, George of Poděbrady. These conflicts forced him into an anachronistic itinerant existence, as he had to move his court between various places through the years, residing in Graz, Linz and .[6] owes him its castle and the "New Monastery".
+
+166Friedrich_III_und_Karl_von_Burgund.jpg]]
+
+Still, in some ways his policies were astonishingly successful. In the Siege of Neuss (1474–75), he forced Charles the Bold of Burgundy to give up his daughter Mary of Burgundy as wife to Frederick's son Maximilian. With the inheritance of Burgundy, the House of Habsburg began to rise to predominance in Europe. This gave rise to the saying "Let others wage wars, but you, happy Austria, shall marry", which became a motto of the dynasty.
+
+Frederick secured in 1486 the succession of the son in his own lifetime. On 16 February 1486 Maximilian was unanimously elected Roman-German king at the Frankfurt Reichstag by the six electors present. The Elector of Bohemia was not invited because the Bohemian spa law might have been claimed by the Hungarian King Corvinus. The choice of Maximilian violated the rules of the Golden Bull. Protests against the irregular election remained in the kingdom but out. Fearing that the Electors would take advantage of his son's political inexperience, Friedrich Maximilian did not equip him with government powers. On the occasion of the election of Maximilian, a ten-year land peace was decided. In order to safeguard the peace of the land and against the expansive territorial policy of the Wittelsbachs, numerous affected empire-related states of Swabia joined in 1488 on Frederick's initiative for the Swabian League. After the royal election Frederick accompanied his son to Aachen, where Maximilian was crowned on 9 April 9 1486.
+
+The marriage of his daughter Kunigunde to Albert IV, Duke of Bavaria, was another result of intrigues and deception, but must be counted as a defeat for Frederick. Albert illegally took control of some imperial fiefs and then asked to marry Kunigunde (who lived in Innsbruck, far from her father), offering to give her the fiefs as a dower. Frederick agreed at first, but after Albert took over yet another fief, Regensburg, Frederick withdrew his consent. On 2 January 1487, however, before Frederick's change of heart could be communicated to his daughter, Kunigunde married Albert. A war was prevented only through the mediation of the Emperor's son, Maximilian.
+
+In some smaller matters, Frederick was quite successful: in 1469 he managed to establish bishoprics in Vienna and , a step that no previous Duke of Austria had been able to achieve.
+
+Niederösterreichische_Landesausstellung_2019_-_Friedrich_III_im_Alter.jpg Frederick's personal motto was the mysterious string A.E.I.O.U., which he imprinted on all his belongings. He never explained its meaning, leading to many different interpretations being presented, although it has been claimed that shortly before his death he said it stands for __ or __ ("All the world is subject to Austria"). It may well symbolise his own understanding of the historical importance and meaning of his rule and of the early gaining of the Imperial title.[7]
+
+
+Marriage and children
+
+Frederick_III_and_Eleanor_of_Portugal.jpg
+
+Frederick had five children from his marriage with Eleanor of Portugal:
+
+-   Christoph (1455–1456)
+-   Maximilian (1459–1519), Holy Roman Emperor, married
+
+1.  1477 Mary of Burgundy (1457–1482), daughter of Duke of Burgundy Charles the Bold
+2.  1494 Bianca Maria Sforza (1472–1510), daughter of Duke of Milan Galeazzo Maria Sforza
+
+-   Helene (1460–1462)
+-   Kunigunde (1465–1520), married 1487 Albert IV, Duke of Bavaria
+-   Johannes (1466–1467)
+
+For the last 10 years of Frederick's life, he and Maximilian ruled jointly.
+
+
+Death
+
+Wien_-_Stephansdom,_Grabmal_Kaiser_Friedrichs_III.JPG In his last years Friedrich remained in the region on the Danube, in Vienna and in Linz. In 1492 he was elected Knight of the Order of the Golden Fleece. Since February 1493, Frederick's health deteriorated increasingly. In the Lent of 1493, Friedrich's personal physicians diagnosed Kaiser in the left leg as a symptom, usually referred to as age-burning, in the research literature, which according to current medical terminology is considered to be the result of arteriosclerosis. On 8 June 1493 he was amputated under the direction of the surgeon Hans Seyff in the Linz castle of the affected area of the leg. This leg amputation is considered one of the most famous and best-documented surgical procedures of the entire Middle Ages. Although Frederick initially survived the procedure well, he died on 19 August 1493 in Linz at the age of 77. The contemporaries cited as the cause of death the consequences of leg amputation, senility or rapid diarrhea caused by melon consumption. His bowels were probably buried separately on 24 August 1493 in the Linz parish church. The arrival of Turks in Carinthia and the Krain delayed the arrival of Maximilian and with it the funeral service. On 6 and 7 December 1493, the funeral took place in St. Stephen's Cathedral. [5]
+
+His grave, built by Nikolaus Gerhaert von Leyden, in St. Stephen's Cathedral, Vienna, is one of the most important works of sculptural art of the late Middle Ages. (His amputated leg was buried with him.) The heavily adorned tomb was not completed until 1513, two decades after Frederick's death, and has survived in its original condition.[8] {{-}}
+
+
+Heraldry
+
++----------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Heraldry of Frederick III, Holy Roman Emperor                                                                                                                              |
++============================================================================================================================================================================+
+| +----------------------------------------------------------+------------------------------------------------------------+------------------------------------------------+ |
+| | Coat_of_Arms_of_the_King_of_the_Romans_(c.1433-1486).svg | Coat_of_Arms_of_the_Holy_Roman_Emperor_(c.1433-c.1450).svg | CoA_Frederick_III_of_Habsburg.svg              | |
+| +----------------------------------------------------------+------------------------------------------------------------+------------------------------------------------+ |
+| | Coat of arms as King of the Romans                       | Coat of arms as Holy Roman Emperor                         | Alternative coat of arms as Holy Roman Emperor | |
+| | (1440–1493)                                              | (1452–1493)                                                | (1452–1493)                                    | |
+| +----------------------------------------------------------+------------------------------------------------------------+------------------------------------------------+ |
++----------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+
+
+Ancestry
+
+
+Notes
+
+
+Sources
+
+-   Heinig, Paul-Joachim. "The Court of Emperor Frederick III". In _Princes Patronage and the Nobility: The Court at the Beginning of the Modern Age, cc. 1450-1650._ Edited by Ronald G. Asch and Adolf M. Birke. New York: Oxford University Press, 1991. .
+-   Langmaier, Konstantin M. Erzherzog Albrecht VI. von Österreich (1418–1463), Ein Fürst im Spannungsfeld von Dynastie, Regionen und Reich (Forschungen zur Kaiser- und Papstgeschichte des Mittelalters, Beihefte zu J. F. Böhmer, Regesta Imperii 38, Köln, Weimar, Wien 2015.
+
+
+External links
+
+-   -   -   -   -   Database "Sources on the Judiciary of Emperor Frederick III" (_Quellen zur Gerichtsbarkeit Kaiser Friedrichs III. (1440–1493)_
+-   Joachim Laczny, Friedrich III. (1440–1493) auf Reisen. Die Erstellung des Itinerars eines spätmittelalterlichen Herrschers unter Anwendung eines historisch-Geographischen Informationssystems (his-GIS).
+-   WDR-Zeitzeichensendung 1415 - Der Geburtstag von Kaiser Friedrich III.
+
+Category:1415 births Category:1493 deaths Category:15th-century Holy Roman Emperors Category:15th-century rulers of Austria Category:15th-century Kings of Italy Category:15th-century Kings of Germany Category:15th-century Kings of the Romans Frederick 3 Frederick 3 Frederick 3 Frederick 3 Frederick 3 Frederick 3 Category:Medieval child rulers Category:Medieval Knights of the Holy Sepulchre Category:Pretenders to the Hungarian throne Category:Recipients of the Golden Rose Category:People from Innsbruck Category:15th-century House of Habsburg Category:15th-century rulers in Europe
+
+[1] He was the fourth Frederick to rule Germany in the Habsburgs' preferred enumeration, which counted Frederick the Fair ("Frederick III") as a legitimate king, although he was elected by only a minority of electors. Cf. Anthony Radcliffe (1986), "The Habsburg Images: Cigoli, Terzio and Reichle", _The Burlington Magazine_, 128 (995), 103–06.
+
+[2]
+
+[3] M. Creighton, _A History of the Papacy During the Period of the Reformation, Volume II: The Council of Basel to the Papal Restoration, 1418–1464_ (London: Longmans, 1882), pp. 297–99.
+
+[4] ''Heinz-Dieter Heimann: Die Habsburger. Dynastie und Kaiserreiche. . pp.38-45
+
+[5]
+
+[6] Joachim Laczny: _ Historical Geographic Information System (Historical GIS)._ Joachim Laczny, Jürgen Sarnowsky eds., In: Perzeption und Rezeption. Wahrnehmung und Deutung im Mittelalter und in der Moderne, Göttingen 2014, , pp. 33–65. Joachim Laczny: The late medieval ruler Frederick III (1440–1493) on the journey. The creation of the itinerary using a Historical Geographic Information System (Historical GIS).
+
+[7]
+
+[8] Rudolf J. Meyer: _Königs- und Kaiserbegräbnisse im Spätmittelalter. Von Rudolf von Habsburg bis zu Friedrich III._ Köln 2000, pp. 186–188.

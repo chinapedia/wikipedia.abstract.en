@@ -1,0 +1,210 @@
+This is a list of types of medical therapy, including forms of traditional medicine, alternative medicine, and quackery. For psychotherapies and other behavioral and psychological intervention methods, see list of psychotherapies.
+
+-   abortive therapy
+-   acupressure (some scientific aspects, many prescientific)
+-   acupuncture (some scientific aspects, many prescientific)
+-   adjunct therapy
+-   adjunctive therapy
+-   adjuvant therapy
+-   alternative therapy (two senses: a second choice among scientific therapies, or alternative medicine)
+-   androgen replacement therapy
+-   animal-assisted therapy
+-   antibody therapy
+-   antihormone therapy
+-   antiserum therapy
+-   aquarium therapy
+-   aquatic therapy (nonscientific and scientific forms)
+-   aromatherapy
+-   art therapy
+-   Auger therapy
+-   aurotherapy
+-   autism therapies
+-   autologous immune enhancement therapy
+-   balneotherapy
+-   bioidentical hormone replacement therapy (some scientific aspects, some pseudoscientific)
+-   biotherapy
+-   blood irradiation therapy
+-   brachytherapy
+-   cardiac resynchronization therapy
+-   cell therapy
+-   cytotherapy
+-   cell transfer therapy
+-   chelation therapy
+-   chemotherapy
+-   Chinese food therapy (some scientific aspects, mostly prescientific)
+-   chiropractic therapy (some scientific aspects, some pseudoscientific)
+-   chronotherapy (treatment scheduling)
+-   chrysotherapy
+-   climatotherapy
+-   cobalt therapy
+-   cold compression therapy
+-   combination therapy
+-   consolidation therapy
+-   contrast bath therapy
+-   counseling
+-   craniosacral therapy (mostly pseudoscientific)
+-   cryotherapy
+-   crystal therapy (mostly pre- and pseudoscientific)
+-   curative therapy
+-   cytoluminescent therapy (mostly pseudoscientific)
+-   dark therapy
+-   definitive therapy
+-   destination therapy
+-   diathermy
+-   diesel therapy (ironic name)
+-   dietary therapy (various nonscientific and scientific forms)
+-   drug therapy
+-   duct tape occlusion therapy (mechanism unknown but has had some scientific study)
+-   electroconvulsive therapy
+-   electromagnetic therapy
+-   electromagnetic therapy (alternative medicine) (pseudoscientific)
+-   electron therapy
+-   electrotherapy
+-   empiric therapy (two senses, one scientific, one not)
+-   energy therapy (mostly pre- and pseudoscientific)
+-   enzyme replacement therapy
+-   epigenetic therapy
+-   equine therapy
+-   estrogen replacement therapy
+-   exercise therapy
+-   extracorporeal shockwave therapy
+-   fast neutron therapy
+-   Feldenkrais therapy (not entirely scientific, but empirical)
+-   fluoride therapy
+-   gene therapy
+-   gene therapy for color blindness
+-   gene therapy for epilepsy
+-   gene therapy for osteoarthritis
+-   gene therapy in Parkinson's disease
+-   gene therapy of the human retina
+-   gold standard therapy
+-   grape therapy (prescientific and quackery forms)
+-   Greyhound therapy (ironic name)
+-   halotherapy (mostly prescientific; see also mineral spa)
+-   heat therapy
+-   helminthic therapy
+-   herbal therapy (prescientific and pseudoscientific forms; compare phytotherapy)
+-   hippotherapy
+-   hormone therapy
+-   hormonal therapy (oncology)
+-   hormone replacement therapy
+-   hormone replacement therapy (menopause)
+-   hormone replacement therapy (transgender)
+-   hormone replacement therapy (female-to-male)
+-   hormone replacement therapy (male-to-female)
+-   host modulatory therapy
+-   hydrotherapy (nonscientific and scientific forms)
+-   hyperbaric oxygen therapy
+-   hyperthermia therapy
+-   hypothermia therapy for neonatal encephalopathy
+-   ichthyotherapy (prescientific but empirical)
+-   immunosuppressive therapy
+-   immunotherapy
+-   induction therapy
+-   intraoperative electron radiation therapy
+-   intraoperative radiation therapy
+-   intravenous immunoglobulin therapy
+-   intravenous therapy
+-   inversion therapy
+-   investigational therapy
+-   laser therapy
+-   leech therapy (prescientific and scientific forms)
+-   light therapy
+-   lithium therapy
+-   low level laser therapy
+-   maggot therapy
+-   magnet therapy
+-   magnetic resonance therapy
+-   maintenance therapy
+-   manual therapy
+-   martial arts therapy
+-   massage therapy
+-   medical gas therapy
+-   medical nutrition therapy
+-   medical therapy in general contexts means therapy and within medical contexts often means specifically pharmacotherapy
+-   mesotherapy (pseudoscientific)
+-   microwave thermotherapy
+-   molecular chaperone therapy
+-   molecular therapy
+-   monoclonal antibody therapy
+-   monotherapy
+-   mud therapy (prescientific)
+-   music therapy
+-   negative air ionization therapy
+-   neoadjuvant therapy
+-   neurologic music therapy
+-   neutron capture therapy of cancer
+-   neutron therapy
+-   occupational therapy
+-   oral rehydration therapy
+-   osmotherapy
+-   oxygen therapy
+-   ozone therapy
+-   palliative therapy
+-   particle therapy
+-   pet therapy
+-   phage therapy
+-   pharmacotherapy
+-   phonemic neurological hypochromium therapy
+-   photodynamic therapy
+-   phototherapy
+-   photothermal therapy
+-   physical therapy
+-   physiotherapy
+-   phytotherapy
+-   platin therapy
+-   polychemotherapy
+-   polytherapy
+-   preventive therapy
+-   prolotherapy
+-   prophylactic therapy
+-   protein therapy
+-   proton therapy
+
+-   pulsed electromagnetic field therapy
+-   PUVA therapy
+-   quack therapies
+-   radiation therapy
+-   radiotherapy
+-   rehydration therapy
+-   rescue therapy
+-   respiratory therapy
+-   retail therapy (semifacetious name)
+-   salt therapy (mostly prescientific; see also mineral spa)
+-   salvage therapy
+-   serotherapy
+-   sex therapy
+-   sonodynamic therapy (mostly pseudoscientific)
+-   sound therapy
+-   spa therapy (prescientific and pseudoscientific forms)
+-   speech therapy
+-   speleotherapy (mostly prescientific; see also mineral spa)
+-   stem cell therapy
+-   step therapy
+-   stepladder therapy
+-   stepdown therapy
+-   stereotactic radiation therapy
+-   supportive therapy
+-   systemic therapy
+-   sweat therapy (mostly prescientific; see also sauna and mineral spa)
+-   targeted therapy
+-   thalassotherapy
+-   thermotherapy
+-   TK cell therapy
+-   tolerogenic therapy
+-   transdermal continuous oxygen therapy
+-   ultraviolet light therapy
+-   urine therapy (some scientific forms; various prescientific or pseudoscientific forms)
+-   virotherapy
+-   wake therapy
+-   Waon therapy
+-   water cure (therapy)
+
+
+See also
+
+-   List of psychotherapies
+-   Public health
+-   Therapeutic jurisprudence
+
+* Category:Medical lists Category:Medical treatments Category:Alternative medical treatments

@@ -1,0 +1,553 @@
+HAROLD EDWARD HOLT, (5 August 190817 December 1967), was an Australian politician who served as the 17th Prime Minister of Australia, in office from 1966 until his presumed drowning death in 1967. He was the leader of the Liberal Party during that time.
+
+Holt was born in Sydney, but lived in Melbourne from a young age. He was the first prime minister born in the 20th century. He studied law at the University of Melbourne and eventually opened his own legal practice. Holt entered parliament at the Fawkner by-election in 1935, standing for the United Australia Party (UAP). He was a protégé of Robert Menzies, and was added to cabinet when Menzies became prime minister in 1939. Aged only 30 at the time of his appointment, he held a series of minor portfolios until the government's defeat in 1941, under both Menzies and Arthur Fadden. Holt's tenure was interrupted by a brief stint in the Australian Army, which ended when he was recalled to cabinet following the deaths of three ministers in the 1940 Canberra air disaster. He joined the new Liberal Party upon its creation in 1945.
+
+When Menzies regained the prime ministership in 1949, Holt became a senior figure in the new government. As Minister for Immigration (1949–56), he expanded the post-war immigration scheme and relaxed the White Australia policy for the first time. He was also influential as Minister for Labour and National Service (1949–58), where he handled several industrial relations disputes. Holt was elected deputy leader of the Liberal Party in 1956, and after the 1958 election replaced Arthur Fadden as Treasurer. He oversaw the creation of the Reserve Bank of Australia and the decimal Australian dollar, but was blamed for a credit crunch that almost cost the Coalition the 1961 election. However, the economy soon rebounded and Holt retained his place as Menzies' heir apparent.
+
+Holt became prime minister in January 1966, elected unopposed as Liberal leader following Menzies' retirement. He fought a general election later that year, winning a landslide victory. The Holt Government continued the dismantling of the White Australia policy, amended the constitution to give the federal government responsibility for indigenous affairs, and took Australia out of the sterling area. Holt promoted greater engagement with Asia and the Pacific, and made visits to a number of East Asian countries. His government expanded Australia's involvement in the Vietnam War, and maintained close ties with the United States under President Lyndon B. Johnson. While visiting the White House, Holt proclaimed that he was "all the way with L.B.J.", a remark which was poorly received at home.
+
+After just under two years in office, Holt disappeared while swimming at Cheviot Beach, Victoria, in rough conditions. His body was never recovered, and he was declared dead _in absentia_; his disappearance spawned a number of conspiracy theories. Holt was the third Australian prime minister to die in office, and was succeeded by John McEwen on an interim basis and then by John Gorton. His death was commemorated in a number of ways, among them by the establishment of the Harold Holt Memorial Swimming Centre.
+
+
+Early life
+
+Birth and family background
+
+Holt was born on 5 August 1908 at his parents' home in Stanmore, Sydney, New South Wales. He was the first of two sons born to Olive May (née Williams; formerly Pearce) and Thomas James Holt; his younger brother Clifford was born in 1910. His parents had married seven months before his birth, in January 1908.[1] On his father's side, Holt was descended from James Holt, a cobbler from Birmingham, England, who arrived in New South Wales in 1829.[2] His paternal grandfather, Thomas Holt Sr., owned a large farming property in Nubba, and was twice elected mayor of nearby Wallendbeen. Holt's father trained as a schoolteacher in Sydney and when Harold was born, worked as a physical education teacher at the Cleveland Street School in Surry Hills. Holt's mother was born in Eudunda, South Australia, and had Cornish, English, German, and Irish ancestry; her sister was the actress Vera Pearce.[3] His maternal grandmother Hannah Maria Berkholz was a Barossa German born in Angaston, South Australia; she was the daughter of Carl Berkholz, born in Potsdam, Prussia.[4][5]
+
+Education
+
+In 1914, Holt's parents moved to Adelaide, where his father became the licensee of a hotel in Payneham. He and his brother stayed behind in Sydney, living with an uncle and attending Randwick Public School. In late 1916, Holt was sent to live with grandparents in the country, where he briefly attended the Nubba State School. He returned to Sydney the following year, and for three years was enrolled at Abbotsholme College, a private school in Killara; his parents separated around that time.[6] In 1920, Holt began boarding at Wesley College, Melbourne. He was a popular and talented student, winning a scholarship in his final year and graduating second in his class. Holt generally spent school holidays with his relatives in Nubba or with schoolmates, rather than with his parents – his father had begun working as a talent agent, touring the country on the Tivoli circuit, while his mother died in 1925. He was 16 at the time, and was unable to attend the funeral.[7] Young_Harold_Holt.jpg In 1927, Holt began studying law at the University of Melbourne, living at Queen's College on a scholarship. He represented the university in cricket and football, and was also active in various student organisations, serving as president of the Law Students' Society and of the Queen's College social club. Holt won prizes for oratory and essay-writing, and was a member of the inter-university debating team. He graduated with a Bachelor of Laws degree in 1930. Holt's father – living in London – invited to him to continue his studies in England, but he declined the offer.[8]
+
+Legal career
+
+Holt served his articles of clerkship with the firm of Fink, Best, & Miller. He was admitted to the Victorian Bar in late 1932, and opened his own legal practice the following year. However, clients during the Depression were scarce and frequently underpaid, so Holt lived in a boardinghouse and often relied upon the hospitality of friends.[9] Drawing on his family connections in show business, he eventually accepted an offer to become secretary of the Victorian Cinematograph Exhibitors' Association, a film industry lobby group. In this capacity he appeared several times before the Commonwealth Court of Conciliation and Arbitration.[10][11] This had a positive effect on his own practice, and he eventually took on two partners, first Jack Graham and later James Newman.[12] The firm of Holt, Graham, & Newman was dissolved in 1963, following a financial dispute and subsequently reconstituted as Holt, Newman, & Holt, with Holt's son Sam as the new addition. Holt's involvement in the practice declined once he entered politics and ceased altogether in 1949, although he did not formally retire until assuming the prime ministership.[13]
+
+
+Early political career
+
+Holt_and_Menzies_1939.jpg In 1933, Holt joined the Young Nationalists, the youth wing of the United Australia Party.[14] He cultivated a friendship with Mabel Brookes, and through Brookes became acquainted with senior members of the influential Australian Women's National League (AWNL). He also secured the patronage of Robert Menzies, with whom he shared a similar background and political views.[15] At the 1934 federal election, Holt stood for the UAP in the Division of Yarra. It was a safe seat for the Labor Party, held by the party's leader (and former prime minister) James Scullin. Holt lost heavily, as was expected, but was praised for his campaigning.[16] Early the following year, he contested Clifton Hill – another safe Labor seat – at the Victorian state election, losing to Bert Cremean.[17] Holt was eventually elected to parliament on his third attempt, winning a federal by-election for the seat of Fawkner in August 1935; his predecessor, George Maxwell, had died in office. He won UAP preselection against five other candidates, a victory which _Smith's Weekly_ attributed to his "political godmothers" in the AWNL.[18][19] His new seat was centred on Melbourne's wealthy inner-eastern suburbs.[20]
+
+Holt was twenty-seven years old when he entered parliament, making him its youngest member. He kept a relatively low profile in his first few years, but spoke on a wide range of topics.[21] When Robert Menzies became prime minister in April 1939, he made Holt one of four ministers without portfolio. His inclusion was made possible by the collapse of the coalition with the Country Party – previously a certain number of positions had been reserved for Country MPs, but the new ministry was composed solely of UAP members.[22] Although Holt officially had no portfolio, he effectively served as an assistant minister to Richard Casey, who headed the Department of Supply and Development. He was given responsibility for the Council for Scientific and Industrial Research (CSIR),[23] and also acted for periods as Minister for Trade and Customs and Minister for Civil Aviation and Air while the incumbents were overseas.[24] Holt's first stint as a government minister came to an end in March 1940, when the coalition with the Country Party was reinstituted. His replacement was Arthur Fadden, another future prime minister.[25]
+
+
+World War II
+
+Harold_Holt_1940.jpg Holt enlisted in the Militia in February 1939, joining a part-time artillery unit for businessmen and professionals. He was given indefinite leave during his ministerial service.[26] In May 1940, without resigning his seat, Holt enlisted in the Australian Imperial Force with the intent of becoming a full-time soldier. Several of his parliamentary colleagues did likewise at various points in the war. Holt was posted to the 2/4th Field Regiment, holding the rank of gunner. He had been offered a commission as an officer in the Royal Australian Air Force, but declined due to his lack of experience. In a press statement, Holt said "as the youngest member of the House, I could not feel happy in my position if I were not prepared to make some sacrifice and take an active part".[27] He was sent to Puckapunyal for training, and expected to be posted to North Africa or Palestine.[28]
+
+Holt's brief military career came to an end as a result of the Canberra air disaster on 13 August, which killed three senior government ministers. Menzies called an early general election for 21 September, which resulted in a hung parliament and a UAP–Country minority government. Holt was given leave from the army to campaign, and won re-election with a large majority. Menzies subsequently asked him to return to cabinet, to which he agreed.[29] Holt was sworn in as Minister for Labour and National Service on 28 October, and formally resigned from the army the same day. He was placed in charge of the new Department of Labour and National Service, which took over most of the responsibilities of the previous Department of Industry.[30] He also became a member of the bipartisan Advisory War Council, although he personally favoured the establishment of a national unity government with the Labor Party.[31]
+
+As labour minister, Holt's foremost task was to prevent industrial disputes from disrupting the war effort.[32] He met with union leaders and employer groups, and secured their agreement to a streamlining of the arbitration process while the war was underway.[33] He had also been made Minister in charge of Scientific and Industrial Research, which gave him responsibility for the CSIR and its wartime efforts.[34] In April 1941, Holt sponsored and oversaw the passage of the _Child Endowment Act_, which introduced a universal child endowment scheme; newspapers labelled him "the godfather to a million Australian children".[35] When leadership troubles hit the Coalition later in the year, Holt initially supported Menzies. However, he and five cabinet colleagues eventually transferred their allegiance to Arthur Fadden, the leader of the Country Party, believing this way the only to ensure stable government. Menzies felt he had been betrayed, but forgave Holt and accepted his assurances that he had been acting in the best interests of the country.[36]
+
+Holt retained his portfolios in the Fadden Government, which lasted only 40 days before being defeated on a confidence motion in October 1941. After going into opposition, he kept a reasonably low profile for the remainder of the war, except for his membership of the Joint Committee on War Expenditure.[37] He was criticised by some for not re-joining the army,[38] and at the 1943 election was opposed by Brigadier William Cremor, whose campaign was funded by Sydney businessmen (including Keith Murdoch). He lost a significant portion of his primary vote, but suffered only a small swing on the two-party-preferred count.[39] Menzies returned as leader of the UAP in September 1943, and Holt was initially a candidate for the deputy leadership; he withdrew once former prime minister Billy Hughes entered the race.[40] Holt was in favour of the creation of the Liberal Party, but played little role in the practical aspects of its establishment. He became an official member of the new party in February 1945.[41]
+
+
+Postwar ministerial career
+
+HaroldHoltPortrait1953.JPG
+
+After eight years in opposition, the Coalition won the federal election of December 1949 and Menzies began his record-setting second period as Prime Minister. In a redistribution held ahead of that election, Holt's majority in Fawkner nearly disappeared. He transferred to Higgins, one of several new seats created in the 1949 redistribution. The seat was created as a safe Liberal seat; it had been carved out of the wealthier portions of Fawkner. Holt won it easily. He was appointed to the prestigious portfolios of Minister for Labour and National Service (1949–1958; he had previously served in this portfolio 1940–41) and Minister for Immigration (1949–1956), by which time he was being touted in the press as a "certain successor to Menzies and a potential Prime Minister". In Immigration, Holt continued and expanded the massive immigration programme initiated by his ALP predecessor, Arthur Calwell. However, he displayed a more flexible and caring attitude than Calwell, who was a strong advocate of the White Australia policy.[42] One of his first acts was to intervene in the case of Lorenzo Gamboa, a Filipino man with an Australian wife and children who had been denied entry by Calwell due to his race. Holt reversed the decision, allowing Gamboa to settle in Australia permanently.[43]
+
+Holt excelled in the Labour portfolio and has been described as one of the best Labour ministers since Federation. Although the conditions were ripe for industrial unrest—Communist influence in the union movement was then at its peak, and the right-wing faction in Cabinet was openly agitating for a showdown with the unions—the combination of strong economic growth and Holt's enlightened approach to industrial relations saw the number of working hours lost to strikes fall dramatically, from over two million in 1949 to just 439,000 in 1958. He also had ministerial responsibility for the Melbourne Olympics in 1956.[44]
+
+Holt fostered greater collaboration between the government, the courts, employers and trade unions. He enjoyed good relationships with union leaders like Albert Monk, President of the Australian Council of Trade Unions; and Jim Healy, leader of the radical Waterside Workers Federation;and he gained a reputation for tolerance, restraint and a willingness to compromise, although his controversial decision to use troops to take control of cargo facilities during a waterside dispute in Bowen, Queensland in September 1953 provoked bitter criticism.
+
+Holt's personal profile and political standing grew throughout the 1950s. He served on numerous committees and overseas delegations, he was appointed a Privy Counsellor in 1953,[45] and in 1954 he was named one of Australia's six best-dressed men. In 1956, he was elected Deputy Leader of the Liberal Party and became Leader of the House,[46] and from this point on, he was generally acknowledged as Menzies' heir apparent.
+
+Treasurer (1958–1966)
+
+Holt_and_Menzies.jpg]] In December 1958, following the retirement of Arthur Fadden, Holt succeeded him as Treasurer.[47] Holt had little knowledge or interest in economics, but the job cemented his position as Menzies' likely successor.[48] As Treasurer, Holt relied strongly on the advice of Treasury secretary Roland Wilson.[49] His achievements included major reforms to the banking system (originated by Fadden)including the establishment of the Reserve Bank of Australiaand the planning and preparation for the introduction of decimal currency. It was Holt who convinced Cabinet to call the new currency the "dollar" rather than the "royal".[50]
+
+The economy Holt inherited was growing strongly, aided by the opening of new iron ore mines.[51] However, in 1959, inflation was running at 4.5% and Treasury was alarmed. Holt was reluctant to act, but in November 1960 introduced a deflationary package of tax changes. He also reluctantly agreed to an interest rate rise by the Reserve Bank. The credit squeeze was nicknamed the "Holt jolt". The economy went into recession, and unemployment rose to three percent, which was considered high for the time and contrary to the government's policy of full employment.[52][53]
+
+The credit squeeze brought the Coalition dangerously close to losing the 1961 election, with the Coalition being returned with a precarious one-seat majority. There were calls for Holt to be sacked, but he retained Menzies' support.[54] He later described 1960–61 as "my most difficult year in public life". Most of the deflationary measures were reversed in 1962,[55] and unemployment dropped down to 1.5 percent by August 1963.[56] In later budgets, Holt retreated to his Queensland holiday home while it was being prepared.[57] He said that the 1965 budget "has had the best reception yet of any in the series I have presented".[58]
+
+
+Prime Minister (1966–1967)
+
+Harold_Holt_Swearing_In.jpg Holt was sworn in as prime minister on 26 January 1966, following the retirement of Robert Menzies six days earlier. He won the leadership election unopposed, with William McMahon elected as his deputy.[59] His swearing in was delayed by the death of Defence Minister Shane Paltridge; he and Menzies both served as pallbearers at Paltridge's state funeral on 25 January.[60][61] Holt was the first Australian prime minister born in the 20th century and the first born after federation. He was almost fourteen years younger than his predecessor, but, at the age of 57, was still the fourth-oldest man to assume the office. He had been an MP for over 30 years before becoming prime minister, a record surpassed only by his successor John McEwen's 33 years.[62] Stylistically, Holt was more informal and contemporary than Menzies, and his wife accompanied him into the political spotlight.[63] He gave the media an unprecedented level of access, and was the first prime minister to conduct regular press conferences and grant regular television interviews. His press secretary, Tony Eggleton, accompanied him virtually every time he travelled.[64] CongressBuilding_SEATO.jpg summit in Manila in October 1966.]] Holt's initial cabinet was virtually unchanged from that of his predecessor. John Gorton and Les Bury were promoted to replace Menzies and Paltridge, but there were no other changes in composition. There were also no major changes in portfolio, outside of McMahon's promotion to Treasurer in place of Holt. A notable addition to the outer ministry was Senator Annabelle Rankin as Minister for Housing – the first woman to hold a ministerial portfolio.[65] A minor reshuffle occurred after the 1966 election, with Doug Anthony and Ian Sinclair added to cabinet and Charles Barnes demoted to the outer ministry. The only new government department created during Holt's tenure was the Department of Education and Science, established in December 1966, which was the first federal department specific to either of those areas.[66]
+
+Elections
+
+On 26 November 1966, Holt fought his first and only general election as prime minister, winning a somewhat unexpected landslide victory. The Coalition secured 56.9 percent of the two-party-preferred vote, gaining 10 seats and bringing its total number of seats in the House of Representatives to 82 out of 124; the Liberal Party was only two seats away from forming majority government in its own right. It was a higher margin victory of victory than Menzies had achieved in eight elections as Liberal leader, and was the Labor Party's worst electoral defeat in 31 years.[67]
+
+Holt received little credit for the Coalition's election victory, even from within his own party.[68] It was generally held that the Labor Party's poor campaign had been the major factor in its defeat. Arthur Calwell, the Leader of the Opposition, was 70 years old and had limited personal popularity – a Gallup poll before the election placed his personal approval rating at 24 percent, compared with Holt's 60 percent.[69] Calwell had suffered a damaging rift with his deputy Gough Whitlam earlier in the year, and the general public still perceived the party as divided.[70] In an election where the Vietnam War was a major campaign issue, he and Whitlam publicly contradicted each other on major policy decisions. Labor ran on an anti-war platform, but struggled to appeal to voters concerned about national security; combined with Calwell's dedication to the White Australia policy, this allowed the party to be portrayed as isolationist and naive about external affairs. Calwell was far less telegenic than his opponent, and was seen as gruff and antagonistic where Holt was suave and easy-going. At a rally in Adelaide a week before the election, Calwell accused Holt of having "chickened out of World War II – just as his three stepsons are chickening out of the war in Vietnam today". His attack on Holt's family – which he refused to withdraw – was viewed as desperate and undignified, and it was pointed out that, unlike Holt, Calwell had performed no military service in World War II.[71] In early 1967, Arthur Calwell retired as ALP leader and Gough Whitlam succeeded him. Whitlam proved a far more effective opponent, both in the media and in parliament, and Labor soon began to recover from its losses and gain ground, with Whitlam repeatedly besting Holt in Parliament.[72] By this time, the long-suppressed tensions between the Coalition partners over economic and trade policies were also beginning to emerge. Throughout his reign as Liberal leader, Menzies had enforced strict party discipline but, once he was gone, dissension began to surface. Some Liberals soon became dissatisfied by what they saw as Holt's weak leadership. Alan Reid asserts that Holt was being increasingly criticised within the party in the months before his death, that he was perceived as being "vague, imprecise and evasive" and "nice to the point that his essential decency was viewed as weakness".
+
+Domestic policy
+
+According to his biographer Tom Frame, "Holt's inclinations and sympathies were those of the political centre [...] he was a pragmatist rather than a philosopher, but he nonetheless claimed a philosophical lineage connecting him with Alfred Deakin and approvingly quoted his statement that 'we are liberal always, radical often, and reactionary never'.".[73]
+
+Economy
+
+ABC_Decimal_Currency.ogv (ABC) video showing Holt (as Treasurer) introducing the coins of the new Australian dollar in 1964.]] Holt as prime minister was sometimes criticised for a failure to be assertive on economic matters. A major drought in 1965 had led to slowdown in growth, but he was unwilling to increase public spending in case it increased inflation.[74] The Australian dollar – a legacy of Holt's period as Treasurer – came into circulation on 14 February 1966, less than a month after his prime ministership began. In November 1967, the British government unexpectedly announced that it would be devaluing the pound sterling by 14 percent. Holt announced that the Australian government would not follow suit, effectively withdrawing Australia from the sterling area. The decision was strongly opposed by the Country Party, who feared it would disadvantage primary industry. John McEwen, the Country Party leader, issued a public statement criticising the government, which caused a breakdown in his relations with Holt and nearly led to the collapse of the Coalition. _The Bulletin_ said that the withdrawal was "quite certain to mean the end of any remaining special relationship between Australia and Britain".[75] There were no other important economic policy reforms made by the Holt Government, although Australia did become a founding member of the Asian Development Bank in 1966.[76]
+
+Immigration
+
+As prime minister, Holt continued the liberalisation of immigration law that he had begun as Minister for Immigration. When he came to office, what remained of the White Australia policy was upheld by ministerial decree rather than by explicit legislation. In March 1966, the residency requirement for naturalisation was changed to a uniform five years; it had previously been 15 years for non-whites. Discriminatory provisions relating to family reunification were also removed.[77] As a result, in the two years after March 1966 around 3,000 Asian immigrants were granted Australian citizenship,[78] compared with 4,100 in the preceding two decades.[79] Additionally, Immigration Minister Hubert Opperman announced that potential immigrants to Australia would be assessed solely "on the basis of their suitability as settlers, their ability to integrate readily, and their possession of qualifications which are in fact positively useful to Australia";[80] non-whites had previously had to demonstrate that they were "highly qualified and distinguished" to gain entry.[81]
+
+Keith Wilson believed that the Holt Government's reforms ensured that "from now on there will not be in any of our laws or in any of our regulations anything that discriminates against migrants on the grounds of colour or race". However, there would not be a practical change in the composition of Australia's immigration intake for many more years.[82] Holt maintained that "every country reserves to itself the right to decide what the composition of its people shall be", and promised "a community life free from serious minority and racial problems".[83] He was careful to frame his changes as simply a modification of existing policy, in order to avoid alienating organised labour (historically the greatest supporters of restricting non-white immigration).[84] The Labor Party had only removed "White Australia" from its platform in 1965, and Opposition Leader Arthur Calwell stated he was "determined to continue to oppose, for many obvious reasons, any attempt to create a multi-racial society in our midst".[85] However, Holt was less circumspect outside Australia, telling British journalists that no White Australia policy existed and ordering Australian embassies to promote the changes to Asian governments and media outlets.[86][87]
+
+Constitutional reform
+
+Harold_Holt_and_FCAATSI.jpg (left), and Bill Wentworth (right) meeting with FCAATSI representatives – from left to right, Faith Bandler, Douglas Nicholls, Burnum Burnum, and Winnie Branson.]] In 1967, the Holt Government amended the constitution to alter section 51 (xxvi) and remove section 127. This gave the federal government the power to legislate specifically for Indigenous Australians, and also allowed indigenous people to be enumerated in the census. The constitutional amendments required a referendum before they could be enacted, which passed with over 90 percent of the vote; it remains the largest referendum majority in Australian history. Holt personally considered the amendments unnecessary and mostly symbolic, but thought they would be well received by the international community (particularly Asia).[88] According to Barrie Dexter, he was privately shocked by the referendum result, having been uncertain whether it would even pass.[89]
+
+Holt came to regard the referendum as indicative of a shift in the national mood. In the following months, he toured Aboriginal communities and consulted with indigenous leaders, including Charles Perkins and Kath Walker. Despite opposition from state governments, he created a new Office of Aboriginal Affairs within the Prime Minister's Department, as well as a new advisory body called the Council of Aboriginal Affairs (chaired by H. C. Coombs).[90] According to Coombs and Paul Hasluck, Holt had little interest in indigenous affairs before becoming prime minister. Despite this, he brought about a fundamental shift in the way policy was handled, paving the way for the federal government to assume many of the powers and responsibilities that had previously been the preserve of the states. Indigenous academic Gary Foley has said that Holt's death was a setback for Aboriginal people, as his successors did not show the same commitment to the framework that he established.[91]
+
+The Holt Government also unsuccessfully attempted to remove section 24 of the constitution (the so-called "nexus clause"), which requires the number of members in the House of Representatives to be "as nearly as practicable, twice the number of senators". The resulting referendum did not come close to passing, with only 40 percent voting in favour nationwide and only one state (New South Wales) recording a majority. All three major-party leaders campaigned for the "Yes" vote, while opposition came mainly from Coalition backbenchers and Democratic Labor Party senators. Supporters of the "No" vote successfully argued that section 24 protected the influence of the Senate, and thus the interests of less populous states and rural areas.[92] Holt did make one other significant legal reform, albeit one that did not require a constitutional amendment. In September 1967, he announced that his government would use section 74 of the constitution to remove the potential for High Court cases to be appealed to the Judicial Committee of the Privy Council. The necessary legislation was not passed until after his death.
+
+The arts
+
+In November 1967, in one of his last major policy statements, Holt announced the establishment of the National Gallery of Australia and the Australia Council for the Arts. The National Gallery, which did not open until 1982, was the first arts-related major infrastructure project to be funded by the federal government; previous projects had been funded by state governments or by private subscription. Holt said it would "add significantly to the cultural life of Australia and the national capital".[93] The other element of his announcement, the Australia Council for the Arts, was the first national arts council, intended to provide arms-length advice to the Prime Minister's Department on arts funding.[94] Rupert Myer has suggested that "Holt's legacy ought to be a core belief in, and broad public demand for, the sustained support of cultural activity from all three tiers of government".[95]
+
+Foreign policy
+
+Holt_and_Ky_01.jpg of South Vietnam on Kỳ's visit to Australia in 1967]] Holt believed it was his responsibility as prime minister "to reflect the modern Australia to my fellow countrymen, to our allies and the outside world at large".[96] His approach to national security emphasised opposition to international communism and the need to engage more with Asia. Holt said that the "great central fact of modern history" was "the tremendous power conflict between the communist world and the free world".[97] He was a strong believer in the domino theory and containment, holding that communism had to be fought wherever it occurred in order to prevent it spreading to neighbouring countries.[98] In April 1967, Holt told parliament that "geographically we are part of Asia, and increasingly we have become aware of our involvement in the affairs of Asia – our greatest dangers and our highest hopes are centred in Asia's tomorrows". Gough Whitlam said that Holt "made Australia better known in Asia and he made Australians more aware of Asia than ever before [...] this I believe was his most important contribution to our future".[99]
+
+Personal diplomacy was Holt's strong point – he believed diplomatic ties could be strengthened by making intimate connections with other world leaders.[100] This approach was disliked by his external affairs minister, Paul Hasluck, who in his memoirs accused him of believing in "instant diplomacy" and crediting his personal charms for advances made by diplomatic officials.[101] As prime minister, Holt's first overseas trip was to South-East Asia in April 1966, where he visited Malaysia, Singapore, South Vietnam, and Thailand.[102] He toured Cambodia, Laos, South Korea, and Taiwan in March and April 1967, and had planned to visit Burma, India, Indonesia, Japan, and Pakistan in 1968.[103] Most of those countries had never before been visited by an Australian prime minister.[104] There were also a number of reciprocal visits from East Asian leaders, including Eisaku Satō of Japan, Souvanna Phouma of Laos, and Thanom Kittikachorn of Thailand.[105] The most controversial of those occurred in January 1967, when Prime Minister Nguyễn Cao Kỳ of South Vietnam visited on Holt's personal invitation – issued without consulting cabinet. Public sentiment was beginning to turn against the war, and Ky's visit was met with large demonstrations; opposition leader Arthur Calwell issued a statement calling him a "miserable little butcher". Ky nonetheless handled himself well, and _The Bulletin_ called his visit a "personal triumph".[106]
+
+Vietnam War
+
+Holt-1-7-1966.JPEG at the Pentagon in July 1966.]] The Vietnam War was the dominant foreign policy issue during Holt's term in office. He was a strong supporter of Australian involvement in the war, which had begun in 1962,[107] and accused its critics of adopting a "Lotus Land" attitude.[108] As well as citing Australia's SEATO obligations to South Vietnam, Holt justified the war on the grounds that Australia was morally obligated to "resist communist subversion and aggression" and "defend the right of every people to choose their own social and economic order". He held that "unless there is security for all small nations, there cannot be security for any small nation".[109]
+
+In March 1966, Holt announced that the 1st Battalion, Royal Australian Regiment, would be withdrawn and replaced by the 1st Australian Task Force, a self-contained brigade-sized unit based at Nui Dat. This effectively tripled the number of Australian troops in Vietnam to around 4,500, and also included 1,500 national servicemen – the first conscripts to serve in the conflict.[110] By the final months of Holt's prime ministership, Australia had over 8,000 personnel stationed in South Vietnam, drawn from all three branches of the Australian Defence Force; the final troop increase was announced in October 1967.[111] Holt "never deviated from his whole-hearted support for American bombing of North Vietnam and the hope that steadily increasing the number of foreign troops deployed to South Vietnam would lead to military victory and a solution to the crisis".[112] John Gorton later said it was "ironical that, being a man of peace, he should have presided over one of the greatest build-ups of military power that Australia has found itself engaged in".[113]
+
+The government's handling of the war initially enjoyed broad public support, and was considered a key contributor to the landslide election victory in 1966 – referred to by some as a "khaki election".[114] By the end of the following year, however, opinion polls were showing that public sentiment had turned against the war, and previously supportive media outlets had begun to criticised Holt's decision-making.[115] He did not live long enough to see the mass demonstrations experienced by his successors. Political opposition to the war was initially led by Opposition Leader Arthur Calwell, who promised a total withdrawal from the conflict and labelled it a "cruel, unwinnable civil war".[116] His replacement, Gough Whitlam, adopted a more pragmatic approach, focusing on policy specifics (particularly the government's apparent lack of an exit strategy) rather than the validity of the war itself.[117]
+
+"All the way with LBJ"
+
+Harold_Holt_and_Lyndon_Johnson.jpg in October 1966.]] Holt cultivated a close relationship with the United States under President Lyndon B. Johnson. He believed that "without the American shield most of us who live in Asia and the South Pacific would have a continuing sense of insecurity". Cooperation between the two countries extended beyond the Vietnam War. Holt approved the construction of several Earth stations for use by NASA and American intelligence agencies, including Pine Gap, Honeysuckle Creek, and Tidbinbilla. This made Australia "the most substantial centre for American missile and space operations outside the continental United States".[118]
+
+Holt and Johnson developed a personal friendship. They were the same age, and had first met in 1942, when Johnson visited Melbourne as a naval officer; afterwards they shared a similar career trajectory. Holt visited the U.S. twice while in office, in June and July 1966, and on the latter visit was invited to stay at Camp David. He and Johnson reportedly played tennis, lounged by the pool, and watched movies together.[119][120] In October 1966, Johnson made the first visit to Australia by an incumbent American president; Vice President Hubert Humphrey had visited in February of that year.[121] He toured five cities, and was greeted by large crowds as well as a number of anti-war demonstrators, who disrupted the presidential motorcade. The opposition criticised the visit as a publicity stunt.[122] Johnson later returned to Australia for Holt's memorial service, and invited his widow Zara to stay with him when she visited the United States in 1969.[123]
+
+On his first visit to the U.S., Holt made what was widely viewed as a _faux pas_ while delivering a ceremonial address at the White House. Departing from his prepared remarks, he said: "And so, sir, in the lonelier and perhaps even more disheartening moments which come to any national leader, I hope there will be a corner of your mind and heart which takes cheer from the fact that you have an admiring friend, a staunch friend that will be _all the way with LBJ_."[124] Holt had meant it to be a "light-hearted gesture of goodwill towards a generous host", referencing the slogan used in Johnson's 1964 presidential campaign.[125] It was interpreted as such by his immediate audience, but once it was reported back in Australia it came to be viewed as a "foolish, sycophantic and dangerous statement" that was indicative of Australian subservience.[126] Bill Hayden said Holt's remarks "shocked and insulted many Australians [...] its seeming servility was an embarrassment and a worry".[127] Newspaper editorials generally agreed with Holt's assertion that he had been misinterpreted, but still criticised him for making an error in judgment.[128] His comments intensified anti-war sentiments among those who were already opposed to the war, but had little electoral impact. Nonetheless, "all the way with LBJ" is still remembered as Holt's "best-known utterance".[129]
+
+Britain and the Commonwealth
+
+NAAImageM4297_Holt_Wilson.jpg and Mary Wilson in 1967.]] Holt was a strong supporter of the Commonwealth of Nations, and believed its member states had moral obligations to one another – particularly Britain, as the former colonial power.[130] However, his relationship with Harold Wilson, the British prime minister, was somewhat frosty. He repeatedly lobbied Wilson to maintain a strong British presence "East of Suez", in order to complement American efforts, and in early 1967 received assurances that no reduction was being contemplated.[131] However, by the middle of the year Wilson had announced that Britain intended to close all of its bases in Asia by the early 1970s (except for Hong Kong).[132] In response to Australia's concerns, it was suggested that a British naval base could be established in Cockburn Sound.[133] Holt rejected this outright, and felt that Wilson had deliberately misled him as to the UK's intentions.[134]
+
+Controversies
+
+Holt's popularity and political standing was damaged by his perceived poor handling of a series of controversies that emerged during 1967. In April, the ABC's new nightly current affairs program _This Day Tonight_ ran a story which criticised the government's decision not to reappoint the Chair of the ABC Board, Sir James Darling. Holt responded rashly, questioning the impartiality of the ABC and implying political bias on the part of journalist Mike Willesee (whose father Don Willesee was an ALP Senator and future Whitlam government minister), and his statement drew strong protests from both Willesee and the Australian Journalists' Association.
+
+In May, increasing pressure from the media and within the Liberal Party forced Holt to announce a parliamentary debate on the question of a second inquiry into the 1964 sinking of _HMAS Voyager_ to be held on 16 May. The debate included the maiden speech by newly elected NSW Liberal MP Edward St John QC, who used the opportunity to criticize the government's attitude to new evidence about the disaster. An enraged Holt interrupted St John's speech, in defiance of the parliamentary convention that maiden speeches are heard in silence; his blunder embarrassed the government and further undermined Holt's support in the Liberal Party. A few days later, Holt announced a new Royal Commission into the disaster.
+
+In October the government became embroiled in another embarrassing controversy over the alleged misuse of V.I.P. aircraft, which came to a head when John Gorton (Government Leader in the Senate) tabled documents that showed that Holt had unintentionally misled Parliament in his earlier answers on the matter. Support for his leadership was eroded even further by his refusal to sack the Minister for Air, Peter Howson, in order to defuse the scandal, fuelling criticism from within the party that Holt was "weak" and lacked Menzies' ruthlessness. Much of the blame for the episode within the Public Service was visited upon Sir John Bunting, Secretary of the Prime Minister's Department, although other figures such as the Deputy Secretary Peter Lawler were able to protect themselves. One of John Gorton's first acts upon becoming Prime Minister in January 1968 was to sideline Bunting by creating a separate Department of the Cabinet Office with Bunting as its head, and replaced him with Lenox Hewitt.
+
+In November 1967, the government suffered a serious setback in the Senate election, winning just 42.8 per cent of the vote against Labor's 45 per cent. The coalition also lost the seats of Corio and Dawson to Labor in by-elections. Alan Reid says that, within the party, the reversal was blamed on Holt's mishandling of the V.I.P. planes scandal. Disquiet was growing about his leadership style and possible health problems.[135]
+
+
+Disappearance
+
+Cheviot_Beach.png, the site of Holt's disappearance]] Holt loved the ocean, particularly spearfishing, and had holiday homes at Portsea, Victoria, and Bingil Bay, Queensland.[136] On 17 December 1967, while Holt was spending the weekend at Portsea, he and four companions decided to drive to Point Nepean to watch sailor Alec Rose pass through The Rip on his solo circumnavigation attempt. On their way back to Portsea, Holt convinced the group to stop at remote Cheviot Beach for a swim before lunch – he had spearfished there on many previous occasions, and claimed to "know this beach like the back of my hand". Because of the rough conditions, only one other person, Alan Stewart, joined Holt in the water. Stewart kept close to shore, but Holt swam out into deeper water and was seemingly caught up in a rip, eventually disappearing from view. One of the witnesses, Marjorie Gillespie, described it as "like a leaf being taken out [...] so quick and final".[137]
+
+Holt's disappearance sparked "one of the largest search operations in Australian history", but no trace of his body was ever found.[138] A police report released in early 1968 made no definitive findings about Holt's death, while a coronial inquest in 2005 returned a verdict of accidental drowning. It is generally accepted that Holt overestimated his swimming ability.[139] Some have alleged that Holt committed suicide, but those close to him rejected this as uncharacteristic of his personality.[140] Conspiracy theories have included suggestions that Holt faked his own death, was assassinated by the CIA, or was collected by a submarine so that he could defect to China.[141]
+
+A memorial service for Holt was held at St Paul's Cathedral, Melbourne, on 22 December, and attended by numerous world leaders.[142] Aged 59 at the time of his death, Holt became the third Australian prime minister to die in office, after Joseph Lyons (1939) and John Curtin (1945). John McEwen, the leader of the Country Party, was sworn in as caretaker prime minister on 19 December.[143] The Liberal Party held a leadership election on 9 January 1968, in which John Gorton defeated Paul Hasluck, Billy Snedden, and Les Bury. Gorton was a member of the Senate, and in line with constitutional convention transferred to the House of Representatives at the by-election caused by Holt's death.[144]
+
+
+Personal life
+
+Relationships
+
+Harold_Zara_Holt-1950.jpg While at university, Holt met Zara Dickins, the daughter of a Melbourne businessman; there was an "instant mutual attraction". They made plans to marry once Holt had graduated, but after a financial dispute chose to separate.[145] Zara went on a trip to Britain, where she was introduced to James Fell, a British Indian Army officer. She accompanied Fell to India, and then in early 1935 returned to Australia where Holt again proposed marriage. She declined his offer, and married Fell a short time later, going to live with him in Jabalpur. Holt had entered parliament by that time, and was soon being profiled as "the most eligible bachelor in parliament". He briefly dated Lola Thring, the daughter of his father's business partner, F. W. Thring, but his widowed father Tom was also interested in her (to his son's "disgust"). Tom Holt married Lola in 1936, and their daughter Frances (Harold's half-sister) was born in 1940; Tom Holt died in 1945.[146]
+
+In 1937, Zara returned to Australia to give birth to her first child, Nicholas. She had two more children, twins Sam and Andrew, in 1939. Her marriage with Fell broke down a short time later, and in late 1940 she returned to Australia permanently and resumed a relationship with Holt. Their relationship did not become public for some time, in order to avoid Holt being implicated in Zara's divorce proceedings.[147] They eventually married on 8 October 1946, at Zara's parents' home on St Georges Road, Toorak.[148] They initially lived on nearby Washington Street, but in 1954 bought the St Georges Road house.[149] Holt legally adopted Zara's three children, and as young men they changed their surname to his.[150] According to biographer Tom Frame, it was an "open secret" that Holt was the biological father of the twins, as they shared his physical appearance and had been conceived at a time when Zara was known to have been in Melbourne.[151]
+
+Zara Holt was a successful businesswoman, owning a chain of dress shops, and out-earned her husband even as prime minister. It was her success that allowed the couple to purchase two holiday homes, one at Portsea, Victoria, and the other at Bingil Bay, Queensland.[152] She nonetheless made sacrifices for her husband's political career, accompanying him on all but one of his overseas trips, which could last for weeks.
+
+After her husband's death, Zara remarried in 1969 to one of his Liberal Party colleagues, Jeff Bate.[153] She was widowed a second time in 1984, and died in 1989. In a 1988 interview with _The Sydney Morning Herald_, Zara stated that her husband Harold had carried on "dozens" of extramarital affairs.[154] In his biography of Holt, Tom Frame wrote: "I have not included the names of women with whom Holt allegedly had a sexual relationship because I was unable to confirm or deny that most of these relationships took place […] by their very nature they were always illicit and Holt was very discreet."[155]
+
+Personality
+
+Holt was the first Prime Minister born in the twentieth century. Holt was an enthusiastic sportsman and avid swimmer, which was a stark differentiation to that of Menzies and the majority of his predecessors and colleagues. Like later successor Bob Hawke, this resonated with positive effect within the electorate. His oratory skills were vastly superior to that of Arthur Calwell whom Holt resoundingly beat in 1966. Holt's rhetorician was, however, considered a match to that of new Labor leader Gough Whitlam. Whitlam himself later said of Holt:
+
+Religious beliefs
+
+Holt has been described as an "apathetic agnostic". He was baptised Anglican, attended Methodist schools, and married with Presbyterian forms, but neither he nor his wife had any interest in religion.[156] His lack of religiosity apparently had little impact on his political prospects, and was not generally remarked upon.[157] Alick Downer believed that Holt's thoughts "lay in this world not the next".[158] According to his friend Simon Warrender, he "was an agnostic whose _raison d'être_ was dedication to his career".[159] Holt had a reputation as something of a fatalist, and frequently quoted from Andrew Marvell's _carpe diem_ poem "To His Coy Mistress".[160] He was also fond of Rudyard Kipling's poem "If—", which Warrender said he used as a "guiding light in his political and private life".[161]
+
+
+Memorials and other legacies
+
+Harold_Holt_Swim_Centre.JPG
+
+Harold_Holt_bust.jpg in the Ballarat Botanical Gardens]]
+
+Harold Holt is commemorated by the Harold Holt Memorial Swimming Centre[162] in the Melbourne suburb of Glen Iris. The complex was under construction at the time of Holt's disappearance, and since he was the local member, it was named in his memory. The irony of commemorating a man who is presumed to have drowned with a swimming pool has been a source of wry amusement to many Australians.[163]
+
+In 1968, the newly commissioned United States Navy Knox class destroyer escort USS _Harold E. Holt_ (FF-1074) was named in his honour. She was launched by Holt's widow Dame Zara at the Todd Shipyards in Los Angeles on 3 May 1969, and was the first American warship to bear the name of a foreign leader.
+
+In 1969, a plaque commemorating Holt was bolted to the seafloor off Cheviot Beach after a memorial ceremony. It bears the inscription:
+
+Other memorials include:
+
+-   the suburb of Holt, Australian Capital Territory;
+-   the Naval Communication Station Harold E. Holt;
+-   the Division of Holt, an electoral district in the Australian House of Representatives in Victoria;
+-   a sundial and garden in the Fitzroy Gardens, Melbourne;
+-   a wing for boarders at Wesley College, Melbourne;
+-   the Harold Holt Fisheries Reserves – five protected areas in southern Port Phillip, located at Swan Bay, Point Lonsdale, Mud Islands, Point Nepean and Pope's Eye (The Annulus).
+-   a memorial stone within the 'Prime Ministers Garden' of Melbourne General Cemetery
+
+By way of a folk memorial, he is recalled in the Australian vernacular expression "do a Harold Holt" (or "do the Harry"), rhyming slang for "do a bolt" meaning "to disappear suddenly and without explanation", although this is usually employed in the context of disappearance from a social gathering rather than a case of presumed death.[164]
+
+In the Queen's Birthday Honours of June 1968, Holt's widow Zara Holt was made a Dame Commander of the Order of the British Empire, becoming Dame Zara Holt DBE.[165] She later married for a third time, to a Liberal party colleague of Holt's, Jeff Bate, and was then known as Dame Zara Bate.
+
+
+See also
+
+-   Declared death _in absentia_
+-   First Holt Ministry
+-   List of people who disappeared
+-   Second Holt Ministry
+
+
+Notes
+
+
+References
+
+
+Bibliography and further reading
+
+-   -   -   Hancock, Ian (2000), 'Harold Edward Holt,' in Michelle Grattan (ed.), _Australian Prime Ministers_, New Holland, Sydney, pages 270–285.
+-   Holt, Dame Zara (1968), _My Life and Harry. An Autobiography_, Herald and Weekly Times, Melbourne.
+-   Hughes, Colin A (1976), _Mr Prime Minister. Australian Prime Ministers 1901–1972_, Oxford University Press, Melbourne, Victoria, Ch.19.
+-   -   -   -   -
+
+
+External links
+
+-   Harold HoltAustralia's Prime Ministers / National Archives of Australia
+-   -   Video Documentary
+
+Category:1908 births Category:1967 deaths Category:People declared dead in absentia Category:1960s missing person cases Category:Accidental deaths in Victoria (Australia) Category:Conspiracy theories Category:Deaths by drowning Category:Douglas Wilkie Medal winners Category:Leaders of the Australian House of Representatives Category:Liberal Party of Australia members of the Parliament of Australia Category:Members of the Australian House of Representatives Category:Members of the Australian House of Representatives for Fawkner Category:Members of the Australian House of Representatives for Higgins Category:Members of the Cabinet of Australia Category:Australian Members of the Order of the Companions of Honour Category:Australian members of the Privy Council of the United Kingdom Category:Missing person cases in Australia Category:People educated at Wesley College (Victoria) Category:People from Sydney Category:People lost at sea Category:People of the Vietnam War Category:Prime Ministers of Australia Category:Treasurers of Australia Category:Melbourne Law School alumni Category:United Australia Party members of the Parliament of Australia Category:Leaders of the Liberal Party of Australia Category:20th-century Australian politicians
+
+[1]
+
+[2] Frame (2005), p. 3.
+
+[3]
+
+[4] Hannah Maria Berkholz (1863 - 1928)
+
+[5] Carl Adolph Theodore Berkholz (1813 - 1892)
+
+[6]
+
+[7] Frame (2005), p. 5.
+
+[8] Frame (2005), p. 6.
+
+[9]
+
+[10] Australian Dictionary of Biography. 1996
+
+[11] Frame (2005), p. 9.
+
+[12] Frame (2005), p. 13.
+
+[13] Frame (2005), p. 306.
+
+[14]
+
+[15] Frame (2005), p. 11.
+
+[16]
+
+[17] Frame (2005), p. 10.
+
+[18]
+
+[19] Political Godmothers Rule U.A.P. With Haughty Mien, _Smith's Weekly_, 10 August 1935.
+
+[20] Frame (2005), p. 12.
+
+[21] Frame (2005), pp. 12–15.
+
+[22] Frame (2005), p. 16.
+
+[23] Frame (2005), p. 17.
+
+[24] Frame (2005), p. 18.
+
+[25] Frame (2005), p. 19.
+
+[26] Frame (2005), pp. 16–17.
+
+[27] Frame (2005), p. 20.
+
+[28] Frame (2005), p. 21.
+
+[29] Frame (2005), p. 22.
+
+[30] Frame (2005), p. 23.
+
+[31] Frame (2005), p. 24.
+
+[32] Frame (2005), p. 25.
+
+[33]
+
+[34]
+
+[35] Frame (2005), p. 26.
+
+[36] Frame (2005), p. 27.
+
+[37] Frame (2005), p. 31.
+
+[38] Frame (2005), p. 28.
+
+[39] Frame (2005), p. 29.
+
+[40] Frame (2005), p. 30.
+
+[41] Frame (2005), p. 32.
+
+[42]
+
+[43] How one refugee signalled the end of the White Australia policy, _The Guardian Australia_, 18 March 2014. Retrieved 14 December 2017.
+
+[44]
+
+[45]
+
+[46]
+
+[47]
+
+[48]
+
+[49]
+
+[50]
+
+[51]
+
+[52]
+
+[53] It's half a century since Australia received the Holt Jolt, _The Sydney Morning Herald_, 23 February 2010. Retrieved 15 December 2017.
+
+[54]
+
+[55]
+
+[56] Frame (2005), p. 119.
+
+[57]
+
+[58] Frame (2005), p. 127.
+
+[59] Frame (2005), p. 137.
+
+[60] "Paltridge to have state funeral", _The Canberra Times_, 22 January 1966. Retrieved 7 December 2017.
+
+[61] "Hundreds pay last respects", _The Canberra Times_, 26 January 1966. Retrieved 7 December 2017.
+
+[62]
+
+[63]
+
+[64] Frame (2005), pp. 147–148.
+
+[65] Frame (2005), p. 141.
+
+[66]
+
+[67] Frame (2005), p. 170.
+
+[68] Frame (2005), p. 172.
+
+[69] Frame (2005), p. 169.
+
+[70] Frame (2005), p. 166.
+
+[71]
+
+[72]
+
+[73] Frame (2005), p. 133–134.
+
+[74] Frame (2005), p. 161.
+
+[75] Frame (2005), pp. 239–241.
+
+[76] Frame (2005), p. 180.
+
+[77] "New migration policy will aid Japanese", _The Canberra Times_, 11 March 1966. Retrieved 3 December 2017.
+
+[78] Frame (2005), p. 160.
+
+[79] "Sir Robert rejected migrant plan", _The Canberra Times_, 22 February 1966. Retrieved 3 December 2017.
+
+[80] White Australia policy – the beginning of the end 50 years ago, Museum of Australian Democracy, 9 March 2016. Retrieved 3 December 2017.
+
+[81]
+
+[82] White Australia policy ends, National Museum of Australia. Retrieved 3 December 2017.
+
+[83] "'We are a capital importing country': Mr Holt", _The Canberra Times_, 9 March 1966. Retrieved 3 December 2017.
+
+[84]
+
+[85] Australian Federal Elections Speeches: Arthur Calwell, Museum of Australian Democracy. Retrieved 3 December 2017.
+
+[86]
+
+[87] "Holt, Wilson in weekend meeting", _The Canberra Times_, 11 July 1966. Retrieved 3 December 2017.
+
+[88] Frame (2005), p. 213.
+
+[89] Frame (2005), p. 214.
+
+[90] Frame (2005), p. 215.
+
+[91] Foley, Gary, Harold Holt's death and why the 1967 referendum failed Indigenous people, _The Guardian Australia_, 27 May 2017. Retrieved 14 October 2017.
+
+[92] "The forgotten 1967 referendum", _Inside Story_, 26 May 2017. Retrieved 10 December 2017.
+
+[93] "Work to begin on National Gallery", _The Canberra Times_, 2 November 1967. Retrieved 3 December 2017.
+
+[94] "New council for the arts", _The Canberra Times_, 2 November 1967. Retrieved 3 December 2017.
+
+[95] Myer, Rupert, "Cherish Harold Holt’s legacy so the arts can flourish", _The Australian_, 1 November 2017. Retrieved 3 December 2017.
+
+[96] Frame (2005), p. 158.
+
+[97] Frame (2005), p. 167.
+
+[98]
+
+[99] Australia’s 17th Prime Minister Proved no Holt on National Progress, Menzies Research Centre, 3 November 2017. Retrieved 9 December 2017.
+
+[100] "Harold Holt and the art of personal diplomacy", _Inside Story_, 1 July 2016. Retrieved 10 December 2017.
+
+[101] Frame (2005), p. 175.
+
+[102] Frame (2005), p. 179.
+
+[103] "A human approach to great issues", _The Canberra Times_, 18 December 1967. Retrieved 9 December 2017.
+
+[104] Frame (2005), p. 192.
+
+[105]
+
+[106] Frame (2005), p. 191.
+
+[107]
+
+[108] Frame (2005), p. 197.
+
+[109] Australian Federal Election Speeches: Harold Holt, Museum of Australian Democracy. Retrieved 10 December 2017.
+
+[110] Frame (2005), p. 178.
+
+[111]
+
+[112] Frame (2005), p. 203.
+
+[113] Frame (2005), p. 270.
+
+[114] Frame (2005), p. 188.
+
+[115] Frame (2005), p. 201.
+
+[116]
+
+[117] Frame (2005), p. 200.
+
+[118] Frame (2005), p. 190.
+
+[119] All the way, and beyond, _The Australian_, 4 November 2013. Retrieved 15 December 2017.
+
+[120] LBJ’s Australian Bromance, 8 February 2017. Retrieved 15 December 2017.
+
+[121]
+
+[122] Frame (2005), p. 163–164.
+
+[123]
+
+[124] Frame (2005), p. 181.
+
+[125] Frame (2005), p. 182.
+
+[126]
+
+[127] Frame (2005), p. 183.
+
+[128] Frame (2005), p. 184.
+
+[129]
+
+[130] Frame (2005), p. 195.
+
+[131]
+
+[132] Frame (2005), p. 194.
+
+[133] Frame (2005), p. 193.
+
+[134] Frame (2005), pp. 193, 196.
+
+[135]
+
+[136] Frame (2005), p. 272.
+
+[137] Frame (2005), pp. 248–250.
+
+[138] Frame (2005), p. 250.
+
+[139] Frame (2005), p. 275.
+
+[140] Frame (2005), p. 277.
+
+[141] Frame (2005), pp. 278–293.
+
+[142] Frame (2005), p. 267.
+
+[143] Frame (2005), p. 254.
+
+[144] Frame (2005), p. 269.
+
+[145]
+
+[146] Frame (2005), p. 7.
+
+[147] Frame (2005), p. 8.
+
+[148] Frame (2005), p. 33.
+
+[149] Frame (2005), p. 34.
+
+[150] Frame (2005), p. 55.
+
+[151]
+
+[152] Frame (2005), pp. 114–115
+
+[153] Frame (2005), p. 304.
+
+[154] Frame (2005), p. 305.
+
+[155] Frame (2005), p. xvii.
+
+[156]
+
+[157] Williams (2013), p. 141.
+
+[158] Williams (2013), p. 144.
+
+[159] Frame (2005), p. 266.
+
+[160] Williams (2013), p. 143.
+
+[161]
+
+[162]
+
+[163] Bryson, Bill. _In a Sunburned Country_ (Broadway Books, New York, 2000)
+
+[164] Lambert, James (2004) _The Macquarie Australian Slang Dictionary,_ p. 69 (Macquarie Library: Sydney)
+
+[165]

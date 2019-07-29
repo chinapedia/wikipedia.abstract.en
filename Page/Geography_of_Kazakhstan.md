@@ -1,0 +1,127 @@
+KAZAKHSTAN is located in Central Asia and Eastern Europe at . With an area of about 2,724,800 square kilometers, Kazakhstan is more than twice the combined size of the other four Central Asian states and 60% larger than Alaska. The country borders Turkmenistan, Uzbekistan, and Kyrgyzstan to the south; Russia to the north; Russia and the Caspian Sea to the west; and China's Xinjiang Uygur Autonomous Region to the east.
+
+
+Topography and drainage
+
+Kazakhstan_2001_CIA_map.jpg Astana-steppe-7748.jpgs of Central Asia (Akmola Region)]] There is considerable topographical variation within Kazakhstan. The highest point is the top of the mountain Khan Tengri, on the Kyrgyz border in the Tian Shan range, with an elevation of above sea level; the lowest point is the bottom of the Karagiye depression at below sea level, in the Mangystau province east of the Caspian Sea. Most of the country lies at between above sea level, but Kazakhstan's Caspian shore includes some of the lowest elevations on Earth. The peak Khan Tengri in the Tian Shan Mountains (and on the border with Kyrgyzstan and China) is Kazakhstan highest elevation at ( with ice cap).
+
+Many of the peaks of the Altay and Tien Shan ranges are covered with snow, year-round, and their runoff is the source for most of Kazakhstan's freshwater rivers, streams, and lakes.
+
+Except for the Tobol, Ishim, and Irtysh rivers (the Kazakh names for which are, respectively, Tobyl, Esil, and Ertis), portions of which flow through Kazakhstan, all of Kazakhstan's rivers and streams are part of landlocked systems. They either flow into isolated bodies of water such as the Caspian Sea or simply disappear into the steppes and deserts of central and southern Kazakhstan. Many rivers, streams, and lakes are seasonal, evaporating in summer. The three largest bodies of water are Lake Balkhash, a partially fresh, partially saline lake in the east, near Almaty, the Caspian Sea, and the Aral Sea, all of which lie partially within Kazakhstan.
+
+Some 9.4 percent of Kazakhstan's land is mixed prairie and forest or treeless prairie, primarily in the north or in the basin of the Ural River in the west. More than three-quarters of the country, including the entire west and most of the south, is either semidesert (33.2 percent) or desert (44 percent). The terrain in these regions is bare, eroded, broken uplands, with sand dunes in the Qizilqum ("The Red Sands"; in the Russian form, Kyzylkum) and Moyunqum (in the Russian form, Muyunkum (Муюнкум)) deserts, which occupy south-central Kazakhstan.
+
+
+Climate
+
+Kazakhstan_map_of_Köppen_climate_classification.svg The Climate in Kazakhstan is continental. In summer the temperatures average more than and in winter average .[1]
+
+The climatic charts seen below are some noteworthy examples of the country's differing climates, taken from two contrasting cities (with their respective tables) representing two different parts of the country; Aktau and the Caspian Sea shore on the country's west having a distinct hot desert climate, while Petropavl features a climate typical to the rest of the country; an extreme variation of the humid continental climate known for its uneven rainfall distribution and drastic temperature ranges between seasons.
+
+Despite the nation's relatively low precipitation rates and arid geography (at most of its parts at least), spring floods that can occasionally be brought on by heavy rainfall and melting snow, are not unusual in the northern and central regions of the country. In April 2017, following a winter which had left snow volumes exceeding the average by 60 percent, heavy rains wrought widespread damage and temporarily displaced thousands of people.[2]
+
+
+Environmental problems
+
+Kazakhstan.A2001150.0615.500m.jpg The environment of Kazakhstan has been badly damaged by human activity. Most of the water in Kazakhstan is polluted by industrial effluents, pesticide and fertilizer residue, and, in some places, radioactive elements. The most visible damage has been to the Aral Sea, which as recently as the 1970s was larger than any of the Great Lakes of North America save Lake Superior. The sea began to shrink rapidly when sharply increased irrigation and other demands on the only significant tributaries, the Syr Darya and the Amu Darya (the latter reaching the Aral from neighboring Uzbekistan), all but eliminated inflow. During the Soviet Era, Kazakhstan received water from Tajikistan and Kyrgyzstan, and Uzbekistan, Turkmenistan, and Kazakhstan provided oil and gas for these two nations in return. However, after the collapse of the USSR this system had collapsed and no plan to replace this system has been put in place. According to research conducted by the International Crisis Group, there is little political will to solve this problem despite Central Asia's need for mutual resource-sharing.[3] By 1993 the Aral Sea had lost an estimated 60 percent of its volume, in the process breaking into three unconnected segments. Increasing salinity and reduced habitat have killed the Aral Sea's fish, hence destroying its once-active fishing industry, and the receding shoreline has left the former port of Aral'sk more than seventy kilometers from the water's edge. The depletion of this large body of water has increased temperature variations in the region, which in turn have affected agriculture. A much greater agricultural impact, however, has come from the salt- and pesticide-laden soil that the wind is known to carry as far away as the Himalaya Mountains and the Pacific Ocean. Deposition of this heavily saline soil on nearby fields effectively sterilizes them. Evidence suggests that salts, pesticides, and residues of chemical fertilizers are also adversely affecting human life around the former Aral Sea; infant mortality in the region approaches 10 percent compared with the national rate of 2.7 percent in 1991.
+
+By contrast, the water level of the Caspian Sea has been rising steadily since 1978 for reasons that scientists have not been able to explain fully. At the northern end of the sea, more than 10,000 square kilometres of land in Atyrau Province have been flooded. Experts estimate that if current rates of increase persist, the coastal city of Atyrau, eighty-eight other population centers, and many of Kazakhstan's Caspian oil fields could be submerged by 2020.
+
+Wind erosion has also affected the northern and central parts of the republic because of the introduction of wide-scale dryland wheat farming. During the 1950s and 1960s, much soil was lost when vast tracts of Kazakhstan's prairies were plowed under as part of Khrushchev's Virgin Lands agricultural project. By the mid-1990s, an estimated 60 percent of the republic's pastureland was in various stages of desertification.
+
+Industrial pollution is a bigger concern in Kazakhstan's manufacturing cities, where aging factories pump huge quantities of unfiltered pollutants into the air and groundwater. The former capital, Almaty, is particularly threatened, in part because of the postindependence boom in private automobile ownership.
+
+The gravest environmental threat to Kazakhstan comes from radiation, especially in the Semey (Semipalatinsk) region of the northeast, where the Soviet Union tested almost 500 nuclear weapons, 116 of them above ground. Often, such tests were conducted without evacuating or even alerting the local population. Although nuclear testing was halted in 1990, radiation poisoning, birth defects, severe anemia, and leukemia are thought to be very common in the area.
+
+With some conspicuous exceptions, lip service has been the primary official response to Kazakhstan's ecological problems. In February 1989, opposition to Soviet nuclear testing and its ill effects in Kazakhstan led to the creation of one of the republic's largest and most influential grass-roots movements, Nevada-Semipalatinsk, which was founded by Kazak poet and public figure Olzhas Suleymenov. In the first week of the movement's existence, Nevada-Semipalatinsk gathered more than two million signatures from Kazakhstanis of all ethnic groups on a petition to Mikhail Gorbachev demanding the end of nuclear testing in Kazakhstan. After a year of demonstrations and protests, the test ban took effect in 1990. It remained in force in 1996, although in 1995 at least one unexploded device reportedly was still in position near Semey.
+
+Once its major ecological objective was achieved, Nevada-Semipalatinsk made various attempts to broaden into a more general political movement; it has not pursued a broad ecological or "green" agenda. A very small green party, Tabigat, made common cause with the political opposition in the parliament of 1994.
+
+The government has established a Ministry of Ecology and Bioresources, with a separate administration for radioecology, but the ministry's programs are underfunded and given low priority. In 1994 only 23 percent of budgeted funds were actually allotted to environmental programs. Many official meetings and conferences are held (more than 300 have been devoted to the problem of the Aral Sea alone), but few practical programs have gone into operation. In 1994 the World Bank, the International Monetary Fund (IMF), and the United States Environmental Protection Agency agreed to give Kazakhstan $62 million to help the country overcome ecological problems.
+
+Natural hazards:
+    Earthquakes in the south, and mud slides around Almaty
+
+Environment—current issues:
+    Radioactive or toxic chemical sites associated with its former defense industries and test ranges are found throughout the country and pose health risks for human beings and animals; industrial pollution is severe in some cities; because the two main rivers which flowed into the Aral Sea have been diverted for irrigation, it is drying up and leaving behind a harmful layer of chemical pesticides and natural salts; these substances are then picked up by the wind and blown into noxious dust storms; pollution in the Caspian Sea; soil pollution from overuse of agricultural chemicals and salination from poor infrastructure and wasteful irrigation practices
+
+Environment—international agreements:
+
+:* Party to: Biodiversity, Climate Change, Desertification, Endangered Species, Ozone Layer Protection, Ship Pollution (MARPOL 73/78)
+
+:* Signed, but not ratified: Climate Change-Kyoto Protocol
+
+
+Area and boundaries
+
+Area:
+
+:* Total: 2,724,900 km² (1,052,089 sq mi)
+
+:* Land: 2,669,700 km² (1,030,776 sq mi)
+
+:* Water: 55,200 km² (21,312 sq mi, via the Aral Sea)
+
+Land boundaries:
+
+:* Total:
+
+:* Border countries: the People's Republic of China (to the southeast) , Kyrgyzstan (to the southeast) , Russia (to the north) , Turkmenistan (to the southwest) , Uzbekistan (to the south) .
+
+Coastline:
+    0 km (0 mi); the country is landlocked, but despite this, Kazakhstan borders the Caspian Sea (1,894 km/1,176 mi).
+
+Maritime claims:
+    None (landlocked)
+
+Elevation extremes:
+
+:* Lowest point: Karagiye -132 m
+
+:* Highest point: Khan Tangiri Shyngy (Pik Khan-Tengri) 6,995 m
+
+
+Land use
+
+:*Arable land: 8.9%
+
+:*Permanent crops: 0%
+
+:*Permanent pastures: 68.5%
+
+:*Forest: 1.2%
+
+:*Other: 21.4% (2012)
+
+Irrigated land:
+
+:*20,660 km² (2011)
+
+Total renewable water resources:
+
+:*107.5 km³ (2011)
+
+Freshwater withdrawal (domestic/industrial/agricultural):
+
+:*Total: 21.14 km³/yr (4%/30%/66%)
+
+:*Per capita: 1,304 m³/yr (2010)
+
+
+References
+
+-   -
+
+
+External links
+
+-   Geography of Kazakhstan
+-   Geography and tourism of Kazakhstan
+
+Geography_of_Kazakhstan
+
+[1] ClimateTemp.info What is the Climate, Average Temperature/ Weather in Kazakhstan?
+
+[2]
+
+[3] International Crisis Group. "Water Pressures in Central Asia", CrisisGroup.org. 11 September 2014. Retrieved 6 October 2014.

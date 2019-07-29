@@ -1,0 +1,241 @@
+Meyers_b16_s0872a.jpg showing Kyrgyzstan (map circa 1885-1890)]] Kyrgyzstan_AB_01.jpg BuranaTower.jpg in Balasagun (11th century).]] The history of the Kyrgyz people and the land now called Kyrgyzstan goes back more than 2,000 years. Although geographically isolated by its mountainous location, it had an important role as part of the historical Silk Road trade route. In between periods of self-government it was ruled by Göktürks, the Uyghur Empire, and the Khitan people, before being conquered by the Mongols in the 13th century; subsequently it regained independence but was invaded by Kalmyks, Manchus and Uzbeks. In 1876 it became part of the Russian Empire, remaining in the USSR as the Kirghiz Soviet Socialist Republic after the Russian Revolution. Following Mikhael Gorbachev's democratic reforms in the USSR, in 1990 pro-independence candidate Askar Akayev was elected president of the SSR. On 31 August 1991, Kyrgyzstan declared independence from Moscow, and a democratic government was subsequently established.
+
+
+Early history
+
+Stone implements found in the Tian Shan mountains indicate the presence of human society in what is now Kyrgyzstan as many as 200,000 to 300,000 years ago. The first written records of a civilization in the area occupied by Kyrgyzstan appear in Chinese chronicles beginning about 2000 BCE.
+
+
+Origins of the Kyrgyz people
+
+The Yenisei Kirghiz lived in the upper Yenisey River valley, central Siberia. Chinese sources of the 2nd century BCE and Muslim sources of the 7th–12th centuries CE describe the Kyrgyz as red-haired with fair complexion and green (blue) eyes. First appearing in Chinese _Records of the Grand Historian_ as GEKUN or JIANKUN (鬲昆 or 隔昆), and later as part of the Tiele tribes, they came under the rule of the Göktürks and Uyghurs. Later Kyrgyzstan it was part of the Kushan empire during Buddhism. The early Kyrgyz state reached its greatest expansion after defeating the Uyghur Khaganate in 840 CE. Then Kyrgyz quickly moved as far as the Tian Shan range and maintained their dominance over this territory for about 200 years. In the 12th century, however, the Kyrgyz domination had shrunk to the Altay Range and the Sayan Mountains as a result of the rising Mongol expansion. With the rise of the Mongol Empire in the 13th century, the Kyrgyz migrated south. Plano Carpin, an envoy of the Papal states, and William Rubruck, an envoy of France, all wrote about their life under the Mongols. Various Turkic peoples ruled them until 1685, when they came under the control of the Oirats (Dzungars).
+
+63% of the modern Kyrgyz men carry Haplogroup R1a1 (Y-DNA), comparable to the prevalence of the haplogroup among the Tajiks (64%).[1][2]
+
+
+Early medieval times
+
+The_siege_and_battle_of_Isfarah._Babur_and_his_army_assaults_the_fortress_of_Ibrāhīm_Sārū.jpg The first Turks to form a state in the territory of Central Asia (including Kyrgyzstan) were Göktürks or Kök-Türks. Known in medieval Chinese sources as Tujue (突厥 tú jué), the Göktürks under the leadership of Bumin/Tuman Khan/Khaghan (d. 552) and his sons established the first known Turkic state around 552 in the general area of territory that had earlier been occupied by the Xiongnu, and expanded rapidly to rule wide territories in Central Asia. The Göktürks split into two rival Khanates, of which the western one disintegrated in 744 CE.
+
+The first kingdom to emerge from the Göktürk khanate was the Buddhist Uyghur Empire that flourished in the territory encompassing most of Central Asia from 740 to 840 CE.
+
+After the Uyghur empire disintegrated a branch of the Uyghurs migrated to oasis settlements in the Tarim Basin and Gansu, such as Gaochang (Karakhoja) and Hami City (Kumul), and set up a confederation of decentralized Buddhist states called Kara-Khoja. Others, mainly closely related to the Uyghurs (the Karluks), occupying the western Tarim Basin, Ferghana Valley, Jungaria and parts of modern Kazakhstan bordering the Muslim Turco-Tajik Khwarazm Sultanate, converted to Islam no later than the 10th century and built a federation with Muslim institutions called Kara-Khanlik, whose princely dynasties are called Karakhanids by most historians. Its capital, Balasagun flourished as a cultural and economic centre.
+
+The Islamized Karluk princely clan, the Balasagunlu Ashinalar (or the Karakhanids) gravitated toward the Persian Islamic cultural zone after their political autonomy and suzerainty over Central Asia was secured during the 9-10th century.
+
+As they became increasingly Persianized they settled in the more Indo-Iranian sedentary centers such as Kashgaria, and became detached from the nomadic traditions of fellow Karluks, many of whom retained cultural elements of the Uyghur Khanate.
+
+The principality was significantly weakened by the early 12th century and the territory of modern Kyrgyzstan was conquered by the Mongolic Khitan people. The Kara-Khitan Khanate (Traditional Chinese: 西遼; Simplified Chinese: 西辽; pinyin: Xī Liáo, 1124–1218), also known as Western Liao, was established by Yelü Dashi (耶律大石) who led around 100,000 Khitan remnants after escaping the Jurchen conquest of their native country, the Khitan dynasty.
+
+The Khitay conquest of Central Asia can thus be seen as an internecine struggle within the Karluk nomadic tribe, played out as dynastic conflict between the conquering Buddhist Khitay elites and the defending Kara-Khanid princes, resulting in the subjugation of the latter by the former, and in the subjugation of the Muslim Karluks by their Nestorian/Buddhist kin.
+
+
+Mongol domination
+
+The Mongol invasion of Central Asia in the 13th century devastated the territory of Kyrgyzstan, costing its people their independence and their written language. The son of Genghis Khan, Juche, conquered the Kyrgyz tribes of the Yenisey region, who by this time had become disunited. At the same time, the area of present-day Kyrgyzstan was an important link in the Silk Road, as attested by several Nestorian gravestones. For the next 200 years, the Kyrgyz remained under the Golden Horde, Chagatai Khanate and the Oirats as well as Dzungars that succeeded that regime. Freedom was regained in 1510, but Kyrgyz tribes were overrun in the seventeenth century by the Kalmyks, in the mid-eighteenth century by the Manchus, and in the early nineteenth century by the Uzbeks.
+
+
+Timurids and Uzbeks
+
+The Kyrgyz in the north were never totally subjugated by Timur the Lame. In the southern region, however, his conquests and influence had a unifying role.[3] In the 15th century, a tribe of Uzbeks, originally from the Golden horde, arrived in this region.
+
+
+Russian Empire: 1876–1917
+
+Kurmanjan_Datka_on_50_som_note.jpg banknote representing Kurmanjan Datka.]] In 1775, Atake Tynay Biy Uulu, one of the leaders of Sarybagysh tribe, established first diplomatic ties with the Russian Empire by sending his envoys to Catherine the Great in Saint Petersburg.[4] In the early 19th century, the territory of Kyrgyzstan came under the control of the Khanate of Kokand, but the territory was occupied and formally annexed by the Russian Empire in 1876. The Russian takeover instigated numerous revolts against tsarist authority, and many Kyrgyz opted to move into the Pamir Mountains or to Afghanistan. The ruthless suppression of the 1916 rebellion in Central Asia, triggered by the Russian imposition of the military draft on the Kyrgyz and other Central Asian peoples, caused many Kyrgyz to flee to China. For Russian expansion into central Asia see Russian conquest of Turkestan.
+
+
+The Soviet Era: 1917–1991
+
+Soviet power was initially established in the region in 1918, and in 1924, the Kara-Kyrgyz Autonomous Oblast was created within the Russian SFSR. (The term Kara-Kyrgyz was used until the mid-1920s by the Russians to distinguish them from the Kazakhs, who were also referred to as Kyrgyz.) In 1926, it became the Kirghiz Autonomous Soviet Socialist Republic. On December 5, 1936, the Kirghiz Soviet Socialist Republic (SSR) was established as a full Union Republic of the USSR.
+
+Flag_of_the_Kirghiz_Soviet_Socialist_Republic.svg
+
+During the 1920s, Kyrgyzstan saw considerable cultural, educational, and social change. Economic and social development also was notable. Literacy increased, and a standard literary language was introduced. The Kyrgyz language belongs to the Kipchak Turkic group of languages. In 1924, an Arabic-based Kyrgyz alphabet was introduced, which was replaced by Latin script in 1928. In 1941 Cyrillic script was adopted. Many aspects of the Kyrgyz national culture were retained despite suppression of nationalist activity under Joseph Stalin, who controlled the Soviet Union from the late 1920s until 1953.
+
+Modern Kyrgyz religious affiliation is eclectically Muslim for a majority of the population. Typical Kyrgyz families vary in their devotion to Islam.
+
+Russian and Kyrgyz cultures differ in respect to family, religious identity, and social structure. Kyrgyzstan is a country in transition. The current social dilemma is one that has emerged from the controlling body mainly relying on classic Russian ethnicities, to Kyrgyz or Turkic ethnic groups shaping and forming the infrastructure of Kyrgyzstan. This has resulted in a measurable degree of instability and chaos associated with a social transition.
+
+The ancestral Kyrgyz social structure was dominated by nomadic traditions, governing political philosophies, and socialization. As classical Russian ethnic groups were injected into the Soviet Republic of Kyrgyzstan, the urbanization process began and was mainly authored by the Russian communities placed within the Soviet Republic, mostly by policies created by the communist party. It is unclear why these policies were created and it is only clear that these policies forced Russians of certain descent to populate the Republic.
+
+Towards independence: 1985-1991
+
+On 11 March 1985 Mikhail Gorbachev was chosen by the Politburo as the new General Secretary of the Communist Party of the Soviet Union. Gorbachev immediately launched his new liberalizing policies of glasnost and perestroika, although they had little immediate impact on the political climate in Kyrgyzstan. On 2 November 1985 Gorbachev replaced Turdakun Usubaliyev the First Secretary of the Communist Party of Kirghizia, who had been in power for 24 years, with Absamat Masaliyev. The republic's press was permitted to adopt a more liberal stance and to establish a new publication, _Literaturny Kyrgyzstan_, by the Union of Writers. Unofficial political groups were forbidden, but several groups that emerged in 1989 to deal with an acute housing crisis were permitted to function.
+
+Gorbachev's policy of separating Party and State began to impact at the Soviet Republic level in early 1990 when each SSR held competitive elections to their respective legislative Supreme Soviets, shortly after the CPSU had given up its 'leading role'. This meant that real local power moved from the position of Communist Party Leader to that of Chairman of the Supreme Soviet, the official Head of State of the SSR. Between January and April 1990 each of the Communist Party leaders of the five states of Soviet Central Asia assumed the position of Chairman of the Supreme Soviet in their respective SSRs, without any difficulty from the still weak opposition forces in the region.
+
+In Kirghizia the 1990 elections were held on 25 February, with a second round on 7 April. As the Communists were the only political party contesting the elections it is not surprising that they received 90% of the vote. Absamat Masaliyev the Communist leader was voted by the new Parliament as Chairman of the Supreme Soviet of Kirghizia on 10 April 1990.
+
+However events quickly began to slip from the Communists control. On 1 May 1990 the opposition groups held their first big demonstration in Frunze in competition with the officially sanctioned May Day celebrations,[5] and on 25–26 May 1990 the opposition groups formed the Kyrgyzstan Democratic Movement as a bloc of several anti-Communist political parties, movements and nongovernment organizations. Then on 4 June 1990, ethnic tensions between Uzbeks and Kyrgyz surfaced in an area of the Osh Oblast where Uzbeks form a majority of the population. Violent confrontations ensued, and a state of emergency and curfew were introduced.[6] Order was not restored until August 1990.
+
+The Kyrgyzstan Democratic Movement swiftly developed into a significant political force with growing support in parliament. On 27 October 1990 in an upset victory, Askar Akayev, the president of the Kyrgyz Academy of Sciences and reformist Communist Party member, was elected to the newly created Presidency defeating Communist Party leader Absamat Masaliyev. Kirghizia was the only one of the five states of Soviet Central Asia that voted their established Communist leadership out of power in 1990.
+
+On 15 December 1990, the Supreme Soviet voted to change the republic's name to the Republic of Kyrgyzstan. In January 1991, Akayev introduced new government structures and appointed a government consisting mainly of younger, reform-oriented politicians. On 5 February 1991, the name of the capital, Frunze, was changed to Bishkek.
+
+Despite these moves toward independence, economic realities seemed to work against secession from the Soviet Union In a referendum on the preservation of the USSR, in March 1991, 88.7% of the voters approved a proposal to remain part of the union as a "renewed federation."
+
+On August 19, 1991, when the State Emergency Committee assumed power in Moscow, there was an attempt to depose Akayev in Kyrgyzstan. After the coup collapsed the following week, Akayev and Vice President German Kuznetsov announced their resignations from the Communist Party of the Soviet Union (CPSU), and the entire politburo and secretariat resigned. This was followed by the Supreme Soviet vote declaring independence from the Soviet Union on 31 August 1991, becoming the first of the five Republics of Soviet Central Asia to break away.
+
+
+Independence and the Akayev Presidency: 1991-2005
+
+Kyrgyz was announced as the state language in September 1991. In October 1991, Akayev ran unopposed and was elected President of the new independent republic by direct ballot, receiving 95% of the votes cast. Together with the representatives of seven other republics, he signed the Treaty of the New Economic Communists that same month. On December 21, 1991, Kyrgyzstan formally entered the new Commonwealth of Independent States (CIS).
+
+As in many former Soviet republics, after Kyrgyzstan regained independence in August 1991 many individuals, organizations, and political parties sought to reestablish (and, to a certain extent, to create from scratch) a Kyrgyz national cultural identity; often one that included a backlash against Russians.
+
+In 1993, allegations of corruption against Akayev's closest political associates blossomed into a major scandal. One of those accused of improprieties was Prime Minister Chyngyshev, who was dismissed for ethical reasons in December. Following Chyngyshev's dismissal, Akayev dismissed the government and called upon the last communist premier, Apas Djumagulov, to form a new one. In January 1994, Akayev initiated a referendum asking for a renewed mandate to complete his term of office. He received 96.2% of the vote.
+
+A new constitution was passed by the parliament in May 1993 and the Republic of Kyrgyzstan was renamed the Kyrgyz Republic. In 1994, however, the parliament failed to produce a quorum for its last scheduled session prior to the expiration of its term in February 1995. President Akayev was widely accused of having manipulated a boycott by a majority of the parliamentarians. Akayev, in turn, asserted that the communists had caused a political crisis by preventing the legislature from fulfilling its role. Akayev scheduled an October 1994 referendum, overwhelmingly approved by voters, which proposed two amendments to the constitution—one that would allow the constitution to be amended by means of a referendum, and the other creating a new bicameral parliament called the _Jogorku Kenesh_.
+
+Elections for the two legislative chambers—a 35-seat full-time assembly and a 70-seat part-time assembly—were held in February 1995 after campaigns considered remarkably free and open by most international observers, although the election-day proceedings were marred by widespread irregularities. Independent candidates won most of the seats, suggesting that personalities prevailed over ideologies. The new parliament convened its initial session in March 1995. One of its first orders of business was the approval of the precise constitutional language on the role of the legislature.
+
+On December 24, 1995, President Akayev was reelected for another 5-year term with wide support (75% of vote) over two opposing candidates. He used government resources and state-owned media to carry out his campaign. Three (out of six) candidates were de-registered shortly before the election.
+
+A February 1996 referendum—in violation of the constitution and the law on referendums—amended the constitution to give President Akayev more power. Although the changes gave the president the power to dissolve parliament, it also more clearly defined the parliament's powers. Since that time, the parliament has demonstrated real independence from the executive branch.
+
+An October 1998 referendum approved constitutional changes, including increasing the number of deputies in the lower house, reducing the number of deputies in the upper house, providing for 25% of lower house deputies to be elected by party lists, rolling back parliamentary immunity, introducing private property, prohibiting adoption of laws restricting freedom of speech and mass media, and reforming the state budget.
+
+Two rounds of parliamentary elections were held on February 20, 2000, and March 12, 2000. The Organization for Security and Cooperation in Europe (OSCE) reported that the elections failed to comply with commitments to free and fair elections and hence were invalid. Questionable judicial proceedings against opposition candidates and parties limited the choice of candidates available to Kyrgyz voters, while state-controlled media only reported favorably on official candidates. Government officials put pressure on independent media outlets that favored the opposition. The presidential election that followed later in 2000 also was marred by irregularities and was not declared free and fair by international observers.In December 2001, through a constitutional amendment, the Russian language was given official status.
+
+The OSCE found that the parliamentary elections held on 27 February and 13 March 2005 failed to comply with commitments to free and fair elections, however there were improvements over the 2000 elections, notably the use of indelible ink, transparent ballot boxes, and generally good access by election observers.
+
+
+Tulip Revolution: 2005
+
+Sporadic protests against perceived manipulation and fraud during the elections of February 27, 2005, erupted into widespread calls for the government to resign, which started in the southern provinces. On March 24, 15,000 pro-opposition demonstrators in Bishkek called for the resignation of the President and his regime. Protesters seized the main government building, and Akayev hurriedly fled the country, first to neighboring Kazakhstan and then to Moscow. Initially refusing to resign and denouncing the events as a coup, he subsequently resigned his office on April 4.[7]
+
+
+Bakiyev's Presidency: 2005-2010
+
+Kurmanbek Bakiyev won the 10 July ballot for the Presidential election with 89% of the vote with a 53% turnout.[8] Bakiyev's term in office was marred by the murder of several prominent politicians, prison riots, economic ills and battles for control of lucrative businesses.[9][10][11][12] In 2006, Bakiyev faced a political crisis as thousands of people participated in a series of protests in Bishkek. He was accused of not following through with his promises to limit presidential power, give more authority to parliament and the prime minister, and eradicate corruption and crime. Bakiyev claimed that the opposition was plotting a coup against him.[13][14]
+
+In April 2007, the opposition held protests demanding Bakiyev's resignation,[15] with a large protest beginning on April 11 in Bishkek. Bakiyev signed constitutional amendments to reduce his own power on April 10, but the protest went ahead, with protesters saying that they would remain until he resigned.[16] Clashes broke out between protesters and police on April 19, after which the protests ended.[17]
+
+Bakiyev was re-elected in the 2009 presidential election.[18][19] After the re-election in 2009, some people in Kyrgyzstan said that he would now deal with political and economic reform.[20] Others were skeptical. The Eurasian Daily Monitor wrote on September 10 that his style resembled other leaders such as Vladimir Putin and Nursultan Nazarbayev. However, he lacked resources and Kyrgyz people were anxious about the risk of renewed power shortages and blackouts like in the winter 2008–2009.[21]
+
+During the winter of 2010 Kyrgyzstan has suffered from rolling blackouts and cutoffs occurring regularly while energy prices have risen.[22]
+
+
+Revolution 2010
+
+President_Obama_Greets_Kyrgyzstan_President_Otunbayeva_(5029828442).jpg The arrest of an opposition figure on 6 April 2010 in the town of Talas led opposition supporters to protest.[23] The protestors took control of a governmental building, demanding a new government. Riot police were sent from Bishkek, and managed to temporarily regain control of the building. Later the same day several more opposition figures were arrested, while the government claimed to have regained control of the situation. The following day, however, hundreds of opposition supporters gathered in Bishkek and marched on the government headquarters. Security personnel attempted to disperse the protestors with the use of stun grenades and live rounds, at the cost of dozens of lives. The protests continued, however, resulting in the flight of President Bakiyev to his southern stronghold of Jalalabad, and the freeing later the same day of the arrested opposition figures. A new government was formed under opposition leader Roza Otunbayeva, while Bakiyev remained for several days in southern Kyrgyzstan, before fleeing to Belarus, where he was given asylum by President Lukashenko. The new interim government held consultations on a new constitution, intended to increase the powers of the parliament and reduce those of the president. A referendum was held on the resulting document on 27 June 2010, and was approved by over 90% of voters, with a turnout of 72%.[24] Elections were subsequently held on 10 October 2010. These elections resulted in five parties reaching the 5% threshold necessary to enter parliament.
+
+
+Atambayev Presidency: 2011-to 2017
+
+Almazbek Atambayev ran in 2011 to succeed Roza Otunbayeva as President of Kyrgyzstan. On election day, 30 October 2011, he won in a landslide, defeating Adakhan Madumarov from the Butun Kyrgyzstan party and Kamchybek Tashiev from the Ata-Zhurt party with 63% of the vote, and with about 60% of the eligible Kyrgyz population voting.[25] Meeting_Vladimir_Putin_and_Almazbek_Atambayev_2015-03-16_01.jpeg Vladimir Putin on 16 March 2015]] In 2011 soon after becoming President, Atambayev travelled to Turkey and signed an agreement with the Turkish President agreeing to increase trade from $300 million in 2011 to $1 billion by 2015, with Turkey also agreeing to attract Turkish investment to Kyrgyzstan to the amount of $450 million within the next few years.[26]
+
+Atambayev has repeatedly presented himself as a pro-Russian politician. He positively supports Kyrgyzstan’s Membership of the Russian led Eurasian Customs Union and secured the withdrawal of the American military base from the country in 2014.[27] He has spoken of the need for closer economic relations with Russia, which temporarily employs about 500,000 citizens of Kyrgyzstan;[28] however, he also expressed his wish to achieve greater economic and energy independence from it.[29]
+
+
+Jeenbekov Presidency: 2017-to Present
+
+6th_Summit_of_Cooperation_Council_of_Turkic_Speaking_States_kicks_off_in_Cholpon-Ata_03.jpg]] Sooronbay Jeenbekov was sworn in as president on 24 November 2017 at the Ala Archa State Residence.[30] In the hours since assuming office, he made his first decree to confer the title of Hero of the Kyrgyz Republic to his predecessor. The following May, he conducted his first foreign visit after assuming the presidency was to Russia where he met with Vladimir Putin. In April 2018, Jeenbekov fired Prime Minister Sapar Isakov and his entire government following a vote of no confidence from Supreme Council.[31]
+
+In his first year, Jeenbekov participated in 30 international meetings, where he signed a total of 77 bilateral agreements and 414 multilateral documents. That same year, he ordered the foreign ministry to establish diplomatic relations with four foreign countries.[32][33] The draft of a new co-operation agreement with the United States is currently being reconciled.[34]
+
+Since Jeenbekov took power, he has had a somewhat adversarial relationship with former President Atambayev, who strongly backed Jeenbekov against his opponent Ömürbek Babanov during the 2017 election, even referring to comparing himself as an “older brother” to Jeenbekov when referring to their relationship. Despite this, a rift grew between the two politicians as Atambayev became more involved in politics, eventually rising to the Chairmanship of the Social Democratic Party of Kyrgyzstan, of which Jeenbekov is a member of. While in this post, he criticized Jeenbekov for his handling many contreversies and state emergencies, including the Bishkek power plant failure and his refusal to force his brother to resign from parliament. In early April 2018, Jeenbekov dismissed two high ranking officials in the State Committee for National Security (GKNB) who are considered to be close to Atambayev, which was seen as an apparent jab at Atambayev and his former government.[35] Jeenbekov has on many occasions accused Atambayev of indirectly trying to influence his presidency, saying in November 2018 that he has attempted to turn him into "a puppet leader through some third individuals"[36] Even with the accusations, he denies any type of rivalry with the former president, saying the following month that he "does not consider anyone a rival".[37]
+
+
+See also
+
+-   Dissolution of the Soviet Union
+-   History of Asia
+-   History of Central Asia
+-   History of the Soviet Union
+-   Leadership of Communist Kyrgyzstan
+-   Kirghiz Soviet Socialist Republic
+-   Politics of Kyrgyzstan
+-   President of Kyrgyzstan
+-   Prime Minister of Kyrgyzstan
+-   Soviet Central Asia
+-   Tulip Revolution
+
+
+References
+
+-   History of Kyrgyzstan
+-   Constitution of the Kyrgyz Republic
+
+
+Further reading
+
+-   ABAZOV, Rafiz _Historical Dictionary of Kyrgyzstan_ Lanham, Maryland, and Oxford: The Scarecrow Press, 2004.
+-   KOKAISL, Petr; KOKAISLOVÁ, Pavla _The Kyrgyz – Children of Manas_ Prague: NOSTALGIE, 2009.
+
+History_of_Kyrgyzstan
+
+[1] The Eurasian Heartland: A continental perspective on Y-chromosome diversity ). Haplogroup R1a1 is believed to be a marker of the Proto-Indo-European language.
+
+[2] Zuev Yu. L., _The strongest tribe_, p. 35-46, Almaty, 2004
+
+[3]
+
+[4]
+
+[5]
+
+[6]
+
+[7]
+
+[8] Bakiev sworn in as Kyrgyz leader BBC News
+
+[9] Kyrgyz jail unrest claims lives BBC News
+
+[10] Kyrgyz rally against corruption BBC News
+
+[11] Kyrgyz MP shot dead in Bishkek BBC News
+
+[12] Clashes erupt in Kyrgyz capital BBC News
+
+[13] Thousands rally against Kyrgyz leader Al Jazeera
+
+[14] Kyrgyzstan brings coup charges Al Jazeera
+
+[15] "Kyrgyzstan: Protests Gain Steam Ahead Of Major Antigovernment Rally", Radio Free Europe/Radio Liberty, April 9, 2007.
+
+[16] "Kyrgyz opposition stages large rally against embattled president", Associated Press (_International Herald Tribune_), April 11, 2007.
+
+[17] "Kyrgyzstan: Overnight Violence Halts Bishkek Rallies", Radio Free Europe/Radio Liberty, April 20, 2007.
+
+[18]
+
+[19]
+
+[20]
+
+[21]
+
+[22] Kyrgyzstan: The Causes Behind the Crisis. Stratfor 2010-04-07
+
+[23]
+
+[24]
+
+[25]
+
+[26]
+
+[27]
+
+[28] Itar Tass 1 November 2011
+
+[29]
+
+[30]
+
+[31]
+
+[32]
+
+[33] Kyrgyzstan to 'step up' co-operation with US, UK, says Jeenbekov. _Caravanserai_. Retrieved 18 March 2019.
+
+[34] Renewed Kyrgyz-US co-operation paves way for deepening relations. _Caravanserai_. Retrieved 18 March 2019.
+
+[35]
+
+[36]
+
+[37]

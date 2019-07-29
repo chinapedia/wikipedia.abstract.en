@@ -1,0 +1,961 @@
+HONDURAS (, ;[1] ), officially the REPUBLIC OF HONDURAS (), is a country in Central America. The republic of Honduras is bordered to the west by Guatemala, to the southwest by El Salvador, to the southeast by Nicaragua, to the south by the Pacific Ocean at the Gulf of Fonseca, and to the north by the Gulf of Honduras, a large inlet of the Caribbean Sea.
+
+Honduras was home to several important Mesoamerican cultures, most notably the Maya, before the Spanish Colonization in the sixteenth century. The Spanish introduced Roman Catholicism and the now predominant Spanish language, along with numerous customs that have blended with the indigenous culture. Honduras became independent in 1821 and has since been a republic, although it has consistently endured much social strife and political instability, and remains one of the poorest countries in the Western Hemisphere. In 1960, the northern part of what was the Mosquito Coast was transferred from Nicaragua to Honduras by the International Court of Justice.[2]
+
+The nation's economy is primarily agricultural, making it especially vulnerable to natural disasters such as Hurricane Mitch in 1998.[3] The lower class is primarily agriculturally based while wealth is concentrated in the country's urban centers.[4] Honduras has a Human Development Index of 0.625, classifying it as a nation with medium development.[5] When the Index is adjusted for income inequality, its Inequality-adjusted Human Development Index is 0.443.[6]
+
+Honduran society is predominantly Mestizo; however, American Indian, black and white individuals also live in Honduras (2017).[7] The nation had a relatively high political stability until its 2009 coup and again with the 2017 presidential election.[8] Honduras has the world's highest murder rate and high levels of sexual violence.[9][10]
+
+Honduras spans about and has a population exceeding {{#expr:floor(/1e6)}} million. Its northern portions are part of the Western Caribbean Zone, as reflected in the area's demographics and culture. Honduras is known for its rich natural resources, including minerals, coffee, tropical fruit, and sugar cane, as well as for its growing textiles industry, which serves the international market.
+
+
+Etymology
+
+The literal meaning of the term "Honduras" is "depths" in Spanish. The name could either refer to the bay of Trujillo as an anchorage, _fondura_ in the Leonese dialect of Spanish, or to Columbus's alleged quote that _"Gracias a Dios que hemos salido de esas Honduras"_ ("Thank God we have departed from those depths").[11][12][13]
+
+It was not until the end of the 16th century that _Honduras_ was used for the whole province. Prior to 1580, _Honduras_ referred to only the eastern part of the province, and _Higueras_ referred to the western part.[14] Another early name is Guaymuras, revived as the name for the political dialogue in 2009 that took place in Honduras as opposed to Costa Rica.[15]
+
+Hondurans are often referred to as _Catracho_ or _Catracha_ (fem) in Spanish. The word was coined by Nicaraguans and derives from the last name of the Spanish Honduran General Florencio Xatruch, who in 1857 led Honduran armed forces against an attempted invasion by North American adventurer William Walker. The nickname is considered complimentary, not derogatory.
+
+
+History
+
+CPN_ST_B_01.jpg, an emblematic symbol of the Honduran Mayan civilization at Copan.]]
+
+Pre-colonial period
+
+In pre-Columbian times, modern Honduras was part of the Mesoamerican cultural area. In the west, Mayan civilization flourished for hundreds of years. The dominant state within Honduras' borders was in Copán. Copán fell with the other Lowland centres during the conflagrations of the Terminal Classic in the 9th century. The Maya of this civilization survive in western Honduras as the Ch'orti', isolated from their Choltian linguistic peers to the west.[16]
+
+Remnants of other Pre-Columbian cultures are found throughout the country. Archaeologists have studied sites such as and La Sierra in the Naco Valley, Los Naranjos on Lake Yojoa, Yarumela in the Comayagua Valley,[17] La Ceiba and Salitron Viejo[18] (both now under the Cajón Dam reservoir), Selin Farm and Cuyamel in the Aguan valley, Cerro Palenque, Travesia, Curruste, Ticamaya, Despoloncal in the lower Ulua river valley, and many others.
+
+Spanish conquest (1524–1539)
+
+Cortes-Hernan-LOC.jpg, one of the conquerors of Honduras]] On his fourth and the final voyage to the New World in 1502, Christopher Columbus landed near the modern town of Trujillo, near Guaimoreto Lagoon, becoming the first European to visit the Bay Islands on the coast of Honduras.[19] On 30 July 1502, Columbus sent his brother Bartholomew to explore the islands and Bartholomew encountered a Mayan trading vessel from Yucatán, carrying well-dressed Maya and a rich cargo. Bartholomew's men stole the cargo they wanted and kidnapped the ship's elderly captain to serve as an interpreter in the first recorded encounter between the Spanish and the Maya.
+
+In March 1524, Gil González Dávila became the first Spaniard to enter Honduras as a conquistador.[20][21] followed by Hernán Cortés, who had brought forces down from Mexico. Much of the conquest took place in the following two decades, first by groups loyal to Cristóbal de Olid, and then by those loyal to Francisco de Montejo but most particularly by those following Alvarado. In addition to Spanish resources, the conquerors relied heavily on armed forces from Mexico—Tlaxcalans and Mexica armies of thousands who remained garrisoned in the region.
+
+Resistance to conquest was led in particular by Lempira. Many regions in the north of Honduras never fell to the Spanish, notably the Miskito Kingdom. After the Spanish conquest, Honduras became part of Spain's vast empire in the New World within the Kingdom of Guatemala. Trujillo and Gracias were the first city-capitals. The Spanish ruled the region for approximately three centuries.
+
+Spanish Honduras (1524–1821)
+
+Honduras was organized as a province of the Kingdom of Guatemala and the capital was fixed, first at Trujillo on the Atlantic coast, and later at Comayagua, and finally at Tegucigalpa in the central part of the country.
+
+Silver mining was a key factor in the Spanish conquest and settlement of Honduras.[22] Initially the mines were worked by local people through the encomienda system, but as disease and resistance made this option less available, slaves from other parts of Central America were brought in. When local slave trading stopped at the end of the sixteenth century, African slaves, mostly from Angola, were imported.[23] After about 1650, very few slaves or other outside workers arrived in Honduras.
+
+Although the Spanish conquered the southern or Pacific portion of Honduras fairly quickly, they were less successful on the northern, or Atlantic side. They managed to found a few towns along the coast, at Puerto Caballos and Trujillo in particular, but failed to conquer the eastern portion of the region and many pockets of independent indigenous people as well. The Miskito Kingdom in the northeast was particularly effective at resisting conquest. The Miskito Kingdom found support from northern European privateers, pirates and especially the British formerly English colony of Jamaica, which placed much of the area under its protection after 1740.
+
+Exterior_Fuerte_de_Omoa_Honduras.jpg was built by the Spanish to protect the coast of Honduras from English pirates.]]
+
+Independence (1821)
+
+Honduras gained independence from Spain in 1821 and was a part of the First Mexican Empire until 1823, when it became part of the United Provinces of Central America. It has been an independent republic and has held regular elections since 1838. In the 1840s and 1850s Honduras participated in several failed attempts at Central American unity, such as the Confederation of Central America (1842–1845), the covenant of Guatemala (1842), the Diet of Sonsonate (1846), the Diet of Nacaome (1847) and National Representation in Central America (1849–1852). Although Honduras eventually adopted the name Republic of Honduras, the unionist ideal never waned, and Honduras was one of the Central American countries that pushed the hardest for a policy of regional unity.
+
+Neoliberal policies favoring international trade and investment began in the 1870s, and soon foreign interests became involved, first in shipping from the north coast, especially tropical fruit and most notably bananas, and then in building railroads. In 1888, a projected railroad line from the Caribbean coast to the capital, Tegucigalpa, ran out of money when it reached San Pedro Sula. As a result, San Pedro grew into the nation's primary industrial center and second-largest city. Comayagua was the capital of Honduras until 1880, when the capital moved to Tegucigalpa.
+
+Since independence, nearly 300 small internal rebellions and civil wars have occurred in the country, including some changes of régime.
+
+20th century and the role of American companies
+
+In the late nineteenth century, Honduras granted land and substantial exemptions to several US-based fruit and infrastructure companies in return for developing the country's northern regions. Thousands of workers came to the north coast as a result to work in banana plantations and other businesses that grew up around the export industry. Banana-exporting companies, dominated until 1930 by the Cuyamel Fruit Company, as well as the United Fruit Company, and Standard Fruit Company, built an enclave economy in northern Honduras, controlling infrastructure and creating self-sufficient, tax-exempt sectors that contributed relatively little to economic growth. American troops landed in Honduras in 1903, 1907, 1911, 1912, 1919, 1924 and 1925.[24]
+
+In 1904, the writer O. Henry coined the term "banana republic" to describe Honduras,[25] publishing a book called _Cabbages and Kings_, about a fictional country, Anchuria, inspired by his experiences in Honduras, where he had lived for six months.[26] In _The Admiral_, O.Henry refers to the nation as a "small maritime banana republic"; naturally, the fruit was the entire basis of its economy.[27][28] According to a literary analyst writing for _The Economist_, "his phrase neatly conjures up the image of a tropical, agrarian country. But its real meaning is sharper: it refers to the fruit companies from the United States that came to exert extraordinary influence over the politics of Honduras and its neighbors."[29][30] In addition to drawing Central American workers north, the fruit companies encouraged immigration of workers from the English-speaking Caribbean, notably Jamaica and Belize, which introduced an African-descended, English-speaking and largely Protestant population into the country, although many of these workers left following changes to immigration law in 1939.[31] Honduras joined the Allied Nations after Pearl Harbor, on 8 December 1941, and signed the Declaration by United Nations on 1 January 1942, along with twenty-five other governments.
+
+Constitutional crises in the 1940s led to reforms in the 1950s. One reform gave workers permission to organize, and a 1954 general strike paralyzed the northern part of the country for more than two months, but led to reforms. In 1963 a military coup unseated democratically elected President Ramón Villeda Morales. In 1960, the northern part of what was the Mosquito Coast was transferred from Nicaragua to Honduras by the International Court of Justice.[32]
+
+1969–1999 (Wars and corruption)
+
+In 1969, Honduras and El Salvador fought what became known as the Football War. Border tensions led to acrimony between the two countries after Oswaldo López Arellano, the president of Honduras, blamed the deteriorating Honduran economy on immigrants from El Salvador. The relationship reached a low when El Salvador met Honduras for a three-round football elimination match preliminary to the World Cup.[33]
+
+Tensions escalated and on 14 July 1969, the Salvadoran army launched an attack on the Honduran army. The Organization of American States (OAS) negotiated a cease-fire which took effect on 20 July and brought about a withdrawal of Salvadoran troops in early August.[34] Contributing factors to the conflict were a boundary dispute and the presence of thousands of Salvadorans living in Honduras illegally. After the week-long war, as many as 130,000 Salvadoran immigrants were expelled.[35]
+
+Hurricane Fifi caused severe damage when it skimmed the northern coast of Honduras on 18 and 19 September 1974. Melgar Castro (1975–78) and Paz Garcia (1978–82) largely built the current physical infrastructure and telecommunications system of Honduras.[36]
+
+Mitch-Tegucigalpa_Damage.JPG in Tegucigalpa, 1998]] In 1979, the country returned to civilian rule . A constituent assembly was popularly elected in April 1980 to write a new constitution, and general elections were held in November 1981. The constitution was approved in 1982 and the PLH government of Roberto Suazo won the election with a promise to carry out an ambitious program of economic and social development to tackle the recession in which Honduras found itself. He launched ambitious social and economic development projects sponsored by American development aid. Honduras became host to the largest Peace Corps mission in the world, and nongovernmental and international voluntary agencies proliferated. The Peace Corps withdrew its volunteers in 2012, citing safety concerns.[37]
+
+During the early 1980s, the United States established a continuing military presence in Honduras to support El Salvador, the Contra guerrillas fighting the Nicaraguan government, and also develop an airstrip and modern port in Honduras. Though spared the bloody civil wars wracking its neighbors, the Honduran army quietly waged campaigns against Marxist–Leninist militias such as the Cinchoneros Popular Liberation Movement, notorious for kidnappings and bombings,[38] and against many non-militants as well. The operation included a CIA-backed campaign of extrajudicial killings by government-backed units, most notably Battalion 316.[39]
+
+In 1998, Hurricane Mitch caused massive and widespread destruction. Honduran President Carlos Roberto Flores said that fifty years of progress in the country had been reversed. Mitch destroyed about 70% of the country's crops and an estimated 70–80% of the transportation infrastructure, including nearly all bridges and secondary roads. Across Honduras 33,000 houses were destroyed, and an additional 50,000 damaged. Some 5,000 people killed, and 12,000 more injured. Total losses were estimated at US$3 billion.[40]
+
+21st century
+
+Defense.gov_News_Photo_0308020-F-2828D-168.jpg with U.S. Secretary of Defense Donald Rumsfeld in August 2003]] In 2007, President of Honduras Manuel Zelaya and President of the United States George W. Bush began talks on US assistance to Honduras to tackle the latter's growing drug cartels in Mosquito, Eastern Honduras using US Special Forces. This marked the beginning of a new foothold for the US Military's continued presence in Central America.[41]
+
+2009_Honduras_political_crisis_11.jpg]] Under Zelaya, Honduras joined ALBA in 2008, but withdrew in 2010 after the 2009 Honduran coup d'état. In 2009, a constitutional crisis resulted when power transferred in a coup from the president to the head of Congress. The OAS suspended Honduras because it did not regard its government as legitimate.[42][43]
+
+Countries around the world, the OAS, and the United Nations[44] formally and unanimously condemned the action as a coup d'état, refusing to recognize the _de facto_ government, even though the lawyers consulted by the Library of Congress submitted to the United States Congress an opinion that declared the coup legal.[45][46][47] The Honduran Supreme Court also ruled that the proceedings had been legal. The government that followed the _de facto government_ established a truth and reconciliation commission, _Comisión de la Verdad y Reconciliación_, which after more than a year of research and debate concluded that the ousting had been a coup d'état, and illegal in the commission's opinion.[48][49][50]
+
+
+Geography
+
+Un-honduras.png
+
+The north coast of Honduras borders the Caribbean Sea and the Pacific Ocean lies south through the Gulf of Fonseca. Honduras consists mainly of mountains, with narrow plains along the coasts. A large undeveloped lowland jungle, _La Mosquitia_ lies in the northeast, and the heavily populated lowland Sula valley in the northwest. In La Mosquitia lies the UNESCO world-heritage site Río Plátano Biosphere Reserve, with the Coco River which divides Honduras from Nicaragua.
+
+The Islas de la Bahía and the Swan Islands are off the north coast. Misteriosa Bank and Rosario Bank, north of the Swan Islands, fall within the Exclusive Economic Zone (EEZ) of Honduras. MontanasdelaSierradeAgalta_Honduras.jpg Natural resources include timber, gold, silver, copper, lead, zinc, iron ore, antimony, coal, fish, shrimp, and hydropower.
+
+Climate
+
+upright=1.15 of Honduras]] The climate varies from tropical in the lowlands to temperate in the mountains. The central and southern regions are relatively hotter and less humid than the northern coast.
+
+Ecology
+
+The region is considered a biodiversity hotspot because of the many plant and animal species found there. Like other countries in the region, it contains vast biological resources. Honduras hosts more than 6,000 species of vascular plants, of which 630 (described so far) are orchids; around 250 reptiles and amphibians, more than 700 bird species, and 110 mammalian species, of which half are bats.[51]
+
+In the northeastern region of La Mosquitia lies the Río Plátano Biosphere Reserve, a lowland rainforest which is home to a great diversity of life. The reserve was added to the UNESCO World Heritage Sites List in 1982.
+
+Honduras has rain forests, cloud forests (which can rise up to nearly above sea level), mangroves, savannas and mountain ranges with pine and oak trees, and the Mesoamerican Barrier Reef System. In the Bay Islands there are bottlenose dolphins, manta rays, parrot fish, schools of blue tang and whale shark.
+
+Environmental issues
+
+Deforestation resulting from logging is rampant in Olancho Department. The clearing of land for agriculture is prevalent in the largely undeveloped La Mosquitia region, causing land degradation and soil erosion.
+
+Lake Yojoa, which is Honduras' largest source of fresh water, is polluted by heavy metals produced from mining activities.[52] Some rivers and streams are also polluted by mining.[53]
+
+
+Government and politics
+
+Honduras is governed within a framework of a presidential representative democratic republic. The President of Honduras is both head of state and head of government. Executive power is exercised by the Honduran government. Legislative power is vested in the National Congress of Honduras. The judiciary is independent of both the executive branch and the legislature.
+
+The National Congress of Honduras (_Congreso Nacional_) has 128 members (_diputados_), elected for a four-year term by proportional representation. Congressional seats are assigned the parties' candidates on a departmental basis in proportion to the number of votes each party receives.[54]
+
+Political culture
+
+Honduran_President_Hernandez_Signs_Secretary_Pompeo's_Guestbook_(42167632814).jpg]] In 1963, a military coup removed the democratically elected president, Ramón Villeda Morales. A string of authoritarian military governments held power uninterrupted until 1981, when Roberto Suazo Córdova was elected president.
+
+The party system was dominated by the conservative National Party of Honduras (Partido Nacional de Honduras: PNH) and the liberal Liberal Party of Honduras (Partido Liberal de Honduras: PLH) until the 2009 Honduran coup d'état removed Manuel Zelaya from office and put Roberto Micheletti in his place. Zelaya_con_sombrero.jpg.]] In late 2012, 1540 persons were interviewed by ERIC in collaboration with the Jesuit university, as reported by Associated Press. This survey found that 60.3% believed the police were involved in crime, 44.9% had "no confidence" in the Supreme Court, and 72% thought there was electoral fraud in the primary elections of November 2012. Also, 56% expected the presidential, legislative and municipal elections of 2013 to be fraudulent.[55]
+
+Current Honduran president Juan Orlando Hernández took office on 27 January 2014. After managing to stand for a second term,[56] a very close election in 2017 left uncertainty as to whether Hernandez or his main challenger, television personality Salvador Nasralla, had prevailed.[57]
+
+Foreign relations
+
+Honduras and Nicaragua had tense relations throughout 2000 and early 2001 due to a boundary dispute off the Atlantic coast. Nicaragua imposed a 35% tariff against Honduran goods due to the dispute.
+
+In June 2009 a coup d'état ousted President Manuel Zelaya; he was taken in a military aircraft to neighboring Costa Rica. The General Assembly of the United Nations voted to denounce the coup and called for the restoration of Zelaya. Several Latin American nations, including Mexico, temporarily severed diplomatic relations with Honduras. In July 2010, full diplomatic relations were once again re-established with Mexico.[58] The United States sent out mixed messages after the coup; Obama called the ouster a coup and expressed support for Zelaya's return to power. US Secretary of State Hillary Clinton, advised by John Negroponte, the former Reagan-era Ambassador to Honduras implicated in the Iran–Contra affair, refrained from expressing support.[59] She has since explained that the US would have had to cut aid if it called Zelaya's ouster a military coup, although the US has a record of ignoring these events when it chooses.[60] Zelaya had expressed an interest in Hugo Chávez' Bolivarian Alliance for Peoples of our America (ALBA), and had actually joined in 2008. After the 2009 coup, Honduras withdrew its membership.
+
+This interest in regional agreements may have increased the alarm of establishment politicians. When Zelaya began calling for a "fourth ballot box" to determine whether Hondurans wished to convoke a special constitutional congress, this sounded a lot to some like the constitutional amendments that had extended the terms of both Hugo Chávez and Evo Morales. "Chávez has served as a role model for like-minded leaders intent on cementing their power. These presidents are barely in office when they typically convene a constitutional convention to guarantee their reelection," said a 2009 Spiegel International analysis,[61] which noted that one reason to join ALBA was discounted Venezuelan oil. In addition to Chávez and Morales, Carlos Menem of Argentina, Fernando Henrique Cardoso of Brazil and Columbian President Álvaro Uribe had all taken this step, and Washington and the EU were both accusing the Sandanista government in Nicaragua of tampering with election results.[62] Politicians of all stripes expressed opposition to Zelaya's referendum proposal, and the Attorney-General accused him of violating the constitution. The Honduran Supreme Court agreed, saying that the constitution had put the Supreme Electoral Tribunal in charge of elections and referenda, not the National Statistics Institute, which Zelaya had proposed to have run the count.[63] Whether or not Zelaya's removal from power had constitutional elements, the Honduran constitution explicitly protects all Hondurans from forced expulsion from Honduras.
+
+The United States maintains a small military presence at one Honduran base. The two countries conduct joint peacekeeping, counter-narcotics, humanitarian, disaster relief, humanitarian, medical and civic action exercises. U.S. troops conduct and provide logistics support for a variety of bilateral and multilateral exercises. The United States is Honduras' chief trading partner.[64]
+
+Military
+
+Honduras has a military with the Honduran Army, Honduran Navy and Honduran Air Force.
+
+Administrative divisions
+
+HondurasDivisions.png
+
+Honduras is divided into 18 departments. The capital city is Tegucigalpa in the Central District within the department of Francisco Morazán.
+
+1.  Atlántida
+2.  Choluteca
+3.  Colón
+4.  Comayagua
+5.  Copán
+6.  Cortés
+7.  El Paraíso
+8.  Francisco Morazán
+9.  Gracias a Dios
+10. Intibucá
+11. Islas de la Bahía
+12. La Paz
+13. Lempira
+14. Ocotepeque
+15. Olancho
+16. Santa Bárbara
+17. Valle
+18. Yoro
+
+A new administrative division called ZEDE (_Zonas de empleo y desarrollo económico_) was created in 2013. ZEDEs have a high level of autonomy with their own political system at a judicial, economic and administrative level, and are based on free market capitalism.
+
+
+Economy
+
+Honduran_Children_Eating.jpg Honduras_Export_Treemap.jpg Banco_Central_de_Honduras_(Edificio_anexo)_Tegucigalpa.jpg
+
+Poverty
+
+The World Bank categorizes Honduras as a low middle-income nation.[65] The nation's per capita income sits at around 600 US dollars making it one of the lowest in North America.[66]
+
+In 2010, 50% of the population were living below the poverty line.[67] By 2016 more than 66% were living below the poverty line.[68]
+
+Economic growth in the last few years has averaged 7% a year, one of the highest rates in Latin America (2010).[69] Despite this, Honduras has seen the least development amongst all Central American countries.[70] Honduras is ranked 130 of 188 countries with a Human Development Index of .625 that classifies the nation as having medium development (2015).[71] The three factors that go into Honduras' HDI (an extended and healthy life, accessibility of knowledge and standard of living) have all improved since 1990 but still remain relatively low with life expectancy at birth being 73.3, expected years of schooling being 11.2 (mean of 6.2 years) and GNI per capita being $4,466 (2015).[72] The HDI for Latin America and the Caribbean overall is 0.751 with life expectancy at birth being 68.6, expected years of schooling being 11.5 (mean of 6.6) and GNI per capita being $6,281 (2015).[73]
+
+The 2009 Honduran coup d'état led to a variety of economic trends in the nation.[74] Overall growth has slowed, averaging 5.7 percent from 2006–2008 but slowing to 3.5 percent annually between 2010 and 2013.[75] Following the coup trends of decreasing poverty and extreme poverty were reversed. The nation saw a poverty increase of 13.2 percent and in extreme poverty of 26.3 percent in just 3 years.[76] Furthermore, unemployment grew between 2008 and 2012 from 6.8 percent to 14.1 percent.[77]
+
+Because much of the Honduran economy is based on small scale agriculture of only a few exports, natural disasters have a particularly devastating impact. Natural disasters, such as 1998 Hurricane Mitch, have contributed to this inequality as they particularly affect poor rural areas.[78] Additionally, they are a large contributor to food insecurity in the country as farmers are left unable to provide for their families.[79] A study done by Honduras NGO, World Neighbors, determined the terms "increased workload, decreased basic grains, expensive food, and fear" were most associated with Hurricane Mitch.[80]
+
+The rural and urban poor were hit hardest by Hurricane Mitch.[81] Those in southern and western regions specifically were considered most vulnerable as they both were subject to environmental destruction and home to many subsistence farmers.[82] Due to disasters such as Hurricane Mitch, the agricultural economic sector has declined a third in the past twenty years.[83] This is mostly due to a decline in exports, such as bananas and coffee, that were affected by factors such as natural disasters.[84] Indigenous communities along the Patuca River were hit extremely hard as well.[85] The mid-Pataca region was almost completely destroyed.[86] Over 80% of rice harvest and all of banana, plantain, and manioc harvests were lost.[87] Relief and reconstruction efforts following the storm were partial and incomplete, reinforcing existing levels of poverty rather than reversing those levels, especially for indigenous communities.[88] The period between the end of food donations and the following harvest led to extreme hunger, causing deaths amongst the Tawahka population.[89] Those that were considered the most "land-rich" lost 36% of their total land on average.[90] Those that were the most "land-poor", lost less total land but a greater share of their overall total.[91] This meant that those hit hardest were single women as they constitute the majority of this population.[92]
+
+Poverty reduction strategies
+
+Since the 1970s when Honduras was designated a "food priority country" by the UN, organizations such as The World Food Program (WFP) have worked to decrease malnutrition and food insecurity.[93] A large majority of Honduran farmers live in extreme poverty, or below 180 US dollars per capita.[94] Currently one fourth of children are affected by chronic malnutrition.[95] WFP is currently working with the Honduran government on a School Feeding Program which provides meals for 21,000 Honduran schools, reaching 1.4 million school children.[96] WFP also participates in disaster relief through reparations and emergency response in order to aid in quick recovery that tackles the effects of natural disasters on agricultural production.[97]
+
+Honduras' Poverty Reduction Strategy was implemented in 1999 and aimed to cut extreme poverty in half by 2015.[98] While spending on poverty-reduction aid increased there was only a 2.5% increase in GDP between 1999 and 2002.[99] This improvement left Honduras still below that of countries that lacked aid through Poverty Reduction Strategy behind those without it.[100] The World Bank believes that this inefficiency stems from a lack of focus on infrastructure and rural development.[101] Extreme poverty saw a low of 36.2 percent only two years after the implementation of the strategy but then increased to 66.5 percent by 2012.[102]
+
+Poverty Reduction Strategies were also intended to affect social policy through increased investment in education and health sectors.[103] This was expected to lift poor communities out of poverty while also increasing the workforce as a means of stimulating the Honduran economy.[104] Conditional cash transfers were used to do this by the Family Assistance Program.[105] This program was restructured in 1998 in an attempt to increase effectiveness of cash transfers for health and education specifically for those in extreme poverty.[106] Overall spending within Poverty Reduction Strategies have been focused on education and health sectors increasing social spending from 44% of Honduras' GDP in 2000 to 51% in 2004.[107]
+
+Critics of aid from International Finance Institutions believe that the World Bank's Poverty Reduction Strategy result in little substantive change to Honduran policy.[108] Poverty Reduction Strategies also excluded clear priorities, specific intervention strategy, strong commitment to the strategy and more effective macro-level economic reforms according to Jose Cuesta of Cambridge University.[109] Due to this he believes that the strategy did not provide a pathway for economic development that could lift Honduras out of poverty resulting in neither lasting economic growth of poverty reduction.[110]
+
+Prior to its 2009 coup Honduras widely expanded social spending and an extreme increase in minimum wage.[111] Efforts to decrease inequality were swiftly reversed following the coup.[112] When Zelaya was removed from office social spending as a percent of GDP decreased from 13.3 percent in 2009 to 10.9 recent in 2012.[113] This decrease in social spending exacerbated the effects of the recession, which the nation was previously relatively well equipped to deal with.[114]
+
+The World Bank Group Executive Board approved a plan known as the new Country Partnership Framework (CPF).[115] This plan's objectives are to expand social program coverage, strengthen infrastructure, increase financing accessibility, strengthen regulatory framework and institutional capacity, improve the productivity of rural areas, strengthen natural disaster and climate change resiliency, and the buildup local governments so that violence and crime rates will decrease.[116] The overall aim of the initiative is to decrease inequality and vulnerability of certain populations while increasing economic growth.[117] Additionally the signing of the U.S.–Central America Free Trade Agreement (CAFTA) was meant to diversify the economy in order to promote growth and expand the range of exports the country is reliant on.[118]
+
+Economic inequality
+
+Tegucigalpa,_Honduras_-_Riverside_Houses.jpg in Tegucigalpa]] Levels of income inequality in Honduras are higher than in any other Latin American country.[119] Unlike other Latin American countries, inequality steadily increased in Honduras between 1991 and 2005.[120] Between 2006 and 2010 inequality saw a decrease but increased again in 2010.[121]
+
+When Honduras' Human Development Index is adjusted for inequality (known as the IHDI) Honduras' development index is reduced to .443.[122] The levels of inequality in each aspect of development can also be assessed.[123] In 2015 inequality of life expectancy at birth was 19.6%, inequality in education was 24.4% and inequality in income was 41.5% [124] The overall loss in human development due to inequality was 29.2.[125]
+
+The IHDI for Latin America and the Caribbean overall is 0.575 with an overall loss of 23.4%.[126] In 2015 for the entire region, inequality of life expectancy at birth was 22.9%, inequality in education was 14.0% and inequality in income was 34.9%.[127] While Honduras has a higher life expectancy than other countries in the region (before and after inequality adjustments), its quality of education and economic standard of living are lower.[128] Income inequality and education inequality have a large impact on the overall development of the nation.[129]
+
+Inequality also exists between rural and urban areas as it relates to the distribution of resources.[130] Poverty is concentrated in southern, eastern, and western regions where rural and indigenous peoples live. North and central Honduras are home to the country's industries and infrastructure, resulting in low levels of poverty.[131] Poverty is concentrated in rural Honduras, a pattern that is reflected throughout Latin America.[132] The effects of poverty on rural communities are vast. Poor communities typically live in adobe homes, lack material resources, have limited access to medical resources, and live off of basics such as rice, maize and beans.[133]
+
+The lower class predominantly consists of rural subsistence farmers and landless peasants.[134] Since 1965 there has been an increase in the number of landless peasants in Honduras which has led to a growing class of urban poor individuals.[135] These individuals often migrate to urban centers in search of work in the service sector, manufacturing, or construction.[136] Demographers believe that without social and economic reform, rural to urban migration will increase, resulting in the expansion of urban centers.[137] Within the lower class, underemployment is a major issue.[138] Individuals that are underemployed often only work as part-time laborers on seasonal farms meaning their annual income remains low.[139] In the 1980s peasant organizations and labor unions such as the National Federation of Honduran Peasants, The National Association of Honduran Peasants and the National Union of Peasants formed.[140]
+
+Honduras_house_copan.jpg It is not uncommon for rural individuals to voluntarily enlist in the military, however this often does not offer stable or promising career opportunities.[141] The majority of high-ranking officials in the Honduran army are recruited from elite military academies.[142] Additionally, the majority of enlistment in the military is forced.[143] Forced recruitment largely relies on an alliance between the Honduran government, military and upper class Honduran society.[144] In urban areas males are often sought out from secondary schools while in rural areas roadblocks aided the military in handpicking recruits.[145] Higher socio-economic status enables individuals to more easily evade the draft.[146]
+
+Middle class Honduras is a small group defines by relatively low membership and income levels.[147] Movement from lower to middle class is typically facilitated by higher education.[148] Professionals, students, farmers, merchants, business employees, and civil servants are all considered a part of the Honduran middle class.[149] Opportunities for employment and the industrial and commercial sectors are slow growing, limiting middle class membership.[150]
+
+The Honduran upper class has much higher income levels than the rest of the Honduran population reflecting large amounts of income inequality.[151] Much of the upper class affords their success to the growth of cotton and livestock exports post-World War II.[152] The wealthy are not politically unified and differ in political and economic views.[153]
+
+Trade
+
+Panoramica_san_pedro_sula.jpg is a major center of business and commerce in Honduras, and is home to many large manufacturers and companies. It is often referred to as "La Capital Industrial".[154]]]
+
+The currency is the Honduran lempira.
+
+The government operates both the electrical grid, Empresa Nacional de Energía Eléctrica (ENEE) and the land-line telephone service, Hondutel. ENEE receives heavy subsidies to counter its chronic financial problems, but Hondutel is no longer a monopoly. The telecommunication sector was opened to private investment on 25 December 2005, as required under CAFTA. The price of petroleum is regulated, and the Congress often ratifies temporary price regulation for basic commodities.
+
+Gold, silver, lead and zinc are mined.[155]
+
+Cafta_countries.png
+
+In 2005 Honduras signed CAFTA, a free trade agreement with the United States. In December 2005, Puerto Cortés, the primary seaport of Honduras, was included in the U.S. Container Security Initiative.[156]
+
+In 2006 the U.S. Department of Homeland Security and the Department of Energy announced the first phase of the Secure Freight Initiative (SFI), which built upon existing port security measures. SFI gave the U.S. government enhanced authority, allowing it to scan containers from overseas for nuclear and radiological materials in order to improve the risk assessment of individual US-bound containers. The initial phase of Secure Freight involved deploying of nuclear detection and other devices to six foreign ports:
+
+-   Port Qasim in Pakistan;
+-   Puerto Cortés in Honduras;
+-   Southampton in the United Kingdom;
+-   Port of Salalah in Oman;
+-   Port of Singapore;
+-   Gamman Terminal at Port Busan, Korea.
+
+Containers in these ports have been scanned since 2007 for radiation and other risk factors before they are allowed to depart for the United States.[157]
+
+For economic development a 2012 memorandum of understanding with a group of international investors obtained Honduran government approval to build a zone (city) with its own laws, tax system, judiciary and police, but opponents brought a suit against it in the Supreme Court, calling it a "state within a state".[158] In 2013, Honduras' Congress ratified Decree 120, which led to the establishment of ZEDEs. The government began construction of the first zones in June 2015.[159]
+
+Energy
+
+About half of the electricity sector in Honduras is privately owned. The remaining generation capacity is run by ENEE (_Empresa Nacional de Energía Eléctrica_). Key challenges in the sector are:
+
+-   Financing investments in generation and transmission without either a financially healthy utility or concessionary funds from external donors
+-   Re-balancing tariffs, cutting arrears and reducing losses, including electricity theft, without social unrest
+-   Reconciling environmental concerns with government objectives – two large new dams and associated hydropower plants.
+-   Improving access to electricity in rural areas.
+
+Transportation
+
+Carretera37.jpg Infrastructure for transportation in Honduras consists of: of railways; of roadways;[160] seven ports and harbors; and 112 airports altogether (12 Paved, 100 unpaved).[161] The Ministry of Public Works, Transport and Housing (SOPRTRAVI in Spanish acronym) is responsible for transport sector policy.
+
+Water supply and sanitation
+
+Water supply and sanitation in Honduras differ greatly from urban centers to rural villages. Larger population centers generally have modernized water treatment and distribution systems, but water quality is often poor because of lack of proper maintenance and treatment. Rural areas generally have basic drinking water systems with limited capacity for water treatment. Many urban areas have sewer systems in place to collect wastewater, but proper treatment of wastewater is rare. In rural areas sanitary facilities are generally limited to latrines and basic septic pits.
+
+Water and sanitation services were historically provided by the (SANAA). In 2003, the government enacted a new "water law" which called for the decentralization of water services. Under the 2003 law, local communities have both the right and the responsibility to own, operate, and control their own drinking water and wastewater systems. Since this law passed, many communities have joined together to address water and sanitation issues on a regional basis.
+
+Many national and international non-government organizations have a history of working on water and sanitation projects in Honduras. International groups include the Red Cross, Water 1st, Rotary Club, Catholic Relief Services, Water for People, EcoLogic Development Fund, CARE, the Canadian Executive Service Organization (CESO-SACO), Engineers Without Borders – USA, Flood The Nations, Students Helping Honduras (SHH), Global Brigades, and Agua para el Pueblo[162] in partnership with AguaClara at Cornell University.
+
+In addition, many government organizations work on projects in Honduras, including the European Union, the USAID, the Army Corps of Engineers, Cooperacion Andalucia, the government of Japan, and others.
+
+
+Demographics
+
++------+------------------------+
+| Year | Million                |
++======+========================+
+| 1950 | 1.5                    |
++------+------------------------+
+| 2000 | 6.6                    |
++------+------------------------+
+|      | {{#expr:/1e6 round 1}} |
++------+------------------------+
+
+: Population in Honduras
+
+Honduras had a population of in . The proportion of the population below the age of 15 in 2010 was 36.8%, 58.9% were between 15 and 65 years old, and 4.3% were 65 years old or older.[163]
+
+Since 1975, emigration from Honduras has accelerated as economic migrants and political refugees sought a better life elsewhere. A majority of expatriate Hondurans live in the United States. A 2012 US State Department estimate suggested that between 800,000 and one million Hondurans lived in the United States at that time, nearly 15% of the Honduran population.[164] The large uncertainty about numbers is because numerous Hondurans live in the United States without a visa. In the 2010 census in the United States, 617,392 residents identified as Hondurans, up from 217,569 in 2000.[165]
+
+Race and ethnicity
+
+The ethnic breakdown of Honduran society was 90% Mestizo, 7% American Indian, 2% Black and 1% White (2017).[166] The 1927 Honduran census provides no racial data but in 1930 five classifications were created: white, Indian, Negro, yellow, and mestizo.[167] This system was used in the 1935 and 1940 census.[168] Mestizo was used to describe individuals that did not fit neatly into the categories of white, Indian, negro or yellow or who are of mixed white-Indian descent.[169]
+
+John Gillin considers Honduras to be one of thirteen "Mestizo countries" (Mexico, Guatemala, El Salvador, Nicaragua, Panama, Colombia, Venezuela, Cuba, Ecuador, Peru, Bolivia, Paraguay).[170] He claims that in much as Spanish America little attention is paid to race and race mixture resulting in social status having little reliance on one's physical features.[171] However, in "Mestizo countries" such as Honduras, this is not the case.[172] Social stratification from Spain was able to develop in these countries through colonization.[173]
+
+San_Francisco_Lempira_people_and_chopper2.jpg During colonization the majority of Honduras' indigenous population died of diseases like smallpox and measles resulting in a more homogenous indigenous population compared to other colonies.[174] Nine indigenous and African American groups are recognized by the government in Honduras.[175] The majority of Amerindians in Honduras are Lenca, followed by the Miskito, Cho'rti', Tolupan, Pech and Sumo.[176] Around 50,000 Lenca individuals live in the west and western interior of Honduras while the other small native groups are located throughout the country.[177]
+
+The majority of blacks in Honduran are culturally ladino, meaning they are culturally Hispanic.[178] Non-ladino groups in Honduras include the Black Carib, Miskito, Arab immigrants and the black population of the Islas de la Bahía[179] The Black Carib population descended from freed slaves from Saint Vincent.[180] The Miskito population (about 10,000 individuals) are the descendants of African and British immigrants and are extremely racially diverse.[181] While the Black Carib and Miskito populations have similar origins, Black Caribs are considered black while Miskitos are considered indigenous.[182] This is largely a reflection of cultural differences, as Black Caribs have retained much of their original African culture.[183] The majority of Arab Hondurans are of Palestinian and Lebanese descent.[184] They are known as "turcos" in Honduras because of migration during the rule of the Ottoman Empire.[185] They have maintained cultural distinctiveness and prospered economically.[186]
+
+Gender
+
+The male to female ratio of the Honduran population is 1.01. This ratio stands at 1.05 at birth, 1.04 from 15–24 years old, 1.02 from 25–54 years old, .88 from 55–64 years old, and .77 for those 65 years or older.[187]
+
+The Gender Development Index (GDI) was .942 in 2015 with an HDI of .600 for females and .637 for males.[188] Life expectancy at birth for males is 70.9 and 75.9 for females.[189] Expected years of schooling in Honduras is 10.9 years for males (mean of 6.1) and 11.6 for females (mean of 6.2).[190] These measures do not reveal a large disparity between male and female development levels, however, GNI per capita is vastly different by gender.[191] Males have a GNI per capita of $6,254 while that of females is only $2,680.[192] Honduras' overall GDI is higher than that of other medium HDI nations (.871) but lower than the overall HDI for Latin America and the Caribbean (.981).[193]
+
+The United Nations Development Program (UNDP) ranks Honduras 116th for measures including women's political power, and female access to resources.[194] The Gender Inequality Index (GII) depicts gender-based inequalities in Honduras according to reproductive health, empowerment, and economic activity.[195] Honduras has a GII of .461 and ranked 101 of 159 countries in 2015.[196] 25.8% of Honduras' parliament is female and 33.4% of adult females have a secondary education or higher while only 31.1% of adult males do.[197] Despite this, while male participation in the labor market is 84.4, female participation is 47.2%.[198] Honduras' maternal mortality ratio is 129 and the adolescent birth rate is 65.0 for women ages 15–19.[199]
+
+Familialism and machismo carry a lot of weight within Honduran society.[200] Familialism refers to the idea of individual interests being second to that of the family, most often in relation to dating and marriage, abstinence, and parental approval and supervision of dating.[201] Aggression and proof of masculinity through physical dominance are characteristic of machismo.[202]
+
+Honduras has historically functioned with a patriarchal system like many other Latin American countries.[203] Honduran men claim responsibility for family decisions including reproductive health decisions.[204] Recently Honduras has seen an increase in challenges to this notion as feminist movements and access to global media increases.[205] There has been an increase in educational attainment, labor force participating, urban migration, late-age marriage, and contraceptive use amongst Honduran women.[206]
+
+Between 1971 and 2001 Honduran total fertility rate decreased from 7.4 births to 4.4 births.[207] This is largely attributable to an increase in educational attainment and workforce participation by women, as well as more widespread use of contraceptives.[208] In 1996 50% of women were using at least one type of contraceptive.[209] By 2001 62% were largely due to female sterilization, birth control in the form of a pill, injectable birth control, and IUDs.[210] A study done in 2001 of Honduran men and women reflect conceptualization of reproductive health and decision making in Honduras.[211] 28% of men and 25% of women surveyed believed men were responsible for decisions regarding family size and family planning uses.[212] 21% of men believed men were responsible for both.[213]
+
+Sexual violence against women has proven to be a large issue in Honduras that has caused many to migrate to the U.S.[214] The prevalence of child sexual abuse was 7.8% in Honduras with the majority of reports being from children under the age of 11.[215] Women that experienced sexual abuse as children were found to be twice as likely to be in violent relationships.[216] Femicide is widespread in Honduras.[217] In 2014, 40% of unaccompanied refugee minors were female.[218] Gangs are largely responsible for sexual violence against women as they often use sexual violence.[219] Between 2005 and 2013 according to the UN Special Repporteur on Violence Against Women, violent deaths increased 263.4 percent.[220] Impunity for sexual violence and femicide crimes was 95 percent in 2014.[221] Additionally, many girls are forced into human trafficking and prostitution.[222]
+
+Between 1995 and 1997 Honduras recognized domestic violence as both a public health issue and a punishable offense due to efforts by the Pan American Health Organization (PAHO).[223] PAHO's subcommittee on Women, Health and Development was used as a guide to develop programs that aid in domestic violence prevention and victim assistance programs [224] However, a study done in 2009 showed that while the policy requires health care providers to report cases of sexual violence, emergency contraception, and victim referral to legal institutions and support groups, very few other regulations exist within the realm of registry, examination and follow-up.[225] Unlike other Central American countries such as El Salvador, Guatemala and Nicaragua, Honduras does not have detailed guidelines requiring service providers to be extensively trained and respect the rights of sexual violence victims.[226] Since the study was done the UNFPA and the Health Secretariat of Honduras have worked to develop and implement improved guidelines for handling cases of sexual violence.[227]
+
+An educational program in Honduras known as _Sistema de Aprendizaje Tutorial_ (SAT) has attempted to "undo gender" through focusing on gender equality in everyday interactions.[228] Honduras' SAT program is one of the largest in the world, second only to Colombia's with 6,000 students.[229] It is currently sponsored by _Asociacion Bayan_, a Honduran NGO, and the Honduran Ministry of Education.[230] It functions by integrating gender into curriculum topics, linking gender to the ideas of justice and equality, encouraging reflection, dialogue and debate and emphasizing the need for individual and social change.[231] This program was found to increase gender consciousness and a desire for gender equality amongst Honduran women through encouraging discourse surrounding existing gender inequality in the Honduran communities.[232]
+
+Languages
+
+Spanish is the official, national language, spoken by virtually all Hondurans. In addition to Spanish, a number of indigenous languages are spoken in some small communities. Other languages spoken by some include Honduran sign language and Bay Islands Creole English.[233]
+
+The main indigenous languages are:
+
+-   Garifuna (Arawakan) (almost 100,000 speakers in Honduras including monolinguals)
+-   Mískito (Misumalpan) (29,000 speakers in Honduras)
+-   Mayangna (Misumalpan) (less than 1000 speakers in Honduras, more in Nicaragua)
+-   Pech/Paya, (Chibchan) (less than 1000 speakers)
+-   Tol (Jicaquean) (less than 500 speakers)
+-   Ch'orti' (Mayan) (less than 50 speakers)
+
+The Lenca isolate lost all its fluent native speakers in the 20th century but is currently undergoing revival efforts among the members of the ethnic population of about 100,000. The largest immigrant languages are Arabic (42,000), Armenian (1,300), Turkish (900), Yue Chinese (1,000).[234]
+
+Largest cities
+
+Religion
+
+OscarKardinalRodriguez.jpg is Archbishop of Tegucigalpa and a figure of national and international note]] Although most Hondurans are nominally Roman Catholic (which would be considered the main religion), membership in the Roman Catholic Church is declining while membership in Protestant churches is increasing. The International Religious Freedom Report, 2008, notes that a CID Gallup poll reported that 51.4% of the population identified themselves as Catholic, 36.2% as evangelical Protestant, 1.3% claiming to be from other religions, including Muslims, Buddhists, Jews, Rastafarians, etc. and 11.1% do not belong to any religion or unresponsive. 8% reported as being either atheistic or agnostic. Customary Catholic church tallies and membership estimates 81% Catholic where the priest (in more than 185 parishes) is required to fill out a pastoral account of the parish each year.[235][236]
+
+The CIA Factbook lists Honduras as 97% Catholic and 3% Protestant.[237] Commenting on statistical variations everywhere, John Green of Pew Forum on Religion and Public Life notes that: "It isn't that ... numbers are more right than [someone else's] numbers ... but how one conceptualizes the group."[238] Often people attend one church without giving up their "home" church. Many who attend evangelical megachurches in the US, for example, attend more than one church.[239] This shifting and fluidity is common in Brazil where two-fifths of those who were raised evangelical are no longer evangelical and Catholics seem to shift in and out of various churches, often while still remaining Catholic.[240]
+
+Most pollsters suggest an annual poll taken over a number of years would provide the best method of knowing religious demographics and variations in any single country. Still, in Honduras are thriving Anglican, Presbyterian, Methodist, Seventh-day Adventist, Lutheran, Latter-day Saint (Mormon) and Pentecostal churches. There are Protestant seminaries. The Catholic Church, still the only "church" that is recognized, is also thriving in the number of schools, hospitals, and pastoral institutions (including its own medical school) that it operates. Its archbishop, Óscar Andrés Rodriguez Maradiaga, is also very popular, both with the government, other churches, and in his own church. Practitioners of the Buddhist, Jewish, Islamic, Bahá'í, Rastafari and indigenous denominations and religions exist.[241]
+
+Health
+
+See Health in Honduras
+
+Education
+
+About 83.6% of the population are literate and the net primary enrollment rate was 94% in 2004.[242] In 2014, the primary school _completion_ rate was 90.7%.[243] Honduras has bilingual (Spanish and English) and even trilingual (Spanish with English, Arabic, or German) schools and numerous universities.[244]
+
+The higher education is governed by the National Autonomous University of Honduras which has centers in the most important cities of Honduras.
+
+Crime
+
+Owing to insufficient law enforcement resources, crime in Honduras is rampant and criminals operate with a high degree of impunity. Consequently, Honduras has one of the highest murder rates in the world. Official statistics from the Honduran Observatory on National Violence show Honduras' homicide rate was 60 per 100,000 in 2015 with the majority of homicide cases unprosecuted.[245]
+
+Highway assaults and carjackings at roadblocks or checkpoints set up by criminals with police uniforms and equipment occur frequently. Although reports of kidnappings of foreigners are not common, families of kidnapping victims often pay ransoms without reporting the crime to police out of fear of retribution, so kidnapping figures may be underreported.[246]
+
+Owing to measures taken by government and business in 2014 to improve tourist safety, Roatan and the Bay Islands have lower crime rates than the Honduran mainland.[247]
+
+In the less populated region of Gracias a Dios, narcotics-trafficking is rampant and police presence is scarce. Threats against U.S. citizens by drug traffickers and other criminal organizations have resulted in the U.S. Embassy placing restrictions on the travel of U.S. officials through the region.[248]
+
+
+Culture
+
+Art
+
+CatedraldeComayagua.jpg]] The most renowned Honduran painter is . Other important painters include Carlos Garay, and Roque Zelaya. Some of Honduras' most notable writers are Lucila Gamero de Medina, Froylán Turcios, Ramón Amaya Amador and Juan Pablo Suazo Euceda, Marco Antonio Rosa,[249] Roberto Sosa, Eduardo Bähr, Amanda Castro, Javier Abril Espinoza, Teófilo Trejo, and Roberto Quesada.
+
+The José Francisco Saybe theater in San Pedro Sula is home to the Círculo Teatral Sampedrano (Theatrical Circle of San Pedro Sula)
+
+Cuisine
+
+SopadeOlla.jpg Honduran cuisine is a fusion of indigenous Lenca cuisine, Spanish cuisine, Caribbean cuisine and African cuisine. There are also dishes from the Garifuna people. Coconut and coconut milk are featured in both sweet and savory dishes. Regional specialties include fried fish, tamales, carne asada and baleadas.
+
+Other popular dishes include: meat roasted with chismol and carne asada, chicken with rice and corn, and fried fish with pickled onions and jalapeños. Some of the ways seafood and some meats are prepared in coastal areas and in the Bay Islands involve coconut milk.
+
+The soups Hondurans enjoy include bean soup, mondongo soup tripe soup, seafood soups and beef soups. Generally these soups are served mixed with plantains, yuca, and cabbage, and served with corn tortillas.
+
+Other typical dishes are the montucas or corn tamales, stuffed tortillas, and tamales wrapped in plantain leaves. Honduran typical dishes also include an abundant selection of tropical fruits such as papaya, pineapple, plum, sapote, passion fruit and bananas which are prepared in many ways while they are still green.
+
+Media
+
+At least half of Honduran households have at least one television. Public television has a far smaller role than in most other countries. Honduras' main newspapers are La Prensa, El Heraldo, La Tribuna and Diario Tiempo. The official newspaper is .
+
+Music
+
+Punta is the main music of Honduras, with other sounds such as Caribbean salsa, merengue, reggae, and reggaeton all widely heard, especially in the north, and Mexican rancheras heard in the rural interior of the country.
+
+Celebrations
+
+Saw_dust_carpet_Comayagua_Honduras_(1).jpgs of Comayagua during Easter celebrations]] Some of Honduras' national holidays include Honduras Independence Day on 15 September and Children's Day or Día del Niño, which is celebrated in homes, schools and churches on 10 September; on this day, children receive presents and have parties similar to Christmas or birthday celebrations. Some neighborhoods have piñatas on the street. Other holidays are Easter, Maundy Thursday, Good Friday, Day of the Soldier (3 October to celebrate the birth of Francisco Morazán), Christmas, El Dia de Lempira on 20 July,[250] and New Year's Eve.
+
+Honduras Independence Day festivities start early in the morning with marching bands. Each band wears different colors and features cheerleaders. Fiesta Catracha takes place this same day: typical Honduran foods such as beans, tamales, baleadas, cassava with chicharrón, and tortillas are offered.
+
+On Christmas Eve people reunite with their families and close friends to have dinner, then give out presents at midnight. In some cities fireworks are seen and heard at midnight. On New Year's Eve there is food and "cohetes", fireworks and festivities. Birthdays are also great events, and include piñatas filled with candies and surprises for the children.
+
+La Ceiba Carnival is celebrated in La Ceiba, a city located in the north coast, in the second half of May to celebrate the day of the city's patron saint Saint Isidore. People from all over the world come for one week of festivities. Every night there is a little carnaval (carnavalito) in a neighborhood. On Saturday there is a big parade with floats and displays with people from many countries. This celebration is also accompanied by the Milk Fair, where many Hondurans come to show off their farm products and animals.
+
+National symbols
+
+Ara_macao_-_two_at_Lowry_Park_Zoo.jpg'']] The flag of Honduras is composed of three equal horizontal stripes. The blue upper and lower stripes represent the Pacific Ocean and the Caribbean Sea. The central stripe is white. It contains five blue stars representing the five states of the Central American Union. The middle star represents Honduras, located in the center of the Central American Union.
+
+The coat of arms was established in 1945. It is an equilateral triangle, at the base is a volcano between three castles, over which is a rainbow and the sun shining. The triangle is placed on an area that symbolizes being bathed by both seas. Around all of this an oval containing in golden lettering: "Republic of Honduras, Free, Sovereign and Independent".
+
+The "National Anthem of Honduras" is a result of a contest carried out in 1914 during the presidency of Manuel Bonilla. In the end, it was the poet Augusto Coello that ended up writing the anthem, with German-born Honduran composer Carlos Hartling writing the music. The anthem was officially adopted on 15 November 1915, during the presidency of . The anthem is composed of a choir and seven stroonduran.
+
+The national flower is the famous orchid, _Rhyncholaelia digbyana_ (formerly known as _Brassavola digbyana_), which replaced the rose in 1969. The change of the national flower was carried out during the administration of general Oswaldo López Arellano, thinking that _Brassavola digbyana_ "is an indigenous plant of Honduras; having this flower exceptional characteristics of beauty, vigor and distinction", as the decree dictates it.
+
+The national tree of Honduras was declared in 1928 to be simply "the Pine that appears symbolically in our Coat of Arms" (_el Pino que figura simbólicamente en nuestro Escudo_),[251] even though pines comprise a genus and not a species, and even though legally there's no specification as for what kind of pine should appear in the coat of arms _either_. Because of its commonality in the country, the _Pinus oocarpa_ species has become since then the species most strongly associated as the national tree, but legally it is not so. Another species associated as the national tree is the _Pinus caribaea_.
+
+The national mammal is the white-tailed deer (_Odocoileus virginianus_), which was adopted as a measure to avoid excessive depredation. It is one of two species of deer that live in Honduras. The national bird of Honduras is the scarlet macaw (_Ara macao_). This bird was much valued by the pre-Columbian civilizations of Honduras.
+
+Folklore
+
+Legends and fairy tales are paramount in Honduran culture. Lluvia de Peces (Rain of Fish) is an example of this. The legends of El Cadejo and La Llorona are also popular.
+
+Sports
+
+Estadio_Olimpico_Metropolitano_de_San_Pedro_Sula_2017_04.jpg in San Pedro Sula.]] The major sports in Honduras are football, basketball, rugby, volleyball and cycling, with smaller followings for athletics, softball and handball. Information about some of the sports organisations in Honduras are listed below:
+
+-   Football in Honduras
+-   Honduran Football Federation
+-   Honduras national baseball team
+-   Honduras national football team
+-   Honduras national under-20 football team
+-   Honduras U-17 national football team
+-   Rugby union in Honduras
+
+
+See also
+
+-   Outline of Honduras
+-   Index of Honduras-related articles
+
+
+References
+
+
+External links
+
+-   Government of Honduras
+-   Official Site of the Tourism Institute of Honduras (English)
+-   Chief of State and Cabinet Members
+-   -   Honduras at _University of Colorado at Boulder Libraries GovPubs_
+-   -   Honduras profile from the BBC News
+-   -   Honduran Biodiversity Database
+-   Honduras Tips Travel Info (English)
+-   Honduras Weekly
+-   Travel and Tourism Info on Honduras (English)
+-   Humanitarian Aid in Honduras
+-   Answers.com
+-   Project Honduras
+-   Interactive Maps Honduras
+-   Key Development Forecasts for Honduras from International Futures
+
+Honduras Category:Countries in Central America Category:Former Spanish colonies Category:Member states of the United Nations Category:Republics Category:Spanish-speaking countries and territories Category:States and territories established in 1821 Category:1821 establishments in North America Category:Countries in North America Category:Northern Triangle of Central America
+
+[1]
+
+[2]
+
+[3]
+
+[4]
+
+[5]
+
+[6]
+
+[7]
+
+[8] Ruhl, J. Mark. "Agrarian Structure and Political Stability in Honduras." _Journal of Interamerican Studies and World Affairs_, vol. 26, no. 1, 1984, pp. 33–68. _JSTOR_, JSTOR, www.jstor.org/stable/165506.
+
+[9]
+
+[10]
+
+[11]
+
+[12] Davidson traces it to Herrera.
+
+[13]
+
+[14]
+
+[15]
+
+[16]
+
+[17]
+
+[18]
+
+[19]
+
+[20]
+
+[21]
+
+[22]
+
+[23]
+
+[24]
+
+[25]
+
+[26]
+
+[27]
+
+[28]
+
+[29]
+
+[30] Where did banana republics get their name?, _The Economist_
+
+[31]
+
+[32]
+
+[33]
+
+[34]
+
+[35]
+
+[36]
+
+[37]
+
+[38]
+
+[39]
+
+[40]
+
+[41]
+
+[42]
+
+[43]
+
+[44]
+
+[45]
+
+[46]
+
+[47]
+
+[48]
+
+[49]
+
+[50]
+
+[51]
+
+[52]
+
+[53]
+
+[54]
+
+[55]
+
+[56]
+
+[57]
+
+[58]
+
+[59]
+
+[60]
+
+[61]
+
+[62]
+
+[63]
+
+[64]
+
+[65]
+
+[66]
+
+[67]
+
+[68]
+
+[69]
+
+[70]  Modern Latin America|website=library.brown.edu|language=en-US|access-date=2017-11-26}}
+
+[71]
+
+[72]
+
+[73]
+
+[74]
+
+[75]
+
+[76]
+
+[77]
+
+[78]
+
+[79]
+
+[80]
+
+[81]
+
+[82]
+
+[83]
+
+[84]
+
+[85] McSweeney, Kendra, et al. "Climate-Related Disaster Opens a Window of Opportunity for Rural Poor in Northeastern Honduras." _Proceedings of the National Academy of Sciences of the United States of America_, vol. 108, no. 13, 2011, pp. 5203–5208. _JSTOR_, JSTOR, www.jstor.org/stable/41125677.
+
+[86]
+
+[87]
+
+[88]
+
+[89]
+
+[90]
+
+[91]
+
+[92]
+
+[93]  World Food Programme|website=www1.wfp.org|language=en|access-date=2017-11-26}}
+
+[94]
+
+[95]
+
+[96]
+
+[97]
+
+[98] Klasen, Stephan; Otter, Thomas; Villalobos, Carlos (2012): The dynamics of inequality change in a highly dualistic economy: Honduras, 1991–2007, Discussion papers, Ibero America Institute for Economic Research, No. 215
+
+[99] Cuesta, Jose. "Political Space, Pro-Poor Growth and Poverty Reduction Strategy in Honduras: A Story of Missed Opportunities". _Journal of Latin American Studies_, vol. 39, no. 2, 2007, pp. 329–354. _JSTOR_, JSTOR, www.jstor.org/stable/4491813.
+
+[100]
+
+[101]
+
+[102] Johnston, Jake, and Stephan Lefebvre. "Honduras Since the Coup: Economic and Social Outcomes". _Center for Economic and Policy Research_, November 2013.
+
+[103] RUCKERT, ARNE. "The Poverty Reduction Strategy Paper of Honduras and the Transformations of Neoliberalism". _Canadian Journal of Latin American and Caribbean Studies / Revue Canadienne Des Études Latino-Américaines Et Caraïbes_, vol. 35, no. 70, 2010, pp. 113–139. _JSTOR_, JSTOR, www.jstor.org/stable/41800522.
+
+[104]
+
+[105]
+
+[106]
+
+[107]
+
+[108]
+
+[109]
+
+[110]
+
+[111]
+
+[112]
+
+[113]
+
+[114]
+
+[115]
+
+[116]
+
+[117]
+
+[118]
+
+[119]
+
+[120]
+
+[121]
+
+[122]
+
+[123]
+
+[124]
+
+[125]
+
+[126]
+
+[127]
+
+[128]
+
+[129]
+
+[130] DeWalt, Billie R, et al. "Read 'Population and Land Use in Developing Countries: Report of a Workshop' at NAP.edu." _National Academies Press: OpenBook_, National Research Council, www.nap.edu/read/2211/chapter/9.
+
+[131]
+
+[132]
+
+[133]
+
+[134] Merrill, Tim. ed. _Honduras: A Country Study_. Washington: GPO for the Library of Congress, 1995.
+
+[135]
+
+[136]
+
+[137]
+
+[138]
+
+[139]
+
+[140]
+
+[141] Cameron, Samuel, et al. "It Could Be You! Military Conscription and Selection Bias in Rural Honduras." _Revista Europea De Estudios Latinoamericanos y Del Caribe / European Review of Latin American and Caribbean Studies_, no. 68, 2000, pp. 47–63. _JSTOR_, JSTOR, www.jstor.org/stable/25675865.
+
+[142]
+
+[143]
+
+[144]
+
+[145]
+
+[146]
+
+[147]
+
+[148]
+
+[149]
+
+[150]
+
+[151]
+
+[152]
+
+[153]
+
+[154] https://www.xplorhonduras.com/san-pedro-sula-honduras/
+
+[155] Dan Oancea (January 2009), Mining in Central America. Mining.com
+
+[156]
+
+[157]
+
+[158]
+
+[159]
+
+[160]
+
+[161]
+
+[162]
+
+[163]
+
+[164]
+
+[165]
+
+[166]
+
+[167] Vandiver, Marylee Mason. "Racial Classifications in Latin American Censuses." _Social Forces_, vol. 28, no. 2, 1949, pp. 138–146. _JSTOR_, JSTOR, www.jstor.org/stable/2572639.
+
+[168]
+
+[169]
+
+[170] GILLIN, John. "Problems of Mestizo America : A Sociological Approach / LE POINT DE VUE DU SOCIOLOGUE : L'AMERIQUE METISSE." _Civilisations_, vol. 5, no. 4, 1955, pp. 509–521. _JSTOR_, JSTOR, www.jstor.org/stable/41230089.
+
+[171]
+
+[172]
+
+[173]
+
+[174]
+
+[175]
+
+[176]
+
+[177]
+
+[178]
+
+[179]
+
+[180]
+
+[181]
+
+[182]
+
+[183]
+
+[184]
+
+[185]
+
+[186]
+
+[187]
+
+[188]
+
+[189]
+
+[190]
+
+[191]
+
+[192]
+
+[193]
+
+[194] Hawkins, Darren, and Melissa Humes. "Human Rights and Domestic Violence." _Political Science Quarterly_, vol. 117, no. 2, 2002, pp. 231–257. _JSTOR_, JSTOR, www.jstor.org/stable/798182.
+
+[195]
+
+[196]
+
+[197]
+
+[198]
+
+[199]
+
+[200] INGOLDSBY, BRON B. "The Latin American Family: Familism vs. Machismo." _Journal of Comparative Family Studies_, vol. 22, no. 1, 1991, pp. 57–62. _JSTOR_, JSTOR, www.jstor.org/stable/41602120.
+
+[201]
+
+[202]
+
+[203] Speizer, Ilene S., et al. "Gender Relations and Reproductive Decision Making in Honduras." _International Family Planning Perspectives_, vol. 31, no. 3, 2005, pp. 131–139. _JSTOR_, JSTOR, www.jstor.org/stable/3649517.
+
+[204]
+
+[205]
+
+[206]
+
+[207]
+
+[208]
+
+[209]
+
+[210]
+
+[211]
+
+[212]
+
+[213]
+
+[214]  UC Hastings Center for Gender and Refugee Studies|website=cgrs.uchastings.edu|access-date=2017-11-27}}
+
+[215] Speizer, Ilene S, et al. "Dimensions of Child Sexual Abuse before Age 15 in Three Central American Countries: Honduras, El Salvador, and Guatemala." _Child Abuse & Neglect: The International Journal_, Elsevier. 31 Mar. 2008.
+
+[216]
+
+[217]
+
+[218]
+
+[219]
+
+[220]
+
+[221]
+
+[222]
+
+[223]
+
+[224]
+
+[225] Reyes, H Luz McNaughton, et al. "An Assessment of Health Sector Guidelines and Services for Treatment of Sexual Violence in El Salvador, Guatemala, Honduras and Nicaragua." _Reproductive Health Matters_, vol. 20, no. 40, 2012, pp. 83–93. _JSTOR_, JSTOR, www.jstor.org/stable/41714982.
+
+[226]
+
+[227]
+
+[228] MURPHY-GRAHAM, ERIN. "CONSTRUCTING A NEW VISION: UNDOING GENDER THROUGH SECONDARY EDUCATION IN HONDURAS." _International Review of Education / Internationale Zeitschrift Für Erziehungswissenschaft / Revue Internationale De L'Education_, vol. 55, no. 5/6, 2009, pp. 503–521. _JSTOR_, JSTOR, www.jstor.org/stable/40608075.
+
+[229]
+
+[230]
+
+[231]
+
+[232]
+
+[233]
+
+[234]
+
+[235]
+
+[236]
+
+[237]
+
+[238]
+
+[239] Associated Press, 13 June 2009, reported in several papers
+
+[240]
+
+[241]
+
+[242]
+
+[243]
+
+[244]
+
+[245]
+
+[246]
+
+[247]
+
+[248]
+
+[249]
+
+[250]
+
+[251] Acuerdo No. 429, 14 de mayo de 1928.

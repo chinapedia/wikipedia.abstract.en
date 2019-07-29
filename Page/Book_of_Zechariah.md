@@ -1,0 +1,118 @@
+The BOOK OF ZECHARIAH, attributed to the Hebrew prophet Zechariah, is included in the Twelve Minor Prophets in the Hebrew Bible.
+
+
+Historical context
+
+Zechariah's prophecies took place during the reign of Darius the Great,[1] and were contemporary with Haggai in a post-exilic world after the fall of Jerusalem in 587/6 BC.[2] Ezekiel and Jeremiah wrote before the fall of Jerusalem, while continuing to prophesy in the early exile period. Scholars believe Ezekiel, with his blending of ceremony and vision, heavily influenced the visionary works of Zechariah 1–8.[3] Zechariah is specific about dating his writing (520–518 BC).
+
+During the Exile many Judahites and Benjamites were taken to Babylon, where the prophets told them to make their homes,[4] suggesting they would spend a long period of time there. Eventually freedom did come to many Israelites, when Cyrus the Great overtook the Babylonians in 539 BC. In 538 BC, the famous Edict of Cyrus was released, and the first return took place under Sheshbazzar. After the death of Cyrus in 530 BC, Darius consolidated power and took office in 522 BC. His system divided the different colonies of the empire into easily manageable districts overseen by governors. Zerubbabel comes into the story, appointed by Darius as governor over the district of Yehud Medinata.
+
+Under the reign of Darius, Zechariah also emerged, centering on the rebuilding of the Temple. Unlike the Babylonians, the Persian Empire went to great lengths to keep “cordial relations” between vassal and lord. The rebuilding of the Temple was encouraged by the leaders of the empire in hopes that it would strengthen the authorities in local contexts. This policy was good politics on the part of the Persians, and the Jews viewed it as a blessing from God.[5]
+
+
+Prophet
+
+The name "Zechariah" means "God remembered." Not much is known about Zechariah's life other than what may be inferred from the book. It has been speculated that his grandfather Iddo was the head of a priestly family who returned with Zerubbabel,[6] and that Zechariah may himself have been a priest as well as a prophet. This is supported by Zechariah's interest in the Temple and the priesthood, and from Iddo's preaching in the Books of Chronicles.
+
+
+Authorship
+
+Some scholars accept the book as the writings of one individual. For example, George Livingstone Robinson's dissertation on chapters 9–14[7] concluded that those chapters had their origin in the period between 518 and 516 BC and stand in close relation to chapters 1–8, having most probably been composed by Zechariah himself. However, most modern scholars believe the Book of Zechariah was written by at least two different people.[8]
+
+Zechariah 1–8, sometimes referred to as First Zechariah, was written in the 6th century BC.[9] Zechariah 9–14, often called Second Zechariah, contains within the text no datable references to specific events or individuals but most scholars give the text a date in the fifth century BC.[10] Second Zechariah, in the opinion of some scholars, appears to make use of the books of Isaiah, Jeremiah, and Ezekiel, the Deuteronomistic History, and the themes from First Zechariah. This has led some to believe that the writer(s) or editor(s) of Second Zechariah may have been a disciple of the prophet Zechariah.[11] There are some scholars who go even further and divide Second Zechariah into Second Zechariah (9–11) and Third Zechariah (12–14) since each begins with a heading oracle.[12]
+
+
+Composition
+
+The return from exile is the theological premise of the prophet's visions in chapters 1–6. Chapters 7–8 address the quality of life God wants his renewed people to enjoy, containing many encouraging promises to them. Chapters 9–14 comprise two "oracles" of the future. Gustave_Doré_(1832-1883)_-_The_Bible_(1865)_-_Zechariah_6-5.jpg,[13] engraving by Gustave Doré.]]
+
+Chapters 1 to 6
+
+The book begins with a preface,[14] which recalls the nation's history, for the purpose of presenting a solemn warning to the present generation. Then follows a series of eight visions,[15] succeeding one another in one night, which may be regarded as a symbolical history of Israel, intended to furnish consolation to the returned exiles and stir up hope in their minds. The symbolic action, the crowning of Joshua,[16] describes how the kingdoms of the world become the kingdom of God's Messiah.
+
+Chapters 7 and 8
+
+Chapters Zechariah 7 and Zechariah 8, delivered two years later, are an answer to the question whether the days of mourning for the destruction of the city should be kept any longer, and an encouraging address to the people, assuring them of God's presence and blessing.
+
+Chapters 9 to 14
+
+This section consists of two "oracles" or "burdens":
+
+-   The first oracle (Zechariah 9-11) gives an outline of the course of God's providential dealings with his people down to the time of the coming of the Messiah.
+-   The second oracle (Zechariah 12–14) points out the glories that await Israel in "the latter day", the final conflict and triumph of God's kingdom.
+
+
+Themes
+
+The purpose of this book is not strictly historical but theological and pastoral. The main emphasis is that God is at work and all His good deeds, including the construction of the Second Temple, is accomplished "not by might nor by power, but by My Spirit."() Ultimately, YHWH plans to live again with His people in Jerusalem. He will save them from their enemies and cleanse them from sin. However, God requires repentance, a turning away from sin towards faith in Him ()
+
+Zechariah's concern for purity is apparent in the temple, priesthood and all areas of life as the prophecy gradually eliminates the influence of the governor in favour of the high priest, and the sanctuary becomes ever more clearly the centre of messianic fulfillment. The prominence of prophecy is quite apparent in Zechariah, but it is also true that Zechariah (along with Haggai) allows prophecy to yield to the priesthood; this is particularly apparent in comparing Zechariah to "Third Isaiah" (chapters 55–66 of the Book of Isaiah), whose author was active sometime after the first return from exile.
+
+Most Christian commentators read the series of predictions in chapters 7 to 14 as Messianic prophecies, either directly or indirectly.[17] These chapters helped the writers of the Gospels understand Jesus’ suffering, death and resurrection, which they quoted as they wrote of Jesus’ final days.[18] Much of the Book of Revelation, which narrates the denouement of history, is also colored by images in Zechariah.
+
+Apocalyptic literature
+
+Chapters 9–14 of the Book of Zechariah are an early example of apocalyptic literature. Although not as fully developed as the apocalyptic visions described in the Book of Daniel, the "oracles", as they are titled in Zechariah 9–14, contain apocalyptic elements. One theme these oracles contain is descriptions of the Day of the Lord, when "the Lord will go forth and fight against those nations as when he fights on a day of battle" (Zechariah 14:3). These chapters also contain "pessimism about the present, but optimism for the future based on the expectation of an ultimate divine victory and the subsequent transformation of the cosmos".[19]
+
+The final word in Zechariah proclaims that on the Day of the Lord "There will be no Canaanite in the house of the Lord of hosts on that day" (14:21), proclaiming the need for purity in the Temple, which would come when God judges at the end of time. The Revised Standard Version has this: "There will be no trader in the house of the Lord of hosts on that day." In the Masoretic Text it is: "and in that day there shall be no more a trafficker in the house of the Lord of hosts."
+
+
+Footnotes
+
+
+Sources
+
+-   _The Student Bible,_ NIV. Michigan: Zondervan Publishing House, 1992.
+-   D. Guthrie, (ed.) _New Bible Commentary._ New York: Eerdmans Publishing Company, 1970.
+-   Stephen G. Dempster, _Dominion And Dynasty: A Theology Of The Hebrew Bible._ Illinois: Intervarsity Press, 2003.
+-   Carroll Stuhlmueller, _Haggai and Zechariah: Rebuilding With Hope._ Edinburgh: The Handsel Press Ltd., 1988. .
+-
+
+
+External links
+
+Translations
+
+-   Zechariah (Judaica Press) translation [with Rashi's commentary] at Chabad.org
+-   _Online Bible_ at GospelHall.org (ESV, KJV, Darby, American Standard Version, Bible in Basic English)
+-   Various versions
+
+Category:6th-century BC books Category:5th-century BC books Category:Twelve Minor Prophets Book_of_Zechariah
+
+[1]
+
+[2] Carol L. Meyers and Eric M. Meyers, _Haggai, Zechariah 1–8: The Anchor Bible_. Garden City, Doubleday and Company Inc., 1987. . Page 183.
+
+[3] Meyers, p. 30.
+
+[4]
+
+[5] Meyers, pp. 31–2.
+
+[6]
+
+[7] Published in _The American Journal of Semitic Languages and Literatures_, Vol. 12, No. 1/2 (Oct 1895 – Jan 1896), pp. 1–92.
+
+[8] Coogan, M. _A Brief Introduction to the Old Testament: The Hebrew Bible in its Context_. (Oxford University Press: Oxford 2009), p. 346.
+
+[9] Coogan, M. _A Brief Introduction to the Old Testament: The Hebrew Bible in its Context._ (Oxford University Press: Oxford 2009), p. 346.
+
+[10] Coogan, M. _A Brief Introduction to the Old Testament: The Hebrew Bible in its Context_. (Oxford University Press: Oxford 2009), p. 355.
+
+[11] Meyers, Eric. "Zechariah Introduction." _The New Interpreter's Study Bible_. (Abingdon Press: Nashville, 2003), p. 1338.
+
+[12] Coogan, M. _A Brief Introduction to the Old Testament: The Hebrew Bible in its Context._ (Oxford University Press: Oxford 2009), p. 355.
+
+[13]
+
+[14]
+
+[15]
+
+[16]
+
+[17] Petterson, A. R., _Behold Your King: The Hope for the House of David in the Book of Zechariah_ (LHBOTS 513; London: T&T Clark, 2009).
+
+[18] For example, see allusion to Zechariah 9:9 in Matthew 21:5; also Zechariah 12:10 in John 19:37. These and other references between Zechariah and the New Testament are described in
+
+[19] Coogan, Michael D. _A Brief Introduction to the Old Testament._ New York: Oxford University Press, 2009. Pg. 353

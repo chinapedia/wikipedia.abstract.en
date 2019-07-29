@@ -1,0 +1,91 @@
+Baroquedance.gif BAROQUE DANCE is dance of the Baroque era (roughly 1600–1750),[1] closely linked with Baroque music, theatre and opera.
+
+
+English country dance
+
+The majority of surviving choreographies from the period are English country dances, such as those in the many editions of Playford's _The Dancing Master_. Playford only gives the floor patterns of the dances, with no indication of the steps. However, other sources of the period, such as the writings of the French dancing-masters Feuillet and Lorin, indicate that steps more complicated than simple walking were used at least some of the time.
+
+English country dance survived well beyond the Baroque era and eventually spread in various forms across Europe and its colonies, and to all levels of society.
+
+
+The French Noble style
+
+Ballet_de_la_nuit_1653.jpg'' (1653)]] The great innovations in dance in the 17th century originated at the French court under Louis XIV, and it is here that we see the first clear stylistic ancestor of classical ballet. The same basic technique was used both at social events, and as theatrical dance in court ballets and at public theaters. The style of dance is commonly known to modern scholars as the _French noble style_ or _belle danse_ (French, literally "beautiful dance"), however it is often referred to casually as _baroque dance_ in spite of the existence of other theatrical and social dance styles during the baroque era.
+
+Primary sources include more than three hundred choreographies in Beauchamp-Feuillet notation,[2][3] as well as manuals by Raoul Handsome Auger Feuillet and Pierre Rameau in France, Kellom Tomlinson and John Weaver in England, and Gottfried Taubert in Germany. This wealth of evidence has allowed modern scholars and dancers to recreate the style, although areas of controversy still exist. The standard modern introduction is Hilton.[4]
+
+French dance types include:
+
+-   Allemande
+-   Bourrée
+-   Canarie (canary)
+-   Chaconne
+-   (French) courante
+-   Entrée grave
+-   Forlane (forlana)
+-   Gavotte
+-   Gigue
+-   Loure (slow gigue)
+-   Menuet (minuet)
+-   Musette
+-   Passacaille (passacaglia)
+-   Passepied
+-   Rigaudon
+-   Sarabande
+-   Tambourin
+
+The English, working in the French style, added their own hornpipe to this list.
+
+Many of these dance types are familiar from baroque music, perhaps most spectacularly in the stylized suites of J. S. Bach.[5] Note, however, that the allemandes, that occur in these suites do not correspond to a French dance from the same period.
+
+
+Theatrical dance
+
+The French noble style was danced both at social events and by professional dancers in theatrical productions such as opera-ballets and court entertainments. However, 18th-century theatrical dance had at least two other styles: comic or grotesque, and semi-serious.[6][7]
+
+
+Other social dance styles
+
+Other dance styles, such as the Italian and Spanish dances of the period are much less well studied than either English country dance or the French style. The general picture seems to be that during most of the 17th century, a style of late Renaissance dance was widespread, but as time progressed, French ballroom dances such as the minuet were widely adopted at fashionable courts. Beyond this, the evolution and cross-fertilisation of dance styles is an area of ongoing research.
+
+
+Modern reconstructions
+
+Historical_dancing_baroque_at_time_travellers_ball_earthly_delights_dance_group.JPG The revival of baroque music in the 1960s and '70s sparked renewed interest in 17th and 18th century dance styles. While some 300 of these dances had been preserved in Beauchamp-Feuillet notation, it wasn't until the mid-20th century that serious scholarship commenced in deciphering the notation and reconstructing the dances.
+
+Perhaps best known among these pioneers was Britain's Melusine Wood, who published several books on historical dancing in the 1950s.[8] Wood passed her research on to her student Belinda Quirey, and also to Pavlova Company ballerina and choreographer Mary Skeaping (1902–1984). The latter became well known for her reconstructions of baroque ballets for London's "Ballet for All" company in the 1960s.
+
+The leading figures of the second generation of historical dance research include Shirley Wynne and her Baroque Dance Ensemble which was founded at Ohio State University in the early 1970s and Wendy Hilton (1931–2002), a student of Belinda Quirey who supplemented the work of Melusine Wood with her own research into original sources.[9] A native of Britain, Hilton arrived in the U.S. in 1969 joining the faculty of the Juilliard School in 1972 and establishing her own baroque dance workshop at Stanford University in 1974 which endured for more than 25 years.
+
+Catherine Turocy (b. circa 1950) began her studies in Baroque dance in 1971 as a student of dance historian Shirley Wynne. She founded The New York Baroque Dance Company in 1976 with Ann Jacoby, and the company has since toured internationally. In 1982/83 as part of the French national celebration of Jean Philippe Rameau's 300th birthday, Turocy choreographed the first production of Jean-Philippe Rameau's _Les Boréades_ - it was never performed during the composer's lifetime. This French supported production with John Eliot Gardiner, conductor, and his orchestra was directed by Jean Louis Martinoty. Turocy has been decorated as Chevalier in the Ordre des Arts et des Lettres by the French government.
+
+In 1973, French dance historian Francine Lancelot (1929–2003) began her formal studies in ethnomusicology which later led her to research French traditional dance forms and eventually Renaissance and Baroque dances. In 1980, at the invitation of the French Minister of Culture, she founded the baroque dance company "Ris et Danceries". Her work in choreographing the landmark 1986 production of Lully's 1676 tragedie-lyrique _Atys_ was part of the national celebration of the 300th anniversary of Lully's death. This production propelled the career of William Christie and his ensemble Les Arts Florissants. Since the Ris et Danseries company was disbanded circa 1993, choreographers from the company have continued with their own work. Béatrice Massin with her "Compagnie Fetes Galantes", along with Marie Genevieve Massé and her company "L'Eventail" are among the most prominent. In 1995 Francine Lancelot's catalogue raisonné of baroque dance, entitled _La Belle Dance_, was published.
+
+
+References
+
+
+External links
+
+-   BaroqueDance.info - background information, period dancing manuals, and a large collection of links
+-   The Calendar of Early Dance - information about upcoming baroque events, choreographies and photo galleries
+
+Dance Category:European court festivities Baroque_dance
+
+[1]
+
+[2] Little, Meredith Ellis and Marsh, Carol G. _La Danse Noble, An Inventory of Dances and Sources_, (Broude Brothers Ltd, 1992)
+
+[3] Lancelot, Francine, _La Belle Dance: Catalogue Raisonné_, (Van Dieren Editeur, 1996)
+
+[4] Hilton, Wendy, _Dance and Music of Court and Theater: Selected Writings of Wendy Hilton_ (Pendragon Press, 1997)
+
+[5] Little, Meredith and Jenne, Natalie. _Dance and the Music of J.S. Bach_ (Indiana University Press, 1991, 2001)
+
+[6] Fairfax, Edmund. _The Styles of Eighteenth-Century Ballet_ (Scarecrow Press, 2003)
+
+[7] Harris-Warrick, Rebecca and Brown, Bruce Alan, editors. _The Grotesque Dancer on the Eighteenth Century Stage_ (The University of Wisconsin Press, 2005)
+
+[8] Wood, Melusine, _More Historical Dances_, (Imperial Soc. Dancing, 1956)
+
+[9] Hilton, Wendy, _Dance of Court and Theater: The French Noble Style 1690-1725_ (Princeton Book Company, 1981)

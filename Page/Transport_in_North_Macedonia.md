@@ -1,0 +1,147 @@
+The following is a summary of the TRANSPORT SYSTEM OF THE REPUBLIC OF NORTH MACEDONIA.
+
+
+Railways
+
+_total:_ (699 km (437 miles) of open track and of station/industrial track)[1]
+_standard gauge:_ 1.435-m gauge (312 km electrified, all 25 kV 50 Hz)
+_note:_ a new extension of the Kumanovo-Beljakovci line to the Bulgarian border is under construction.[2]
+
+Restructuring of national railway MZ into infrastructure and operating companies completed in July 2007.[3]
+
+Railway links with adjacent countries
+
+-   Serbia - yes
+
+-   Kosovo - yes
+
+-   Bulgaria - no
+
+-   Greece - yes
+
+-   Albania - no
+
+Maps
+
+-   UN Map
+-   UNHCR Atlas Map
+
+
+Roads
+
+E75_Macedonia_Motorway_M-1.jpg]] Macedonia_Motorway_M-3.jpg]] Road_M4_in_MK_(border_crossing).JPG]] Macedonian_national_road_M-5.jpg]]
+
+_total_ (2002)
+228 km of motorways (2008)
+
+Motorways
+
+The main network consists of 7 corridors, a good length of which already have motorways.
+
+A-1
+Tabanovce - Kumanovo - Miladinovci - Petrovec - Veles - Gradsko - Negotino - Demir Kapija - Gevgelija
+
+A-2
+Kumanovo - Kriva Palanka - Deve Bair
+
+A-3
+Petrovec - (through inner)Skopje - Stenkovec - [Blace]
+
+A-4
+Miladinovci - Skopje - Tetovo - Gostivar - Kičevo - Struga - K'afasan
+
+A-5
+Ohrid - Resen - Bitola - Prilep - Veles - Štip - Kočani - Delčevo
+(M-5K1 Bitola - Medžitlija)
+
+A-6
+Štip - Radoviš - Strumica - Novo Selo
+
+A-7
+Debar - Kičevo - Makedonski Brod - Prilep - Kavadarci - Negotino - Radoviš
+
+The first motorway in the country was the Kumanovo-Petrovec section of the A-1, opened for traffic in 1979 as part of the Brotherhood and Unity Highway which linked Central Europe to Athens.
+
+In 2008 the country had of motorways, with additional under construction and the beginning of works on (the Demir Kapija - Smokvica section of A-1) being postponed for 2009.
+
+In 2008 the government also carried out an ambitious public tender for giving concessions for of motorways. The outcome will be known in 2009.
+
+E-roads
+
+The E-road network in North Macedonia consists of:
+E65
+E75
+E852
+E871
+
+Road rules
+
+Galičica-P504-P1100719.JPG Mts to Lake Ohrid]] The traffic signs adhere to the Vienna Convention on Road Signs and Signals.
+
+Lights must be on all the time, seatbelts are mandatory for passengers in the front and drivers are forbidden to speak on a mobile phone while driving.
+
+The general speed limits are:
+
+-   in inhabited areas
+-   outside of inhabited areas
+-   on expressways
+-   on motorways
+
+
+Waterways
+
+None. Lake transport (tourist and recreational boats) only, on the Greek and Albanian borders.
+
+
+Pipelines
+
+Oil (2004)
+Gas (2004)
+
+
+Ports and harbours
+
+North Macedonia has no sea access. There are marinas for mostly recreational traffic on Ohrid Lake and other natural and artificial lakes.
+
+
+Airports
+
+Air transport in North Macedonia begin after the end of the First World War, when airmail traffic route was created between Novi Sad–Belgrade–Niš–Skoplje.[4] Later, the Yugoslav flag carrier Aeroput inaugurated in 1930 a regular scheduled flight between Belgrade and Thessaloniki with a stop in Skopje airfield. Later, in 1933, Aeroput extended the route to Athens, while in 1935 Skopje was linked to Niš, Bitola, and Podujevo in 1936.[5]
+
+After the end of Second World War, passenger and cargo air transport reestablished, Aeroput was rebranded as JAT Yugoslav Airlines, and routes linking Belgrade, through Skopje, to Athens and Istanbul, using a Douglas DC-3, were inaugurated. During SFRY period JAT linked Skopje with Belgrade and other domestic destinations, but through Belgrade passengers from Skopje were able to catch connecting flights to all five continents. In the 1980s the Skopje airport was majorly expanded, and by late 1980s and early 1990s several companies with hub in Skopje were created, such as Palair, Avioimpex, Air Vardar, and others we created. After independence of North Macedonia, most became flag-carriers of the newly-independent country.
+
+Beside Skopje, in North Macedonia, during second half of the 20th century, Ohrid airport was also developed, starting with the opening of regular scheduled flights between Belgrade–Skopje–Ohrid during the 1960s. Until 1990 charted flights were also inaugurated linking Ohrid with international destinations.
+
+Skopje_Alexander_the_Great_Airport.jpg]] 17 (2002 est.)
+
+Airports - with paved runways
+
+_total:_ 11
+8,000 to 9,999 ft: 2
+under 3,000 ft: 8 (2000 est.)
+
+Airports - with unpaved runways
+
+_total:_ 6
+3,000 to 4,999 ft: 3
+under 3,000 ft: 3 (2000 est.)
+
+
+See also
+
+-   Republic of North Macedonia
+
+
+References
+
+Transport_in_North_Macedonia
+
+[1] Objava na Mreza. Macedonian Railways
+
+[2]
+
+[3]
+
+[4]
+
+[5] Drustvo za Vazdusni Saobracaj A D – Aeroput at europeanairlines.no

@@ -1,0 +1,103 @@
+ERIS (; , "Strife") is the Greek goddess of strife and discord. Her Roman equivalent is DISCORDIA, which means "discord". Eris's Greek opposite is Harmonia, whose Roman counterpart is Concordia.[1] Homer equated her with the war-goddess Enyo, whose Roman counterpart is Bellona. The dwarf planet Eris is named after the goddess.
+
+She had no temples in ancient Greece (Concordia had one in Rome), and functions essentially as a personification, as which she appears in Homer and many later works.
+
+
+Etymology
+
+_Eris_ is of uncertain etymology; connections with the verb ὀρίνειν _orinein_, "to raise, stir, excite," and the proper name Ἐρινύες _Erinyes_ have been suggested. R. S. P. Beekes rejects these derivations and suggested a Pre-Greek origin.[2]
+
+
+Characteristics in Greek mythology
+
+Enrique_Simonet_-_El_Juicio_de_Paris_-_1904.jpg'' by Enrique Simonet, 1904]] Golden_Apple_of_Discord_by_Jacob_Jordaens.jpg'' by Jakob Jordaens, 1633]] Mengs,_Urteil_des_Paris.jpg, c. 1757]]
+
+In Hesiod's _Works and Days_ 11–24, two different goddesses named Eris are distinguished:
+
+  So, after all, there was not one kind of Strife alone, but all over the earth there are two. As for the one, a man would praise her when he came to understand her; but the other is blameworthy: and they are wholly different in nature. For one fosters evil war and battle, being cruel: her no man loves; but perforce, through the will of the deathless gods, men pay harsh Strife her honour due.
+
+  But the other is the elder daughter of dark Night (Nyx), and the son of Cronus [i.e. Zeus] who sits above and dwells in the aether, set her in the roots of the earth: and she is far kinder to men. She stirs up even the shiftless to toil; for a man grows eager to work when he considers his neighbour, a rich man who hastens to plough and plant and put his house in good order; and neighbour vies with his neighbour as he hurries after wealth. This Strife is wholesome for men. And potter is angry with potter, and craftsman with craftsman and beggar is jealous of beggar, and minstrel of minstrel.
+
+In Hesiod's _Theogony_ (226–232), Strife, the daughter of Night, is less kindly spoken of as she brings forth other personifications as her children:
+
+    And hateful Eris bore painful Ponos ("Hardship"),
+    Lethe ("Forgetfulness") and Limos ("Starvation") and the tearful Algea ("Pains"),
+    Hysminai ("Battles"), Makhai ("Wars"), Phonoi ("Murders"), and Androktasiai ("Manslaughters");
+    Neikea ("Quarrels"), Pseudo-Logoi ("Lying Stories"), Amphillogiai ("Disputes")
+    Dysnomia ("Anarchy") and Ate ("Ruin"), near one another,
+    and Horkos ("Oath"), who most afflicts men on earth,
+    Then willing swears a false oath.[3]
+
+The other Strife is presumably she who appears in Homer's _Iliad_ Book IV; equated with Enyo as sister of Ares and so presumably daughter of Zeus and Hera:
+
+  Strife whose wrath is relentless, she is the sister and companion of murderous Ares, she who is only a little thing at the first, but thereafter grows until she strides on the earth with her head striking heaven. She then hurled down bitterness equally between both sides as she walked through the onslaught making men's pain heavier. She also has a son whom she named Strife.
+
+Enyo is mentioned in Book 5, and Zeus sends Strife to rouse the Achaeans in Book 11, of the same work.
+
+The most famous tale of Eris recounts her initiating the Trojan War by causing the Judgement of Paris. The goddesses Hera, Athena and Aphrodite had been invited along with the rest of Olympus to the forced wedding of Peleus and Thetis, who would become the parents of Achilles, but Eris had been snubbed because of her troublemaking inclinations.
+
+She therefore (as mentioned at the _Kypria_ according to Proclus as part of a plan hatched by Zeus and Themis) tossed into the party the Apple of Discord, a golden apple inscribed  – "For the most beautiful one", or "To the Fairest One" – provoking the goddesses to begin quarreling about the appropriate recipient. The hapless Paris, Prince of Troy, was appointed to select the fairest by Zeus. The goddesses stripped naked to try to win Paris's decision, and also attempted to bribe him. Hera offered political power; Athena promised infinite wisdom; and Aphrodite tempted him with the most beautiful woman in the world: Helen, wife of Menelaus of Sparta. While Greek culture placed a greater emphasis on prowess and power, Paris chose to award the apple to Aphrodite, thereby dooming his city, which was destroyed in the war that ensued.
+
+In Nonnus's _Dionysiaca_, 2.356, when Typhon prepares to battle with Zeus:
+
+  Eris ("Strife") was Typhon's escort in the melée, Nike ("Victory") led Zeus to battle.
+
+Another story of Eris includes Hera, and the love of Polytekhnos and Aedon. They claimed to love each other more than Hera and Zeus were in love. This angered Hera, so she sent Eris to wreak discord upon them. Polytekhnos was finishing off a chariot board, and Aedon a web she had been weaving. Eris said to them, "Whosoever finishes thine task last shall have to present the other with a female servant!" Aedon won. But Polytekhnos was not happy by his defeat, so he came to Khelidon, Aedon's sister, and raped her. He then disguised her as a slave, presenting her to Aedon. When Aedon discovered this was indeed her sister, she chopped up Polytekhnos's son and fed him to Polytekhnos. The gods were not pleased, so they turned them all into birds.
+
+
+Cultural influences
+
+Discordianism
+
+Eris has been adopted as the patron deity of the modern Discordian religion, which was begun in the late 1950s by Gregory Hill and Kerry Wendell Thornley under the pen names of "Malaclypse the Younger" and "Omar Khayyam Ravenhurst". The Discordian version of Eris is considerably lighter in comparison to the rather malevolent Graeco-Roman original, wherein she is depicted as a positive (albeit mischievous) force of chaotic creation.
+
+A quote from the _Principia Discordia_, the first holy book of Discordianism, attempts to clear up the matter:
+
+The story of Eris being snubbed and indirectly starting the Trojan War is recorded in the _Principia_, and is referred to as the Original Snub. The _Principia Discordia_ states that her parents may be as described in Greek legend, or that she may be the daughter of Void. She is the Goddess of Disorder and Being, whereas her sister Aneris (called the equivalent of Harmonia by the Mythics of Harmonia) is the goddess of Order and Non-Being. Their brother is Spirituality.[4]
+
+Discordian Eris is looked upon as a foil to the preoccupation of western philosophy in attempting find order in the chaos of reality, in prescribing order to be synonymous with truth. Discordian Eris teaches us that the only truth is chaos, and that order and disorder are simply temporary filters applied to the lenses we view the chaos through. This is known as the Aneristic Illusion.[5]
+
+In this telling, Eris becomes something of a patron saint of chaotic creation:
+
+The concept of Eris as developed by the _Principia Discordia_ is used and expanded upon in the science fiction work _The Illuminatus! Trilogy_ by Robert Shea and Robert Anton Wilson (in which characters from _Principia Discordia_ appear). In this work, Eris is a major character.[6]
+
+Other
+
+The classic fairy tale _Sleeping Beauty_ is partly inspired by Eris's role in the wedding of Peleus and Thetis. Like Eris, a malevolent fairy curses a princess after not being invited to the princess's christening.[7][8]
+
+
+See also
+
+-   Aneris
+-   Discordian Works
+-   Eris (dwarf planet)
+-   Eristic
+
+
+References
+
+
+External links
+
+-   Hesiod’s _Works And Days_
+-   Hesiod’s _Theogony_
+-   Homer’s _Iliad_
+-   Homer's Iliad at Gutenberg (there are many different translations at Gutenberg)
+
+Category:Chaos gods Category:Deities in the Iliad Category:Discordianism Category:Divine women of Zeus Category:Eris (dwarf planet) Category:Greek goddesses Category:Trickster goddesses Category:War goddesses Category:Greek war deities Category:Offspring of Hera Category:Offspring of Zeus Category:Women of Ares Category:Personifications in Greek mythology Category:New religious movement deities
+
+[1] Ruoff, s.v. Eris, p. 329.
+
+[2] R. S. P. Beekes, _Etymological Dictionary of Greek_, Brill, 2009, p. 459).
+
+[3] Translation by Richard Caldwell, _Hesiod's Theogony_, Focus Publishing/R. Pullins Company (June 1, 1987). .
+
+[4]
+
+[5]
+
+[6] "Robert Anton Wilson: Searching For Cosmic Intelligence" by Jeffrey Elliot Interview discussing novel (URL accessed 21 February 2006)
+
+[7]
+
+[8]

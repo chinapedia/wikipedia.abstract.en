@@ -1,0 +1,224 @@
+Chemical_synapse_schema_cropped.jpg travels along the axon of a neuron. When the action potential reaches the presynaptic terminal, it provokes the release of a synaptic vesicle, secreting its quanta of neurotransmitter molecules. The neurotransmitter binds to chemical receptor molecules located in the membrane of another neuron, the postsynaptic neuron, on the opposite side of the synaptic cleft.]]
+
+CHEMICAL SYNAPSES are biological junctions through which neurons' signals can be sent to each other and to non-neuronal cells such as those in muscles or glands. Chemical synapses allow neurons to form circuits within the central nervous system. They are crucial to the biological computations that underlie perception and thought. They allow the nervous system to connect to and control other systems of the body.
+
+At a chemical synapse, one neuron releases neurotransmitter molecules into a small space (the synaptic cleft) that is adjacent to another neuron. The neurotransmitters are contained within small sacs called synaptic vesicles, and are released into the synaptic cleft by exocytosis. These molecules then bind to neurotransmitter receptors on the postsynaptic cell. Finally, the neurotransmitters are cleared from the synapse through one of several potential mechanisms including enzymatic degradation or re-uptake by specific transporters either on the presynaptic cell or on some other neuroglia to terminate the action of the neurotransmitter.
+
+The adult human brain is estimated to contain from 10¹⁴ to 5 × 10¹⁴ (100–500 trillion) synapses.[1] Every cubic millimeter of cerebral cortex contains roughly a billion (short scale, i.e. 10⁹) of them.[2] The number of synapses in the human cerebral cortex has separately been estimated at 0.15 quadrillion (150 trillion)[3]
+
+The word "synapse" comes from "synaptein", which Sir Charles Scott Sherrington and colleagues coined from the Greek "syn-" ("together") and "haptein" ("to clasp"). Chemical synapses are not the only type of biological synapse: electrical and immunological synapses also exist. Without a qualifier, however, "synapse" commonly means chemical synapse.
+
+
+Structure
+
+Synapses are functional connections between neurons, or between neurons and other types of cells.
+
+A typical neuron gives rise to several thousand synapses, although there are some types that make far fewer.
+
+Most synapses connect axons to dendrites,
+
+[4] but there are also other types of connections, including axon-to-cell-body,[5][6] axon-to-axon,
+
+Axons terminating on the postsynaptic cell body are axosomatic synapses. Axons that terminate on axons are axoaxonic synapses
+
+and dendrite-to-dendrite. Axons connecting dendrite to dendrite are dendrodendritic synapses. Axons which connect axon to dendrite are called axodendritic synapses
+
+Synapses are generally too small to be recognizable using a light microscope except as points where the membranes of two cells appear to touch, but their cellular elements can be visualized clearly using an electron microscope.
+
+Chemical synapses pass information directionally from a presynaptic cell to a postsynaptic cell and are therefore asymmetric in structure and function. The presynaptic axon terminal, or synaptic bouton, is a specialized area within the axon of the presynaptic cell that contains neurotransmitters enclosed in small membrane-bound spheres called synaptic vesicles (as well as a number of other supporting structures and organelles, such as mitochondria and endoplasmic reticulum). Synaptic vesicles are docked at the presynaptic plasma membrane at regions called active zones.
+
+Immediately opposite is a region of the postsynaptic cell containing neurotransmitter receptors; for synapses between two neurons the postsynaptic region may be found on the dendrites or cell body. Immediately behind the postsynaptic membrane is an elaborate complex of interlinked proteins called the postsynaptic density (PSD).
+
+Proteins in the PSD are involved in anchoring and trafficking neurotransmitter receptors and modulating the activity of these receptors. The receptors and PSDs are often found in specialized protrusions from the main dendritic shaft called dendritic spines.
+
+Synapses may be described as symmetric or asymmetric. When examined under an electron microscope, asymmetric synapses are characterized by rounded vesicles in the presynaptic cell, and a prominent postsynaptic density. Asymmetric synapses are typically excitatory. Symmetric synapses in contrast have flattened or elongated vesicles, and do not contain a prominent postsynaptic density. Symmetric synapses are typically inhibitory.
+
+The SYNAPTIC CLEFT —also called SYNAPTIC GAP— is a gap between the pre- and postsynaptic cells that is about 20 nm (0.02 μ) wide.[7] The small volume of the cleft allows neurotransmitter concentration to be raised and lowered rapidly.[8]
+
+An autapse is a chemical (or electrical) synapse formed when the axon of one neuron synapses with its own dendrites.
+
+{{-}}
+
+
+Signaling in chemical synapses
+
+Overview
+
+Here is a summary of the sequence of events that take place in synaptic transmission from a presynaptic neuron to a postsynaptic cell. Each step is explained in more detail below. Note that with the exception of the final step, the entire process may run only a few hundred microseconds, in the fastest synapses.[9]
+
+Synapse.theora.ogv
+
+1.  The process begins with a wave of electrochemical excitation called an action potential traveling along the membrane of the presynaptic cell, until it reaches the synapse.
+2.  The electrical depolarization of the membrane at the synapse causes channels to open that are permeable to calcium ions.
+3.  Calcium ions flow through the presynaptic membrane, rapidly increasing the calcium concentration in the interior.
+4.  The high calcium concentration activates a set of calcium-sensitive proteins attached to vesicles that contain a neurotransmitter chemical.
+5.  These proteins change shape, causing the membranes of some "docked" vesicles to fuse with the membrane of the presynaptic cell, thereby opening the vesicles and dumping their neurotransmitter contents into the synaptic cleft, the narrow space between the membranes of the pre- and postsynaptic cells.
+6.  The neurotransmitter diffuses within the cleft. Some of it escapes, but some of it binds to chemical receptor molecules located on the membrane of the postsynaptic cell.
+7.  The binding of neurotransmitter causes the receptor molecule to be _activated_ in some way. Several types of activation are possible, as described in more detail below. In any case, this is the key step by which the synaptic process affects the behavior of the postsynaptic cell.
+8.  Due to thermal vibration, the motion of atoms, vibrating about their equilibrium positions in a crystalline solid, neurotransmitter molecules eventually break loose from the receptors and drift away.
+9.  The neurotransmitter is either reabsorbed by the presynaptic cell, and then repackaged for future release, or else it is broken down metabolically.
+
+Neurotransmitter release
+
+Neuro_Muscular_Junction.png The release of a neurotransmitter is triggered by the arrival of a nerve impulse (or action potential) and occurs through an unusually rapid process of cellular secretion (exocytosis). Within the presynaptic nerve terminal, vesicles containing neurotransmitter are localized near the synaptic membrane. The arriving action potential produces an influx of calcium ions through voltage-dependent, calcium-selective ion channels at the down stroke of the action potential (tail current).[10] Calcium ions then bind to synaptotagmin proteins found within the membranes of the synaptic vesicles, allowing the vesicles to fuse with the presynaptic membrane.[11] The fusion of a vesicle is a stochastic process, leading to frequent failure of synaptic transmission at the very small synapses that are typical for the central nervous system. Large chemical synapses (e.g. the neuromuscular junction), on the other hand, have a synaptic release probability of 1. Vesicle fusion is driven by the action of a set of proteins in the presynaptic terminal known as SNAREs. As a whole, the protein complex or structure that mediates the docking and fusion of presynaptic vesicles is called the active zone.[12] The membrane added by the fusion process is later retrieved by endocytosis and recycled for the formation of fresh neurotransmitter-filled vesicles.
+
+An exception to the general trend of neurotransmitter release by vesicular fusion is found in the type II receptor cells of mammalian taste buds. Here the neurotransmitter ATP is released directly from the cytoplasm into the synaptic cleft via voltage gated channels.[13]
+
+Receptor binding
+
+Receptors on the opposite side of the synaptic gap bind neurotransmitter molecules. Receptors can respond in either of two general ways. First, the receptors may directly open ligand-gated ion channels in the postsynaptic cell membrane, causing ions to enter or exit the cell and changing the local transmembrane potential.[14] The resulting change in voltage is called a postsynaptic potential. In general, the result is _excitatory_ in the case of depolarizing currents, and _inhibitory_ in the case of hyperpolarizing currents. Whether a synapse is excitatory or inhibitory depends on what type(s) of ion channel conduct the postsynaptic current(s), which in turn is a function of the type of receptors and neurotransmitter employed at the synapse. The second way a receptor can affect membrane potential is by modulating the production of chemical messengers inside the postsynaptic neuron. These second messengers can then amplify the inhibitory or excitatory response to neurotransmitters.[15]
+
+Termination
+
+After a neurotransmitter molecule binds to a receptor molecule, it must be removed to allow for the postsynaptic membrane to continue to relay subsequent EPSPs and/or IPSPs. This removal can happen through one or more processes:
+
+-   The neurotransmitter may diffuse away due to thermally-induced oscillations of both it and the receptor, making it available to be broken down metabolically outside the neuron or to be reabsorbed.[16]
+-   Enzymes within the subsynaptic membrane may inactivate/metabolize the neurotransmitter.
+-   Reuptake pumps may actively pump the neurotransmitter back into the presynaptic axon terminal for reprocessing and re-release following a later action potential.[17]
+
+
+Synaptic strength
+
+The strength of a synapse has been defined by Sir Bernard Katz as the product of (presynaptic) release probability _pr_, quantal size _q_ (the postsynaptic response to the release of a single neurotransmitter vesicle, a 'quantum'), and _n_, the number of release sites. "Unitary connection" usually refers to an unknown number of individual synapses connecting a presynaptic neuron to a postsynaptic neuron. The amplitude of postsynaptic potentials (PSPs) can be as low as 0.4mV to as high as 20mV.[18] The amplitude of a PSP can be modulated by neuromodulators or can change as a result of previous activity. Changes in the synaptic strength can be short-term, lasting seconds to minutes, or long-term (long-term potentiation, or LTP), lasting hours. Learning and memory are believed to result from long-term changes in synaptic strength, via a mechanism known as synaptic plasticity.
+
+
+Receptor desensitization
+
+Desensitization of the postsynaptic receptors is a decrease in response to the same neurotransmitter stimulus. It means that the strength of a synapse may in effect diminish as a train of action potentials arrive in rapid succession – a phenomenon that gives rise to the so-called frequency dependence of synapses. The nervous system exploits this property for computational purposes, and can tune its synapses through such means as phosphorylation of the proteins involved.
+
+
+Synaptic plasticity
+
+Synaptic transmission can be changed by previous activity. These changes are called synaptic plasticity and may result in either a decrease in the efficacy of the synapse, called depression, or an increase in efficacy, called potentiation. These changes can either be long-term or short-term. Forms of short-term plasticity include synaptic fatigue or depression and synaptic augmentation. Forms of long-term plasticity include long-term depression and long-term potentiation. Synaptic plasticity can be either homosynaptic (occurring at a single synapse) or heterosynaptic (occurring at multiple synapses).
+
+Homosynaptic plasticity
+
+Homosynaptic Plasticity (or also homotropic modulation) is a change in the synaptic strength that results from the history of activity at a particular synapse. This can result from changes in presynaptic calcium as well as feedback onto presynaptic receptors, i.e. a form of autocrine signaling. Homosynaptic plasticity can affect the number and replenishment rate of vesicles or it can affect the relationship between calcium and vesicle release. Homosynaptic plasticity can also be postsynaptic in nature. It can result in either an increase or decrease in synaptic strength.
+
+One example is neurons of the sympathetic nervous system (SNS), which release noradrenaline, which, besides affecting postsynaptic receptors, also affects presynaptic α2-adrenergic receptors, inhibiting further release of noradrenaline.[19] This effect is utilized with clonidine to perform inhibitory effects on the SNS.
+
+Heterosynaptic plasticity
+
+Heterosynaptic Plasticity (or also heterotropic modulation) is a change in synaptic strength that results from the activity of other neurons. Again, the plasticity can alter the number of vesicles or their replenishment rate or the relationship between calcium and vesicle release. Additionally, it could directly affect calcium influx. Heterosynaptic plasticity can also be postsynaptic in nature, affecting receptor sensitivity.
+
+One example is again neurons of the sympathetic nervous system, which release noradrenaline, which, in addition, generates an inhibitory effect on presynaptic terminals of neurons of the parasympathetic nervous system.[20]
+
+
+Integration of synaptic inputs
+
+In general, if an excitatory synapse is strong enough, an action potential in the presynaptic neuron will trigger an action potential in the postsynaptic cell. In many cases the excitatory postsynaptic potential (EPSP) will not reach the threshold for eliciting an action potential. When action potentials from multiple presynaptic neurons fire simultaneously, or if a single presynaptic neuron fires at a high enough frequency, the EPSPs can overlap and summate. If enough EPSPs overlap, the summated EPSP can reach the threshold for initiating an action potential. This process is known as summation, and can serve as a high pass filter for neurons.[21]
+
+On the other hand, a presynaptic neuron releasing an inhibitory neurotransmitter, such as GABA, can cause an inhibitory postsynaptic potential (IPSP) in the postsynaptic neuron, bringing the membrane potential farther away from the threshold, decreasing its excitability and making it more difficult for the neuron to initiate an action potential. If an IPSP overlaps with an EPSP, the IPSP can in many cases prevent the neuron from firing an action potential. In this way, the output of a neuron may depend on the input of many different neurons, each of which may have a different degree of influence, depending on the strength and type of synapse with that neuron. John Carew Eccles performed some of the important early experiments on synaptic integration, for which he received the Nobel Prize for Physiology or Medicine in 1963.
+
+
+Volume transmission
+
+When a neurotransmitter is released at a synapse, it reaches its highest concentration inside the narrow space of the synaptic cleft, but some of it is certain to diffuse away before being reabsorbed or broken down. If it diffuses away, it has the potential to activate receptors that are located either at other synapses or on the membrane away from any synapse. The extrasynaptic activity of a neurotransmitter is known as _volume transmission_.[22] It is well established that such effects occur to some degree, but their functional importance has long been a matter of controversy.[23]
+
+Recent work indicates that volume transmission may be the predominant mode of interaction for some special types of neurons. In the mammalian cerebral cortex, a class of neurons called neurogliaform cells can inhibit other nearby cortical neurons by releasing the neurotransmitter GABA into the extracellular space.[24] Along the same vein, GABA released from neurogliaform cells into the extracellular space also acts on surrounding astrocytes, assigning a role for volume transmission in the control of ionic and neurotransmitter homeostasis.[25] Approximately 78% of neurogliaform cell boutons do not form classical synapses. This may be the first definitive example of neurons communicating chemically where classical synapses are not present."[26]
+
+
+Relationship to electrical synapses
+
+An electrical synapse is an electrically conductive link between two abutting neurons that is formed at a narrow gap between the pre- and postsynaptic cells, known as a gap junction. At gap junctions, cells approach within about 3.5 nm of each other, rather than the 20 to 40 nm distance that separates cells at chemical synapses.[27][28] As opposed to chemical synapses, the postsynaptic potential in electrical synapses is not caused by the opening of ion channels by chemical transmitters, but rather by direct electrical coupling between both neurons. Electrical synapses are faster than chemical synapses.[29] Electrical synapses are found throughout the nervous system, including in the retina, the reticular nucleus of the thalamus, the neocortex, and in the hippocampus.[30] While chemical synapses are found between both excitatory and inhibitory neurons, electrical synapses are most commonly found between smaller local inhibitory neurons. Electrical synapses can exist between two axons, two dendrites, or between an axon and a dendrite.[31][32] In some fish and amphibians, electrical synapses can be found within the same terminal of a chemical synapse, as in Mauthner cells.[33]
+
+
+Effects of drugs
+
+One of the most important features of chemical synapses is that they are the site of action for the majority of psychoactive drugs. Synapses are affected by drugs such as curare, strychnine, cocaine, morphine, alcohol, LSD, and countless others. These drugs have different effects on synaptic function, and often are restricted to synapses that use a specific neurotransmitter. For example, curare is a poison that stops acetylcholine from depolarizing the postsynaptic membrane, causing paralysis. Strychnine blocks the inhibitory effects of the neurotransmitter glycine, which causes the body to pick up and react to weaker and previously ignored stimuli, resulting in uncontrollable muscle spasms. Morphine acts on synapses that use endorphin neurotransmitters, and alcohol increases the inhibitory effects of the neurotransmitter GABA. LSD interferes with synapses that use the neurotransmitter serotonin. Cocaine blocks reuptake of dopamine and therefore increases its effects.
+
+
+History
+
+During the 1950s, Bernard Katz and Paul Fatt observed spontaneous miniature synaptic currents at the frog neuromuscular junction. Based on these observations, they developed the 'quantal hypothesis' that is the basis for our current understanding of neurotransmitter release as exocytosis and for which Katz received the Nobel Prize in Physiology or Medicine in 1970. In the late 1960s, Ricardo Miledi and Katz advanced the hypothesis that depolarization-induced influx of calcium ions triggers exocytosis.
+
+
+See also
+
+-   Acclimatisation (neurones)
+-   Neuroscience
+-   Ribbon synapse
+
+
+Notes
+
+
+References
+
+-   -   -   -   -   -   -   -
+
+
+External links
+
+-   Synapse Review for Kids
+-   Synapses Biologymad.com (2004)
+-   Synapse – Cell Centered Database
+-   Atlas of Ultrastructure Neurocytology A great electron microscope picture gallery assembled by Kristen Harris' lab of synapses and other neuronal structures.
+
+Category:Cell signaling Category:Signal transduction Category:Articles containing video clips Category:Neural synapse
+
+[1]
+
+[2]
+
+[3] Brain Facts and Figures Washington University.
+
+[4]
+
+[5]
+
+[6]
+
+[7]
+
+[8]
+
+[9]
+
+[10]
+
+[11]
+
+[12] Craig C. Garner and Kang Shen. Structure and Function of Vertebrate and Invertebrate Active Zones. Structure and Functional Organization of the Synapse. Ed: Johannes Hell and Michael Ehlers. Springer, 2008.
+
+[13]
+
+[14]
+
+[15]
+
+[16] Sherwood L., stikawy (2007). Human Physiology 6e: From Cells to Systems
+
+[17]
+
+[18]
+
+[19]
+
+[20]
+
+[21]
+
+[22]
+
+[23]
+
+[24]
+
+[25]
+
+[26]
+
+[27]
+
+[28]
+
+[29]
+
+[30]
+
+[31]
+
+[32]
+
+[33]

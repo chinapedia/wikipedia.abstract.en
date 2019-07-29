@@ -1,0 +1,150 @@
+The AGM-88 HARM (High-speed Anti-radiation Missile) is a tactical, air-to-surface anti-radiation missile designed to home in on electronic transmissions coming from surface-to-air radar systems. It was originally developed by Texas Instruments as a replacement for the AGM-45 Shrike and AGM-78 Standard ARM system. Production was later taken over by Raytheon Corporation when it purchased the defense production business of Texas Instruments.
+
+
+Description
+
+The AGM-88 can detect, attack and destroy a radar antenna or transmitter with minimal aircrew input. The proportional guidance system that homes in on enemy radar emissions has a fixed antenna and seeker head in the missile's nose. A smokeless, solid-propellant, booster-sustainer rocket motor propels the missile at speeds over Mach 2.0. The HARM missile was a program led by the U.S. Navy, and it was first carried by the A-6E, A-7, and F/A-18A/B aircraft, and then it equipped the EA-6B aircraft. RDT&E for use on the F-14 aircraft was begun, but not completed. The U.S. Air Force (USAF) put the HARM onto the F-4G Wild Weasel aircraft, and later on specialized F-16s equipped with the HARM Targeting System (HTS). The HTS pod, used by the USAF, only, allows F-16 to detect and automatically target radars with HARMs instead of relying on the missile's sensors alone.
+
+
+History
+
+Deployment
+
+The HARM missile was approved for full production in March 1983, obtained initial operating capability (IOC) on the A-7E Corsair II in late 1983 and then deployed in late 1985 with VA-46 aboard the aircraft carrier USS _America_. In 1986, the first successful firing of the HARM from an EA-6B was performed by VAQ-131. It was soon used in combat—in March 1986 against a Libyan SA-5 site in the Gulf of Sidra, and then during Operation Eldorado Canyon in April. HARM was used extensively by the Navy, Marine Corps, and the Air Force in Operation Desert Storm during the Persian Gulf War of 1991.
+
+During the Gulf War, the HARM was involved in a friendly fire incident when the pilot of an F-4G Wild Weasel escorting a B-52 bomber mistook the latter's tail gun radar for an Iraqi AAA site. (This was after the tail gunner of the B-52 had targeted the F-4G, mistaking it for an Iraqi MiG.) The F-4 pilot launched the missile and then saw that the target was the B-52, which was hit. It survived with shrapnel damage to the tail and no casualties. The B-52 was subsequently renamed _In HARM's Way_.[1]
+
+"Magnum" is spoken over the radio to announce the launch of an AGM-88.[2] During the Gulf War, if an aircraft was illuminated by enemy radar a bogus "Magnum" call on the radio was often enough to convince the operators to power down.[3] This technique would also be employed in Serbia during air operations in 1999.
+
+In 2013 President Obama offered the AGM-88 to Israel for the first time.[4]
+
+AGM-88E AARGM
+
+AGM-88E_HARM_p1230047.jpg
+
+The newest upgrade, the _AGM-88E Advanced Antiradiation Guided Missile (AARGM),_ features the latest software, enhanced capabilities intended to counter enemy radar shutdown, and passive radar using an additional active millimeter-wave seeker. It was released in November 2010, and it is a joint venture by the US Department of Defense and the Italian Ministry of Defense, produced by Orbital ATK.
+
+In November 2005, the Italian Ministry of Defense and the U.S. Department of Defense signed a Memorandum of Agreement on the joint development of the AGM-88E AARGM missile. Italy was providing $20 million of developmental funding as well as several million dollars worth of material, equipment, and related services. The Italian Air Force was expected to buy up to 250 missiles for its Tornado ECR aircraft. A flight test program was set to integrate the AARGM onto Tornado ECR's weapon system.
+
+The U.S. Navy demonstrated the AARGM's capability during Initial Operational Test and Evaluation (IOT&E) in spring 2012 with live firing of 12 missiles. Aircrew and maintenance training with live missiles was completed in June.[5]
+
+The Navy authorized Full-Rate Production (FRP) of the AARGM in August 2012, with 72 missiles for the Navy and nine for the Italian Air Force to be delivered in 2013. A U.S. Marine Corps F/A-18 Hornet squadron will be the first forward-deployed unit with the AGM-88E.[6]
+
+In September 2013, ATK delivered the 100th AARGM to the U.S. Navy. The AGM-88E program is on schedule and on budget, with Full Operational Capability (FOC) planned for September 2014.[7] The AGM-88E was designed to improve the effectiveness of legacy HARM variants against fixed and relocatable radar and communications sites, particularly those that would shut down to throw off anti-radiation missiles, by attaching a new seeker to the existing Mach 2-capable rocket motor and warhead section, adding a passive anti-radiation homing receiver, satellite and inertial navigation system, a millimeter-wave radar for terminal guidance, and the ability to beam up images of the target via a satellite link just seconds before impact.[8]
+
+This model of the HARM will be integrated onto the F/A-18C/D, F/A-18E/F, EA-18G, and Tornado ECR aircraft, and later on the F-35.[9]
+
+In September 2015, the AGM-88E successfully hit a mobile ship target in a live-fire test, demonstrating the missile's ability to use antiradiation homing and millimeter-wave radar to detect, identify, locate, and engage moving targets.[10]
+
+AGM-88F HCSM
+
+Although the U.S. chose the Orbital ATK-produced AGM-88E, Raytheon created its own version of the AARGM called the AGM-88F HARM Control Section Modification (HCSM), one which incorporates similar upgrade features, which could allow the company to offer their missile for export.[11]
+
+AGM-88G AARGM-ER
+
+The Navy's FY 2016 budget included funding for an extended range AARGM-ER that utilizes the existing guidance system and warhead of the AGM-88E with a solid integrated rocket-ramjet for double the range. Development funding will last to 2020.[12] In September 2016, Orbital ATK unveiled its extended-range AARGM-ER, which incorporates a redesigned control section and -diameter rocket motor for twice the range and internal carriage on the Lockheed Martin F-35 Lightning II.[13] The U.S. Navy awarded Orbital ATK an contract for AARGM-ER development in January 2018.[14]
+
+The AARGM-ER would serve as the basis for the land-attack Stand In Attack Weapon (SiAW).[15]
+
+
+Operators
+
+AGM-88_operators.png AIM-9_AIM-120_and_AGM-88_on_F-16C.jpg carrying an AIM-120 AMRAAM (top), AIM-9 Sidewinder (middle) and AGM-88 HARM ]]
+
+Current operators
+
+-   : AGM-88E variant ordered; to be used on EA-18G Growlers.[16] On 28 April 2017, the Defense Security Cooperation Agency stated that Australia intended to purchase 70 AGM-88B and 40 AGM-88E missiles.[17]
+
+-   -   [18]
+
+-   -   -   : AGM-88E variant.
+
+-   -   : AGM-88B/C variant.[19]
+
+-   -   -   [20]
+
+-   : AGM-88E variant.
+
+-   -   -   :
+
+    -   United States Air Force
+    -   United States Marine Corps[21]
+    -   United States Navy
+
+
+See also
+
+-   ALARM missile
+-   AGM-122 Sidearm
+-   Standard ARM
+-   Shrike missile
+-   Antiradiation missiles
+-   Chinese LD-10
+-   DRDO Anti-Radiation Missile
+-   MAR-1
+-   Kh-28
+-   Kh-58
+-   Kh-31
+-   List of missiles
+
+
+References
+
+Notes
+
+Bibliography
+
+-
+
+
+External links
+
+-   AGM-88 data sheet (PDF format) from Raytheon
+-   Information on AGM-88 HARM from FAS
+-   AGM-88 HARM information by Globalsecurity.org
+-   AGM-88@Designation-Systems
+-   AGM-88 HARM by Carlo Kopp
+
+Category:Anti-radiation missiles AGM-088 Category:Alliant Techsystems Category:Anti-radiation missiles of the Cold War AGM-088 Category:Raytheon products Category:Texas Instruments Category:Weapons of the United States
+
+[1]
+
+[2]
+
+[3]
+
+[4]
+
+[5]
+
+[6] Navy Approves Full Rate Production for New Anti-Radiation Missile - Strategicdefenseintelligence.com, August 30, 2012
+
+[7] ATK Delivers 100th Advanced Anti-Radiation Guided Missile (AARGM) to U.S. Navy - PRNewswire.com, 17 September 2013
+
+[8] US Navy extends Orbital ATK AGM-88E production - Flightglobal.com, 25 March 2016
+
+[9]
+
+[10] U.S. Navy tests upgraded missile - Upi.com, 23 September 2015
+
+[11] Raytheon’s HCSM anti-radiation missile upgrade completes key test - Flightglobal.com, 26 October 2015
+
+[12] F-35Cs Cut Back As U.S. Navy Invests In Standoff Weapons - Aviationweek.com, 3 February 2015
+
+[13]
+
+[14] Orbital ATK gets U.S. Navy Contract to Develop AARGM-ER - Navyrecognition.com, 24 January 2018
+
+[15]
+
+[16]
+
+[17]
+
+[18]
+
+[19]
+
+[20]
+
+[21]

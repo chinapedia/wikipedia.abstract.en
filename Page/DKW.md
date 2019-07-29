@@ -1,0 +1,224 @@
+DKW (_DAMPF-KRAFT-WAGEN_, , also _DEUTSCHE KINDER-WAGEN_ . _DAS-KLEINE-WUNDER_, or _DES-KNABEN-WUNSCH_, ) is a German car and motorcycle marque. DKW was one of the four companies that formed Auto Union in 1932 and is hence an ancestor of the modern day Audi company.[1]
+
+In 1916, Danish engineer Jørgen Skafte Rasmussen founded a factory in Zschopau, Saxony, Germany, to produce steam fittings. That year he attempted to produce a steam-driven car, called the DKW.[2] Although unsuccessful, he made a two-stroke toy engine in 1919, called _Des Knaben Wunsch_ – "the boy's wish". He put a slightly modified version of this engine into a motorcycle and called it _Das Kleine Wunder_[3] – "the little wonder" the initials from this becoming the DKW brand: by the late 1920s, DKW was the world's largest motorcycle manufacturer.
+
+In September 1924, DKW bought , saving them from Germany's hyperinflation economic crisis. Rudolf Slaby became chief-engineer at DKW.
+
+{{
+ cite web
+
+| title='Unfortunately the fledgling company was adversely hit by the German economic crisis and by 1924 was plunged into insolvency. Rasmussen saw an opportunity in Slaby-Beringer's crisis and offered to buy out the company. Both Slaby and Beringer took shares in the Rasmussen Group of companies and Slaby became the chief engineer at DKW's newly formed automobile division. By the time the company closed its doors in September 1924 2005 Elecrowagens had been built. The last 266 cars were powered by a DKW motorcycle engine mounted at the rear.'
+in
+dkwautounionproject.blogspot.com/2017/06/1919-slaby-beringer-elektrowagen.html
+from google (dkw slaby-beringer september1924) result 4
+from 'Aber auch dies half wenig und im Juni 1924 musste die SB-Automobil-Gesellschaft Konkurs anmelden. Insgesamt sind 2005 SB-Wagen gebaut worden, davon 266 mit DKW-Motor. Am 1. September 1924 wurde die Produktionsstätte in Berlin stillgelegt.'
+in
+de.wikipedia.org/wiki/Slaby-Beringer
+with translation-help from translate.google.com/#de/en | url=http://heinkelscooter.blogspot.com/2017/04/1919-slaby-beringer-elektrowagen.html
+
+ }}
+
+In 1932, DKW merged with Audi, Horch and Wanderer to form Auto Union.[4] After World War II, DKW moved to West Germany. The original factory became MZ.[5] Auto Union came under Daimler-Benz ownership in 1957 and was purchased by the Volkswagen Group in 1964. The last German-built DKW car was the F102, which ceased production in 1966. Its successor, the four-stroke F103, was marketed under the Audi brand, another Auto Union marque.
+
+DKW-badged cars continued to be built under license in Brazil and Argentina until 1967 and 1969 respectively. The DKW trademark is currently owned by Auto Union GmbH, a wholly owned subsidiary of Audi AG which also owns the rights to other historical trademarks and intellectual property of the Auto Union combine.
+
+
+Automobiles made between 1928 and 1942
+
+MHV_DKW_F1_1931_01.jpg DKW cars were made from 1928 until 1966, apart from the interruption caused by the Second World War. DKWs always used two-stroke engines, reflecting the company's position by the end of the 1920s as the world's largest producer of motorcycles. The first DKW car, the small and rather crude Typ P, emerged on 7 May 1928[6] and the model continued to be built at the company's Spandau (Berlin) plant, first as a roadster and later as a stylish if basic sports car, until 1931.
+
+More significant was a series of inexpensive cars built 300 km (185 miles) to the south in Zwickau in the plant acquired by the company's owner in 1928 when he had become the majority owner in Audi Werke AG.[7] Models F1 to F8 (F for Front) were built between 1931 and 1942, with successor models reappearing after the end of the war in 1945. They were the first volume production cars in Europe with front wheel drive, and were powered by transversely mounted two-cylinder two-stroke engines. Displacement was 584 or 692 cc: claimed maximum power was initially 15 PS, and from 1931 a choice between 18 or . These models had a generator that doubled as a starter, mounted directly on the crankshaft, known as a Dynastart.[8] DKWs from Zwickau notched up approximately 218,000 units between 1931 and 1942.[9] Most cars were sold on the home market and over 85% of DKWs produced in the 1930s were the little F series cars: DKW reached second place in German sales by 1934 and stayed there, accounting for 189,369 of the cars sold between 1931 and 1938, more than 16% of the market.[10]
+
+Between 1929 and 1940, DKW produced a less well remembered but technically intriguing series of rear-wheel drive cars called (among other names) _Schwebeklasse_ and _Sonderklasse_ with two-stroke V4 engines.[11] Engine displacement was 1,000 cc, later 1,100 cc. The engines had two extra cylinders for forced induction, so they appeared like V6 engines but without spark plugs on the front cylinder pair.
+
+In 1939, DKW made a prototype with the first three-cylinder engine, with a displacement of 900 cc and producing . With a streamlined body, the car could run at . It was put into production after World War II, first as an Industrieverband Fahrzeugbau (IFA) F9 (later Wartburg) in Zwickau, East Germany, and shortly afterwards in DKW-form from Düsseldorf as the 3=6 or F91.
+
+DKW engines were used by Saab as a model for the Saab two-stroke in its Saab 92 car manufacturing venture, in 1947.
+
+
+Automobiles made after 1945
+
+Osmo_Kalpala_-_1956_Rally_Finland.jpeg.]]
+
+As Auto Union was based in Saxony in what became the German Democratic Republic, it took some time for it to regroup after the war. The company was registered in West Germany as Auto Union GmbH in 1949, first as a spare-part provider, but soon to take up production of the RT 125 motorcycle and a new delivery van, called a _Schnellaster_ F800. Their first line of production took place in Düsseldorf. This van used the same engine as the last F8 made before the war.
+
+Their first car was the F89 using the body from the prototype F9 made before the war and the two-cylinder two-stroke engine from the last F8. Production went on until it was replaced by the successful three-cylinder engine that came with the F91. The F91 was in production 1953–1955, and was replaced by the larger F93 in 1956. The F91 and F93 had 900 cc three-cylinder two-stroke engines, the first ones delivering , the last . The ignition system comprised three independent sets of points and coils, one for each cylinder, with the points mounted in a cluster around a single lobed cam at the front end of the crankshaft. The cooling system was of the free convection type assisted by a fan driven from a pulley mounted at the front end of the crankshaft.
+
+The F93 was produced until 1959, and was replaced by the Auto-Union 1000. These models where produced with a 1,000 cc two-stroke engine, with a choice between or S versions until 1963. During this transition, production was moved from Düsseldorf to Ingolstadt, where Audi still has its production. From 1957, the cars could be fitted with a saxomat, an automatic clutch, the only small car then offering this feature. The last versions of the Auto-Union 1000S had disc brakes as option, an early development for this technology. A sporting 2+2 seater version was available as the Auto-Union 1000 SP from 1957 to 1964, the first years only as a coupé and from 1962 also as a convertible.
+
+In 1956, the very rare DKW Monza was put into small-scale production on a private initiative, with a sporting two-seater body of glassfiber on a standard F93 frame. It was first called Solitude, but got its final name from the long-distance speed records it made on the Autodromo Nazionale Monza in Italy in November 1956. Running in Fédération Internationale de l'Automobile (FIA) class G, it set records including 48 hours at an average speed of , 10,000 km at and 72 hours at . The car was first produced by in Stuttgart, then by Massholder in Heidelberg and lastly by Robert Schenk in Stuttgart. The number produced is said to be around 230 and production finished by the end of 1958. DKW_Junior_DeLuxe_1962.JPG
+
+A more successful range of cars was sold from 1959, the Junior/F12 series based on a modern concept from the late 1950s. The range consists of Junior (basic model) made from 1959 to 1961, Junior de Luxe (a little enhanced) from 1961 to 1963, F11 (a little larger) and F12 (larger and bigger engine) from 1963 to 1965, and F12 Roadster from 1964 to 1965. The Junior/F12 series became quite popular, and many cars were produced. An assembly plant was licensed in Ballincollig, co.cork, Ireland between 1952 and c.1964 and roughly 4,000 vehicles were assembled, ranging from saloons, vans and motorbikes to commercial combine harvesters. This was the only DKW factory outside Germany in Europe and for many years after its closure its large DKW sign could be visible on the wall of the factory. The building was demolished in the late 2000s and was redeveloped into the German Aldi store and a McDonalds drive-thru.
+
+All the three-cylinder two-stroke post-war cars had some sporting potential and formed the basis for many rally victories in the 1950s and early 1960s. This made DKW the most winning car brand in the European rally league for several years during the fifties.
+
+In 1960, DKW developed a V6 engine by combining two three-cylinder two-stroke engines, with a capacity of 1,000 cc. The capacity was increased and the final V6 in 1966 had a capacity of 1,300 cc, which developed at 5,000 rpm using the standard configuration with two carburettors. A four-carburettor version produced , a six-carburettor one . It weighed only . The V6 was planned to be used in the DKW Munga and the F102. About 100 engines were built for testing purposes and 13 DKW F102 and some Mungas were fitted with the V6 engine in the 1960s.[12]
+
+The last DKW was the F102, coming into production in 1964 as a replacement for the old-looking AU1000. However, the F102 sold poorly, largely due to its two-stroke engine technology which was at the limit of its development. Auto Union's parent, Daimler-Benz, decided to offload the company to Volkswagen. The car was re-engineered with a four-stroke engine and relaunched as the Audi F103. This marked the end of the DKW marque for cars, and the rebirth of the Audi name.
+
+From 1956 to 1961, Dutch importer Hart, Nibbrig & Greve assembled cars in an abandoned asphalt factory in Sassenheim, where they employed about 120 workers, two transporter, that collected SKD kits from Duesseldorf and build about 13.500 cars. When the DKW plant moved the import of SKD kits stopped, as it became too expensive.[13]
+
+
+DKW in South America
+
+From 1956 to 1967, DKW cars were made in Brazil by the local company Vemag (_Veículos e Máquinas Agrícolas S.A._, "Vehicles and Agricultural Machinery Inc.").[14] Vemag was assembling Scania-Vabis trucks, but Scania Vabis became an independent company in July 1960.[15] The original plans were to build the Candango off-roader (Munga), a utility vehicle and a four-door sedan, called Vemaguet and Belcar respectively. The first model built was the 900 cc F91 Universal but the Belcar and Vemaguet names were applied later. 1967_DKW-Vemag_Belcar.jpg
+
+In 1958, the F94 four-door sedan and station wagon were launched, in the early 1960s renamed Belcar and Vemaguet. The company also produced a luxury coupe (the DKW Fissore) and the off-road Munga (locally called Candango). In 1960 Vemag cars received the larger one-litre, engine from the Auto Union 1000.[16]
+
+Vemag had a successful official racing team, with the coupe GT Malzoni, with fiberglass body. This project was the foundation of the long-lasting Brazilian sports car brand Puma. The Brazilian F94 line has been improved with several cosmetic changes and became more and more different from the German and Argentine models. Vemag had no capital to invest in new products and came under governmental pressure to merge. In 1964-1965 Volkswagen gradually took over Auto Union, a minority holder in Vemag, and in 1967 Volkswagen bought the remainder of the stock.[17] VW quickly began phasing out DKW-Vemag production and introduced the Volkswagen 1600 sedan to the old Vemag plant, after a total of 109,343 DKW-Vemag cars had been built.[18][19]
+
+DKW vehicles were made in Argentina from 1960 to 1969 by IASF S.A. (Industria Automotriz Santa Fe Sociedad Anónima) in Sauce Viejo, Santa Fe. The most beautiful were the Cupé Fissore, which had many famous owners (Julio Sosa, César Luis Menotti, and others). Other models are the Auto Union 1000 S Sedán (21,797 made until 1969) and the Auto Union 1000 Universal S (6,396 made until 1969).[20] and the Auto Union Combi/Pick-up. The last version of the Auto Union Combi/Pick-up (DKW F1000 L), launched in 1969, survived a few months and was bought out by IME, which continued production until 1979.[21]
+
+  ----------------------- ---------------------
+  DKW-Vemag_Fissore.jpg   GT_Malzoni_1966.jpg
+  ----------------------- ---------------------
+
+
+Vans and utility vehicles
+
+DKW_F_91-4.jpg The DKW Munga was built by Auto Union in Ingolstadt. Production began in October 1956 and ended in December 1968, with 46,750 cars built.
+
+From 1949 to 1962, DKW produced the _Schnellaster_ with a trailing-arm rear suspension system with springs in the cross bar assembly. Spanish subsidiary IMOSA produced a modern successor introduced in 1963, the DKW F 1000 L. This van started with the three-cylinder 1,000 cc engine, but later received a Mercedes-Benz Diesel engine and was renamed a Mercedes-Benz in 1975.
+
+
+Motorcycles
+
+DKW_192X.jpg
+
+During the late 1920s and until WWII broke out, DKW was the world's largest motorcycle manufacturer[22] and the pioneer of front wheel drive automobiles with their DKW Front,[23] along with the Citroen Traction Avant. In 1931, Arnold Zoller started building split-singles and this concept made DKW the dominant racing motorcycle in the Lightweight and Junior classes between the wars.[24] This included off-road events like the International Six Days Trial where the marque scored some considerable inter-war year successes alongside Bavarian Motor Works At the same time, the company also had some success with super-charged racing motorcycles which because of their light weight were particularly successful in the ISDT[25]
+
+The motorcycle branch produced famous models such as the RT 125 pre- and post-World War II, and after the war with production at the original factory in GDR becoming MZ[26] it made 175, 250 and 350 (cc) models. As war reparations, the design drawings of the RT125 were given to Harley-Davidson in the US and BSA in the UK. The Harley-Davidson version was known loosely as the Hummer ( Hummer is really just a few specific years, but generally people call the Harley lightweights Hummers ), while BSA used them for the Bantam. IFA and later MZ models continued in production until the 1990s, when economics brought production of the two stroke to an end. Other manufacturers copied the DKW design, officially or otherwise. This can be seen in the similarity of many small two-stroke motorcycles from the 1950s, including from Yamaha, Voskhod, Maserati, and Polish WSK.
+
+
+Cars
+
+Pre-war production
+
+DKW_F8_Meisterklasse.JPG
+
+-   DKW Typ P (1928–1931)
+-   DKW Typ 4=8 (1929–1940)
+-   DKW F1 (1931–1932)
+-   DKW F2 (1932–1935)
+-   DKW F4 (1934–1935)
+-   DKW F5 (1935–1937)
+-   DKW F7 (1937–1938)
+-   DKW F8 (1939–1942)
+-   DKW F9 prototype (1939)
+
+Post-war
+
+DKW-F12-Baujahr1965.jpg
+
+-   DKW Schnellaster van (1949–1962)
+-   DKW F10 (1950)
+-   DKW F89 (1950–1954)
+-   DKW 3=6 (F91/F93/F94) (1953–1959)
+-   DKW Monza (1956–1958)
+-   DKW Munga off-road (1956–1968)
+-   DKW Junior (F11/F12) (1959–1965)[27]
+-   DKW F102 (1963–1966)
+
+
+Motorcycles and scooters
+
+DKW_Super_Sport_500.jpg
+
++----------------------------------+------------------+--------------------------------+
+| -   DKW ARE 175                  | -   DKW RT 100   | -   DKW SB 500                 |
+| -   DKW Golem (_Sesselmotorrad_) | -   DKW RT 125   | -   DKW Sport 250              |
+| -   DKW Hobby-Roller             | -   DKW RT 175   | -   DKW SS 500 (water-cooled)  |
+| -   DKW Hummel                   | -   DKW RT 200   | -   DKW SS 600 (water-cooled)  |
+| -   DKW KM 200                   | -   DKW RT 200H  | -   DKW ZS 500                 |
+| -   DKW KS 200                   | -   DKW RT 250/2 | -   DKW ZSW 500 (water-cooled) |
+| -   DKW NZ 250                   | -   DKW RT 250 H | -   DKW Hercules (Wankel)      |
+| -   DKW NZ 350                   | -   DKW RT 350 S |                                |
+| -   DKW NZ 500                   | -   DKW SB 200   |                                |
+| -   DKW ORE 250                  | -   DKW SB 350   |                                |
++----------------------------------+------------------+--------------------------------+
+
+File:DKW 97ccm 1939.JPG|DKW (1939) File:DKW 198ccm 1940.jpg|DKW (1940) File:DKW 1950-1.jpg|DKW RT 125 W (1950) File:DKW RT200 9,2PS 1952.jpg|DKW RT 200 (1952) File:DKW RT175-1 174ccm 1955.JPG|DKW RT 175 S (1955) File:DKW Hummel.JPG|DKW Hummel File:Express T.Sport DKW.JPG|Express T. Sport (DKW-Motor) File:ZweiRadMuseumNSU DKW Hobby.JPG|DKW Motorroller _Hobby_ of 1954 in the _Deutsches Zweirad- und NSU-Museum_
+
+
+See also
+
+-   Eucort
+-   List of automobile manufacturers of Germany
+
+
+Notes
+
+
+References
+
+-   -   -   Siegfried Rauch Hrsg. von Frank Rönicke: _DKW – Geschichte einer Weltmarke_. Motorbuch-Verlag, Stuttgart 2007, .
+-   Thomas Erdmann: _Vom Dampfkraftwagen zur Meisterklasse – Die Geschichte der DKW Automobile 1907–1945_. autovision, Hamburg 2003, .
+-   Peter Kurze: _DKW Meisterklasse – Ein Wagen für die ganze Welt_. Delius Klasing, Bielefeld 2005, .
+-   -   -   -   Harald Linz, Halwart Schrader: _Die Internationale Automobil-Enzyklopädie_. United Soft Media Verlag, München 2008, .
+
+
+External links
+
+-   UK-based official Wartburg, Trabant and IFA owners' club
+-   AUTO UNION Sales Brochures 1939
+-   DKW Owners' Club
+-   DKW Motorcycle Club
+-   _Die Meisterdinger von Nürnberg_ – DKW webpages
+-   _DKW & Auto Union History_
+-   The Long History of Reverse-Cylinder Engine Designs - motocrossactionmag.com
+
+Dampf-Kraft-Wagen Category:Audi Category:Auto Union Category:Companies disestablished in 1966 Category:Defunct motor vehicle manufacturers of Germany Category:Motorcycle manufacturers of Germany Category:Vehicle manufacturing companies established in 1916 Category:Volkswagen Group
+
+[1]
+
+[2] Odin, L.C. _World in Motion 1939 - The whole of the year's automobile production_. Belvedere Publishing, 2015. ASIN: B00ZLN91ZG.
+
+[3]
+
+[4]
+
+[5]
+
+[6] Oswald, p 86
+
+[7] Oswald, p 85
+
+[8] Oswald, p 94 - 103
+
+[9]
+
+[10] Oswald, p 531
+
+[11] Oswald, p 87
+
+[12]
+
+[13] Autokampioen 25/26 2007 "Made in Holland" by Yop Segers
+
+[14]
+
+[15]
+
+[16]
+
+[17] Shapiro, p. 935
+
+[18]
+
+[19]
+
+[20]
+
+[21]
+
+[22] http://bikelinks.com/directory/Classic_Motorcycles/A_to_Z/D/DKW/http://www.audi.com/corporate/en/company/history/models/
+
+[23]
+
+[24]
+
+[25] ISDT award winning DKW 246cc 1935 .
+
+[26]
+
+[27] Michael Sedgwick & Mark Gillies, A-Z of Cars 1945-1970, page 54

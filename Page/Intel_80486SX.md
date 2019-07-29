@@ -1,0 +1,36 @@
+Intel_i486_sx_25mhz_2007_03_27b.jpg
+
+Intel's I486SX was a modified Intel 486DX microprocessor with its floating-point unit (FPU) disabled. It was intended as a lower-cost CPU for use in low-end systems. Computer manufacturers that used these processors include Packard Bell, Compaq, ZEOS and IBM.
+
+
+Overview
+
+In the early 1990s, common applications did not need or benefit from an FPU. Among the rare exceptions were CAD applications, which could often simulate floating point operations in software, but benefited from a hardware floating point unit immensely. AMD had begun manufacturing its 386DX clone which was faster than Intel's. To respond to this new situation Intel wanted to provide a lower cost i486 CPU for system integrators, but without sacrificing the better profit margins of a "full" i486. This was accomplished through a debug feature called Disable Floating Point (DFP), by grounding a certain bond wire in the CPU package. The i486SX was introduced in mid-1991, 18 months after the i486DX. Later (late 1992) versions of the i486SX had the FPU entirely removed for cost cutting reasons.[1]
+
+Some systems allowed the user to upgrade the i486SX to a CPU with the FPU enabled. The upgrade was shipped as the i487, which was a full blown i486DX chip with an extra pin. The extra pin prevents the chip from being installed incorrectly. The NC# pin, one of the standard 168 pins, was used to shut off the i486SX.[2] Although i486SX devices were not used at all when the i487 was installed, they were hard to remove because the i486SX was typically installed in non-ZIF sockets or in a plastic package that was surface mounted on the motherboard.
+
+
+Gallery
+
+File:I486sx.jpg%7CPin side of an Intel i486 SX File:KL_Intel_i486SX_PQFP.jpg%7CEmbedded i486SX (SQFP version). File:Intel i486SX-25.jpg|BQFP version.
+
+
+References
+
+
+External links
+
+-   Intel 80486SX images and descriptions at cpu-collection.de
+
+INTEL DATASHEETS
+
+-   Embedded i486SX
+-   Embedded Ultra-Low Power i486SX
+
+de:Intel i486#i486SX
+
+80486Sx
+
+[1]
+
+[2]

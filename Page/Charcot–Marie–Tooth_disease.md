@@ -1,0 +1,154 @@
+CHARCOT–MARIE–TOOTH DISEASE (CMT) is one of the hereditary motor and sensory neuropathies, a group of varied inherited disorders of the peripheral nervous system characterized by progressive loss of muscle tissue and touch sensation across various parts of the body. Currently incurable, this disease is the most commonly inherited neurological disorder, and affects about one in 2,500 people.[1][2] CMT was previously classified as a subtype of muscular dystrophy.[3]
+
+
+Signs and symptoms
+
+Symptoms of CMT usually begin in early childhood or early adulthood, but can begin later. Some people do not experience symptoms until their early 30s or 40s. Usually, the initial symptom is foot drop early in the course of the disease. This can also cause hammer toe, where the toes are always curled. Wasting of muscle tissue of the lower parts of the legs may give rise to a "stork leg" or "inverted champagne bottle" appearance. Weakness in the hands and forearms occurs in many people as the disease progresses.
+
+Loss of touch sensation in the feet, ankles, and legs, as well as in the hands, wrists, and arms occurs with various types of the disease. Early- and late-onset forms occur with 'on and off' painful spasmodic muscular contractions that can be disabling when the disease activates. High-arched feet (pes cavus) or flat-arched feet (pes planus) are classically associated with the disorder.[4] Sensory and proprioceptive nerves in the hands and feet are often damaged, while unmyelinated pain nerves are left intact. Overuse of an affected hand or limb can activate symptoms including numbness, spasm, and painful cramping.
+
+Symptoms and progression of the disease can vary. Involuntary grinding of teeth and squinting are prevalent, and often go unnoticed by the person affected. Breathing can be affected in some, as can hearing, vision, and neck and shoulder muscles. Scoliosis is common, causing hunching and loss of height. Hip sockets can be malformed. Gastrointestinal problems can be part of CMT,[5][6] as can difficulty chewing, swallowing, and speaking (due to atrophy of vocal cords).[7] A tremor can develop as muscles waste. Pregnancy has been known to exacerbate CMT, as well as severe emotional stress. Patients with CMT must avoid periods of prolonged immobility such as when recovering from a secondary injury, as prolonged periods of limited mobility can drastically accelerate symptoms of CMT.[8]
+
+Pain due to postural changes, skeletal deformations, muscle fatigue, and cramping is fairly common in people with CMT. It can be mitigated or treated by physical therapies, surgeries, and corrective or assistive devices. Analgesic medications may also be needed if other therapies do not provide relief from pain.[9] Neuropathic pain is often a symptom of CMT, though, like other symptoms of CMT, its presence and severity vary from case to case. For some people, pain can be significant to severe and interfere with daily life activities. However, pain is not experienced by all people with CMT. When neuropathic pain is present as a symptom of CMT, it is comparable to that seen in other peripheral neuropathies, as well as postherpetic neuralgia and complex regional pain syndrome, among other diseases.[10]
+
+
+Causes
+
+Human_male_karyotpe_high_resolution_-_Chromosome_17_cropped.png]] Charcot–Marie–Tooth disease is caused by mutations that cause defects in neuronal proteins. Nerve signals are conducted by an axon with a myelin sheath wrapped around it. Most mutations in CMT affect the myelin sheath, but some affect the axon.
+
+CMT is a heterogeneous disease. It divided into the primary demyelinating neuropathies (CMT1, CMT3, and CMT4) and the primary axonal neuropathies (CMT2), with frequent overlap.
+
+Chromosome 17
+
+The most common cause of CMT (70–80% of the cases) is the duplication of a large region on the short arm of chromosome 17 that includes the gene _PMP22_. Some mutations affect the gene _MFN2_, which codes for a mitochondrial protein. Cells contain separate sets of genes in their nuclei and mitochondria. In nerve cells, the mitochondria travel down the long axons. In some forms of CMT, mutated _MFN2_ causes the mitochondria to form large clusters, or clots, which are unable to travel down the axon towards the synapses. This prevents the synapses from functioning.[11]
+
+X linked CMT and Schwann cells
+
+CMT can also be produced by X-linked mutations, and is named X-linked CMT (CMTX). In CMTX, mutated connexons create non-functional gap junctions that interrupt molecular exchange and signal transport.[12][13][14]
+
+The mutation can appear in GJB1 coding for connexin 32, a gap junction protein expressed in Schwann cells. In these cases, being present this protein also in oligodendrocytes, demyelination can appear in the CNS.[15]
+
+Schwann cell create the myelin sheath, by wrapping its plasma membrane around the axon.[16]
+
+Neurons, Schwann cells, and fibroblasts work together to create a functional nerve. Schwann cells and neurons exchange molecular signals by gap junctions that regulate survival and differentiation.
+
+Demyelinating Schwann cells causes abnormal axon structure and function. They may cause axon degeneration, or they may simply cause axons to malfunction.[17]
+
+The myelin sheath allows nerve cells to conduct signals faster. When the myelin sheath is damaged, nerve signals are slower, and this can be measured by a common neurological test, electromyography. When the axon is damaged, though, this results in a reduced compound muscle action potential.[18]
+
+
+Diagnosis
+
+CMT can be diagnosed through symptoms, through measurement of the speed of nerve impulses (nerve conduction studies), through biopsy of the nerve, and through DNA testing. DNA testing can give a definitive diagnosis, but not all the genetic markers for CMT are known. CMT is first noticed when someone develops lower leg weakness, such as foot drop, or foot deformities, including hammertoes and high arches, but signs alone do not lead to diagnosis. Patients must be referred to a physician specialising in neurology or rehabilitation medicine. To see signs of muscle weakness, the neurologist asks patients to walk on their heels or to move part of their leg against an opposing force. To identify sensory loss, the neurologist tests for deep-tendon reflexes, such as the knee jerk, which are reduced or absent in CMT. The doctor also asks about family history, because CMT is hereditary. The lack of family history does not rule out CMT, but helps rule out other causes of neuropathy, such as diabetes or exposure to certain chemicals or drugs.[19]
+
+In 2010, CMT was one of the first diseases where the genetic cause of a particular patient's disease was precisely determined by sequencing the whole genome of an affected individual. This was done by the scientists employed by the Charcot Marie Tooth Association (CMTA)[20][21] Two mutations were identified in a gene, _SH3TC2_, known to cause CMT. Researchers then compared the affected patient's genome to the genomes of the patient's mother, father, and seven siblings with and without the disease. The mother and father each had one normal and one mutant copy of this gene, and had mild or no symptoms. The offspring who inherited two mutant genes presented fully with the disease.
+
+Histology
+
+Denervation_atrophy_-_atp94_-_intermed_mag.jpg atrophy of type II muscle fibers]] The constant cycle of demyelination and remyelination, which occurs in CMT, can lead to the formation of layers of myelin around some nerves, termed an "onion bulb". These are also seen in chronic inflammatory demyelinating polyneuropathy.[22] Muscles show fiber type grouping, a similarly nonspecific finding that indicates a cycle of denervation/reinnervation. Normally, type I and type II muscle fibers show a checkerboard-like random distribution. However, when reinnervation occurs, the group of fibers associated with one nerve are of the same type. The standard for indicating fiber type is histoenzymatic adenosine triphosphatase (ATPase at pH 9.4).[23]
+
+Classification
+
+CMT is a result of genetic mutations in a number of genes.[24] Based on the affected gene, CMT can be categorized into types and subtypes.[25]
+
+
+Management
+
+Ankle_Foot_Orthosis_leg_brace_worn_on_the_left_foot_with_ankle_hinge.jpg]] Often, the most important goal for patients with CMT is to maintain movement, muscle strength, and flexibility. Therefore, an interprofessional team approach with occupational therapy, physical therapy, orthotist, podiatrist, and or orthopedic surgeon is recommended.[26] PT typically focuses on muscle-strength training, muscle stretching, and aerobic exercise, while OT can provide education on energy conservation strategies and activities of daily living. Physical therapy should be involved in designing an exercise program that fits a person's personal strengths and flexibility. Bracing can also be used to correct problems caused by CMT. An orthotist may address gait abnormalities by prescribing the use of ankle-foot orthoses. These orthoses help control foot drop and ankle instability and often provide a better sense of balance for patients. Appropriate footwear is also very important for people with CMT, but they often have difficulty finding well-fitting shoes because of their high arched feet and hammer toes. Due to the lack of good sensory reception in the feet, CMT patients may also need to see a podiatrist for help in trimming nails or removing calluses that develop on the pads of the feet. A final decision a patient can make is to have surgery. Using a podiatrist or an orthopedic surgeon, patients can choose to stabilize their feet or correct progressive problems. These procedures include straightening and pinning the toes, lowering the arch, and sometimes, fusing the ankle joint to provide stability.[27] CMT patients must take extra care to avoid falling because fractures take longer to heal in someone with an underlying disease process. Additionally, the resulting inactivity may cause the CMT to worsen.[28]
+
+The Charcot–Marie–Tooth Association classifies the chemotherapy drug vincristine as a "definite high risk" and states, "vincristine has been proven hazardous and should be avoided by all CMT patients, including those with no symptoms."[29]
+
+Also, several corrective surgical procedures can be done to improve physical condition.[30]
+
+
+Prognosis
+
+The severity of symptoms varies widely even for the same type of CMT. Cases of monozygotic twins with varying levels of disease severity have been reported, showing that identical genotypes are associated with different levels of severity (see penetrance). Some patients are able to live a normal life and are almost or entirely asymptomatic.[31] A 2007 review stated that, "life expectancy is not known to be altered in the majority of cases."[32]
+
+
+History
+
+The disease is named after those who classically described it: Jean-Martin Charcot (1825–1893), his pupil Pierre Marie (1853–1940) (), and Howard Henry Tooth (1856–1925) ("The peroneal type of progressive muscular atrophy", dissertation, London, 1886.)
+
+
+See also
+
+-   Palmoplantar keratoderma and spastic paraplegia
+-   Hereditary motor and sensory neuropathies
+-   Hereditary motor neuropathies
+-   Low copy repeats
+-   _Christina's World_
+
+
+References
+
+
+External links
+
+-
+
+Category:Peripheral nervous system disorders Category:Cytoskeletal defects Category:Syndromes affecting the nervous system
+
+[1]
+
+[2]
+
+[3]
+
+[4]
+
+[5]
+
+[6]
+
+[7]
+
+[8]
+
+[9]
+
+[10]
+
+[11]
+
+[12]
+
+[13]
+
+[14]
+
+[15] Georgios Koutsi et al. X linked Charcot-Marie-Tooth disease and multiple sclerosis: emerging evidence for an association, Neurogenetics, doi: http://dx.doi.org/10.1136/jnnp-2018-319014
+
+[16]
+
+[17]
+
+[18]
+
+[19]
+
+[20]
+
+[21]
+
+[22]
+
+[23]
+
+[24] Hoyle JC, Isfort MC, Roggenbuck J, Arnold WD (2015) The genetics of Charcot–Marie–Tooth disease: current trends and future implications for diagnosis and management. _Appl Clin Genet_ 8 ():235-43.
+
+[25]
+
+[26]  National Institute of Neurological Disorders and Stroke|url=https://www.ninds.nih.gov/Disorders/Patient-Caregiver-Education/Fact-Sheets/Charcot-Marie-Tooth-Disease-Fact-Sheet%7Cwebsite=www.ninds.nih.gov%7Caccessdate=24 July 2017}}
+
+[27]
+
+[28]
+
+[29]
+
+[30] Anand N, Levine, DB, Burke S, Bansal M. Neuopathic spinal atrophy in Charcot–Marie–Tooth disease. J Bone Joint Surg. 1997; 79-A:1235–39.
+
+[31]
+
+[32]

@@ -1,0 +1,141 @@
+Port_Moresby_parliament_building_front,_by_Steve_Shattuck.jpg]] Port_Moresby_parliament_building_side,_by_Steve_Shattuck.jpg The POLITICS OF PAPUA NEW GUINEA takes place in a framework of a parliamentary representative democratic multi-party system, whereby the Prime Minister is the head of government. Papua New Guinea is an independent Commonwealth realm, with a governor-general, nominated by the National Parliament, acting as head of state. Executive power is exercised by the government. Legislative power is vested in both the government and parliament.
+
+Constitutional safeguards include freedom of speech, press, worship, movement, and association. The judiciary is independent of the executive and the legislature.
+
+
+Executive branch
+
+The Head of the Commonwealth, or simply _Queen of Papua New Guinea_, is represented in Papua New Guinea by a governor general who acts on the advice of the prime minister and the cabinet. The Governor-General of Papua New Guinea is elected by parliament.
+
+The governments of Papua New Guinea are characterized by weak political parties and highly unstable parliamentary coalitions. The prime minister, elected by Parliament, chooses the other members of the cabinet. Each ministry is headed by a cabinet member, who is assisted by a permanent secretary, a career public servant, who directs the staff of the ministry. The cabinet consists of members, including the Prime Minister and ministers of executive departments. They answer politically to the parliament.
+
+The Governor General appoints the Chief Justice of the Supreme Court on the advice of the Prime Minister and the Leader of the Opposition. The Governor General appoints the other justices with the advice of a judicial commission. The Judicial Committee of the Privy Council (based in the United Kingdom) serves as the highest appellate court.
+
+|Monarch |Elizabeth II | |16 September 1975 |- |Governor-General |Bob Dadae | |28 February 2017 |- |Prime Minister |James Marape |Pangu Party |30 May 2019[1] |}
+
+
+Legislative branch
+
+Papua New Guinea has a unicameral National Parliament, previously known as the House of Assembly. It has 109 seats, with 89 elected from single-member "Open" electorates and 20 from province-level "Provincial" electorates. Members are elected by popular vote to serve five-year terms. The most recent election was held in June–July 2017.
+
+Members of Parliament are elected from the nineteen provinces and the National Capital District. After independence in 1975, members were elected by the first past the post system, with winners frequently gaining less than 15% of the vote. Electoral reforms in 2001 introduced the Limited Preferential Vote system (LPV), a modified version of alternative vote, where voters number their first three choices among the candidates. The first general election to use LPV was held in 2007.
+
+Parliament introduced reforms in June 1995 to change the provincial government system, with Provincial members of Parliament becoming provincial governors, while retaining their national seats in Parliament. However, if a provincial member accepts a position as a cabinet minister, the role of governor falls to one of the Open members of Parliament from the province.
+
+As of 1 February 2019, Papua New Guinea was one of only three countries in the world out of 235 that had no women in its legislative branch or parliament.[2] There have only been seven women elected to parliament ever, one of the lowest rates of legislative representation in the world. See ''main article Women in the National Parliament of Papua New Guinea ''
+
+
+Political parties and elections
+
+2012 Parliamentary Election Results
+
+  Party                                              Candidates   Seats won   % of seats
+  -------------------------------------------------- ------------ ----------- ------------
+  People's National Congress Party                   89           27          24.32%
+  Triumph Heritage Empowerment Rural Party           72           12          10.81%
+  Papua New Guinea Party                             88           8           7.21%
+  National Alliance Party                            75           7           6.31%
+  United Resources Party                             48           7           6.31%
+  People's Party                                     49           6           5.41%
+  People's Progress Party                            40           6           5.41%
+  Social Democratic Party                            40           3           2.7%
+  Coalition for Reform Party                         15           2           2.7%
+  Melanesian Liberal Party                           5            2           2.7%
+  New Generation Party                               27           2           2.7%
+  People's Movement for Change Party                 51           2           2.7%
+  People's United Assembly Party                     29           2           2.7%
+  People's Democratic Movement                       19           2           2.7%
+  Indigenous People's Party                          44           1           0.9%
+  Our Development Party                              22           1           0.9%
+  Pangu                                              60           1           0.9%
+  Papua New Guinea Constitutional Democratic Party   39           1           0.9%
+  PNG Country Party                                  46           1           0.9%
+  Stars Alliance Party                               22           1           0.9%
+  United Party                                       20           1           0.9%
+  Independent                                        2197         16          14.41%
+                                                                  111
+
+[3]
+
+
+Judicial branch
+
+Papua New Guinea's judiciary is independent of the government. It protects constitutional rights and interprets the laws. There are several levels, culminating in the Supreme Court of Papua New Guinea.
+
+There is a Supreme Court of Papua New Guinea, not separately constituted but an appellate Full Court of the National Court. Its Chief Justice, also the Chief Justice of the National Court, is appointed by the Governor General on the proposal of the National Executive Council after consultation with the Minister responsible for justice. Other justices of the National Court, who are available to sit as members of ad hoc benches of the Supreme Court, are appointed by the Judicial and Legal Services Commission.
+
+
+Provincial government
+
+Reforms in June 1995 changed the provincial government system. Regional (at-large) members of Parliament became provincial governors, while retaining their national seats in Parliament.
+
+Papua New Guinea has 22 province-level divisions: twenty provinces, one autonomous province (Bougainville) and the National Capital District.
+
++-----------------------+--------------------------------------+-----------------------------------------------+
+| 1.  Central           | 12. New Ireland                      | Papua_new_guinea_provinces_(numbers)_2012.png |
+| 2.  Chimbu (Simbu)    | 13. Northern (Oro Province)          |                                               |
+| 3.  Eastern Highlands | 14. Bougainville (autonomous region) |                                               |
+| 4.  East New Britain  | 15. Southern Highlands               |                                               |
+| 5.  East Sepik        | 16. Western Province (Fly)           |                                               |
+| 6.  Enga              | 17. Western Highlands                |                                               |
+| 7.  Gulf              | 18. West New Britain                 |                                               |
+| 8.  Madang            | 19. West Sepik (Sandaun)             |                                               |
+| 9.  Manus             | 20. National Capital District        |                                               |
+| 10. Milne Bay         | 21. Hela                             |                                               |
+| 11. Morobe            | 22. Jiwaka                           |                                               |
++-----------------------+--------------------------------------+-----------------------------------------------+
+
+North Solomons (Bougainville)
+
+Bougainville_Panguna_mine_shovel.jpg On Bougainville Island, initially focused on traditional land rights, environmental and economic issues stemming from the operation of the Panguna mine, (a _Conzinc RioTinto Australia_ (now Rio Tinto Limited) and PNG government joint venture), a civil war quickly grew into a war for independence from PNG.
+
+From early 1989 until a truce came into effect in October 1997 and a permanent cease-fire was signed in April 1998 as many as 20,000 people were killed. Under the eyes of a regional peace-monitoring force and a United Nations observer mission, the government and provincial leaders have established an interim government and are working toward election of a provincial government and a referendum on independence.
+
+The people of Bougainville are closely related to those of the nearby Solomon Islands.
+
+
+Instability
+
+Peter_O'Neill_May_2015.jpg Michael_Somare_2014.jpg The Morauta government brought in a series of electoral reforms in 2001, designed to address instability and corruption. Among the reforms was the introduction of the Limited Preferential Vote system (LPV), a modified version of Alternative vote, for future elections in PNG. (The introduction of LPV was partly in response to calls for changes in the voting system by Transparency International and the European Union.) The first general election to use LPV was held in 2007.
+
+There are many parties, but party allegiances are weak. Winning candidates are usually courted in efforts to forge the majority needed to form a government, and allegiances are fluid. No single party has yet won enough seats to form a government in its own right.
+
+Papua New Guinea has a history of changes in government coalitions and leadership from within Parliament during the five-year intervals between national elections. New governments are protected by law from votes of no confidence for the first 18 months of their incumbency, and no votes of no confidence may be moved in the 12 months preceding a national election.
+
+On Bougainville Island, a rebellion occurred from early 1989 until a truce came into effect in October 1997 and a permanent cease-fire was signed in April 1998. Under the eyes of a regional peace-monitoring force and a United Nations observer mission, the government and provincial leaders have established an interim government and are working toward election of a provincial government and a referendum on independence. The last national election was held in June 2007. Michael Somare was reelected Prime Minister, a position he also held in the country's first parliament after independence. Somare has held power since 2002, where he won in a violence-marred polling. Supplementary elections were held in Southern Highlands province in June 2003 after record levels of electoral fraud and intimidation during the 2002 polls.
+
+A study by the Australian Strategic Policy Institute, entitled "Strengthening our neighbour: Australia and the future of Papua New Guinea" and published in December 2004 found that PNG's weak government and policing has allowed organized crime gangs to relocate from Southeast Asia in recent years.
+
+
+2011-12 political crisis
+
+Since mid-2011, there has been an ongoing dispute between parliament and Peter O'Neill and the judiciary, governor-general and Sir Michael Somare. The crisis involved the status of the prime minister and who is the legitimate head of government between O'Neill and Somare.
+
+
+International organization participation
+
+ACP, APEC, AsDB, ASEAN (observer), C, CP, ESCAP, FAO, G-77, IBRD, ICAO, ICFTU, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, Intelsat, IFRCS, IMO, ICRM, Interpol, IOC, IOM (observer), ISO (correspondent), ITU, NAM, OPCW, SPF, Sparteca, SPC, UNCTAD, UNESCO, UNIDO, UN, UPU, WFTU, WHO, WIPO, WMO, WTrO
+
+
+See also
+
+-   Corruption in Papua New Guinea
+
+
+References
+
+-   Chin, James. 2005. Papua New Guinea in 2004: Recolonization, Somare"s Staying Power, and a Slight Economic Recovery, Asian Survey, Vol 45, No 1, 2005. pp 191–195
+-   White, Hugh; Wainwright, Elsina et al. 2004. "Strengthening Our Neighbour: Australia and the future of Papua New Guinea", Australian Strategic Policy Institute
+
+
+External links
+
+-   Papua New Guinea 'set to implode'
+
+Politics_of_Papua_New_Guinea
+
+[1]
+
+[2] http://archive.ipu.org/wmn-e/classif.htm
+
+[3] http://www.pngec.gov.pg/

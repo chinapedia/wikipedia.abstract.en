@@ -1,0 +1,756 @@
+Church_of_the_Gesù,_Rome.jpg, located in Rome, is the mother church of the Jesuits.]]
+
+The SOCIETY OF JESUS (SJ; ) is a scholarly religious congregation of the Catholic Church headquartered in Rome and founded by Ignatius of Loyola with the approval of Pope Paul III in 1540. The members are called JESUITS ().[1] The society is engaged in evangelization and apostolic ministry in 112 nations. Jesuits work in education, intellectual research, and cultural pursuits. Jesuits also give retreats, minister in hospitals and parishes, sponsor direct social ministries, and promote ecumenical dialogue.
+
+Saint Ignatius of Loyola, a Basque nobleman from the Pyrenees area of northern Spain, founded the society after discerning his spiritual vocation while recovering from a wound sustained in the Battle of Pamplona. He composed the _Spiritual Exercises_ to help others follow the teachings of Jesus Christ. In 1534, Ignatius and six other young men, including Francis Xavier and Peter Faber, gathered and professed vows of poverty, chastity, and later obedience, including a special vow of obedience to the Pope in matters of mission direction and assignment. Ignatius's plan of the order's organization was approved by Pope Paul III in 1540 by a bull containing the "Formula of the Institute".
+
+Ignatius was a nobleman who had a military background, and the members of the society were supposed to accept orders anywhere in the world, where they might be required to live in extreme conditions. Accordingly, the opening lines of the founding document declared that the society was founded for "whoever desires to serve as a soldier of God to strive especially for the defence and propagation of the faith and for the progress of souls in Christian life and doctrine." Jesuits are thus sometimes referred to colloquially as "God's soldiers",[2] "God's marines",[3] or "the Company", which evolved from references to Ignatius' history as a soldier and the society's commitment to accepting orders anywhere and to endure any conditions.[4] The society participated in the Counter-Reformation and, later, in the implementation of the Second Vatican Council.
+
+The Society of Jesus is consecrated under the patronage of Madonna Della Strada, a title of the Blessed Virgin Mary, and it is led by a Superior General.[5][6] The headquarters of the society, its General Curia, is in Rome.[7] The historic curia of Ignatius is now part of the _Collegio del Gesù_ attached to the Church of the Gesù, the Jesuit mother church.
+
+In 2013, Jorge Mario Bergoglio became the first Jesuit to be elected Pope, taking the name Pope Francis.
+
+
+Statistics
+
+  |Region                   Jesuits   Percentage
+  ------------------------- --------- ------------
+  Africa                    1,509     9%
+  South Latin America       1,221     7%
+  North Latin America       1,226     7%
+  South Asia                4,016     23%
+  Asia-Pacific              1,639     9%
+  Central and East Europe   1,641     10%
+  South Europe              2,027     12%
+  West Europe               1,541     9%
+  North America             2,467     14%
+
+  : Jesuits in the world — January 2013[8]
+
+, the Jesuits formed the largest single religious order of priests and brothers in the Catholic Church[9] (although they are surpassed by the Franciscan _family_ of orders of Friars Minor, Capuchins, and Conventuals). The Jesuits have experienced a decline in numbers in recent decades. As of 2018 the society had 15,842 members, 11,389 priests and 4,453 Jesuits in formation, which includes brothers and scholastics. This represents a 43.4 percent decline since 1977, when the society had a total membership of 28,038, of which 20,205 were priests.[10] This decline is most pronounced in Europe and the Americas, with relatively modest membership gains occurring in Asia and Africa.[11][12] There seems to be no "Pope Francis effect" in counteracting the fall of vocations among the Jesuits.[13]
+
+The society is divided into 83 provinces along with six independent regions and ten dependent regions.[14] On 1 January 2007, members served in 112 nations on six continents with the largest number in India and the US. Their average age was 57.3 years: 63.4 years for priests, 29.9 years for scholastics, and 65.5 years for brothers.[15]
+
+The current Superior General of the Jesuits is Arturo Sosa. The society is characterized by its ministries in the fields of missionary work, human rights, social justice and, most notably, higher education. It operates colleges and universities in various countries around the world and is particularly active in the Philippines and India. In the United States the Jesuits have historical ties to 28 colleges and universities and 61 high schools. The degree to which the Jesuits are involved in the administration of each institution varies. As of September 2018, 15 of the 28 Jesuit universities in the US had non-Jesuit lay presidents.[16] According to a 2014 article in _The Atlantic_, "the number of Jesuit priests who are active in everyday operations at the schools isn’t nearly as high as it once was".[17] Worldwide it runs 322 secondary schools and 172 colleges and universities. A typical conception of the mission of a Jesuit school will often contain such concepts as proposing Christ as the model of human life, the pursuit of excellence in teaching and learning, lifelong spiritual and intellectual growth,[18] and training men and women for others.[19]
+
+
+Formula of the Institute
+
+Ignatius_Loyola.jpg]] Regimini_militantis_Ecclesiae.jpg Ignatius laid out his original vision for the new order in the "Formula of the Institute of the Society of Jesus",[20] which is "the fundamental charter of the order, of which all subsequent official documents were elaborations and to which they had to conform." He ensured that his formula was contained in two papal bulls signed by Pope Paul III in 1540 and by Pope Julius III in 1550.[21] The formula expressed the nature, spirituality, community life, and apostolate of the new religious order. Its famous opening statement echoed Ignatius' military background:
+
+A fresco depicting Ignatius of Loyola receiving the papal bull _Regimini militantis Ecclesiae_ from Pope Paul III was created after 1743 by Johann Christoph Handke in the Church of Our Lady Of the Snow in Olomouc.
+
+
+History
+
+Foundation
+
+StPierreParis.jpg, Paris]] Franciscus_de_Xabier.jpg]] On 15 August 1534, Ignatius of Loyola (born Íñigo López de Loyola), a Spaniard from the Basque city of Loyola, and six others mostly of Castilian origin, all students at the University of Paris,[22] met in Montmartre outside Paris, in a crypt beneath the church of Saint Denis, now Saint Pierre de Montmartre, to pronounce the religious vows of poverty, chastity, and obedience. Ignatius' six companions were: Francisco Xavier from Navarre (modern Spain), Alfonso Salmeron, Diego Laínez, Nicolás Bobadilla from Castile (modern Spain), Peter Faber from Savoy, and Simão Rodrigues from Portugal. The meeting has been commemorated in the Martyrium of Saint Denis, Montmartre. They called themselves the _Compañía de Jesús_, and also _Amigos en El Señor_ or "Friends in the Lord", because they felt "they were placed together by Christ." The name "company" had echoes of the military (reflecting perhaps Ignatius' background as Captain in the Spanish army) as well as of discipleship (the "companions" of Jesus). The Spanish "company" would be translated into Latin as _societas_ like in _socius_, a partner or comrade. From this came "Society of Jesus" (SJ) by which they would be known more widely.[23]
+
+Religious orders established in the medieval era were named after particular men: Francis of Assisi (Franciscans), Domingo de Guzmán, later canonized as St Dominic (Dominicans); and Augustine of Hippo (Augustinians). Ignatius of Loyola and his followers appropriated the name of Jesus for their new order, provoking resentment by other orders who considered it presumptuous. The resentment was recorded by Jesuit José de Acosta of a conversation with the Archbishop of Santo Domingo. In the words of one historian: "The use of the name Jesus gave great offense. Both on the Continent and in England, it was denounced as blasphemous; petitions were sent to kings and to civil and ecclesiastical tribunals to have it changed; and even Pope Sixtus V had signed a Brief to do away with it." But nothing came of all the opposition; there were already congregations named after the Trinity and as "God's daughters".
+
+In 1537, the seven travelled to Italy to seek papal approval for their order. Pope Paul III gave them a commendation, and permitted them to be ordained priests. These initial steps led to the official founding in 1540.
+
+They were ordained in Venice by the bishop of Arbe (24 June). They devoted themselves to preaching and charitable work in Italy. The Italian War of 1535-1538 renewed between Charles V, Holy Roman Emperor, Venice, the Pope, and the Ottoman Empire, had rendered any journey to Jerusalem impossible.
+
+Again in 1540, they presented the project to Paul III. After months of dispute, a congregation of cardinals reported favourably upon the Constitution presented, and Paul III confirmed the order through the bull _Regimini militantis ecclesiae_ ("To the Government of the Church Militant"), on 27 September 1540. This is the founding document of the Society of Jesus as an official Catholic religious order. Ignatius was chosen as the first Superior General. Paul III's bull had limited the number of its members to sixty. This limitation was removed through the bull _Exposcit debitum_ of Julius III in 1550.
+
+Jesuits_in_the_'Ibadat-Khanah'.jpg's court in India, c. 1605]]In fulfilling the mission of the "Formula of the Institute of the Society", the first Jesuits concentrated on a few key activities. First, they founded schools throughout Europe. Jesuit teachers were trained in both classical studies and theology, and their schools reflected this. Second, they sent out missionaries across the globe to evangelize those peoples who had not yet heard the Gospel, founding missions in widely diverse regions such as modern-day Paraguay, Japan, Ontario, and Ethiopia. One of the original seven arrived in India already in 1541. Finally, though not initially formed for the purpose, they aimed to stop Protestantism from spreading and to preserve communion with Rome and the successor of Saint Peter. The zeal of the Jesuits overcame the movement toward Protestantism in the Polish–Lithuanian Commonwealth and southern Germany.
+
+Ignatius wrote the Jesuit _Constitutions_, adopted in 1553, which created a centralised organization and stressed acceptance of any mission to which the Pope might call them.[24][25] His main principle became the unofficial Jesuit motto: _Ad Maiorem Dei Gloriam_ ("For the greater glory of God"). This phrase is designed to reflect the idea that any work that is not evil can be meritorious for the spiritual life if it is performed with this intention, even things normally considered of little importance.
+
+The Society of Jesus is classified among institutes as a mendicant order of clerks regular, that is, a body of priests organized for apostolic work, following a religious rule, and relying on alms, or donations, for support.
+
+The term _Jesuit_ (of 15th-century origin, meaning _one who used too frequently or appropriated the name of Jesus_) was first applied to the society in reproach (1544–1552). The term was never used by Ignatius of Loyola, but over time, members and friends of the society adopted the name with a positive meaning.
+
+Early works
+
+Ratiostudiorum.jpg'', 1598]] The Jesuits were founded just before the Council of Trent (1545–1563) and ensuing Counter-Reformation that would introduce reforms within the Catholic Church, and so counter the Protestant Reformation throughout Catholic Europe.
+
+Ignatius and the early Jesuits did recognize, though, that the hierarchical church was in dire need of reform. Some of their greatest struggles were against corruption, venality, and spiritual lassitude within the Catholic Church. Ignatius insisted on a high level of academic preparation for the clergy in contrast to the relatively poor education of much of the clergy of his time. And the Jesuit vow against "ambitioning prelacies" can be seen as an effort to counteract another problem evidenced in the preceding century.
+
+Ignatius and the Jesuits who followed him believed that the reform of the church had to begin with the conversion of an individual's heart. One of the main tools the Jesuits have used to bring about this conversion is the Ignatian retreat, called the Spiritual Exercises. During a four-week period of silence, individuals undergo a series of directed meditations on the purpose of life and contemplations on the life of Christ. They meet regularly with a spiritual director who guides their choice of exercises and helps them to develop a more discerning love for Christ.
+
+The retreat follows a "Purgative-Illuminative-Unitive" pattern in the tradition of the spirituality of John Cassian and the Desert Fathers. Ignatius' innovation was to make this style of contemplative mysticism available to all people in active life. Further, he used it as a means of rebuilding the spiritual life of the church. The Exercises became both the basis for the training of Jesuits and one of the essential ministries of the order: giving the exercises to others in what became known as "retreats".
+
+The Jesuits' contributions to the late Renaissance were significant in their roles both as a missionary order and as the first religious order to operate colleges and universities as a principal and distinct ministry. By the time of Ignatius' death in 1556, the Jesuits were already operating a network of 74 colleges on three continents. A precursor to liberal education, the Jesuit plan of studies incorporated the Classical teachings of Renaissance humanism into the Scholastic structure of Catholic thought.
+
+In addition to the teachings of faith, the Jesuit _Ratio Studiorum_ (1599) would standardize the study of Latin, Greek, classical literature, poetry, and philosophy as well as non-European languages, sciences, and the arts. Furthermore, Jesuit schools encouraged the study of vernacular literature and rhetoric, and thereby became important centres for the training of lawyers and public officials.
+
+The Jesuit schools played an important part in winning back to Catholicism a number of European countries which had for a time been predominantly Protestant, notably Poland and Lithuania. Today, Jesuit colleges and universities are located in over one hundred nations around the world. Under the notion that God can be encountered through created things and especially art, they encouraged the use of ceremony and decoration in Catholic ritual and devotion. Perhaps as a result of this appreciation for art, coupled with their spiritual practice of "finding God in all things", many early Jesuits distinguished themselves in the visual and performing arts as well as in music. The theater was a form of expression especially prominent in Jesuit schools.
+
+Jesuit priests often acted as confessors to kings during the early modern period. They were an important force in the Counter-Reformation and in the Catholic missions, in part because their relatively loose structure (without the requirements of living and celebration of the Liturgy of Hours in common) allowed them to be flexible and meet diverse needs arising at the time.
+
+Expansion
+
+Jesuitpainting.jpg, painting from 1779]] Bell_of_Nanban-ji.JPG made in Portugal for Nanbanji Church run by Jesuits in Japan, 1576–1587]] Oscar_Pereira_da_Silva_-_Retrato_de_Anchieta,_Acervo_do_Museu_Paulista_da_USP.jpg missionary José de Anchieta was, together with Manuel da Nóbrega, the first Jesuit that Ignacio de Loyola sends to America.]]
+
+After much training and experience in theology, Jesuits went across the globe in search of converts to Christianity. Despite their dedication, they had little success in Asia except for the Philippines. For instance, early missions in Japan resulted in the government granting the Jesuits the feudal fiefdom of Nagasaki in 1580. However, this was removed in 1587 due to fears over their growing influence.[26] Jesuits did, however, have much success in Latin America. Their ascendancy in societies in the Americas accelerated during the seventeenth century, wherein Jesuits created new missions in Peru, Colombia, and Bolivia; as early as 1603, there were 345 Jesuit priests in Mexico alone.[27]
+
+Francis Xavier, one of the original companions of Loyola, arrived in Goa, in Portuguese India, in 1541 to consider evangelical service in the Indies. In a 1545 letter to John III of Portugal, he requested an Inquisition to be installed in Goa (see Goa Inquisition). He died in China after a decade of evangelism in Southern India. The Portuguese Jesuit, António de Andrade founded a mission in Western Tibet in 1624. Two Jesuit missionaries, Johann Grueber and Albert Dorville, reached Lhasa in Tibet in 1661. The Italian Jesuit Ippolito Desideri established a new Jesuit mission in Lhasa and Central Tibet (1716–21) and gained an exceptional mastery of Tibetan language and culture, writing a long and very detailed account of the country and its religion as well as treatises in Tibetan that attempted to refute key Buddhist ideas and establish the truth of Roman Catholic Christianity.
+
+Jesuit missions in America became controversial in Europe, especially in Spain and Portugal where they were seen as interfering with the proper colonial enterprises of the royal governments. The Jesuits were often the only force standing between the Native Americans and slavery. Together throughout South America but especially in present-day Brazil and Paraguay, they formed Christian Native American city-states, called "reductions". These were societies set up according to an idealized theocratic model. The efforts of Jesuits like Antonio Ruiz de Montoya to protect the natives from enslavement by Spanish and Portuguese colonizers would contribute to the call for the society's suppression. Jesuit priests such as Manuel da Nóbrega and José de Anchieta founded several towns in Brazil in the 16th century, including São Paulo and Rio de Janeiro, and were very influential in the pacification, religious conversion, and education of Indian nations. They also built schools, organized people into villages, and created a writing system for the local languages of Brazil.[28] José de Anchieta and Manuel da Nóbrega were the first Jesuits that Ignacio de Loyola sent to America.[29]
+
+Jesuit scholars working in foreign missions were very important in studying their languages and strove to produce Latinized grammars and dictionaries. This included: Japanese (see _Nippo jisho_ also known as _Vocabvlario da Lingoa de Iapam,_ Vocabulary of the Japanese Language, a Japanese–Portuguese dictionary written 1603); Vietnamese (Portuguese missionaries created the Vietnamese alphabet,[30][31] which was later formalized by Avignon missionary Alexandre de Rhodes with his 1651 trilingual dictionary); Tupi (the main language of Brazil); and the pioneering study of Sanskrit in the West by Jean François Pons in the 1740s.
+
+Under Portuguese royal patronage, Jesuits thrived in Goa and until 1759 successfully expanded their activities to education and healthcare. In 1594 they founded the first Roman-style academic institution in the East, St. Paul Jesuit College in Macau, China. Founded by Alessandro Valignano, it had a great influence on the learning of Eastern languages (Chinese and Japanese) and culture by missionary Jesuits, becoming home to the first western sinologists such as Matteo Ricci. Jesuit efforts in Goa were interrupted by the expulsion of the Jesuits from Portuguese territories in 1759 by the powerful Marquis of Pombal, Secretary of State in Portugal.[32]
+
+Jesuit missionaries were active among indigenous peoples in New France in North America, many of them compiling dictionaries or glossaries of the First Nations and Native American languages they had learned. For instance, before his death in 1708, Jacques Gravier, vicar general of the Illinois Mission in the Mississippi River valley, compiled a Kaskaskia Illinois–French dictionary, considered the most extensive among works of the missionaries. Extensive documentation was left in the form of _The Jesuit Relations_, published annually from 1632 until 1673.
+
+China
+
+Ricci_Guangqi_2.jpg (left) and Xu Guangqi in the 1607 Chinese publication of Euclid's _Elements_]] LifeAndWorksOfConfucius1687.jpg, Prospero Intorcetta, Christian Herdtrich, and François de Rougemont at Paris in 1687]] Paradigma_XV_Provinciarum_et_CLV_Urbium_Capitalium_Sinensis_Imperij.jpg The Jesuits first entered China through the Portuguese settlement on Macau, where they settled on Green Island and founded St. Paul's College.
+
+The Jesuit China missions of the 16th and 17th centuries introduced Western science and astronomy, then undergoing its own revolution, to China. The scientific revolution brought by the Jesuits coincided with a time when scientific innovation had declined in China:
+
+For over a century, Jesuits like Michele Ruggieri, Matteo Ricci, Philippe Couplet, Michal Boym, and François Noël refined translations and disseminated Chinese knowledge, culture, history, and philosophy to Europe. Their Latin works popularized the name "Confucius" and had considerable influence on the Deists and other Enlightenment thinkers, some of whom were intrigued by the Jesuits' attempts to reconcile Confucian morality with Catholicism.
+
+Upon the arrival of the Franciscans and other monastic orders, Jesuit accommodation of Chinese culture and rituals led to the long-running Chinese Rites controversy. Despite the personal testimony of the Kangxi Emperor and many Jesuit converts that Chinese veneration of ancestors and Confucius was a nonreligious token of respect, 's papal decree _Cum Deus Optimus..._ ruled that such behavior constituted impermissible forms of idolatry and superstition in 1704;[33] his legate Tournon and the Bishop of Fujian, tasked with presenting this finding to the Kangxi Emperor, displayed such extreme ignorance that the emperor mandated the expulsion of Christian missionaries unable to abide by the terms of Ricci's Chinese catechism.[34][35][36][37] Tournon's summary and automatic excommunication for any violators of Clement's decree[38]—upheld by the 1715 bull _Ex Illa Die..._—led to the swift collapse of all the missions in China;[39] the last Jesuits were finally expelled after 1721.
+
+Canada
+
+Jesuit_map_NF.jpg]] During the French colonisation of New France in the 17th century, Jesuits played an active role in North America. When Samuel de Champlain established the foundations of the French colony at Québec, he was aware of native tribes who possessed their own languages, customs, and traditions. These natives that inhabited modern day Ontario, Québec, and the areas around Lake Simcoe and Georgian Bay were the Montagnais, the Algonquins, and the Huron. Champlain believed that these had souls to be saved, so in 1614 he initially obtained the Recollects, a reform branch of the Franciscans in France, to convert the native inhabitants. In 1624 the French Recollects realized the magnitude of their task and sent a delegate to France to invite the Society of Jesus to help with this mission. The invitation was accepted, and Jesuits Jean de Brébeuf, Ennemond Masse, and Charles Lalemant arrived in Quebec in 1625. Lalemant is considered to have been the first author of one of the _Jesuit Relations of New France_, which chronicled their evangelization during the seventeenth century.
+
+The Jesuits became involved in the Huron mission in 1626 and lived among the Huron peoples. Brébeuf learned the native language and created the first Huron language dictionary. Outside conflict forced the Jesuits to leave New France in 1629 when Quebec was captured by the Kirke brothers under the English flag. But in 1632 Quebec was returned to the French under the Treaty of Saint Germain-en-Laye and the Jesuits returned to Huron territory, modern Huronia.
+
+In 1639, Jesuit Jerome Lalemant decided that the missionaries among the Hurons needed a local residence and established Sainte-Marie, which expanded into a living replica of European society. It became the Jesuit headquarters and an important part of Canadian history. Throughout most of the 1640s the Jesuits had great success, establishing five chapels in Huronia and baptising over one thousand Huron natives. However, as the Jesuits began to expand westward they encountered more Iroquois natives, rivals of the Hurons. The Iroquois grew jealous of the Hurons' wealth and fur trade system, began to attack Huron villages in 1648. They killed missionaries and burned villages, and the Hurons scattered. Both Jean de Brébeuf and Gabriel Lalemant were tortured and killed in the Iroquois raids; they have been canonized as martyrs in the Catholic Church. With the knowledge of the invading Iroquois, the Jesuit Paul Ragueneau burned down Sainte-Marie instead of allowing the Iroquois the satisfaction of destroying it. By late June 1649, the French and some Christian Hurons built Sainte-Marie II on Christian Island (Isle de Saint-Joseph). However, facing starvation, lack of supplies, and constant threats of Iroquois attack, the small Sainte-Marie II was abandoned in June 1650; the remaining Hurons and Jesuits departed for Quebec and Ottawa. After a series of epidemics, beginning in 1634, some Huron began to mistrust the Jesuits and accused them of being sorcerers casting spells from their books. As a result of the Iroquois raids and outbreak of disease, many missionaries, traders, and soldiers died. Today, the Huron tribe, also known as the Wyandot, have a First Nations reserve in Quebec, Canada, and three major settlements in the United States.[40]
+
+After the collapse of the Huron nation, the Jesuits were to undertake the task of converting the Iroquois, something they had attempted in 1642 with little success. In 1653 the Iroquois nation had a fallout with the Dutch. They then signed a peace treaty with the French and a mission was established. The Iroquois took the treaty lightly and soon turned on the French again. In 1658, the Jesuits were having very little success and were under constant threat of being tortured or killed, but continued their effort until 1687 when they abandoned their permanent posts in the Iroquois homeland.
+
+By 1700, Jesuits turned to maintaining Quebec, Montreal, and Ottawa without establishing new posts. During the Seven Years' War, Quebec fell to the English in 1759 and New France was under British control. The English barred the immigration of more Jesuits to New France. By 1763, there were only twenty-one Jesuits stationed in New France. By 1773 only eleven Jesuits remained. During the same year the English crown laid claim to New France and declared that the Society of Jesus in New France was dissolved.
+
+The dissolution of the Order left in place substantial estates and investments, amounting to an income of approximately £5,000 a year, and the Council for the Affairs of the Province of Quebec, later succeeded by the Legislative Assembly of Quebec, assumed the task of allocating the funds to suitable recipients, chiefly schools.[41]
+
+The Jesuit mission in Quebec was re-established in 1842. There were a number of Jesuit colleges founded in the decades following; one of these colleges evolved into present-day Laval University.[42]
+
+United States
+
+Mexico
+
+Misión_de_Nuestra_Señora_de_Loreto._Siglo_XVIII.jpg in 1697]] AltarDomChaptlTep.JPG]] Francisco_Xavier_Clavijero,.jpg (1731–1787) wrote an important history of Mexico.]] The Jesuits in New Spain distinguished themselves in several ways. They had high standards for acceptance to the order and many years of training. They attracted the patronage of elite families whose sons they educated in rigorous newly founded Jesuit _colegios_ ("colleges"), including Colegio de San Pedro y San Pablo, Colegio de San Ildefonso, and the Colegio de San Francisco Javier, Tepozotlan. Those same elite families hoped that a son with a vocation to the priesthood would be accepted as a Jesuit. Jesuits were also zealous in evangelization of the indigenous, particularly on the northern frontiers.
+
+To support their colegios and members of the Society of Jesus, the Jesuits acquired landed estates that were run with the best-practices for generating income in that era. A number of these haciendas were donated by wealthy elites. The donation of a hacienda to the Jesuits was the spark igniting a conflict between seventeenth-century bishop of Puebla Don Juan de Palafox and the Jesuit colegio in that city. Since the Jesuits resisted paying the tithe on their estates, this donation effectively took revenue out of the church hierarchy's pockets by removing it from the tithe rolls.
+
+Many of Jesuit haciendas were huge, with Palafox asserting that just two colleges owned 300,000 head of sheep, whose wool was transformed locally in Puebla to cloth; six sugar plantations worth a million pesos and generating an income of 100,000 pesos. The immense Jesuit hacienda of Santa Lucía produced _pulque_, the fermented juice of the agave cactus whose main consumers were the lower classes and Indians in Spanish cities. Although most haciendas had a free work force of permanent or seasonal labourers, the Jesuit haciendas in Mexico had a significant number of black slaves.
+
+The Jesuits operated their properties as an integrated unit with the larger Jesuit order; thus revenues from haciendas funded their colegios. Jesuits did significantly expand missions to the indigenous in the northern frontier area and a number were martyred, but the crown supported those missions. Mendicant orders that had real estate were less economically integrated, so that some individual houses were wealthy while others struggled economically. The Franciscans, who were founded as an order embracing poverty, did not accumulate real estate, unlike the Augustinians and Dominicans in Mexico.
+
+The Jesuits engaged in conflict with the episcopal hierarchy over the question of payment of tithes, the ten percent tax on agriculture levied on landed estates for support of the church hierarchy from bishops and cathedral chapters to parish priests. Since the Jesuits were the largest religious order holding real estate, surpassing the Dominicans and Augustinians who had accumulated significant property, this was no small matter. They argued that they were exempt, due to special pontifical privileges. In the mid-seventeenth century, bishop of Puebla, Don Juan de Palafox took on the Jesuits over this matter and was so soundly defeated that he was recalled to Spain, where he became the bishop of the minor diocese of Osma.
+
+As elsewhere in the Spanish empire, the Jesuits were expelled from Mexico in 1767. Their haciendas were sold off and their colegios and missions in Baja California were taken over by other orders. Exiled Mexican-born Jesuit Francisco Javier Clavijero wrote an important history of Mexico while in Italy, a basis for creole patriotism. Andrés Cavo also wrote an important text on Mexican history that Carlos María de Bustamante published in the early nineteenth-century.[43] An earlier Jesuit who wrote about the history of Mexico was Diego Luis de Motezuma (1619–99), a descendant of the Aztec monarchs of Tenochtitlan. Motezuma's _Corona mexicana, o Historia de los nueve Motezumas_ was completed in 1696. He "aimed to show that Mexican emperors were a legitimate dynasty in the 17th-century in the European sense."[44]
+
+The Jesuits were allowed to return to Mexico in 1840 when General Antonio López de Santa Anna was once more president of Mexico. Their re-introduction to Mexico was "to assist in the education of the poorer classes and much of their property was restored to them."
+
+Northern Spanish America
+
+Acosta2.jpg StPeterClaver.jpg ministering to African slaves at Cartagena]] Church_of_the_Society_of_Jesus_(Cusco,_Peru)_2013-03-31_002.JPG, Cuzco, Peru]] The Jesuits arrived in the Viceroyalty of Peru by 1571; it was a key area of Spanish empire, with not only dense indigenous populations but also huge deposits of silver at Potosí. A major figure in the first wave of Jesuits was José de Acosta (1540–1600), whose book _Historia natural y moral de las Indias_ (1590) introduced Europeans to Spain's American empire via fluid prose and keen observation and explanation, based on fifteen years in Peru and a bit of time in New Spain (Mexico). Viceroy of Peru Don Francisco de Toledo urged the Jesuits to evangelize the indigenous peoples of Peru, wanting to put them in charge of parishes, but Acosta adhered to the Jesuit position that they were not subject to the jurisdiction of bishops and to catechize in Indian parishes would bring them into conflict with the bishops. For that reason, the Jesuits in Peru focused on education of elite men rather than the indigenous populations.
+
+To minister to newly arrived African slaves, Alonso de Sandoval (1576–1651) worked at the port of Cartagena de Indias. Sandoval wrote about this ministry in _De instauranda Aethiopum salute_ (1627), describing how he and his assistant Pedro Claver, later canonized, met slave transport ships in the harbour, went below decks where 300–600 slaves were chained, and gave physical aid with water, while introducing the Africans to Christianity. In his treatise, he did not condemn slavery or the ill-treatment of slaves, but sought to instruct fellow Jesuits to this ministry and describe how he catechized the slaves.
+
+Rafael Ferrer was the first Jesuit of Quito to explore and found missions in the upper Amazon regions of South America from 1602 to 1610, which belonged to the Audiencia (high court) of Quito that was a part of the Viceroyalty of Peru until it was transferred to the newly created Viceroyalty of New Granada in 1717. In 1602, Ferrer began to explore the Aguarico, Napo, and Marañon rivers (Sucumbios region, in what is today Ecuador and Peru), and between 1604 and 1605 set up missions among the Cofane natives. He was martyred by an apostate native in 1610.
+
+In 1639, the Audiencia of Quito organized an expedition to renew its exploration of the Amazon river and the Quito Jesuit (Jesuita Quiteño) Cristóbal de Acuña was a part of this expedition. The expedition disembarked from the Napo river 16 February 1639 and arrived in what is today Pará Brazil on the banks of the Amazon river on 12 December 1639. In 1641, Acuña published in Madrid a memoir of his expedition to the Amazon river entitled _Nuevo Descubrimiento del gran rio de las Amazonas_, which for academics became a fundamental reference on the Amazon region.
+
+The_Marañon_or_Amazon_River_with_the_Mission_of_the_Society_of_Jesus_WDL1137.png's 1707 map showing the Amazon and the Orinoco]] In 1637, the Jesuits Gaspar Cugia and Lucas de la Cueva from Quito began establishing missions in Maynas territories, on the banks of the Marañón River, around the Pongo de Manseriche region, close to the Spanish settlement of Borja. Between 1637 and 1652 there were 14 missions established along the Marañón River and its southern tributaries, the Huallaga and the Ucayali rivers. Jesuit Lucas de la Cueva and Raimundo de Santacruz opened up two new routes of communication with Quito, through the Pastaza and Napo rivers.
+
+Between 1637 and 1715, Samuel Fritz founded 38 missions along the length of the Amazon river, between the Napo and Negro rivers, that were called the Omagua Missions. These missions were continually attacked by the Brazilian Bandeirantes beginning in the year 1705. In 1768, the only Omagua mission that was left was San Joaquin de Omaguas, since it had been moved to a new location on the Napo river away from the Bandeirantes.
+
+In the immense territory of Maynas, the Jesuits of Quito made contact with a number of indigenous tribes which spoke 40 different languages, and founded a total of 173 Jesuit missions encompassing 150,000 inhabitants. Because of the constant epidemics (smallpox and measles) and warfare with other tribes and the Bandeirantes, the total number of Jesuit Missions were reduced to 40 by 1744. At the time when the Jesuits were expelled from Spanish America in 1767, the Jesuits of Quito registered 36 missions run by 25 Jesuits of Quito in the Audiencia of Quito – 6 in the Napo and Aguarico Missions and 19 in the Pastaza and Iquitos Missions, with the population at 20,000 inhabitants.
+
+Paraguay
+
+Jesuit_ruins_at_trinidad.jpg mission in Paraguay, founded by Jesuits in 1706]] The first Jesuits arrived in 1588, and in 1610 Philip III proclaimed that only the "sword of the word" should be used to subdue Paraguayan Indians, mostly Guarani. The church granted Jesuits extensive powers to phase out the encomienda system of forced labor, angering settlers dependent on a continuing supply of Indian labor and concubines. The first Jesuit mission in the Paraguay area (which encompassed the border regions of Paraguay, Argentina, and Brazil) was founded in 1609. By 1732, the Jesuits had gathered into 30 missions or reductions a total of 141,382 Guarani. Due to disease, European politics, and internal discord, the population in the missions declined afterwards.[45] At their apogee, the Jesuits dreamed of a Jesuit empire that would stretch from the Paraguay-Paraná confluence to the coast and back to the Paraná headwaters.
+
+In the early years the new Jesuit reductions were threatened by the slave-raiding _bandeirantes_. The bandeirantes captured Indians and sold them as slaves to planters in Brazil. Having depleted the Indian population near Sâo Paulo, they discovered the richly populated reductions. The Spanish authorities chose not to defend the settlements, and the Jesuits and their thousands of neophytes thus had little means to protect themselves. Thousands of Guarani were captured by the bandeirantes before, organized and armed by the Jesuits, a Guarani army defeated the slave raiders at the battle of Mbororé. Subsequently, the viceroy of Peru conceded the right of bearing arms to the Guarani. Thereafter, well-trained and highly motivated Indian units were able to defend themselves from slavers and other threats.[46] The victory at Mbororé set the stage for the golden age of the Jesuits in Paraguay. Life in the reductions offered the Guaraní higher living standards, protection from settlers, and physical security. These reductions, which became quite wealthy, exported goods, and supplied Indian armies to the Spanish on many occasion.
+
+The reductions, where the Jesuits created orchestras, musical ensembles, and actors' troupes, and in which virtually all the profits derived from Indian labor were distributed to the labourers, earned praise from some of the leaders of the French enlightenment, who were not predisposed to favour Jesuits. "By means of religion," d'Alembert wrote, "the Jesuits established a monarchical authority in Paraguay, founded solely on their powers of persuasion and on their lenient methods of government. Masters of the country, they rendered happy the people under their sway; they succeeded in subduing them without ever having recourse to force." And Jesuit-educated Voltaire called the Jesuit government "a triumph of humanity."
+
+Because of their success, the Paraguayan Jesuits gained many enemies, and the Reductions fell prey to changing times. During the 1720s and 1730s, Paraguayan settlers rebelled against Jesuit privileges in the Revolt of the Comuneros and against the government that protected them. Although this revolt failed, it was one of the earliest and most serious risings against Spanish authority in the New World and caused the crown to question its continued support for the Jesuits. The Jesuit-inspired War of the Seven Reductions (1750–61) increased sentiment in Madrid for suppressing this "empire within an empire."
+
+The Spanish king Charles III (1759–88) expelled the Jesuits in 1767 from Spain and its territories. Within a few decades of the expulsion, most of what the Jesuits had accomplished was lost. The missions were mismanaged and abandoned by the Guaraní. Today, these ruins of a 160-year experiment have become a tourist attraction.[47]
+
+Colonial Brazil
+
+Nobrega2.jpg on a commemorative Portuguese stamp of the 400th anniversary of the foundation of São Paulo, Brazil]] Brazil_18thc_JesuitFather.jpg Tomé de Sousa, first Governor General of Brazil, brought the first group of Jesuits to the colony. The Jesuits were officially supported by the King, who instructed Tomé de Sousa to give them all the support needed to Christianize the indigenous peoples.
+
+The first Jesuits, guided by Manuel da Nóbrega, Juan de Azpilcueta Navarro, Leonardo Nunes, and later José de Anchieta, established the first Jesuit missions in Salvador and in São Paulo dos Campos de Piratininga, the settlement that gave rise to the city of São Paulo. Nóbrega and Anchieta were instrumental in the defeat of the French colonists of France Antarctique by managing to pacify the Tamoio natives, who had previously fought the Portuguese. The Jesuits took part in the foundation of the city of Rio de Janeiro in 1565.
+
+The success of the Jesuits in converting the indigenous peoples is linked to their efforts to understand the native cultures, especially their languages. The first grammar of the Tupi language was compiled by José de Anchieta and printed in Coimbra in 1595. The Jesuits often gathered the aborigines in communities (the Jesuit Reductions) where the natives worked for the community and were evangelised.
+
+The Jesuits had frequent disputes with other colonists who wanted to enslave the natives. The action of the Jesuits saved many natives from being enslaved by Europeans, but also disturbed their ancestral way of life and inadvertently helped spread infectious diseases against which the aborigines had no natural defenses. Slave labor and trade were essential for the economy of Brazil and other American colonies, and the Jesuits usually did not object to the enslavement of African peoples, but rather critiqued the conditions of slavery.
+
+Suppression and restoration
+
+The Suppression of the Jesuits in Portugal, France, the Two Sicilies, Parma, and the Spanish Empire by 1767 was troubling to the society's defender, Pope Clement XIII. On 21 July 1773 Pope Clement XIV issued the papal brief _Dominus ac Redemptor,_[48] decreeing:
+
+The suppression was carried out in all countries except Prussia and Russia, where Catherine the Great had forbidden its promulgation. Because millions of Catholics (including many Jesuits) lived in the Polish provinces recently annexed by the Kingdom of Prussia, the society was able to maintain its existence and carry on its work all through the period of suppression. Subsequently, Pope Pius VI would grant formal permission for the continuation of the society in Russia and Poland, with Stanislaus Czerniewicz elected superior of the society in 1782. Pope Pius VII had resolved during his captivity in France to restore the Jesuits universally, and after his return to Rome he did so with little delay. On 7 August 1814, by the bull _Sollicitudo omnium ecclesiarum_, he reversed the suppression of the society, and therewith another Polish Jesuit, Thaddeus Brzozowski, who had been elected to Superior in Russia in 1805, acquired universal jurisdiction.
+
+The period following the Restoration of the Jesuits in 1814 was marked by tremendous growth, as evidenced by the large number of Jesuit colleges and universities established in the 19th century. In the United States, 22 of the society's 28 universities were founded or taken over by the Jesuits during this time. It has been suggested that the experience of suppression served to heighten orthodoxy among the Jesuits upon restoration. While this claim is debatable, Jesuits were generally supportive of papal authority within the church, and some members were associated with the Ultramontanist movement and the declaration of Papal Infallibility in 1870.
+
+In Switzerland, following the defeat of the Sonderbund Catholic defense alliance, the constitution was modified and Jesuits were banished in 1848. The ban was lifted on 20 May 1973, when 54.9 per cent of voters accepted a referendum modifying the Constitution.[49]
+
+Early 20th century
+
+In the Constitution of Norway from 1814, a relic from the earlier anti-Catholic laws of Denmark-Norway, Paragraph 2 originally read: "The Evangelical-Lutheran religion remains the public religion of the State. Those inhabitants, who confess thereto, are bound to raise their children to the same. Jesuits and monastic orders are not permitted. Jews are still prohibited from entry to the Realm." Jews were first allowed into the realm in 1851 after the famous Norwegian poet Henrik Wergeland had campaigned for it. Monastic orders were permitted in 1897, but the ban on Jesuits was only lifted in 1956.[50]
+
+Republican Spain in the 1930s passed laws banning the Jesuits on grounds that they were obedient to a power different from the state. Pope Pius XI wrote about this: "It was an expression of a soul deeply hostile to God and the Catholic religion, to have disbanded the Religious Orders that had taken a vow of obedience to an authority different from the legitimate authority of the State. In this way it was sought to do away with the Society of Jesus – which can well glory in being one of the soundest auxiliaries of the _Chair of Saint Peter_ – with the hope, perhaps, of then being able with less difficulty to overthrow in the near future, the Christian faith and morale in the heart of the Spanish nation, which gave to the Church of God the grand and glorious figure of Ignatius Loyola."[51]
+
+Post–Vatican II
+
+The 20th century witnessed both growth and decline. Following a trend within the Catholic priesthood at large, Jesuit numbers peaked in the 1950s and have declined steadily since. Meanwhile, the number of Jesuit institutions has grown considerably, due in large part to a post–Vatican II focus on the establishment of Jesuit secondary schools in inner-city areas and an increase in voluntary lay groups inspired in part by the _Spiritual Exercises_. Among the notable Jesuits of the 20th century, John Courtney Murray was called one of the "architects of the Second Vatican Council" and drafted what eventually became the council's endorsement of religious freedom, _Dignitatis humanae_.
+
+In Latin America, the Jesuits had significant influence in the development of liberation theology, a movement that was controversial in the Catholic community after the negative assessment of it by Pope John Paul II in 1984.[52]
+
+Under Superior General Pedro Arrupe, social justice and the preferential option for the poor emerged as dominant themes of the work of the Jesuits. When Arrupe was paralyzed by a stroke in 1981, Pope John Paul II, not entirely pleased with the progressive turn of the Jesuits, took the unusual step of appointing the venerable and aged Paolo Dezza for an interim to oversee "the authentic renewal of the Church",[53] instead of the progressive American priest Vincent O'Keefe whom Arrupe had preferred.[54] In 1983 John Paul gave leave for the Jesuits to appoint a successor to Arrupe.
+
+On 16 November 1989, six Jesuit priests (Ignacio Ellacuría, Segundo Montes, Ignacio Martín-Baró, Joaquin López y López, Juan Ramon Moreno, and Amado López), Elba Ramos their housekeeper, and Celia Marisela Ramos her daughter, were murdered by the Salvadoran military on the campus of the University of Central America in San Salvador, El Salvador, because they had been labeled as subversives by the government. The assassinations galvanized the society's peace and justice movements, including annual protests at the Western Hemisphere Institute for Security Cooperation at Fort Benning, Georgia, United States, where several of the assassins had been trained under US government sponsorship.[55]
+
+On 21 February 2001, the Jesuit priest Avery Dulles, an internationally known author, lecturer, and theologian, was created a cardinal of the Catholic Church by Pope John Paul II. The son of former Secretary of State John Foster Dulles, Avery Dulles was long known for his carefully reasoned argumentation and fidelity to the teaching office of the church. An author of 22 books and over 700 theological articles, Dulles died on 12 December 2008 at Fordham University, where he had taught for twenty years as the Laurence J. McGinley Professor of Religion and Society. He was, at his passing, one of ten Jesuit cardinals in the Catholic Church.
+
+In 2002, Boston College president and Jesuit priest William P. Leahy initiated the Church in the 21st Century program as a means of moving the church "from crisis to renewal". The initiative has provided the society with a platform for examining issues brought about by the worldwide Catholic sex abuse cases, including the priesthood, celibacy, sexuality, women's roles, and the role of the laity.[56] Visita_do_Papa_PUG_2.jpg to the Jesuit-run Pontifical Gregorian University]] In April 2005, Thomas J. Reese, editor of the American Jesuit weekly magazine _America_, resigned at the request of the society. The move was widely published in the media as the result of pressure from the Vatican, following years of criticism by the Congregation for the Doctrine of the Faith on articles touching subjects such as HIV/AIDS, religious pluralism, homosexuality, and the right of life for the unborn. Following his resignation, Reese spent a year-long sabbatical at Santa Clara University before being named a fellow at the Woodstock Theological Center in Washington, D.C., and later Senior Analyst for the _National Catholic Reporter_. President Barack Obama appointed him to the United States Commission on International Religious Freedom in 2014 and again in 2016.[57]
+
+On 2 February 2006, Peter Hans Kolvenbach informed members of the Society of Jesus that, with the consent of Pope Benedict XVI, he intended to step down as Superior General in 2008, the year he would turn 80.
+
+On 22 April 2006, Feast of Our Lady, Mother of the Society of Jesus, Pope Benedict XVI greeted thousands of Jesuits on pilgrimage to Rome, and took the opportunity to thank God "for having granted to your Company the gift of men of extraordinary sanctity and of exceptional apostolic zeal such as St Ignatius of Loyola, St Francis Xavier, and Bl Peter Faber." He said "St Ignatius of Loyola was above all a man of God, who gave the first place of his life to God, to his greater glory and his greater service. He was a man of profound prayer, which found its center and its culmination in the daily Eucharistic Celebration."[58]
+
+In May 2006, Benedict XVI also wrote a letter to Superior General Peter Hans Kolvenbach on the occasion of the 50th anniversary of Pope Pius XII's encyclical _Haurietis aquas_, on devotion to the Sacred Heart, because the Jesuits have always been "extremely active in the promotion of this essential devotion".[59] In his 3 November 2006 visit to the Pontifical Gregorian University, Benedict XVI cited the university as "one of the greatest services that the Society of Jesus carries out for the universal Church".[60]
+
+The 35th General Congregation of the Society of Jesus convened on 5 January 2008 and elected Adolfo Nicolás as the new Superior General on 19 January 2008. In a letter to the Fathers of the Congregation, Benedict XVI wrote:[61]
+
+  As my Predecessors have said to you on various occasions, the Church needs you, relies on you and continues to turn to you with trust, particularly to reach those physical and spiritual places which others do not reach or have difficulty in reaching. Paul VI's words remain engraved on your hearts: "Wherever in the Church, even in the most difficult and extreme fields, at the crossroads of ideologies, in the social trenches, there has been and there is confrontation between the burning exigencies of man and the perennial message of the Gospel, here also there have been, and there are, Jesuits" (_Address to the 32nd General Congregation of the Jesuits_,_ _3 December 1974; _ORE, _12 December, n. 2, p. 4.)
+
+Pope_Francis_at_Vargihna.jpg In 2013, Jesuit Cardinal Jorge Bergoglio became Pope Francis. Before he became Pope, he was appointed bishop when he was in "virtual estrangement from the Jesuits" since he was seen as "an enemy of liberation theology" and viewed by others as "still far too orthodox", trying to protect Jesuits but not approving of their participation in violent groups.[62][63][64] Once elected, there was an immediate reconciliation, and Pope Francis has been bringing the Jesuit simplicity, love for the poor, and service of the flock into the papacy.[65]
+
+On 2 October 2016, General Congregation 36 convened in Rome, convoked by Superior General Adolfo Nicolás, who had announced his intention to resign at age 80.[66][67][68] On 14 October, the 36th General Congregation of the Society of Jesus elected Arturo Sosa, a Venezuelan, as its thirty-first Superior General.[69]
+
+The General Congregation of Jesuits who elected Arturo Sosa in 2016 asked him to bring to completion the process of discerning Jesuit priorities for the time ahead. Sosa devised a two-year plan that enlisted all Jesuits and their lay collaborators in the process. Then in February 2019 he presented the results of the discernment, a list of four priorities for Jesuit ministries for the next ten years.
+
+    1. To show the way to God through discernment and the Spiritual Exercises of Ignatius of Loyola;
+    2. To walk with the poor, the outcasts of the world, those whose dignity has been violated, in a mission of reconciliation and justice;
+    3. To accompany young people in the creation of a hope-filled future;
+    4. To collaborate in the care of our Common Home.
+
+Pope Francis gave his approval to these priorities, saying that they are in harmony with the Church's present priorities and with the programmatic letter of his pontificate, _Evangelii gaudium_.[70]
+
+
+Ignatian spirituality
+
+The spirituality practiced by the Jesuits, called Ignatian spirituality, ultimately based on the Catholic faith and the gospels, is drawn from the _Constitutions_, _The Letters_, and _Autobiography_, and most specially from Ignatius' _Spiritual Exercises_, whose purpose is "to conquer oneself and to regulate one's life in such a way that no decision is made under the influence of any inordinate attachment." The _Exercises_ culminate in a contemplation whereby one develops a facility to "find God in all things."
+
+
+Formation
+
+The formation (training) of Jesuits seeks to prepare men spiritually, academically, and practically for the ministries they will be called to offer the church and world. Ignatius was strongly influenced by the Renaissance, and he wanted Jesuits to be able to offer whatever ministries were most needed at any given moment and, especially, to be ready to respond to missions (assignments) from the pope. Formation for priesthood normally takes between eight and fourteen years, depending on the man's background and previous education, and final vows are taken several years after that, making Jesuit formation among the longest of any of the religious orders.
+
+
+Government of the society
+
+The society is headed by a Superior General with the formal title _Praepositus Generalis_, Latin for "provost-general", more commonly called Father General or General. He is elected by the General Congregation for life or until he resigns; he is confirmed by the Pope and has absolute authority in running the society. The current Superior General of the Jesuits is the Venezuelan Arturo Sosa who was elected on 14 October 2016.[71]
+
+The Father General is assisted by "assistants", four of whom are "assistants for provident care" and serve as general advisors and a sort of inner council, and several other regional assistants, each of whom heads an "assistancy", which is either a geographic area (for instance the North American Assistancy) or an area of ministry (for instance higher education). The assistants normally reside with Father General in Rome and along with others form an advisory council to the General. A vicar general and secretary of the society run day-to-day administration. The General is also required to have an admonitor, a confidential advisor whose task is to warn the General honestly and confidentially when he might be acting imprudently or contrary to the church's magisterium. The central staff of the General is known as the Curia.[72]
+
+The society is divided into geographic provinces, each of which is headed by a Provincial Superior, generally called Father Provincial, chosen by the General. He has authority over all Jesuits and ministries in his area, and is assisted by a _socius_ who acts as a sort of secretary and chief of staff. With the approval of the General, the provincial appoints a novice master and a master of tertians to oversee formation, and rectors of local communities of Jesuits.[73] For better cooperation and apostolic efficacy in each continent, the Jesuit provinces are grouped into six Jesuit Conferences worldwide.
+
+Each Jesuit community within a province is normally headed by a rector who is assisted by a "minister", from the Latin for "servant", a priest who helps oversee the community's day-to-day needs.
+
+The General Congregation is a meeting of all of the assistants, provincials, and additional representatives who are elected by the professed Jesuits of each province. It meets irregularly and rarely, normally to elect a new superior general and/or to take up some major policy issues for the Order. The General meets more regularly with smaller councils composed of just the provincials.
+
+
+Habit and dress
+
+Jesuits do not have an official habit. The society's _Constitutions_ gives the following instructions: "The clothing too should have three characteristics: first, it should be proper; second, conformed to the usage of the country of residence; and third, not contradictory to the poverty we profess." (Const. 577)
+
+Historically, a "Jesuit-style cassock" became "standard issue": it was wrapped around the body and was tied with a cincture, rather than the customary buttoned front. A tuftless biretta (only diocesan clergy wore tufts) and a ferraiolo (cape) completed the look.
+
+Today, most Jesuits in the United States wear the clerical collar and black clothing of ordinary priests, although some still wear the black cassock.[74] Jesuits in tropical countries may use a white cassock when ministering outdoors.
+
+
+Controversies
+
+Power-seeking
+
+The _Monita Secreta_ (Secret Instructions of the Jesuits), published in 1612 and in 1614 in Kraków, is alleged to have been written by Claudio Acquaviva, the fifth general of the society, but was probably written by former Jesuit Jerome Zahorowski. It purports to describe the methods to be adopted by Jesuits for the acquisition of greater power and influence for the society and for the Roman Catholic Church. The _Catholic Encyclopedia_ states the book is a forgery, fabricated to ascribe a sinister reputation to the Society of Jesus.
+
+Political intrigue
+
+The Jesuits were temporarily banished from France in 1594 after a man named Jean Châtel tried to assassinate the king of France, Henri IV. Under questioning, Châtel revealed that he had been educated by the Jesuits of the Collège de Clermont. The Jesuits were accused of inspiring Châtel's attack. Two of his former teachers were exiled and a third was hanged.[75] The Collège de Clermont was closed, and the building was confiscated. The Jesuits were banned from France, although this ban was quickly lifted.
+
+In England, Henry Garnet, one of the leading English Jesuits, was hanged for misprision of treason because of his knowledge of the Gunpowder Plot (1605). The Plot was the attempted assassination of King James I of England and VI of Scotland, his family, and most of the Protestant aristocracy in a single attack, by exploding the Houses of Parliament. Another Jesuit, Oswald Tesimond, managed to escape arrest for his involvement in this plot.
+
+Casuistic justification
+
+Jesuits have been accused of using casuistry to obtain justifications for unjustifiable actions (cf. formulary controversy and _Lettres Provinciales_, by Blaise Pascal). Hence, the Concise Oxford Dictionary of the English language lists "equivocating" as a secondary denotation of the word "Jesuit". Modern critics of the Society of Jesus include Avro Manhattan, Alberto Rivera, and Malachi Martin, the latter being the author of _The Jesuits: The Society of Jesus and the Betrayal of the Roman Catholic Church_ (1987).[76]
+
+Anti-Semitism
+
+Although in the first 30 years of the existence of the Society of Jesus there were many Jesuits who were _conversos_ (Catholic-convert Jews), an anti-_converso_ faction led to the _Decree de genere_ (1593) which proclaimed that either Jewish or Muslim ancestry, no matter how distant, was an insurmountable impediment for admission to the Society of Jesus.[77] This new rule was contrary to the original wishes of Ignatius who "said that he would take it as a special grace from our Lord to come from Jewish lineage." The 16th-century _Decree de genere_ remained in force until it was repealed in 1946.
+
+Theological debates
+
+Within the Roman Catholic Church, there has existed a sometimes tense relationship between Jesuits and the Holy See due to questioning of official church teaching and papal directives, such as those on abortion,[78][79] birth control,[80][81][82][83] women deacons,[84] homosexuality, and liberation theology.[85][86] Usually, this theological free thinking is academically oriented, being prevalent at the university level. From this standpoint, the function of this debate is less to challenge the magisterium than to publicize the results of historical research or to illustrate the church's ability to compromise in a pluralist society based on shared values that do not always align with religious teachings.[87] This has not prevented Popes from appointing Jesuits to powerful positions in the church. John Paul II and Benedict XVI together appointed ten Jesuit cardinals to notable jobs. Under Benedict, Archbishop Luis Ladaria Ferrer was Secretary of the Congregation for the Doctrine of the Faith and Federico Lombardi was Vatican Press Secretary.[88] The current Pope, Francis, is himself a Jesuit.
+
+Child sexual abuse
+
+Members of the Society of Jesus have been implicated in the Catholic Church sexual abuse cases.
+
+
+Nazi persecution
+
+The Catholic Church faced persecution in Nazi Germany. Hitler was anticlerical and had particular disdain for the Jesuits. According to John Pollard, the Jesuits' "ethos represented the most intransigent opposition to the philosophy of Nazism", and so the Nazis considered them as one of their most dangerous enemies. A Jesuit college in the city of Innsbruck served as a center for anti-Nazi resistance and was closed down by the Nazis in 1938. Jesuits were a target for Gestapo persecution, and many Jesuit priests were deported to concentration camps. Jesuits made up the largest contingent of clergy imprisoned in the Priest Barracks of Dachau Concentration Camp. Lapomarda lists some 30 Jesuits as having died at Dachau. Of the total of 152 Jesuits murdered by the Nazis across Europe, 43 died in the concentration camps and an additional 27 died from captivity or its results.
+
+The Superior General of Jesuits at the outbreak of war was Wlodzimierz Ledochowski, a Pole. The Nazi persecution of the Catholic Church in Poland was particularly severe. Vincent Lapomarda wrote that Ledochowski helped "stiffen the general attitude of the Jesuits against the Nazis" and that he permitted Vatican Radio to carry on its campaign against the Nazis in Poland. Vatican Radio was run by the Jesuit Filippo Soccorsi and spoke out against Nazi oppression, particularly with regard to Poland and to Vichy-French anti-Semitism.
+
+Alfred_Delp_Mannheim.jpg, member of the Kreisau Circle that operated within Nazi Germany; he was executed in February 1945.[89]]]
+
+Several Jesuits were prominent in the small German Resistance. Among the central membership of the Kreisau Circle of the Resistance were the Jesuit priests Augustin Rösch, Alfred Delp, and Lothar König.[90] The Bavarian Jesuit Provincial, Augustin Rosch, ended the war on death row for his role in the July Plot to overthrow Hitler. Another non-military German Resistance group, dubbed the "Frau Solf Tea Party" by the Gestapo, included the Jesuit priest Friedrich Erxleben. The German Jesuit Robert Leiber acted as intermediary between Pius XII and the German Resistance.[91]
+
+Among the Jesuit victims of the Nazis, Germany's Rupert Mayer has been beatified. Mayer was a Bavarian Jesuit who clashed with the Nazis as early as 1923. Continuing his critique following Hitler's rise to power, Mayer was imprisoned in 1939 and sent to Sachsenhausen concentration camp. As his health declined, the Nazis feared the creation of a martyr and sent him to the Abbey of Ettal in 1940. There he continued to give sermons and lectures against the evils of the Nazi régime, until his death in 1945.[92][93]
+
+Rescue efforts during the Holocaust
+
+In his history of the heroes of the Holocaust, the Jewish historian Martin Gilbert notes that in every country under German occupation, priests played a major part in rescuing Jews, and that the Jesuits were one of the Catholic Orders that hid Jewish children in monasteries and schools to protect them from the Nazis.[94][95] Fourteen Jesuit priests have been formally recognized by Yad Vashem, the Holocaust Martyrs' and Heroes' Remembrance Authority in Jerusalem, for risking their lives to save Jews during the Holocaust of World War II: Roger Braun (1910–1981) of France;[96] Pierre Chaillet (1900–1972) of France;[97] Jean-Baptist De Coster (1896–1968) of Belgium;[98] Jean Fleury (1905–1982) of France;[99] Emile Gessler (1891–1958) of Belgium; Jean-Baptiste Janssens (1889–1964) of Belgium; Alphonse Lambrette (1884–1970) of Belgium; Emile Planckaert (1906–2006) of France; Jacob Raile (1894–1949) of Hungary; Henri Revol (1904–1992) of France; Adam Sztark (1907–1942) of Poland; Henri Van Oostayen (1906–1945) of Belgium; Ioannes Marangas (1901–1989) of Greece; and Raffaele de Chantuz Cubbe (1904–1983) of Italy.[100]
+
+Several other Jesuits are known to have rescued or given refuge to Jews during that period.[101] A plaque commemorating the 152 Jesuit priests who gave of their lives during the Holocaust was installed in April 2007 at the Jesuits' Rockhurst University in Kansas City, Missouri, United States.
+
+
+In science
+
+Jesuites_en_chine.jpg scholars in China. Top: Matteo Ricci, Adam Schall and Ferdinand Verbiest (1623–88); Bottom: Paul Siu (Xu Guangqi), _Colao_ or Prime Minister of State, and his granddaughter Candide Hiu.]]
+
+Between the sixteenth and eighteenth centuries, the teaching of science in Jesuit schools, as laid down in the _Ratio atque Institutio Studiorum Societatis Iesu_ ("The Official Plan of studies for the Society of Jesus") of 1599, was almost entirely based on the works of Aristotle.
+
+The Jesuits, nevertheless, have made numerous significant contributions to the development of science. For example, the Jesuits have dedicated significant study to earthquakes, and seismology has been described as "the Jesuit science". The Jesuits have been described as "the single most important contributor to experimental physics in the seventeenth century." According to Jonathan Wright in his book _God's Soldiers_, by the eighteenth century the Jesuits had "contributed to the development of pendulum clocks, pantographs, barometers, reflecting telescopes and microscopes – to scientific fields as various as magnetism, optics, and electricity. They observed, in some cases before anyone else, the colored bands on Jupiter's surface, the Andromeda nebula, and Saturn's rings. They theorized about the circulation of the blood (independently of Harvey), the theoretical possibility of flight, the way the moon affected the tides, and the wave-like nature of light."
+
+The Jesuit China missions of the 16th and 17th centuries introduced Western science and astronomy. One modern historian writes that in late Ming courts, the Jesuits were "regarded as impressive especially for their knowledge of astronomy, calendar-making, mathematics, hydraulics, and geography." The Society of Jesus introduced, according to Thomas Woods, "a substantial body of scientific knowledge and a vast array of mental tools for understanding the physical universe, including the Euclidean geometry that made planetary motion comprehensible." Another expert quoted by Woods said the scientific revolution brought by the Jesuits coincided with a time when science was at a very low level in China.
+
+
+Notable members
+
+North_American_Martyrs.jpg]] Notable Jesuits include missionaries, educators, scientists, artists, philosophers, and Pope Francis. Among many distinguished early Jesuits was Francis Xavier, a missionary to Asia who converted more people to Catholicism than anyone before, and Robert Bellarmine, a doctor of the Church. José de Anchieta and Manuel da Nóbrega, founders of the city of São Paulo, Brazil, were Jesuit priests. Another famous Jesuit was Jean de Brébeuf, a French missionary who was martyred during the 17th century in what was once New France (now Ontario) in Canada.
+
+In Spanish America, José de Acosta wrote a major work on early Peru and New Spain with important material on indigenous peoples. In South America, Peter Claver was notable for his mission to African slaves, building on the work of Alonso de Sandoval. Francisco Javier Clavijero was expelled from New Spain during the Suppression of the Society of Jesus in 1767 and wrote an important history of Mexico during his exile in Italy. Eusebio Kino is renowned in the southwestern United States and northern Mexico (an area then called the Pimeria Alta). He founded numerous missions and served as the peace-bringer between the tribes and the government of New Spain. Antonio Ruiz de Montoya was an important missionary in the Jesuit reductions of Paraguay.
+
+Baltasar Gracián was a 17th-century Spanish Jesuit and baroque prose writer and philosopher. He was born in Belmonte, near Calatayud (Aragon). His writings, particularly _El Criticón_ (1651–7) and _Oráculo Manual y Arte de Prudencia_ ("The Art of Prudence", 1647) were lauded by Schopenhauer and Nietzsche.
+
+In Scotland, John Ogilvie, a Jesuit, is the nation's only post-Reformation saint.
+
+Cardinal Jorge Bergoglio of Argentina was elected Pope Francis on 13 March 2013 and is the first Jesuit to be elected pope.
+
+Gerard Manley Hopkins was one of the first English poets to use sprung verse. Anthony de Mello was a Jesuit priest and psychotherapist who became widely known for his books which introduced Westerners to the East Indian traditions of spirituality.
+
+The Feast of All Jesuit Saints and Blesseds is celebrated on 5 November.[102]
+
+
+Institutions
+
+Educational institutions
+
+Although the work of the Jesuits today embraces a wide variety of apostolates, ministries, and civil occupations, they are probably most well known for their educational work. Since the inception of the order, Jesuits have been teachers. Besides serving on the faculty of Catholic and secular schools, the Jesuits are the Catholic religious order with the second highest number of schools which they run: 168 tertiary institutions in 40 countries and 324 secondary schools in 55 countries. (The Brothers of the Christian Schools have over 560 Lasallian educational institutions.) They also run elementary schools at which they are less likely to teach. Many of the schools are named after Francis Xavier and other prominent Jesuits.
+
+Jesuit educational institutions aim to promote the values of Eloquentia Perfecta. This is a Jesuit tradition that focuses on cultivating a person as a whole, as one learns to speak and write for the common good.
+
+Social and development institutions
+
+Since the Second Vatican Council and their own General Congregations which followed it, Jesuits have become increasingly involved in works directed primarily toward social and economic development for the poor and marginalized.[103] Included in this would be research, training, advocacy, and action for human development, as well as direct services. Most Jesuit schools have an office that fosters social awareness and social service in the classroom and through extracurricular programs, usually detailed on their websites. The Jesuits also run over 500 notable or stand-alone social or economic development centres in 56 countries around the world.
+
+Since the Second Vatican Council, Jesuits have founded many schools with the special purpose of serving the poor or marginalized, as among the Dalits in India and the Cristo Rey Network in the United States.
+
+
+Publications
+
+Basilica_of_St._Ignatius_in_Loyola.jpg in Azpeitia, Basque Country, Spain, the main Jesuit shrine in the birthplace of Ignatius of Loyola]] Jesuits are also known for their involvement in publications. _La Civiltà Cattolica_, a periodical produced in Rome by the Jesuits, has often been used as a semi-official platform for popes and Vatican officials to float ideas for discussion or hint at future statements or positions. In the United States, _America_ magazine has long had a prominent place in Catholic intellectual circles. Most Jesuit colleges and universities have their own presses which produce a variety of books, book series, textbooks, and academic publications. Ignatius Press, founded by a Jesuit, is an independent publisher of Catholic books, most of which are of the popular academic or lay-intellectual variety.
+
+In Australia, the Jesuits produce a number of magazines, including _Eureka Street_, _Madonna_, _Australian Catholics_, and _Province Express_.
+
+In Germany, the Jesuits publish _Geist und Leben._
+
+In Sweden the Catholic cultural magazine _Signum_, edited by the Newman Institute, covers a broad spectrum of issues concerning faith, culture, research, and society. The printed version of _Signum_ is published eight times per year. In addition, there is an up-to-date website (www.signum.se) containing an article archive dating from 1975 to the present.
+
+
+In popular culture
+
+-   The character Father Mulcahy is a Jesuit priest in the novel, film, and TV show _M*A*S*H_ franchise.
+-   The character Damien Karras is a Jesuit priest from the book and film _The Exorcist_.
+-   The Jesuits are the antagonists in the novel and TV miniseries Shōgun''
+-   The 1986 British drama film _The Mission_ revolves around the experiences of a Jesuit missionary in 18th-century South America.
+-   Antonio Banderas plays a Jesuit priest in the 2001 film _The Body_.
+-   Édgar Ramírez plays a Jesuit priest in 2014 film _Deliver Us from Evil_.
+-   The 2016 Martin Scorsese film _Silence_ is based on two Jesuit priests who travel to Japan to spread Christianity.
+-   The main protagonist in James Blish's 1958 novel _A Case of Conscience_ is a Jesuit priest.
+-   Aramis is made Superior General of the Jesuits in Alexandre Dumas' _The Man in the Iron Mask_ (1850).
+-   Mary Doria Russell's 1996 novel _The Sparrow_ follows a Jesuit space mission to make contact with a newfound planet; the majority of the characters are Jesuits.
+-   Angelo Cardinal Mennoni is the head of the Society of Jesus in A. J. Quinnell's 1987 novel _The Name of the Father_.
+-   In James Joyce's semi-autobiographical 1916 novel _A Portrait of the Artist as a Young Man_, the novel's protagonist, Stephen Dedalus, is educated in Jesuit schools.
+
+
+See also
+
+-   Ad maiorem Dei gloriam
+-   Apostleship of Prayer
+-   Bollandist
+-   Canadian Indian residential school system
+-   Jesuit conspiracy theories
+-   Jesuit Ivy
+-   Jesuit Missions of Chiquitos
+-   Jesuits and Nazi Germany
+-   List of Jesuit buildings
+-   List of saints of the Society of Jesus
+-   Misiones Province
+-   Monumenta Historica Societatis Iesu
+-   Pontifical university
+-   Roman Catholicism in China
+-   Roman Catholicism in Japan
+-   Sexual abuse scandal in the Society of Jesus
+
+
+Notes
+
+
+References
+
+Citations
+
+Sources
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Further reading
+
+Surveys
+
+-   Bangert, William V. _A History of the Society of Jesus_ (2nd ed. 1958) 552 pp.
+-   Barthel, Manfred. _Jesuits: History & Legend of the Society of Jesus_ (1984) 347 pp. online free
+-   Chapple, Christopher. _Jesuit Tradition in Education & Missions: A 450-Year Perspective_ (1993), 290 pp.
+-   Mitchell, David. _Jesuits: A History_ (1981) 320 pp.
+-   Molina, J. Michelle. _To Overcome Oneself: The Jesuit Ethic and Spirit of Global Expansion, 1520–1767_ (2013) online
+-   O'Malley, John W. _The Jesuits: A History from Ignatius to the Present_ (2014), 138 pp
+-   Worcester, Thomas. ed. _The Cambridge Companion to the Jesuits_ (2008), to 1773
+-   Wright, Jonathan. _God's Soldiers: Adventure, Politics, Intrigue & Power: A History of the Jesuits_ (2004) 368 pp online free
+
+Specialized studies
+
+-   Alden, Dauril. _Making of an Enterprise: The Society of Jesus in Portugal, Its Empire & Beyond, 1540–1750_ (1996) 707pp
+-   Brockey, Liam Matthew. _Journey to the East: The Jesuit Mission to China, 1579–1724_ (2007) 496 pp.
+-   , Special Edition Published 1997 by Loyola University Press, US -
+
+-   Brodrick, James. _Saint Francis Xavier (1506–1552)_ (1952).
+-   Brodrick, James. _Saint Ignatius Loyola: The Pilgrim Years 1491–1538_ (1998)
+-   Burson, Jeffrey D. and Jonathan Wright, eds. _The Jesuit Suppression in Global Context: Causes, Events, and Consequences_ (Cambridge UP, 2015) 297.pp
+-   Bygott, Ursula M. L. _With Pen & Tongue: The Jesuits in Australia, 1865–1939_ (1980) 423 pp.
+-   Dalmases, Cándido de. _Ignatius of Loyola, Founder of the Jesuits: His Life & Work_ (1985) 362 pp.
+-   Caraman, Philip. _Ignatius Loyola: A Biography of the Founder of the Jesuits_ (1990), 222 pp.
+-   Edwards, Francis. _Jesuits in England from 1580 to the Present Day_ (1985) 333 pp.
+-   Edwards, Francis. _Robert Persons: The Biography of an Elizabethan Jesuit, 1546–1610_ (1995) 411 pp.
+-   Healy, Róisin. _Jesuit Specter in Imperial Germany_ (2003) 263 pp.
+-   Höpfl, Harro. _Jesuit Political Thought: The Society of Jesus & the State, c. 1540–1640_ (2004) 406 pp.
+-   Hsia, Ronnie Po-chia. "Jesuit Foreign Missions. A Historiographical Essay." _Journal of Jesuit Studies_(2014) 1#1 pp: 47–65.
+-   Kaiser, Robert Blair. _Inside the Jesuits: How Pope Francis is Changing the Church and the World_ (Rowman & Littlefield, 2014)
+-   Klaiber, Jeffrey. _The Jesuits in Latin America: 1549–2000:: 450 Years of Inculturation, Defense of Human Rights, and Prophetic Witness_. St Louis, MO: Institute of Jesuit Sources 2009.
+-   Lapomarda, Vincent A., _The Catholic Bishops of Europe and the Nazi Persecutions of Catholics and Jews_, The Edwin Mellen Press (2012)
+-   McCoog, Thomas M., ed. ''Mercurian Project: Forming Jesuit Culture: 1573–1580 '' (2004) 992 pp.; 30 advanced essays by scholars
+-   Martin, A. Lynn. _Jesuit Mind. The Mentality of an Elite in Early Modern France_ (1988) 256 pp.
+-   O'Malley, John. "The Society of Jesus." in R. Po-chia Hsia, ed., _A Companion to the Reformation World_ (2004) pp. 223–36.
+-   O'Malley, John W. ed. _Saints or Devils Incarnate? Studies in Jesuit History_ (2013) 312 pp
+-   -   Pomplun, Trent. "Jesuit on the Roof of the World: Ippolito Desideri's Mission to Tibet." Oxford University Press (2010).
+-   Roberts, Ian D. _Harvest of Hope: Jesuit Collegiate Education in England, 1794–1914_ (1996) 253 pp.
+-   Ronan, Charles E. and Bonnie B. C. Oh, eds. _East Meets West: The Jesuits in China, 1582–1773_ (1988), 332 pp.
+-   Ross, Andrew C. _Vision Betrayed: The Jesuits in Japan & China, 1542–1742_ (1994) 216 pp.
+-   Santich, Jan Joseph. _Missio Moscovitica: The Role of the Jesuits in the Westernization of Russia, 1582–1689_ (1995) 255 pp.
+-   Wright, Jonathan. "From Immolation to Restoration: The Jesuits, 1773–1814." _Theological Studies_ (2014) 75#4 pp. 729–745.
+
+United States
+
+-   Cushner, Nicholas P. _Soldiers of God: The Jesuits in Colonial America, 1565–1767_ (2002) 402 pp.
+-   Garraghan, Gilbert J. _The Jesuits Of The Middle United States_ (3 vol 1938) covers Midwest from 1800 to 1919 vol 1 online, ; vol 2; vol 3
+-   McDonough, Peter. _Men astutely trained : a history of the Jesuits in the American century_ (1994), covers 1900 to 1960s; online free
+-   Schroth, Raymond A. _The American Jesuits: A History_ (2009)
+
+Primary sources
+
+-   Desideri, Ippolito. "Mission to Tibet: The Extraordinary Eighteenth-Century Account of Father Ippolito Desideri." Translated by Michael J. Sweet. Edited by Leonard Zwilling. Boston: Wisdom Publications, 2010.
+-   Donnelly, John Patrick, ed. _Jesuit Writings of the Early Modern Period: 1540–1640_ (2006)
+
+In German
+
+-   Klaus Schatz. _Geschichte der deutschen Jesuiten: Bd. 1: 1814–1872_ Münster: Aschendorff Verlag, 2013. XXX, 274 S. . online review
+-   Schatz. _Geschichte der deutschen Jesuiten: Bd. 2: 1872–1917_
+-   Schatz. _Geschichte der deutschen Jesuiten: Bd. 3: 1917–1945_
+-   Schatz. _Geschichte der deutschen Jesuiten: Bd. 4: 1945–1983_
+-   Schatz. _Geschichte der deutschen Jesuiten: Bd. 5: Quellen, Glossar, Biogramme, Gesamtregister_
+
+
+External links
+
+Catholic Church documents
+
+-   Benedict XVI's Address to the Members of the Society of Jesus, 22 April 2006
+-   Benedict XVI's Visit to the Pontifical Gregorian University, 3 November 2006
+
+Jesuit documents
+
+-   The Jesuit Ratio Studiorum of 1599
+-   [http://duels.doshisha.ac.jp:88/denshika/jesuit/139/imgidx139.html The Jesuit Mission Press in Japan, 1591–1610]
+-   Letter of the Jesuit Social Justice Secretariat to the leaders of the G8, July 2005
+-   The Spiritual Exercises of St. Ignatius of Loyola
+
+Other links
+
+-   The Jesuits, BBC Radio 4 discussion with Nigel Aston, Simon Ditchfield & Olwen Hutton (_In Our Time_, 18 January 2007)
+-   -   -
+
+Society_of_Jesus Category:1540 establishments in Europe Category:Counter-Reformation Category:Religious organizations established in the 1540s Category:Catholic religious orders established in the 16th century
+
+[1] Spiteri, Stephen C. (2016). Baroque Routes. _University of Malta_. p. 16.
+
+[2]
+
+[3]
+
+[4]
+
+[5]
+
+[6]
+
+[7]
+
+[8]
+
+[9]
+
+[10]
+
+[11]
+
+[12]
+
+[13]
+
+[14]
+
+[15]
+
+[16]
+
+[17]
+
+[18]
+
+[19]
+
+[20] Text of the Formula of the Institute as approved by Pope Paul III in 1540, Boston College, Institute for Advanced Jesuit Studies.
+
+[21]
+
+[22] Michael Servetus Research Website that includes graphical documents in the University of Paris of: Ignations of Loyola, Francis Xavier, Alfonso Salmerón, Nicholas Bobadilla, Peter Faber and Simao Rodrigues, as well as Michael de Villanueva ("Servetus")
+
+[23]
+
+[24]
+
+[25]
+
+[26]
+
+[27]
+
+[28]
+
+[29] Homilía del Santo Padre Francisco
+
+[30]
+
+[31] Jacques, Roland (2004). "Bồ Đào Nha và công trình sáng chế chữ quốc ngữ: Phải chăng cần viết lại lịch sử?" Translated by Nguyễn Đăng Trúc. In _Các nhà truyền giáo Bồ Đào Nha và thời kỳ đầu của Giáo hội Công giáo Việt Nam (Quyển 1)_ – _Les missionnaires portugais et les débuts de l’Eglise catholique au Viêt-nam (Tome 1)_ (in Vietnamese & French). Reichstett, France: Định Hướng Tùng Thư. .
+
+[32]
+
+[33] .
+
+[34] .
+
+[35] .
+
+[36] .
+
+[37] .
+
+[38] .
+
+[39]
+
+[40]
+
+[41] _The Provincial Statutes of Canada: anno undecimo et duodecimo Victoriae Reginae_ (Montreal: Stewart Derbishire and George Desbarats, 1848), pp. 1483, 1484
+
+[42] Jesuits at thecanadianencyclopedia.ca
+
+[43] Carlos María de Bustamante, _Los tres siglos de México durante el gobierno español, hasta la entrada del ejército trigarante. Obra escrita en Roma por el P. Andrés Cavo, de la Compañía de Jesús; publicada con notas y suplemento_. 4 vols. Mexico 1836–38.
+
+[44] Diego Luis de Motezuma, _Corona mexicana, o historia de los Motezumas, por el Padre Diego Luis de Motezuma de la Compañía de Jesús_. Madrid 1914.
+
+[45] Ganson, Barbara (2003), _The Guarani under Spanish Rule_, Stanford: Stanford University Press, pp 3, 52–53.
+
+[46] Ganson, pp 44–51
+
+[47]
+
+[48]
+
+[49]
+
+[50]
+
+[51] Pius XI, dilectissima Nobis, 1933
+
+[52]
+
+[53]  John Paul II|website=w2.vatican.va|access-date=31 May 2017}}
+
+[54]
+
+[55]
+
+[56]
+
+[57]
+
+[58]
+
+[59]
+
+[60]
+
+[61]  BENEDICT XVI|website=w2.vatican.va|access-date=31 May 2017}}
+
+[62]
+
+[63]
+
+[64]
+
+[65]
+
+[66]
+
+[67]
+
+[68]
+
+[69]
+
+[70]
+
+[71]
+
+[72]
+
+[73]
+
+[74]
+
+[75]
+
+[76] see Malachi Martin (1987) The Jesuits: The Society of Jesus and the Betrayal of the Roman Catholic Church, Simon & Schuster, Linden Press, New York, 1987,
+
+[77]
+
+[78]
+
+[79]
+
+[80]
+
+[81]
+
+[82]
+
+[83]
+
+[84]
+
+[85]
+
+[86]
+
+[87]
+
+[88]
+
+[89] Anton Gill; An Honourable Defeat; A History of the German Resistance to Hitler; Heinemann; London; 1994; p. 264.
+
+[90] Peter Hoffmann; _The History of the German Resistance 1933–1945_; 3rd Edn (First English Edn); McDonald & Jane's; London; 1977; p. 33.
+
+[91] Peter Hoffmann; _The History of the German Resistance 1933–1945_; 3rd Edn (First English Edn); McDonald & Jane's; London; 1977; p. 160
+
+[92]
+
+[93]
+
+[94] Martin Gilbert; The Righteous – The Unsung Heroes of the Holocaust; Doubleday; 2002; ; p. 299
+
+[95] Martin Gilbert; _The Righteous: the Unsung Heroes of the Holocaust_; Holt Paperback; New York; 2004; Preface
+
+[96] Braun Roger (1910–1981); Yad Vashem
+
+[97] Chaillet Pierre (1900–1972); Yad Vashem
+
+[98] De Coster, Father Jean-Baptiste; Yad Vashem
+
+[99] Fleury Jean (1905–1982); Yad Vashem
+
+[100] Vincent A. Lapomarda, _The Jesuits and the Third Reich_ (Edward Mellen Press, 1989).
+
+[101]
+
+[102]  European Tertianship|website=tertianship.eu|language=en-US|access-date=30 May 2017}}
+
+[103]

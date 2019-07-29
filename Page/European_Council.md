@@ -1,0 +1,217 @@
+The EUROPEAN COUNCIL is a collective body that defines the European Union's overall political direction and priorities. It comprises the heads of state or government of the EU member states, along with the President of the European Council and the President of the European Commission. The High Representative of the Union for Foreign Affairs and Security Policy also takes part in its meetings.[1] Established as an informal summit in 1975, the European Council was formalised as an institution in 2009 upon the entry into force of the Treaty of Lisbon. Its current president is Donald Tusk, former Prime Minister of Poland.
+
+
+Scope
+
+While the European Council has no legislative power, it is a strategic (and crisis-solving) body that provides the union with general political directions and priorities, and acts as a collective presidency. The European Commission remains the sole initiator of legislation, but the European Council is able to provide an impetus to guide legislative policy.[2][3]
+
+The meetings of the European Council, still commonly referred to as EU summits, are chaired by its president and take place at least twice every six months;[4] usually in the Europa building in Brussels.[5][6] Decisions of the European Council are taken by consensus, except where the Treaties provide otherwise.[7]
+
+
+History
+
+Bundesarchiv_B_145_Bild-F075760-0010,_Brüssel,_Sitzung_des_Europarates.jpg during Belgium's 1987 presidency]] The European Council officially gained the status of an EU institution after the Treaty of Lisbon in 2007, distinct from the Council of the European Union (Council of Ministers). Before that, the first summits of EU heads of state or government were held in February and July 1961 (in Paris and Bonn respectively). They were informal summits of the leaders of the European Community, and were started due to then-French President Charles de Gaulle's resentment at the domination of supranational institutions (notably the European Commission) over the integration process, but petered out. The first influential summit held, after the departure of de Gaulle, was the Hague summit of 1969, which reached an agreement on the admittance of the United Kingdom into the Community and initiated foreign policy cooperation (the European Political Cooperation) taking integration beyond economics.[8][9]
+
+The summits were only formalised in the period between 1974 and 1988. At the December summit in Paris in 1974, following a proposal from then-French president Valéry Giscard d'Estaing, it was agreed that more high level, political input was needed following the "empty chair crisis" and economic problems.[10] The inaugural _European Council_, as it became known, was held in Dublin on 10 and 11 March 1975 during Ireland's first Presidency of the Council of Ministers. In 1987, it was included in the treaties for the first time (the Single European Act) and had a defined role for the first time in the Maastricht Treaty. At first only a minimum of two meetings per year were required, which resulted in an average of three meetings per year being held for the 1975-1995 period. Since 1996, the number of meetings were required to be minimum four per year. For the latest 2008-2014 period, this minimum was well exceeded, by an average of seven meetings being held per year. The seat of the Council was formalised in 2002, basing it in Brussels. Three types of European Councils exist: Informal, Scheduled and Extraordinary. While the informal meetings are also scheduled 1½ years in advance, they differ from the scheduled ordinary meetings by not ending with official _Council conclusions_, as they instead end by more broad political _Statements_ on some cherry picked policy matters. The extraordinary meetings always end with official _Council conclusions_ - but differs from the scheduled meetings by not being scheduled more than a year in advance, as for example in 2001 when the European Council gathered to lead the European Union's response to the 11 September attacks.[11][12]
+
+Tratado_de_Lisboa_13_12_2007_(081).jpg in 2007]] Some meetings of the European Council—and, before the European Council was formalised, meetings of the heads of government—are seen by some as turning points in the history of the European Union. For example:[13]
+
+-   1969, _The Hague_: Foreign policy and enlargement.
+-   1974, _Paris_: Creation of the Council.
+-   1985, _Milan_: Initiate IGC leading to the Single European Act.
+-   1991, _Maastricht_: Agreement on the Maastricht Treaty.
+-   1992, _Edinburgh_: Agreement (by treaty provision) to retain at Strasbourg the plenary seat of the European Parliament.
+-   1993, _Copenhagen_: Leading to the definition of the Copenhagen Criteria.
+-   1997, _Amsterdam_: Agreement on the Amsterdam Treaty.
+-   1998, _Brussels_: Selected member states to adopt the euro.
+-   1999; _Cologne_: Declaration on military forces.[14]
+-   1999, _Tampere_: Institutional reform
+-   2000, _Lisbon_: Lisbon Strategy
+-   2002, _Copenhagen_: Agreement for May 2004 enlargement.
+-   2007, _Lisbon_: Agreement on the Lisbon Treaty.
+-   2009, _Brussels_: Appointment of first president and merged High Representative.
+-   2010, European Financial Stability Facility
+
+As such, the European Council had already existed before it gained the status as an institution of the European Union with the entering into force of the Treaty of Lisbon, but even after it had been mentioned in the treaties (since the Single European Act) it could only take political decisions, not formal legal acts. However, when necessary, the Heads of State or Government could also meet as the Council of Ministers and take formal decisions in that role. Sometimes, this was even compulsory, e.g. Article 214(2) of the Treaty establishing the European Community provided (before it was amended by the Treaty of Lisbon) that ‘the Council, meeting _in the composition of Heads of State or Government_ and acting by a qualified majority, shall nominate the person it intends to appoint as President of the Commission’ (emphasis added); the same rule applied in some monetary policy provisions introduced by the Maastricht Treaty (e.g. Article 109j TEC). In that case, what was politically part of a European Council meeting was legally a meeting of the Council of Ministers. When the European Council, already introduced into the treaties by the Single European Act, became an institution by virtue of the Treaty of Lisbon, this was no longer necessary, and the "Council [of the European Union] meeting in the composition of the Heads of State or Government", was replaced in these instances by the European Council now taking formal legally binding decisions in these cases (Article 15 of the Treaty on European Union).[15]
+
+The Treaty of Lisbon made the European Council a formal institution distinct from the (ordinary) Council of the EU, and created the present longer term and full-time presidency. As an outgrowth of the Council of the EU, the European Council had previously followed the same Presidency, rotating between each member state. While the Council of the EU retains that system, the European Council established, with no change in powers, a system of appointing an individual (without them being a national leader) for a two-and-a-half-year term—which can be renewed for the same person only once.[16] Following the ratification of the treaty in December 2009, the European Council elected the then-Prime Minister of Belgium Herman Van Rompuy as its first permanent president (resigning from Belgian Prime Minister).[17]
+
+
+Powers and functions
+
+The European Council is an official institution of the EU, mentioned by the Lisbon Treaty as a body which "shall provide the Union with the necessary impetus for its development". Essentially it defines the EU's policy agenda and has thus been considered to be the motor of European integration.[18] Beyond the need to provide "impetus", the Council has developed further roles: to "settle issues outstanding from discussions at a lower level", to lead in foreign policy — acting externally as a "collective Head of State", "formal ratification of important documents" and "involvement in the negotiation of the treaty changes".[19][20]
+
+Since the institution is composed of national leaders, it gathers the executive power of the member states and has thus a great influence in high-profile policy areas as for example foreign policy. It also exercises powers of appointment, such as appointment of its own President, the High Representative of the Union for Foreign Affairs and Security Policy, and the President of the European Central Bank. It proposes, to the European Parliament, a candidate for President of the European Commission. Moreover, the European Council influences police and justice planning, the composition of the Commission, matters relating to the organisation of the rotating Council presidency, the suspension of membership rights, and changing the voting systems through the Passerelle Clause. Although the European Council has no direct legislative power, under the "emergency brake" procedure, a state outvoted in the Council of Ministers may refer contentious legislation to the European Council. However, the state may still be outvoted in the European Council.[21][22][23] Hence with powers over the supranational executive of the EU, in addition to its other powers, the European Council has been described by some as the Union's "supreme political authority".[24][25][26][27]
+
+
+Composition
+
+The European Council consists of the heads of state or government of the member states, alongside its own President and the Commission President (both non-voting). The meetings used to be regularly attended by the national foreign minister as well, and the Commission President likewise accompanied by another member of the Commission. However, since the Treaty of Lisbon, this has been discontinued, as the size of the body had become somewhat large following successive accessions of new Member States to the Union.[28][29]
+
+Meetings can also include other invitees, such as the President of the European Central Bank, as required. The Secretary-General of the Council attends, and is responsible for organisational matters, including minutes. The President of the European Parliament also attends to give an opening speech outlining the European Parliament's position before talks begin.[30][31]
+
+Additionally, the negotiations involve a large number of other people working behind the scenes. Most of those people, however, are not allowed to the conference room, except for two delegates per state to relay messages. At the push of a button members can also call for advice from a Permanent Representative via the "Antici Group" in an adjacent room. The group is composed of diplomats and assistants who convey information and requests. Interpreters are also required for meetings as members are permitted to speak in their own languages.[32] As the composition is not precisely defined, some states which have a considerable division of executive power can find it difficult to decide who should attend the meetings. While an MEP, Alexander Stubb argued that there was no need for the President of Finland to attend Council meetings with or instead of the Prime Minister of Finland (who was head of European foreign policy).[33] In 2008, having become Finnish Foreign Minister, Stubb was forced out of the Finnish delegation to the emergency council meeting on the Georgian crisis because the President wanted to attend the high-profile summit as well as the Prime Minister (only two people from each country could attend the meetings). This was despite Stubb being Chair-in-Office of the Organisation for Security and Co-operation in Europe at the time which was heavily involved in the crisis. Problems also occurred in Poland where the President of Poland and the Prime Minister of Poland were of different parties and had a different foreign policy response to the crisis.[34] A similar situation arose in Romania between President Traian Băsescu and Prime Minister Călin Popescu-Tăriceanu in 2007–2008 and again in 2012 with Prime Minister Victor Ponta, who both opposed the president.
+
+Eurozone summits
+
+A number of ad hoc meetings of Heads of State or Government of the Euro area countries were held in 2010 and 2011 to discuss the Sovereign Debt crisis. It was agreed in October 2011 that they should meet regularly twice a year (with extra meetings if needed). This will normally be at the end of a European Council meeting and according to the same format (chaired by the President of the European Council and including the President of the Commission), but usually restricted to the (currently 19) Heads of State or Government of countries whose currency is the euro.
+
+President
+
+The President of the European Council is elected by the European Council by a qualified majority for a once-renewable term of two and a half years.[35] The President must report to the European Parliament after each European Council meeting.[36][37]
+
+The post was created by the Treaty of Lisbon and was subject to a debate over its exact role. Prior to Lisbon, the Presidency rotated in accordance with the Presidency of the Council of the European Union.[38][39] The role of that President-in-Office was in no sense (other than protocol) equivalent to an office of a head of state, merely a _primus inter pares_ (first among equals) role among other European heads of government. The President-in-Office was primarily responsible for preparing and chairing the Council meetings, and had no executive powers other than the task of representing the Union externally. Now the leader of the Council Presidency country can still act as president when the permanent president is absent.
+
+Members
+
+(9 + 2 non-voting from the EU institutions)
+
+(7)
+
+(6)
+
+(4)
+
+(2)
+
+Political parties
+
+Almost all members of the European Council are members of a political party at national level, and most of these are members of a European-level political party. These frequently hold pre-meetings of their European Council members, prior to its meetings. However, the European Council is composed to represent the EU's states rather than political parties and decisions are generally made on these lines, though ideological alignment can colour their political agreements and their choice of appointments (such as their president).
+
+The table below outlines the number of leaders affiliated to each party and their total voting weight. The map to the right indicates the alignment of each individual country.
+
+Members timeline
+
+
+Seat and meetings
+
+The European Council is required by Article 15.3 TEU to meet at least twice every six months, but convenes more frequently in practice.[40][41] Despite efforts to contain business, meetings typically last for at least two days, and run long into the night.[42]
+
+Until 2002, the venue for European Council summits was the member state that held the rotating Presidency of the Council of the European Union. However, European leaders agreed during ratification of the Nice Treaty to forego this arrangement at such a time as the total membership of the European Union surpassed 18 member states.[43] An advanced implementation of this agreement occurred in 2002, with certain states agreeing to waive their right to host meetings, favouring Brussels as the location.[44] Following the growth of the EU to 25 member states, with the 2004 enlargement, all subsequent official summits of the European Council have been in Brussels, with the exception of punctuated ad hoc meetings, such as the 2017 informal European Council in Malta.[45] The logistical, environmental, financial and security arrangements of hosting large summits are usually cited as the primary factors in the decision by EU leaders to move towards a permanent seat for the European Council.[46] Additionally, some scholars argue that the move, when coupled with the formalisation of the European Council in the Lisbon Treaty, represents an institutionalisation of an ad hoc EU organ that had its origins in Luxembourg compromise, with national leaders reasserting their dominance as the EU's "supreme political authority".[47]
+
+Originally, both the European Council and the Council of the European Union utilised the Justus Lipsius building as their Brussels venue. In order to make room for additional meeting space a number of renovations were made, including the conversion of an underground carpark into additional press briefing rooms.[48] However, in 2004 leaders decided the logistical problems created by the outdated facilities warranted the construction of a new purpose built seat able to cope with the nearly 6,000 meetings, working groups, and summits per year.[49] This resulted in the Europa building, which opened its doors in 2017. The focal point of the new building, the distinctive multi-storey "lantern-shaped" structure in which the main meeting room is located, is utilised in both the European Council's and Council of the European Union's official logos.[50]
+
+
+See also
+
+-   Laeken indicators
+-   Euro summit
+-   Presidency of the Council of the European Union
+
+
+References
+
+
+Further reading
+
+-
+
+
+External links
+
+-   Official website
+-   Archive of European Integration – Summit Guide
+-   European Council Collection of documents - CVCE
+-   Reflection Group established by the European Council
+
+* Category:Politics of the European Union
+
+[1]
+
+[2] Art. 13 et seq of the Treaty on European Union
+
+[3]
+
+[4]
+
+[5]
+
+[6]
+
+[7] Art. 15(4) of the Treaty on European Union
+
+[8]
+
+[9]
+
+[10] On the economic problems, see Imbrogno, Anthony (2016). "The Founding of the European Council: economic reform and the mechanism of continuous negotiation". Journal of European Integration 38 no.6, pp.719-736. http://www.tandfonline.com/doi/full/10.1080/07036337.2016.1188925
+
+[11]
+
+[12]
+
+[13]
+
+[14]
+
+[15] Wikisource: Article 2(3)(e), Treaty of Lisbon
+
+[16]
+
+[17]
+
+[18]
+
+[19]
+
+[20]
+
+[21]
+
+[22]
+
+[23]
+
+[24]
+
+[25]
+
+[26]
+
+[27]
+
+[28]
+
+[29]
+
+[30]
+
+[31]
+
+[32]
+
+[33]
+
+[34]
+
+[35]
+
+[36]
+
+[37]
+
+[38]
+
+[39]
+
+[40]
+
+[41]
+
+[42]
+
+[43]
+
+[44]
+
+[45]
+
+[46]
+
+[47]
+
+[48]
+
+[49]
+
+[50]

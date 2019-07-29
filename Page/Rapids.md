@@ -1,0 +1,25 @@
+Rapids_before_the_Rhine_Falls.jpg]] Violent_water_below_Niagara_Falls.jpg]] RapidsonMississippiRiverOntario.jpg in Pakenham, Ontario, Canada.]] RAPIDS are sections of a river where the river bed has a relatively steep gradient, causing an increase in water velocity and turbulence.
+
+Rapids are hydrological features between a _run_ (a smoothly flowing part of a stream) and a _cascade_. Rapids are characterised by the river becoming shallower with some rocks exposed above the flow surface. As flowing water splashes over and around the rocks, air bubbles become mixed in with it and portions of the surface acquire a white colour, forming what is called "whitewater". Rapids occur where the bed material is highly resistant to the erosive power of the stream in comparison with the bed downstream of the rapids. Very young streams flowing across solid rock may be rapids for much of their length. Rapids cause water aeration of the stream or river resulting in better water quality.
+
+Rapids are categorized in classes, generally running from I to VI. A Class 5 rapid may be categorized as Class 5.1-5.9. While class I rapids are easy to navigate and require little maneuvering, class VI rapids pose threat to life with little or no chance for rescue. River rafting sports are carried out where many rapids are present in the course.
+
+
+See also
+
+-   Fluid dynamics
+-   International Scale of River Difficulty - for classification of rapids
+-   Rheophile - organisms that live in fast flowing water
+-   Riffle - A fast moving portion of a stream without the vigour of a rapid
+
+
+References
+
+-
+
+
+External links
+
+Rapids entry in National Geographic's encyclopedia
+
+Category:Fluvial landforms Category:Limnology Rapids Category:Rivers Category:Water streams

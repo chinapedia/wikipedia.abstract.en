@@ -1,0 +1,76 @@
+POPE URBAN IV (; c. 1195 – 2 October 1264), born JACQUES PANTALÉON,[1] was the head of the Catholic Church and ruler of the Papal States from 29 August 1261 to his death in 1264. He was not a cardinal; only a few popes since his time have not been cardinals, including Gregory X, Urban V and Urban VI.
+
+
+Biography
+
+Urban IV was the son of a cobbler of Troyes, France.[2] He studied theology and common law in Paris and was appointed a canon of Laon and later Archdeacon of Liège. At the First Council of Lyon (1245) he attracted the attention of Pope Innocent IV, who sent him on two missions in Germany.[3] One of the missions was to negotiate the Treaty of Christburg between the pagan Prussians and the Teutonic Knights. He became Bishop of Verdun in 1253. In 1255, Pope Alexander IV made him Patriarch of Jerusalem.[4]
+
+He had returned from Jerusalem, which was in dire straits,[5] and was at Viterbo seeking help for the oppressed Christians in the East when Alexander IV died. After a three-month vacancy, Pantaléon was chosen by the eight cardinals of the Sacred College to succeed him in a papal election that concluded on 29 August 1261. He chose the regnal name of Urban IV.
+
+A fortnight before Urban IV's election, the Latin Empire of Constantinople, founded during the ill-fated Fourth Crusade against the Byzantines, was abolished after the re-capture of the city by the Byzantines led by general Michael VIII Palaiologos. Urban IV endeavoured without success to stir up a crusade to restore the Latin Empire.
+
+Urban initiated construction of the Basilica of St. Urbain, Troyes, in 1262.[6]
+
+The festival of Corpus Christi ("the Body of Christ") was instituted by Urban IV on August 11, 1264, with the publication of the papal bull _Transiturus._[7] Urban asked Thomas Aquinas, the Dominican theologian, to write the texts for the Mass and Office of the feast. [8] This included such famous hymns as the _Pange lingua, Tantum ergo,_ and _Panis angelicus_.
+
+The Pope became involved in the affairs of Denmark. Jakob Erlandsen, Archbishop of Lund, wanted to make the Danish Church independent of the Royal power - which put him in direct confrontation with the Dowager Queen Margaret Sambiria, acting as regent for her son, King Eric V of Denmark. The Queen imprisoned the Archbishop, who responded by issuing an interdict. Both sides tried to get the Pope's support. The Pope agreed to several items that the Queen wanted - especially, he issued a dispensation to alter the terms of the Danish succession that would permit women to inherit the Danish throne. However, the main issues remained unsolved by Urban's death, with the case continuing at the papal court in Rome and the exiled Archbishop Erlandsen coming to Italy to pursue it in person.
+
+In fact, the convoluted affairs of distant Denmark were of only a minor concern to the Pope. It was Italy which commanded Urban IV's near full attention: the long confrontation with the late Hohenstaufen German Emperor Frederick II had not been pressed during the mild pontificate of Alexander IV, during which it devolved into inter-urban struggles between nominally pro-Imperial Ghibellines and even more nominally pro-papal Guelf factions. Frederick II's heir Manfred was immersed in these struggles.
+
+Urban IV's military captain was the condottiere Azzo d'Este, nominally at the head of a loose league of cities that included Mantua and Ferrara. Any Hohenstaufen in Sicily was bound to have claims over the cities of Lombardy, and as a check to Manfred, Urban IV introduced Charles of Anjou into the equation to place the crown of the Kingdom of Sicily in the hands of a monarch amenable to papal control. Charles was Count of Provence by right of his wife, maintaining a rich base for projecting what would be an expensive Italian war.
+
+For two years Urban IV negotiated with Manfred regarding whether Manfred would aid the Latins in regaining Constantinople in return for papal confirmation of the Hohenstaufen rights in the realm. Meanwhile, the papal pact solidified with Charles a promise of papal ships and men, produced by a crusading tithe, and Charles's promise not to lay claims on Imperial lands in northern Italy, nor in the Papal States. Charles promised to restore the annual _census_ or feudal tribute due the Pope as overlord, some 10,000 ounces of gold being agreed upon, while the Pope would work to block Conradin from election as King of the Germans.
+
+Before the arrival in Italy of his candidate Charles, Urban IV died at Perugia on 2 October 1264. His successor was Pope Clement IV, who immediately took up the papal side of the arrangement.
+
+There is a story that the pope's death was related to Great Comet of 1264 which he fell sick at sometime near the arrival of the comet and then he died when the comet disappeared.
+
+
+Legend of Tannhäuser
+
+Tannhäuser, a prominent German Minnesänger and poet, was a contemporary of Pope Urban IV—the pope died in 1264, and the Minnesänger died shortly after 1265. Two centuries later, the pope became a major character in a legend which grew up about the Minnesänger, which is first attested in 1430 and propagated in ballads from 1450.[9]
+
+The legendary account makes Tannhäuser a knight and poet who found the Venusberg, the subterranean home of Venus, and spent a year there worshipping the goddess. After leaving the Venusberg, Tannhäuser is filled with remorse and travels to Rome to ask Pope Urban IV if it is possible to be absolved of his sins. Urban replies that forgiveness is as impossible as it would be for his papal staff to send forth green leaves. Three days after Tannhäuser's departure Urban's staff begins to grow new leaves; messengers are sent to retrieve the knight, but he has already returned to Venusberg, never to be seen again; while the Pope, for refusing a penitent, is damned eternally.[10]
+
+There is no historical evidence for the events in the legend.
+
+
+See also
+
+-   List of popes
+
+
+Notes
+
+
+References
+
+-   David Abulafia, 1988. _Frederick II_, pp 413ff.
+-
+
+
+External links
+
+-   _Catholic Encyclopedia_: Pope Urban IV
+
+Category:1195 births Category:1264 deaths Category:People from Troyes Pope_Urban_IV Category:French popes Category:Latin Patriarchs of Jerusalem Category:13th-century Roman Catholic archbishops Category:13th-century French people Category:Non-cardinals elected pope Category:Bishops of Verdun Category:Apostolic Envoys to Poland Category:Viterbo Papacy Category:Christians of the Prussian Crusade Category:Popes Category:13th-century popes
+
+[1] Steven Runciman, _The Sicilian Vespers: A History of the Mediterranean Word in the Later Thirteenth Century_, (Cambridge University Press, 2000), 54.
+
+[2]
+
+[3]
+
+[4]
+
+[5]
+
+[6]
+
+[7] Saint Thomas Aquinas by Jean-Pierre Torrell, Catholic University of America Press, 1996, p. 130
+
+[8] Saint Thomas Aquinas by Jean-Pierre Torrell, Catholic University of America Press, 1996, pp. 129-136
+
+[9]
+
+[10]

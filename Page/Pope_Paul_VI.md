@@ -1,0 +1,680 @@
+POPE PAUL VI (; ; born GIOVANNI BATTISTA ENRICO ANTONIO MARIA MONTINI (); 26 September 1897 – 6 August 1978) was head of the Catholic Church and sovereign of the Vatican City State from 21 June 1963 to his death in 1978. Succeeding John XXIII, he continued the Second Vatican Council which he closed in 1965, implementing its numerous reforms, and fostered improved ecumenical relations with Eastern Orthodox and Protestant churches, which resulted in many historic meetings and agreements.[1] Montini served in the Holy See's Secretariat of State from 1922 to 1954. While in the Secretariat of State, Montini and Domenico Tardini were considered as the closest and most influential advisors of Pius XII, who in 1954 named him Archbishop of Milan, the largest Italian diocese. Montini later became the Secretary of the Italian Bishops' Conference. John XXIII elevated him to the College of Cardinals in 1958, and after the death of John XXIII, Montini was considered one of his most likely successors.
+
+Upon his election to the papacy, Montini took the name Paul VI. He re-convened the Second Vatican Council, which had automatically closed with the death of John XXIII. After the Council had concluded its work, Paul VI took charge of the interpretation and implementation of its mandates, often walking a thin line between the conflicting expectations of various groups within Catholicism. The magnitude and depth of the reforms affecting all fields of Church life during his pontificate exceeded similar reform programmes of his predecessors and successors. Paul VI spoke repeatedly to Marian conventions and mariological meetings, visited Marian shrines and issued three Marian encyclicals. Following Ambrose of Milan, he named Mary as the Mother of the Church during the Second Vatican Council.[2] Paul VI described himself as a humble servant for a suffering humanity and demanded significant changes from the rich in North America and Europe in favour of the poor in the Third World.[3] His positions on birth control, promulgated famously in the 1968 encyclical _Humanae vitae_, were often contested, especially in Western Europe and North America. The same opposition emerged in reaction to the political aspects of some of his teaching.
+
+Following the standard procedures that lead to sainthood, Pope Benedict XVI declared that the late pontiff had lived a life of heroic virtue and conferred the title of Venerable upon him on 20 December 2012. Pope Francis beatified him on 19 October 2014 after the recognition of a miracle attributed to his intercession. His liturgical feast was celebrated on the date of his birth on 26 September until 2019 when it was changed to the date of his sacerdotal ordination on 29 May. Pope Francis canonised Paul VI on 14 October 2018.
+
+
+Early life
+
+Montinifather.jpg Giovanni Battista Enrico Antonio Maria Montini was born in the village of Concesio, in the province of Brescia, Lombardy, Italy, in 1897. His father Giorgio Montini was a lawyer, journalist, director of the Catholic Action and member of the Italian Parliament. His mother was Giudetta Alghisi, from a family of rural nobility. He had two brothers, Francesco Montini, who became a physician, and Lodovico Montini, who became a lawyer and politician. On 30 September 1897, he was baptised with the name Giovanni Battista Enrico Antonio Maria Montini. He attended the _Cesare Arici_ school, run by the Jesuits, and in 1916 received a diploma from the _Arnaldo da Brescia_ public school in Brescia. His education was often interrupted by bouts of illness.
+
+In 1916, he entered the seminary to become a Catholic priest. He was ordained priest on 29 May 1920 in Brescia and celebrated his first Holy Mass in Brescia in the Basilica of Santa Maria delle Grazie. Montini concluded his studies in Milan with a doctorate in Canon Law in the same year. Afterwards he studied at the Gregorian University, the University of Rome La Sapienza and, at the request of Giuseppe Pizzardo at the _Accademia dei Nobili Ecclesiastici_. In 1922, at the age of twenty-five, again at the request of Giuseppe Pizzardo, Montini entered the Secretariat of State, where he worked under Pizzardo together with Francesco Borgongini-Duca, Alfredo Ottaviani, Carlo Grano, Domenico Tardini and Francis Spellman. Consequently, he never had an appointment as a parish priest. In 1925 he helped found the publishing house Morcelliana in Brescia, focused on promoting a 'Christian-inspired culture'.[4]
+
+
+Vatican career
+
+Diplomatic service
+
+Montini had just one foreign posting in the diplomatic service of the Holy See as Secretary in the office of the papal nuncio to Poland in 1923. Of the nationalism he experienced there he wrote: "This form of nationalism treats foreigners as enemies, especially foreigners with whom one has common frontiers. Then one seeks the expansion of one's own country at the expense of the immediate neighbours. People grow up with a feeling of being hemmed in. Peace becomes a transient compromise between wars." He described his experience in Warsaw as "useful, though not always joyful". When he became pope, the Communist government of Poland refused him permission to visit Poland on a Marian pilgrimage.
+
+Roman Curia
+
+MontiniMay291920.jpg
+
+His organisational skills led him to a career in the Roman Curia, the papal civil service. In 1931, Pacelli appointed him to teach history at the Pontifical Academy for Diplomats In 1937, after his mentor Giuseppe Pizzardo was named a cardinal and was succeeded by Domenico Tardini, Montini was named Substitute for Ordinary Affairs under Cardinal Pacelli, the Secretary of State. His immediate supervisor was Domenico Tardini, with whom he got along well. Pacelli became Pope Pius XII in 1939 and confirmed Montini's appointment as Substitute under the new Cardinal Secretary of State Luigi Maglione. In that role, roughly that of a chief of staff, he met the pope every morning until 1954 and developed a rather close relationship with him. Of his service to two popes he wrote:
+
+When war broke out, Maglione, Tardini, and Montini were the principal figures in the Secretariat of State of the Holy See.[5] Montini was in charge of taking care of the "ordinary affairs" of the Secretariat of State, which took much of the mornings of every working day. In the afternoon he moved to the third floor into the Office of the Private Secretary of the Pontiff. Pius XII did not have a personal secretary. As did several popes before him, he delegated the secretarial functions he needed to the Secretariat of State. During the war years, thousands of letters from all parts of the world arrived at the desk of the pope, most of them asking for understanding, prayer, and help. Montini's task was to formulate the replies in the name of Pius XII, expressing his empathy, and understanding and providing help, where possible.
+
+At the request of the pope, Montini created an information office regarding prisoners of war and refugees, which from 1939 until 1947 received almost ten million requests for information about missing persons and produced over eleven million replies. Montini was several times attacked by Benito Mussolini's government for meddling in politics, but the Holy See consistently defended him. When Maglione died in 1944, Pius XII appointed Tardini and Montini together as joint heads of Secretariat of State, each with the title of Pro-Secretary of State. Montini's admiration was almost filial when he described Pope Pius XII:
+
+As Pro-Secretary of State, Montini coordinated the activities of assistance to the persecuted hidden in convents, parishes, seminaries, and in Catholic schools.[6] At the request of the pope, Montini established together with Ferdinando Baldelli and Otto Faller the Pontificia Commissione di Assistenza (_Pontifical Commission for Assistance_), which aided large number of Romans and refugees from everywhere with shelter, food and other material assistance. In Rome alone this organisation distributed almost two million portions of free food in the year 1944. The Papal Residence of Castel Gandolfo was opened to refugees, as was Vatican City in so far as space allowed. Some 15,000 persons lived in Castel Gandolfo alone, supported by the Pontificia Commissione di Assistenza. At the request of Pius XII, Montini was also involved in the re-establishment of Church Asylum, providing protection to hundreds of Allied soldiers, who had escaped from Axis prison camps, Jews, anti-Fascists, Socialists, Communists, and after the liberation of Rome, German soldiers, partisans, displaced persons and others. As pope in 1971, Montini turned the Pontificia Commissione di Assistenza into _Caritas Italiana_.[7]
+
+
+Archbishop of Milan
+
+Paolo_Monti_-_Servizio_fotografico_(Milano,_1962)_-_BEIC_6356260.jpg, Milan, 1962. Photo by Paolo Monti.]] After the death of the Benedictine Cardinal Alfredo Ildefonso Schuster, in 1954, Montini was appointed to succeed him as Archbishop of Milan, which made him the Secretary of the Italian Bishops Conference.[8] Pope Pius XII presented the new Archbishop Giovanni Battista Montini "as his personal gift to Milan". He was consecrated bishop in Saint Peter's Basilica by Cardinal Eugène Tisserant, the Dean of the College of Cardinals, since Pius XII was forced to stay in bed due to his severe illness.
+
+Pius XII delivered an address about Montini's appointment from his sick-bed over radio to those assembled in St. Peter's Basilica on 12 December 1954. Both Montini and the pope had tears in their eyes when Montini parted for his diocese, with its 1,000 churches, 2,500 priests and 3,500,000 souls. On 5 January 1955, Montini formally took possession of his Cathedral of Milan. After a period of settling in, Montini liked his new tasks as archbishop, connecting to all groups of faithful in Milan. He enjoyed meetings with intellectuals, artists and writers.
+
+Montini's philosophy
+
+PaulPeterssquare.jpg In his first months Montini showed his interest in working conditions and labour issues by personally contacting unions, associations and giving related speeches. Believing that churches are the only non-utilitarian buildings in modern society and a most necessary place of spiritual rest, he initiated the building of over 100 new churches for service and contemplation.
+
+His public speeches were noticed not only in Milan but also in Rome and elsewhere. Some considered him a liberal, when he asked lay people to love not only Catholics but also schismatics, Protestants, Anglicans, the indifferent, Muslims, pagans, atheists. He gave a friendly welcome to a group of Anglican clergy visiting Milan in 1957 and a subsequently exchanged letters with the Archbishop of Canterbury, Geoffrey Fisher.
+
+Pope Pius XII revealed at the 1952 secret consistory that both Montini and Tardini had declined appointments to the cardinalate[9][10] and in fact Montini was never to be made a cardinal by Pius XII, who held no consistory and created no cardinals from the time he appointed Montini to Milan and his own death four years later. After Angelo Roncalli became Pope John XXIII, he made Montini a cardinal in December 1958.
+
+Montini and Angelo Roncalli were considered to be friends, but when Roncalli, as Pope John XXIII announced a new Ecumenical Council, Cardinal Montini reacted with disbelief and said to Giulio Bevilacqua: "This old boy does not know what a hornets nest he is stirring up." He was appointed to the Central Preparatory Commission in 1961. During the Council, Pope John XXIII asked him to live in the Vatican. He was a member of the Commission for Extraordinary Affairs but did not engage himself much in the floor debates on various issues. His main advisor was Monsignore Giovanni Colombo, whom he later appointed to be his successor in Milan The Commission was greatly overshadowed by the insistence of John XXIII that the Council complete all its work in one single session before Christmas 1962, to coincide with the 400th anniversary of the Council of Trent, an insistence which may have also been influenced by the Pope's having recently been told that he had cancer.
+
+Pastoral progressivism
+
+During his period in Milan, Montini was widely seen as a progressive member of the Catholic hierarchy. He reformed pastoral care, adopting new approaches. He used his authority to ensure that the liturgical reforms of Pius XII were carried out at the local level and employed innovative methods to reach the people of Milan. For example, huge posters announced throughout the city that 1,000 voices would speak to them from 10 to 24 November 1957. More than 500 priests and many bishops, cardinals and lay people delivered 7,000 sermons in the period not only in churches but in factories, meeting halls, houses, courtyards, schools, offices, military barracks, hospitals, hotels and other places, wherever people congregated. His goal was the re-introduction of faith to a city without much religion. "If only we can say Our Father and know what this means, then we would understand the Christian faith."
+
+Pius XII asked Archbishop Montini to Rome October 1957, where he gave the main presentation to the Second World Congress of Lay Apostolate. Previously as Pro-Secretary of State, he had worked hard to form a unified worldwide organisation of lay people of 58 nations, representing 42 national organisations. He presented them to Pius XII in Rome in 1951. The second meeting in 1957 gave Montini an opportunity to express the lay apostolate in modern terms: "Apostolate means love. We will love all, but especially those, who need help... We will love our time, our technology, our art, our sports, our world."
+
+Cardinal
+
+Cardenal_Montini.jpg Although some cardinals seem to have viewed him as papabile, a likely candidate to become pope, and although he may consequently have received some votes in the 1958 conclave,[11] Montini was not yet a cardinal, which made him an unlikely choice. Angelo Roncalli was elected pope on 28 October 1958 and took the name John XXIII. On 17 November 1958, L'Osservatore Romano announced a consistory for the creation of new cardinals. Montini's name led the list.[12] When the pope raised Montini to the cardinalate on 15 December 1958, he became Cardinal-Priest of Ss. Silvestro e Martino ai Monti. He appointed him simultaneously to several Vatican congregations which resulted in many visits by Montini to Rome in the coming years.
+
+As a Cardinal, Montini journeyed to Africa (1962), where he visited Ghana, Sudan, Kenya, Congo, Rhodesia, South Africa, and Nigeria. After this journey, John XXIII called Montini to a private audience for a debriefing on his trip which lasted for several hours. In fifteen other trips he visited Brazil (1960) and the USA (1960), including New York City, Washington DC, Chicago, the University of Notre Dame in Indiana, Boston, Philadelphia, and Baltimore. While a cardinal, he usually vacationed in Engelberg Abbey, a secluded Benedictine monastery in Switzerland.
+
+
+Papacy
+
+Papal conclave
+
+Montini was generally seen as the most likely successor to Pope John XXIII because of his closeness to both Popes Pius XII and John XXIII, his pastoral and administrative background, and his insight and determination. John XXIII was not exactly a newcomer to the Vatican, since he had been an official of the Holy See in Rome and until his appointment to Venice was a papal diplomat, but returning to Rome at the age of 76 he may have felt outflanked by the professional Roman Curia at times; Montini knew its most inner workings well due to the fact that he had worked there for a generation.
+
+Unlike the papabile cardinals Giacomo Lercaro of Bologna and Giuseppe Siri of Genoa, Montini was not identified with either the left or right, nor was he seen as a radical reformer. He was viewed as most likely to continue the Second Vatican Council, which already, without any tangible results, had lasted longer than John XXIII anticipated. John had a vision but "did not have a clear agenda. His rhetoric seems to have had a note of over-optimism, a confidence in progress, which was characteristic of the 1960s." When John XXIII died of stomach cancer on 3 June 1963, this triggered a conclave to elect a new pope.
+
+Montini was elected pope on the sixth ballot of the papal conclave on 21 June and he took the name of "Paul VI". When the Dean of the College of Cardinals Eugène Tisserant asked if he accepted the election, Montini said _"Accepto, in nomine Domini"_ ("I accept, in the name of the Lord"). At one point during the conclave on 20 June, it was said, Cardinal Gustavo Testa lost his temper and demanded that opponents of Montini halt their efforts to thwart his election.[13] It was following Testa's outburst that Montini, fearful of causing a division, started to rise in order to dissuade the cardinals from voting for him. However, Cardinal Giovanni Urbani dragged Montini back to his seat, muttering, "Eminence, shut up!"[14] Montini took the name "Paul" in honour of Saint Paul.[15]
+
+The white smoke first rose from the chimney of the Sistine Chapel at 11:22 am, Cardinal Alfredo Ottaviani in his role as Protodeacon, announced to the public the successful election of Montini. When the new pope appeared on the central loggia, he gave the shorter episcopal blessing as his first Apostolic Blessing rather than the longer, traditional _Urbi et Orbi_.
+
+Of the papacy, Paul VI wrote in his journal: "The position is unique. It brings great solitude. 'I was solitary before, but now my solitude becomes complete and awesome.'"
+
+Less than two years later, on 2 May 1965, Paul addressed a letter to the dean of the College of Cardinals anticipating that his health might make it impossible to function as pope. He wrote that "In case of infirmity, which is believed to be incurable or is of long duration and which impedes us from sufficiently exercising the functions of our apostolic ministry; or in the case of another serious and prolonged impediment", he would renounce his office "both as bishop of Rome as well as head of the same holy Catholic Church".[16]
+
+Reforms of papal ceremonial
+
+Paul VI did away with much of the regal splendor of the papacy. He was the last pope to date to be crowned on June 30, 1963[17]; his successor Pope John Paul I substituted an inauguration for the papal coronation (which Paul had substantially modified, but which he left mandatory in his 1975 apostolic constitution _Romano Pontifici Eligendo_). At his coronation Paul wore a tiara that was a gift from the Archdiocese of Milan. At the end of the second session of the Second Vatican Council in 1963, Paul VI descended the steps of the papal throne in St. Peter's Basilica and ascended to the altar, on which he laid the tiara as a sign of the renunciation of human glory and power in keeping with the renewed spirit of the council. It was announced that the tiara would be sold and the money obtained would be given to charity.[18] The purchasers arranged for it to be displayed as a gift to American Catholics in the crypt of the Basilica of the National Shrine of the Immaculate Conception in Washington, D.C.
+
+In 1968, with the motu proprio _Pontificalis Domus_, he discontinued most of the ceremonial functions of the old Roman nobility at the court (reorganized as the household), save for the Prince Assistants to the Papal Throne. He also abolished the Palatine Guard and the Noble Guard, leaving the Pontifical Swiss Guard as the sole military order of the Vatican.
+
+Completion of the Vatican Council
+
+CardinalBea.jpg, credited with ecumenical breakthroughs during the Second Vatican Council.]] Paul VI decided to continue Vatican II (canon law dictates that a council is suspended at the death of a pope), and brought it to completion in 1965. Faced with conflicting interpretations and controversies, he directed the implementation of its reform goals.
+
+Ecumenical orientation
+
+During Vatican II, the Council Fathers avoided statements which might anger Christians of other faiths. Cardinal Augustin Bea, the President of the Christian Unity Secretariat, always had the full support of Paul VI in his attempts to ensure that the Council language was friendly and open to the sensitivities of Protestant and Orthodox Churches, whom he had invited to all sessions at the request of Pope John XXIII. Bea also was strongly involved in the passage of _Nostra aetate_, which regulates the Church's relations with the Jewish faith and members of other religions.
+
+Dialogue with the world
+
+After his election as Bishop of Rome, Paul VI first met with the priests in his new diocese. He told them that in Milan he started a dialogue with the modern world and asked them to seek contact with all people from all walks of life. Six days after his election he announced that he would continue Vatican II and convened the opening to take place on 29 September 1963.[19] In a radio address to the world, Paul VI recalled the uniqueness of his predecessors, the strength of Pius XI, the wisdom and intelligence of Pius XII and the love of John XXIII. As "his pontifical goals" he mentioned the continuation and completion of Vatican II, the reform of the Canon Law and improved social peace and justice in the world. The Unity of Christianity would be central to his activities.[20]
+
+The Council priorities of Paul VI
+
+The pope re-opened the Ecumenical Council on 29 September 1963 giving it four key priorities:
+
+-   A better understanding of the Catholic Church
+-   Church reforms
+-   Advancing the unity of Christianity
+-   Dialogue with the world[21]
+
+MontiniKennedy.jpg, 2 July 1963]] He reminded the council fathers that only a few years earlier Pope Pius XII had issued the encyclical _Mystici corporis_ about the mystical body of Christ. He asked them not to repeat or create new dogmatic definitions but to explain in simple words how the Church sees itself. He thanked the representatives of other Christian communities for their attendance and asked for their forgiveness if the Catholic Church is guilty for the separation. He also reminded the Council Fathers that many bishops from the east could not attend because the governments in the East did not permit their journeys.
+
+Konzilseroeffnung_1.jpg
+
+Third and fourth sessions
+
+Paul VI opened the third period on 14 September 1964, telling the Council Fathers that he viewed the text about the Church as the most important document to come out from the Council. As the Council discussed the role of bishops in the papacy, Paul VI issued an explanatory note confirming the primacy of the papacy, a step which was viewed by some as meddling in the affairs of the Council American bishops pushed for a speedy resolution on religious freedom, but Paul VI insisted this to be approved together with related texts such as ecumenism.[22] The Pope concluded the session on 21 November 1964, with the formal pronouncement of Mary as Mother of the Church.
+
+Between the third and fourth sessions the pope announced reforms in the areas of Roman Curia, revision of Canon Law, regulations for mixed marriages involving several faiths, and birth control issues. He opened the final session of the council, concelebrating with bishops from countries where the Church was persecuted. Several texts proposed for his approval had to be changed. But all texts were finally agreed upon. The Council was concluded on 8 December 1965, the Feast of the Immaculate Conception.[23]
+
+In the final session of the Council, Paul VI announced that he would open the canonisation processes of his immediate predecessors: Pope Pius XII and Pope John XXIII.
+
+Universal call to holiness
+
+According to Pope Paul VI, "the most characteristic and ultimate purpose of the teachings of the Council" is the universal call to holiness:[24] "all the faithful of Christ of whatever rank or status, are called to the fullness of the Christian life and to the perfection of charity; by this holiness as such a more human manner of living is promoted in this earthly society." This teaching is found in Lumen Gentium, the Dogmatic Constitution on the Church, promulgated by Paul VI on 21 November 1964.
+
+Church reforms
+
+AmbroseOfMilan.jpg, Pope Paul VI named Mary the "Mother of the Church" during Vatican II.]]
+
+Synod of Bishops
+
+On 14 September 1965, he established the Synod of Bishops as a permanent institution of the Church and an advisory body to the papacy. Several meetings were held on specific issues during his pontificate, such as the Synod of Bishops on evangelisation in the modern world, which started 9 September 1974.[25]
+
+Curia reform
+
+Pope Paul VI knew the Roman Curia well, having worked there for a generation from 1922 to 1954. He implemented his reforms in stages. On 1 March 1968, he issued a regulation, a process that had been initiated by Pius XII and continued by John XXIII. On 28 March, with _Pontificalis Domus_, and in several additional Apostolic Constitutions in the following years, he revamped the entire Curia, which included reduction of bureaucracy, streamlining of existing congregations and a broader representation of non-Italians in the curial positions.[26]
+
+Age limits and restrictions
+
+On 6 August 1966, Paul VI asked all bishops to submit their resignations to the pontiff by their 75th birthday. They were not required to do so but "earnestly requested of their own free will to tender their resignation from office".[27] He extended this requirement to all cardinals in _Ingravescentem aetatem_ on 21 November 1970, with the further provision that cardinals would relinquish their offices in the Roman Curia upon reaching their 80th birthday.[28] These retirement rules enabled the Pope to fill several positions with younger prelates and reduce the Italian domination of the Roman Curia. His 1970 measures also revolutionised papal elections by restricting the right to vote in papal conclaves to cardinals who had not yet reached their 80th birthday, a class known since then as "cardinal electors". This reduced the power of the Italians and the Curia in the next conclave. Some senior cardinals objected to losing their voting privilege, without effect.[29][30] Paul VI's measures also limited the number of cardinal-electors to a maximum of 120,[31] a rule disregarded on several occasions by his successors.
+
+Some prelates questioned whether he should not apply these retirement rules to himself.[32] When Pope Paul was asked towards the end of his papacy whether he would retire at age 80, he replied "Kings can abdicate, Popes cannot."[33]
+
+Mass of Paul VI
+
+Reform of the liturgy had been a part of the liturgical movements in the 20th century mainly in France, and Germany which were officially recognised by Pius XII in his encyclical Mediator Dei. During the pontificate of Pius XII, the Vatican eased regulations on the use of Latin in Catholic liturgies, permitting some use of vernacular languages during baptisms, funerals and other events. In 1951 and 1955, the Easter liturgies underwent revision, most notably including the reintroduction of the Easter Triduum. The Second Vatican Council made no changes to the Roman Missal, but in the document _Sacrosanctum Concilium_ mandated that a general revision of it take place. After the Vatican Council, in April 1969, Paul VI approved the "new Order of Mass" promulgated in 1970, as stated in the Acta Apostolica Sedis to "end experimentation" with the Mass and which included the introduction of three new Eucharistic Prayers to what was up to then a single Roman Canon.
+
+The Mass of Paul VI was also in Latin but approval was given for the use of vernacular languages. There had been other instructions issued by the Pope in 1964, 1967, 1968, 1969 and 1970 which centered on the reform of all liturgies of the Roman Church. These major reforms were not welcomed by all and in all countries. The sudden apparent "outlawing" of the 400-year-old Mass, the last typical edition of which being promulgated only a few years earlier in 1962 by Paul's predecessor, Pope John XXIII, was not always explained well. Further experimentation with the new Mass by liturgists, such as the usage of pop/folk music (as opposed to the Gregorian Chant advocated by Pope Pius X), along with concurrent changes in the order of sanctuaries, was viewed by some as vandalism. In 2007, Pope Benedict XVI clarified that the 1962 Mass of John XXIII and the 1970 Mass of Paul VI are two forms of the same Roman Rite, the first, which had never been "juridically abrogated", now being an "extraordinary form of the Roman Rite", while the other "obviously is and continues to be the normal Form – the Forma ordinaria – of the Eucharistic Liturgy".[34]
+
+Relations and dialogues
+
+PaulVIaudence_1973.jpg To Paul VI, a dialogue with all of humanity was essential not as an aim but as a means to find the truth. Dialogue according to Paul, is based on full equality of all participants. This equality is rooted in the common search for the truth He said: "Those who have the truth, are in a position as not having it, because they are forced to search for it every day in a deeper and more perfect way. Those who do not have it, but search for it with their whole heart, have already found it."
+
+Dialogues
+
+Jafar_Shahidi_and_Pope_Paul_VI.jpg, an Iranian Shia cleric.]] In 1964, Paul VI created a Secretariat for non-Christians, later renamed the Pontifical Council for Interreligious Dialogue and a year later a new Secretariat (later Pontifical Council) for Dialogue with Non-Believers. This latter was in 1993 incorporated by Pope John Paul II in the Pontifical Council for Culture, which he had established in 1982. In 1971, Paul VI created a papal office for economic development and catastrophic assistance. To foster common bonds with all persons of good will, he decreed an annual peace day to be celebrated on January first of every year. Trying to improve the condition of Christians behind the Iron Curtain, Paul VI engaged in dialogue with Communist authorities at several levels, receiving Foreign Minister Andrei Gromyko and Chairman of the Presidium of the Supreme Soviet Nikolai Podgorny in 1966 and 1967 in the Vatican. The situation of the Church in Hungary, Poland and Romania, improved during his pontificate.
+
+Foreign travels
+
+Foreign_trips_of_Paul_VI.png Relief_of_Paulus_VI_in_Nazareth.JPG Pope_Paul_VI's_Diamond_Ring_and_Cross.jpg Pope Paul VI became the first pope to visit six continents. He travelled more widely than any of his predecessors, earning the nickname "the Pilgrim Pope". He visited the Holy Land in 1964 and participated in Eucharistic Congresses in Bombay, India and Bogotá, Colombia. In 1966, he was twice denied permission to visit Poland for the 1,000th anniversary of the introduction of Christianity in Poland. In 1967, he visited the shrine of Our Lady of Fátima in Portugal on the fiftieth anniversary of the apparitions there. He undertook a pastoral visit to Uganda in 1969,[35] the first by a reigning pope to Africa.[36] On 27 November 1970 he was the target of an assassination attempt at Manila International Airport in the Philippines. He was only lightly stabbed by Benjamín Mendoza y Amor Flores,[37][38] who was subdued by the pope's personal bodyguard and travel organiser, Monsignor Paul Marcinkus.[39] Pope Paul VI became the first reigning pontiff to visit the Western hemisphere when he addressed the United Nations in New York City in October 1965. As the U.S. involvement in the Vietnam War was escalating, Paul VI pleaded for peace before the UN:
+
+Attempted assassination of Paul VI
+
+Shortly after arriving at the airport in Manila, Philippines on 27 November 1970, the Pope, closely followed by President Ferdinand Marcos and personal aide Pasquale Macchi, who was private secretary to Pope Paul VI, were encountered suddenly by a crew-cut, cassock-clad man who tried to attack the Pope with a knife. Macchi pushed the man away; police identified the would-be assassin as Benjamin Mendoza y Amor, 35, of La Paz, Bolivia. Mendoza was an artist living in the Philippines. The Pontiff continued with his trip and thanked Marcos and Macchi, who both had moved to protect him during the attack.[40]
+
+New diplomacy
+
+Like his predecessor Pius XII, Paul VI put much emphasis on the dialogue with all nations of the world through establishing diplomatic relations. The number of foreign embassies accredited to the Vatican doubled during his pontificate.[41] This was a reflection of a new understanding between Church and State, which had been formulated first by Pius XI and Pius XII but decreed by Vatican II. The pastoral constitution _Gaudium et spes_ stated that the Catholic Church is not bound to any form of government and willing to co-operate with all forms. The Church maintained its right to select bishops on its own without any interference by the State.
+
+Pope Paul VI sent one of 73 Apollo 11 Goodwill Messages to NASA for the historic first lunar landing. The message still rests on the lunar surface today. It has the Psalm 8 and the pope wrote, "To the Glory of the name of God who gives such power to men, we ardently pray for this wonderful beginning."[42]
+
+Theology
+
+Mariology
+
+Paolo_VI_e_Luciani.jpg (later John Paul I) in Venice]] Pope Paul VI made extensive contributions to Mariology (theological teaching and devotions) during his pontificate. He attempted to present the Marian teachings of the Church in view of her new ecumenical orientation. In his inaugural encyclical _Ecclesiam suam_ (section below), the pope called Mary the ideal of Christian perfection. He regards "devotion to the Mother of God as of paramount importance in living the life of the Gospel."[43]
+
+Encyclicals
+
+Paul VI authored seven encyclicals.
+
+_Ecclesiam suam_
+
+_Ecclesiam suam_ was given at St. Peter's, Rome, on the Feast of the Transfiguration, 6 August 1964, the second year of his Pontificate. It is considered an important document, identifying the Catholic Church with the Body of Christ. A later Council document _Lumen Gentium_ stated that the Church subsists in the Body of Christ, raising questions as to the difference between "is" and "subsists in". Paul VI appealed to "all people of good will" and discussed necessary dialogues within the Church and between the Churches and with atheism.[44]
+
+_Mense maio_
+
+The encyclical _Mense maio_ (from 29 April 1965) focused on the Virgin Mary, to whom traditionally the month of May is dedicated as the Mother of God. Paul VI writes that Mary is rightly to be regarded as the way by which people are led to Christ. Therefore, the person who encounters Mary cannot help but encounter Christ.[45]
+
+_Mysterium fidei_
+
+On 3 September 1965, Paul VI issued _Mysterium fidei_, on the mystery of the faith. He opposed relativistic notions which would have given the Eucharist a symbolic character only. The Church, according to Paul VI, has no reason to give up the deposit of faith in such a vital matter.[46]
+
+_Christi Matri_
+
+_Populorum progressio_
+
+Paulaudenece1977.jpg _Populorum progressio_, released on 26 March 1967, dealt with the topic of "the development of peoples" and that the economy of the world should serve mankind and not just the few. It touches on a variety of traditional principles of Catholic social teaching: the right to a just wage; the right to security of employment; the right to fair and reasonable working conditions; the right to join a union and strike as a last resort; and the universal destination of resources and goods.
+
+In addition, _Populorum progressio_ opines that real peace in the world is conditional on justice. He repeats his demands expressed in Bombay in 1964 for a large-scale World Development Organization, as a matter of international justice and peace. He rejected notions to instigate revolution and force in changing economic conditions.[47]
+
+_Sacerdotalis caelibatus_
+
+_Sacerdotalis caelibatus_ (Latin for "Of the celibate priesthood"), promulgated on 24 June 1967, defends the Catholic Church's tradition of priestly celibacy in the West. This encyclical was written in the wake of Vatican II, when the Catholic Church was questioning and revising many long-held practices. Priestly celibacy is considered a discipline rather than dogma, and some had expected that it might be relaxed. In response to these questions, the Pope reaffirms the discipline as a long-held practice with special importance in the Catholic Church. The encyclical _Sacerdotalis caelibatus_ from 24 June 1967, confirms the traditional Church teaching, that celibacy is an ideal state and continues to be mandatory for Catholic priests. Celibacy symbolises the reality of the kingdom of God amid modern society. The priestly celibacy is closely linked to the sacramental priesthood.[48] However, during his pontificate Paul VI was permissive in allowing bishops to grant laicisation of priests who wanted to leave the sacerdotal state. John Paul II changed this policy in 1980 and the 1983 Code of Canon Law made it explicit that only the pope can in exceptional circumstances grant laicisation.
+
+_Humanae vitae_
+
+Of his seven encyclicals, Pope Paul VI is best known for his encyclical _Humanae vitae_ (_Of Human Life_, subtitled _On the Regulation of Birth_), published on 25 July 1968. In this encyclical he reaffirmed the Catholic Church's traditional view of marriage and marital relations and its condemnation of artificial birth control.[49] There were two Papal committees and numerous independent experts looking into the latest advancement of science and medicine on the question of artificial birth control.[50] which were noted by the Pope in his encyclical[51] The expressed views of Paul VI reflected the teachings of his predecessors, especially Pius XI,[52] Pius XII[53] and John XXIII[54] and never changed, as he repeatedly stated them in the first few years of his Pontificate.[55]
+
+To the pope as to all his predecessors, marital relations are much more than a union of two people. They constitute a union of the loving couple with a loving God, in which the two persons create a new person materially, while God completes the creation by adding the soul. For this reason, Paul VI teaches in the first sentence of _Humanae vitae_ that the transmission of human life is a most serious role in which married people collaborate freely and responsibly with God the Creator.[56] This divine partnership, according to Paul VI, does not allow for arbitrary human decisions, which may limit divine providence. The Pope does not paint an overly romantic picture of marriage: marital relations are a source of great joy, but also of difficulties and hardships.[57] The question of human procreation exceeds in the view of Paul VI specific disciplines such as biology, psychology, demography or sociology.[58] The reason for this, according to Paul VI, is that married love takes its origin from God, who "is love". From this basic dignity, he defines his position:
+
+The reaction to the encyclical's continued prohibitions of artificial birth control was very mixed. In Italy, Spain, Portugal and Poland, the encyclical was welcomed.[59] In Latin America, much support developed for the Pope and his encyclical. As World Bank President Robert McNamara declared at the 1968 Annual Meeting of the International Monetary Fund and the World Bank Group that countries permitting birth control practices would get preferential access to resources, doctors in La Paz, Bolivia called it insulting that money should be exchanged for the conscience of a Catholic nation. In Colombia, Cardinal archbishop Aníbal Muñoz Duque declared, if American conditionality undermines Papal teachings, we prefer not to receive one cent.[60] The Senate of Bolivia passed a resolution stating that _Humanae vitae_ could be discussed in its implications for individual consciences, but was of greatest significance because the papal document defended the rights of developing nations to determine their own population policies.[61] The Jesuit Journal _Sic_ dedicated one edition to the encyclical with supportive contributions.[62]
+
+Paul VI was concerned but not surprised by the negative reaction in Western Europe and the United States. He fully anticipated this reaction to be a temporary one: "Don't be afraid", he reportedly told Edouard Gagnon on the eve of the encyclical, "in twenty years time they'll call me a prophet."[63] His biography on the Vatican's website notes his reaffirmations of priestly celibacy and the traditional teaching on contraception that "[t]he controversies over these two pronouncements tended to overshadow the last years of his pontificate".[64] Pope John Paul II later reaffirmed and expanded upon _Humanae vitae_ with the encyclical _Evangelium vitae_.
+
+Evangelism
+
+By taking the name of Paul, the newly-elected Pope, showed his intention to take the Apostle Paul as a model for his papal ministry.[65]. In 1967, when he reorganised the Roman curia, Pope Paul renamed the Congregation for the Propagation of the Faith as the Congregation for the Evangelization of Peoples. Pope Paul was the first pope in history to make apostolic journeys to other continents and visited six continents.[66]. The Pope chose the theme of evangelism for the synod of bishops in 1974. From materials generated by that synod, he composed the 1975 apostolic exhortation on evangelisation, Evangelii nuntiandi[67].
+
+Ecumenism and ecumenical relations
+
+After the Council, Paul VI contributed in two ways to the continued growth of ecumenical dialogue. The separated brothers and sisters, as he called them, were not able to contribute to the Council as invited observers. After the Council, many of them took initiative to seek out their Catholic counterparts and the Pope in Rome, who welcomed such visits. But the Catholic Church itself recognised from the many previous ecumenical encounters, that much needed to be done within, to be an open partner for ecumenism. To those who are entrusted the highest and deepest truth and therefore, so Paul VI, believed that he had the most difficult part to communicate. Ecumenical dialogue, in the view of Paul VI, requires from a Catholic the whole person: one's entire reason, will, and heart. Paul VI, like Pius XII before him, was reluctant to give in on a lowest possible point. And yet, Paul felt compelled to admit his ardent Gospel-based desire to be everything to everybody and to help all people Being the successor of Peter, he felt the words of Christ, "Do you love me more" like a sharp knife penetrating to the marrow of his soul. These words meant to Paul VI love without limits, and they underscore the Church's fundamental approach to ecumenism.
+
+Orthodox
+
+Paulus_VI_and_Patriarch_Athenagoras_1964_Paraguay_stamp.jpg Paul VI visited the Orthodox Patriarchs of Jerusalem and Constantinople in 1964 and 1967. He was the first pope since the ninth century to visit the East, labelling the Eastern Churches as sister Churches.[68] He was also the first pope in centuries to meet the heads of various Eastern Orthodox faiths. Notably, his meeting with Ecumenical Patriarch Athenagoras I in 1964 in Jerusalem led to rescinding the excommunications of the Great Schism, which took place in 1054.[69]
+
+This was a significant step towards restoring communion between Rome and Constantinople. It produced the Catholic-Orthodox Joint declaration of 1965, which was read out on 7 December 1965, simultaneously at a public meeting of the Second Vatican Council in Rome and at a special ceremony in Istanbul. The declaration did not end the schism, but showed a desire for greater reconciliation between the two churches.[70] In May 1973, the Coptic Patriarch Shenouda III of Alexandria visited the Vatican, where he met three times with Pope Paul VI. A common declaration and a joint Creed issued after the visit proclaimed unity in a number of theological issues,[71] though also that other theological differences "since the year 451" "cannot be ignored" while both traditions work to a greater unity.[72]
+
+Anglicans
+
+Paul VI was the first pope to receive an Anglican Archbishop of Canterbury, Michael Ramsey, in official audience as Head of Church, after the private audience visit of Archbishop Geoffrey Fisher to Pope John XXIII on 2 December 1960. Ramsey met Paul three times during his visit and opened the Anglican Centre in Rome to increase their mutual knowledge.[73] He praised Paul VI and his contributions in the service of unity.[74] Paul replied that "by entering into our house, you are entering your own house, we are happy to open our door and heart to you."[75] The two Church leaders signed a common declaration, which put an end to the disputes of the past and outlined a common agenda for the future.
+
+Cardinal Augustin Bea, the head of the Secretariat for Promoting Christian Unity, added at the end of the visit, "Let us move forward in Christ. God wants it. Humanity is waiting for it."[76] Unmoved by a harsh condemnation by the Congregation of Faith on mixed marriages precisely at this time of the visit, Paul VI and Ramsey appointed a preparatory commission which was to put the common agenda into practice on such issues as mixed marriages. This resulted in a joint Malta declaration, the first joint agreement on the Creed since the Reformation.[77] Paul VI was a good friend of the Anglican Church, which he described as "our beloved sister Church". This description was unique to Paul and not used by later popes.
+
+Protestants
+
+In 1965, Paul VI decided on the creation of a joint working group with the World Council of Churches to map all possible avenues of dialogue and co-operation. In the following three years, eight sessions were held which resulted in many joint proposals.[78] It was proposed to work closely together in areas of social justice and development and Third World Issues such as hunger and poverty. On the religious side, it was agreed to share together in the Week of Prayer for Christian Unity, to be held every year. The joint working group was to prepare texts which were to be used by all Christians.[79] On 19 July 1968, the meeting of the World Council of Churches took place in Uppsala, Sweden, which Pope Paul called a sign of the times. He sent his blessing in an ecumenical manner: "May the Lord bless everything you do for the case of Christian Unity."[80] The World Council of Churches decided on including Catholic theologians in its committees, provided they have the backing of the Vatican.
+
+The Lutherans were the first Protestant Church offering a dialogue to the Catholic Church in September 1964 in Reykjavík, Iceland.[81] It resulted in joint study groups of several issues. The dialogue with the Methodist Church began October 1965, after its representatives officially applauded remarkable changes, friendship and co-operation of the past five years. The Reformed Churches entered four years later into a dialogue with the Catholic Church.[82] The President of the Lutheran World Federation and member of the central committee of the World Council of Churches Fredrik A. Schiotz stated during the 450th anniversary of the Reformation, that earlier commemorations were viewed almost as a triumph. Reformation should be celebrated as a thanksgiving to God, his truth and his renewed life. He welcomed the announcement of Pope Paul VI to celebrate the 1900th anniversary of the death of the Apostle Peter and Apostle Paul, and promised the participation and co-operation in the festivities.[83]
+
+Paul VI supported the new-found harmony and co-operation with Protestants on so many levels. When Cardinal Augustin Bea went to see him for permission for a joint Catholic-Protestant translation of the Bible with Protestant Bible societies, the pope walked towards him and exclaimed, "as far as the cooperation with Bible societies is concerned, I am totally in favour."[84] He issued a formal approval on Pentecost 1967, the feast on which the Holy Spirit descended on the Christians, overcoming all linguistic difficulties, according to Christian tradition.[85]
+
+Beatifications and canonisations
+
+Paul VI beatified a total of 38 individuals in his pontificate and he canonised 84 saints in 21 causes. Among the beatifications included Maximilian Kolbe (1971) and the Korean Martyrs (1968). He canonised saints such as Nikola Tavelić (1970) and the Ugandan Martyrs (1964).
+
+Consistories
+
+Papa_Paolo_VI_consegna_l'anello_cardinalizio_a_Joseph_Ratzinger.jpg) a cardinal in 1977.]] Pope Paul VI held six consistories between 1965 and 1977 that raised 143 men to the cardinalate in his fifteen years as pope:
+
+-   22 February 1965, 27 cardinals
+-   26 June 1967, 27 cardinals
+-   28 April 1969, 34 cardinals
+-   5 March 1973, 30 cardinals
+-   24 May 1976, 20 cardinals
+-   27 June 1977, 4 cardinals
+
+The next three popes were created cardinals by him. His immediate successor, Albino Luciani, who took the name John Paul I, was created a cardinal in the consistory of 5 March 1973. Karol Józef Wojtyła (later Pope John Paul II) was created a cardinal in the consistory of 26 June 1967. Joseph Ratzinger (later Pope Benedict XVI) was created a cardinal in the small four-appointment consistory of 27 June 1977 that was the pope's last.
+
+With the six consistories, Paul VI continued the internationalisation policies started by Pius XII in 1946 and continued by John XXIII. In his 1976 consistory, five of twenty cardinals originated from Africa, one of them a son of a tribal chief with fifty wives. Several prominent Latin Americans like Eduardo Francisco Pironio of Argentina; Luis Aponte Martinez of Puerto Rico, Eugênio de Araújo Sales and Aloisio Lorscheider from Brazil were also elevated by him. There were voices within the Church at the time saying that the European period of the Church was coming to a close, a view shared by Britain's Cardinal Basil Hume. At the same time, the members of the College of Cardinals lost some of their previous influences, after Paul VI decreed, that membership by bishops in committees and other bodies of the Roman Curia would not be limited to cardinals. The age limit of eighty years imposed by the Pope, a numerical increase of Cardinals by almost 100%, and a reform of the formal dress of the "Princes of the Church" further contributed to a service-oriented perception of Cardinals under his pontificate. The increased number of Cardinals from the Third World and the papal emphasis on related issues was nevertheless welcomed by many in Western Europe.
+
+
+Final years and death
+
+Rumours of homosexuality and denial
+
+In 1976 Paul VI became the first pontiff in the modern era to deny the accusation of homosexuality. On 29 December 1975, the Sacred Congregation for the Doctrine of the Faith issued a document entitled _Persona Humana: Declaration on Certain Questions concerning Sexual Ethics_, that reaffirmed Church teaching that pre or extra-marital sex, homosexual activity, and masturbation are sinful acts.[86][87] In response, Roger Peyrefitte, who had already written in two of his books that Paul VI had a longtime homosexual relationship, repeated his charges in a magazine interview with a French gay magazine that, when reprinted in Italian, brought the rumours to a wider public and caused an uproar. He said that the pope was a hypocrite who had a longtime sexual relationship with an actor.[88][89][90] Widespread rumours identified the actor as Paolo Carlini,[91] who had a small part in the Audrey Hepburn film _Roman Holiday_ (1953). In a brief address to a crowd of approximately 20,000 in St Peters Square on 18 April, Paul VI called the charges "horrible and slanderous insinuations" and appealed for prayers on his behalf. Special prayers for the pope were said in all Italian Catholic churches in "a day of consolation".[92][93] The charges have resurfaced periodically. In 1994, Franco Bellegrandi, a former Vatican honour chamberlain and correspondent for the Vatican newspaper _L'Osservatore Romano_, alleged that Paul VI had been blackmailed and had promoted other gay men to positions of power within the Vatican.[94] In 2006, the newspaper _L'Espresso_ confirmed the blackmail story based on the private papers of police commander General Giorgio Manes. It reported that Italian Prime Minister Aldo Moro had been asked to help.[95][96]
+
+Health
+
+Paul VI had been in good health prior to his pontifical election. His health following his papal election took a turn when he needed to undergo a serious operation to treat an enlarged prostate. The pope procrastinated in this but relented in November 1967; he was operated on a simple table in an improvised operating theatre in the papal apartments by a team led by Professor Pietro Valdoni. The Vatican was delicate in their description of what the pope underwent and referred to it as "the malaise from which the Holy Father had been suffering for weeks". As a result of the delay in having the operation, the pope had to wear a catheter for a period following the operation and still was by December.[97]
+
+The pope discussed business from his bed about 48 hours after the operation with Cardinal Amleto Cicognani and at that point was off intravenous feeding in favour of orange juice and hot broth. Cardinal Cicognani said the pope was "in good general condition" and that he spoke in a "clear and firm voice". The pope's two brothers also visited him at his bedside following a "tranquil night" for the pope. The doctors also reported the pope's condition to have been "excellent".[98]
+
+Death of Aldo Moro
+
+Aldo_Moro_br.jpg, photographed during his kidnapping by the Red Brigades in 1978.]] Negativos_2934.jpg On 16 March 1978, his friend from FUCI student days, former Italian prime minister Aldo Moro, a Christian Democratic politician, was kidnapped by the Red Brigades, which kept the world and the pope in suspense for 55 days.[99] On 20 April, Moro directly appealed to the pope to intervene as Pope Pius XII had intervened in the case of Professor Giuliano Vassalli in the same situation.[100] The eighty-year-old Paul VI wrote a letter to the Red Brigades:
+
+Some in the Italian government accused the pope of treating the Red Brigades too kindly. However, he continued looking for ways to pay ransom for Moro – but to no avail. On 9 May, the bullet-riddled body of Aldo Moro was found in a car in Rome.[101] Pope Paul VI later celebrated his State Funeral Mass.
+
+Final days
+
+Pope_Paul_VI_Tiara_2.jpg, now in the Crypt of the Basilica of the National Shrine of the Immaculate Conception]]Pope Paul VI left the Vatican to go to the papal summer residence, Castel Gandolfo, on 14 July 1978, visiting on the way the tomb of Cardinal Giuseppe Pizzardo,[102] who had introduced him to the Vatican half a century earlier. Although he was sick, he agreed to see the new Italian President Sandro Pertini for over two hours. In the evening he watched a Western on TV, happy only when he saw "horses, the most beautiful animals that God had created."[103] He had breathing problems and needed oxygen. On Sunday, at the Feast of the Transfiguration, he was tired, but wanted to say the Angelus. He was neither able nor permitted to do so and instead stayed in bed, his temperature rising.
+
+SanctusPaulusVI.jpg
+
+Death
+
+From his bed he participated in Sunday Mass at 18:00. After communion, the pope suffered a massive heart attack, after which he continued to live for three hours. On 6 August 1978 at 21:41 Paul VI died in Castel Gandolfo.[104] According to the terms of his will, he was buried in the "true earth" and therefore, he does not have an ornate sarcophagus but in practice beneath the floor of Saint Peter's Basilica, though in an area of the basilica's crypt near the tombs of other popes.[105]
+
+His position mirrors the statements attributed to Pius XI: "a Pope may suffer but he must be able to function" and by Pius XII.[106] Pope Paul, reflecting on Hamlet, wrote the following in a private note in 1978:
+
+His confessor, the Jesuit Paolo Dezza, said that "this pope is a man of great joy" and
+
+  If Paul VI was not a saint, when he was elected Pope, he became one during his pontificate. I was able to witness not only with what energy and dedication he toiled for Christ and the Church but also and above all, how much he suffered for Christ and the Church. I always admired not only his deep inner resignation but also his constant abandonment to divine providence."
+
+
+Canonization
+
+Beatification_of_Paul_VI.jpg Ceremonia_de_Canonización_de_Monseñor_Romero._(44398703435).jpg The diocesan process for beatification for Paul VI - titled then as a Servant of God - opened in Rome on 11 May 1993 under Pope John Paul II after the "nihil obstat" ("nothing against") was declared the previous 18 March. Cardinal Camillo Ruini opened the diocesan process in Rome. The title of Servant of God is the first of four steps toward possible canonisation. The diocesan process concluded its business on 18 March 1998.[107]
+
+On 20 December 2012, Pope Benedict XVI, in an audience with the Cardinal Prefect of the Congregation for the Causes of Saints Angelo Amato, declared that the late pontiff had lived a life of heroic virtue, which means that he could be called "Venerable".[108]
+
+On 12 December 2013, Vatican officials comprising a medical panel approved a supposed miracle that was attributed to the intercession of the late pontiff, which was the curing of an unborn child in California, U.S.A in the 1990s. This miracle was investigated in California from 7 July 2003 until 12 July 2004. It was expected that Pope Francis would approve the miracle in the near future, thus, warranting the beatification of the late pontiff.[109] In February 2014, it was reported that the consulting Vatican theologians to the Congregation for the Causes of Saints recognised the miracle attributed to the late pontiff on 18 February.[110] On 24 April 2014, it was reported in the Italian magazine _Credere_ that the late pope could possibly be beatified on 19 October 2014. This report from the magazine further stated that several cardinals and bishops would meet on 5 May to confirm the miracle that had previously been approved, and then present it to Pope Francis who may sign the decree for beatification shortly after that.[111] The Congregation for the Causes of Saints' cardinal and bishop members held that meeting and positively concluded that the healing was indeed a miracle that could be attributed to the late pope. The matter would then be presented by the Cardinal Prefect to the pope for approval.[112]
+
+The second miracle required for his canonisation was reported to have occurred in 2014 not long after his beatification occurred. The vice-postulator Antonio Lanzoni suggested that the canonisation could have been approved in the near future which would allow for the canonisation sometime in spring 2016; this did not materialise because the investigations were still ongoing at that stage.[113][114][115] It was further reported in January 2017 that Pope Francis was considering canonising Paul VI either in that year, or in 2018 (marking 40 years since the late pope's death), without the second miracle required for sainthood.[116] This too was proven false since the miracle from 2014 was being presented to the competent Vatican officials for assessment. His liturgical feast day is celebrated on the date of his birth, 26 September, rather than the day of his death as is usual since the latter falls on the Feast of the Transfiguration.[117]
+
+The final miracle needed for the late pope's canonisation was investigated in Verona and was closed on 11 March 2017. The miracle in question involves the healing of an unborn girl, Amanda Maria Paola (born 25 December 2014), after her parents (Vanna and Alberto) went to the Santuario delle Grazie in Brescia to pray for the late pope's intercession the previous 29 October, just ten days after Paul VI was beatified.[118] The miracle regarding Amanda was the fact that she had survived for months despite the fact that the placenta was broken. On 23 September, a month before the beatification, Amanda's mother Vanna Pironato (aged 35) was hospitalised due to the premature rupture of the placenta, with doctors declaring her pregnancy to be at great risk.[119] The documents regarding the alleged miracle are now in Rome awaiting approval; he shall be canonised should this healing be approved.[120] Theologians advising the Congregation for the Causes of Saints voiced their approval to this miracle on 13 December 2017 (following the confirmation of doctors on 26 October) and have this direction on to the cardinal and bishop members of the C.C.S. who must vote on the cause also before taking it to Pope Francis for his approval. Brescian media reports the canonisation could take place in October 2018 to coincide with the synod on the youth.[121][122] The cardinal and bishop members of the C.C.S. issued their unanimous approval to this miracle in their meeting held on 6 February 2018; La Stampa reported that the canonisation could be celebrated during the synod on the youth with a probable date of 21 October.[123] Pope Francis confirmed that the canonisation would be approved and celebrated in 2018 in remarks made during a meeting with Roman priests on 14 February 2018.[124] On 6 March 2018, the Cardinal Secretary of State Pietro Parolin, speaking at a plenary meeting of the International Catholic Migration Commission in Rome, confirmed that Paul VI would be canonised in at the close of the synod on 28 October 2018.[125] On 6 March, the pope confirmed the healing as a miracle, thereby approving Paul VI's canonisation; a consistory of cardinals on 19 May 2018 determined the official date for Paul VI's canonisation to be 14 October 2018.
+
+
+Legacy and controversies
+
+The pontificate of Paul VI continued the opening and internationalisation of the Church started under Pius XII. He implemented the reforms of John XXIII and Vatican II. Yet, unlike these popes, Paul VI faced criticism throughout his papacy from both traditionalists and liberals for steering a middle course during Vatican II and during the implementation of its reforms thereafter. He expressed a desire for peace during the Vietnam War.[126]
+
+On basic Church teachings, the pope was unwavering. On the tenth anniversary of _Humanae vitae_, he reconfirmed this teaching.[127] In his style and methodology, he was a disciple of Pius XII, whom he deeply revered.[128] He suffered for the attacks on Pius XII for his alleged silences during the Holocaust.[129] Pope Paul VI was said to have been less intellectually gifted than his predecessors: he was not credited with an encyclopaedic memory, nor a gift for languages, nor the brilliant writing style of Pius XII, nor did he have the charisma and outpouring love, sense of humor and human warmth of John XXIII. He took on himself the unfinished reform work of these two popes, bringing them diligently with great humility and common sense and without much fanfare to conclusion. In doing so, Paul VI saw himself following in the footsteps of the Apostle Paul, torn to several directions as Saint Paul, who said, "I am attracted to two sides at once, because the Cross always divides." Paul6statue.jpg GER_Bundesverdienstkreuz_7_Grosskreuz.svg.]]
+
+Unlike his predecessors and successors, Paul VI refused to excommunicate opponents. He admonished but did not punish those with other views. The new theological freedoms which he fostered resulted in a pluralism of opinions and uncertainties among the faithful. New demands were voiced, which were taboo at the Council, the reintegration of divorced Catholics, the sacramental character of the confession, and the role of women in the Church and its ministries. Conservatives complained, that "women wanted to be priests, priests wanted to get married, bishops became regional popes and theologians claimed absolute teaching authority. Protestants claimed equality, homosexuals and divorce called for full acceptance." Changes such as the reorientation of the liturgy, alterations to the ordinary of the Mass, alterations to the liturgical calendar in the motu proprio _Mysterii Paschalis_, and the relocation of the tabernacle were controversial among some Catholics.
+
+While the total number of Catholics increased during the pontificate of Paul VI the number of priests did not keep up. In the United States at beginning of Paul's reign there were almost 1,600 priestly ordinations a year while that was nearly 900 a year at his death. The number of seminarians at the same time dropped by three quarters. More pronounced declines were evident in religious life where the number of sisters and brothers declined sharply. Infant baptisms began to decline almost at once after Paul's election and did not begin to recover until 1980. In the same period adult conversions to the Church declined by a third. While marriages increased annulments also increased but at a much greater rate. There was a 1322% increase in declarations of nullity between 1968 and 1970 alone. While 65% of US catholics went to Sunday Mass in 1965 that had slipped to 40% by the time of Paul's death. Similar collapses occurred in other developed countries.[130]
+
+Paul VI did renounce many traditional symbols of the papacy and the Catholic Church; some of his changes to the papal dress were reversed by Pope Benedict XVI in the early 21st century. Refusing a Vatican army of colourful military uniforms from centuries, he got rid of them. He became the first pope to visit five continents.[131] Paul VI systematically continued and completed the efforts of his predecessors, to turn the Euro-centric Church into a Church of the world, by integrating the bishops from all continents in its government and in the Synods which he convened. His 6 August 1967 motu proprio _Pro Comperto Sane_ opened the Roman Curia to the bishops of the world. Until then, only Cardinals could be leading members of the Curia.[132]
+
+Some critiqued Paul VI's decision; the newly created Synod of Bishops had an advisory role only and could not make decisions on their own, although the Council decided exactly that. During the pontificate of Paul VI, five such synods took place, and he is on record of implementing all their decisions.[133] Related questions were raised about the new National Bishop Conferences, which became mandatory after Vatican II. Others questioned his Ostpolitik and contacts with Communism and the deals he engaged in for the faithful.[134]
+
+The pope clearly suffered from the responses within the Church to _Humanae vitae_. While most regions and bishops supported the pontiff, a small but important part of them especially in the Netherlands, Canada, and Germany openly disagreed with the pope, which deeply wounded him for the rest of his life.[135] When Patrick O'Boyle, the Cardinal Archbishop of Washington, DC, disciplined several priests for publicly dissenting from this teaching, the pope encouraged him.
+
+
+See also
+
+DIRECTLY RELATED:
+
+-   Paul VI Audience Hall
+-   _Paul VI: The Pope in the Tempest_
+
+ASSOCIATED TOPICS:
+
+-   Credo of the People of God
+-   Liberation theology
+-   List of meetings between the Pope and the President of the United States
+-   List of popes
+
+
+Notes
+
+
+References
+
+Citations
+
+Sources
+
+-   .
+
+-   -   .
+
+-   .
+
+-   , quoted as Franzen.
+
+-   , quoted as Franzen, Kirchengeschichte
+
+-   -   .
+
+-   .
+
+-   .
+
+-   quoted from .
+
+-   .
+
+-   .
+
+-   .
+
+-
+
+
+External links
+
+-   .
+
+-   .
+
+-   .
+
+-   .
+
+-   , former Associate Professor of Philosophy at the University of Dallas.
+
+-   .
+
+-   .
+
+-   .
+
+-   , comparing pictures of Pope Paul VI to 'prove' he had been replaced by an actor while the real Pope Paul was 'kept drugged' in the Vatican.
+
+-   : text, concordances and frequency list
+
+-   .
+
+Documentaries with English subtitles
+
+-   .
+
+-   .
+
+-   .
+
+{{-}}
+
+Category:1897 births Category:1978 deaths Category:People from the Province of Brescia Pope_Paul_VI Category:Popes Category:20th-century popes Category:Archbishops of Milan Category:Participants in the Second Vatican Council Category:Italian popes Category:Italian saints Category:Papal saints Category:Pontifical Gregorian University alumni Category:Diplomats of the Holy See Category:20th-century venerated Christians Category:Pontifical Ecclesiastical Academy alumni Category:20th-century Roman Catholic archbishops Category:Grand Crosses 1st class of the Order of Merit of the Federal Republic of Germany Category:Burials at St. Peter's Basilica Category:Cardinals created by Pope John XXIII Category:Beatifications by Pope Francis Category:Canonizations by Pope Francis Category:Venerated Catholics by Pope Benedict XVI Category:Recipients of the Silver World Award
+
+[1] Catholic Church and ecumenism#Since the Second Vatican Council
+
+[2]
+
+[3]
+
+[4]
+
+[5]
+
+[6] Tagliaferri, Lionello. _The Pope wants ..._, Piacenza, Berti, 2011.
+
+[7]
+
+[8] .
+
+[9]
+
+[10]
+
+[11]
+
+[12]
+
+[13]
+
+[14]
+
+[15]
+
+[16]
+
+[17]
+
+[18]
+
+[19]
+
+[20]
+
+[21]
+
+[22]
+
+[23]
+
+[24] Motu Proprio Sanctitas Clarior
+
+[25]
+
+[26]
+
+[27]
+
+[28]
+
+[29]
+
+[30]
+
+[31]
+
+[32]
+
+[33]
+
+[34]
+
+[35]
+
+[36]
+
+[37]
+
+[38]
+
+[39] "Apostle Endangered". _Time_, 7 December 1970. Retrieved 13 April 2007.
+
+[40]
+
+[41]
+
+[42]
+
+[43] _Ecclesiam suam_, 58
+
+[44]
+
+[45] _Mense maio_, 1
+
+[46]
+
+[47] Franzen 426
+
+[48]
+
+[49]
+
+[50] _Germain Grisez on "Humanae Vitae," Then and Now_ . Retrieved 2 March 2006.
+
+[51] _Humanae vitae_, 2–8
+
+[52] Pius XI, encyc.letter Divini illius Magistri: AAS 22 (1930), 58–61; encyc. letter Casti connubii: AAS 22 (1930), 545–546
+
+[53] Discorsi e radiomessaggi di Pio XII, VI, 191–192; to Italian Association of Catholic Midwives: AAS 43 (1951), 835–854
+
+[54] John XXIII, encyc. letter _Mater et magistra_: AAS 53 (1961), 457.
+
+[55] Herder Korrespondenz, Orbis Catholicus Freiburg, Herder Verlag, 1964–1968
+
+[56]
+
+[57]
+
+[58]
+
+[59] .
+
+[60]
+
+[61]
+
+[62]
+
+[63]
+
+[64]
+
+[65]
+
+[66]
+
+[67]
+
+[68]
+
+[69]
+
+[70]
+
+[71]
+
+[72]
+
+[73] Schmidt 813
+
+[74]
+
+[75]
+
+[76] Schmidt 814
+
+[77] Schmidt 815
+
+[78] Schmidt 822–824
+
+[79] Schmidt 826
+
+[80] Schmidt 827.
+
+[81] Schmidt 830,
+
+[82] Schmidt 831
+
+[83] Schmidt 833
+
+[84] Schmidt 835
+
+[85] Schmidt 837
+
+[86]
+
+[87]
+
+[88] Peyrefitte, Roger _Mea culpa? Ma fatemi il santo piacere,_ _Tempo_, 4 April 1976.
+
+[89]
+
+[90] Bellegrandi, Franco _Nichitaroncalli: Controvita Di Un Papa_, Edizioni Internazionale Di Letterature E Scienze (EILES), Rome 2009. English edition: _Nikitaroncalli: Counterlife of a Pope_
+
+[91]
+
+[92]
+
+[93]
+
+[94]
+
+[95]
+
+[96]
+
+[97]
+
+[98]
+
+[99] Hebblethwaite 699
+
+[100] Hebblethwaite 700–701
+
+[101] Hebblethwaite 706
+
+[102] Hebblethwaite 707
+
+[103]
+
+[104]
+
+[105]
+
+[106]
+
+[107]
+
+[108]
+
+[109]
+
+[110] "Pope Benedict Forgoes Waiting Period, begins John Paul II Beatification Process" Catholic News Agency 13 May 2005 Retrieved 1 May 2011
+
+[111]
+
+[112]
+
+[113]
+
+[114]
+
+[115]
+
+[116]
+
+[117]
+
+[118]
+
+[119]
+
+[120]
+
+[121]
+
+[122]
+
+[123]
+
+[124]
+
+[125]
+
+[126]
+
+[127]
+
+[128]
+
+[129]
+
+[130]
+
+[131] Josef Schmitz van Vorst, 68
+
+[132]
+
+[133] Simmel, 80
+
+[134] Simmel, 82
+
+[135] Simmel, 81

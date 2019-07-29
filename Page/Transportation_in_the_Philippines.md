@@ -1,0 +1,287 @@
+TRANSPORTATION IN THE PHILIPPINES is relatively underdeveloped, partly due to the country's mountainous areas and scattered islands, and partly as a result of the government's persistent underinvestment in the nation's infrastructure. In recent years, however, the Philippine government has been pushing to improve the transportation system in the country through various infrastructure projects.[1]
+
+Jeepneys are the most popular mode of public transportation in the Philippines, they have also become a ubiquitous symbol of the Philippine culture.[2] Another popular mode of public transportation in the country is the motorized tricycle; they are especially common in rural areas.[3] Trains are also becoming a popular mode of public transportation in the country especially in the bustling metropolis of Manila. The Philippines has three main railway networks: the Manila Light Rail Transit System composed of Line 1 and Line 2, Manila Metro Rail Transit System composed of Line 3 which only serves Metro Manila and the PNR Metro Commuter Line operated by the Philippine National Railways which also serves the metropolis and some parts of Luzon. There are also steam engines found in Visayas which operate sugar mills such as Central Azucarera. Taxis and buses are also important modes of public transport in urban areas.
+
+The Philippines has 12 international airports, and has more than 20 major and minor domestic airports serving the country.[4] The Ninoy Aquino International Airport is the main international gateway to the Philippines.
+
+
+Land transportation
+
+Roads
+
+The Philippines has of roads, with 83% being paved and 17% being unpaved. As of 2014, the road network consists of:
+
+-   NATIONAL ROADS -
+-   PROVINCIAL ROADS -
+-   CITY AND MUNICIPAL ROADS -
+-   BARANGAY ROADS -
+
+In 1940, there were of road in the entire country, half of which was in central and southern Luzon.[5] The roads served 50,000 vehicles.[6]
+
+Road classification is based primarily on administrative responsibilities (with the exception of barangays), i.e., which level of government built and funded the roads. Most of the barangay roads are unpaved village-access roads built in the past by the Department of Public Works and Highways (DPWH), but responsibility for maintaining these roads have been devolved to the Local Government Units (LGUs). Farm-to-market roads fall under this category, and a few are financed by the Department of Agrarian Reform and the Department of Agriculture.[7]
+
+Highways
+
+EDSA_-_Reliance_(Mandaluyong)(2017-05-21).jpg]] Highways in the Philippines include national roads that can be classified into three types: the national primary, national secondary and national tertiary roads.
+
+The Pan-Philippine Highway is a 3,517 km (2,185 mi) network of roads, bridges, and ferry services that connect the islands of Luzon, Samar, Leyte, and Mindanao, serving as the Philippines' principal transport backbone. The northern terminus of the highway is in Laoag, and the southern terminus is at Zamboanga City.
+
+The Epifanio de los Santos Avenue (EDSA) is one of the most known highways of the Philippines, the highway serves the National Capital Region of the Philippines, it also serves as an important highway in the metropolis. The avenue passes through 6 of the 17 settlements in the region, namely, the cities of Caloocan, Quezon City, Mandaluyong, San Juan, Makati and Pasay. EDSA is the longest highway in the metropolis and handles an average of 2.34 million vehicles.[8] Commonwealth Avenue is also an important highway in the metropolis, it serves the Quezon City area and has a length of 12.4 km (7.7 mi). Other important thoroughfares in Metro Manila that are part of the Philippine highway network include España Boulevard, Quezon Avenue, Taft Avenue, and Alabang–Zapote Road.
+
+Outside Metro Manila, the MacArthur Highway links Metro Manila to the provinces in central and northern Luzon. It is a component of both N1 (from Caloocan to Guiguinto) and N2 (from Guiguinto northwards to Laoag) of the Philippine highway network and Radial Road 9 (R-9) of Metro Manila's arterial road network. Both Kennon Road and Aspiras–Palispis Highway are major roads leading to and from Baguio. Aguinaldo Highway, Jose P. Laurel Highway, Manila South Road, and Calamba–Pagsanjan Road (part of Manila East Road) are the major roads in the Calabarzon region. Andaya Highway (N68) links the province of Quezon to Bicol Region. Located in Cebu City is the Colon Street, considered the oldest thoroughfare in the country. Among the major highways in Mindanao are Sayre Highway, Butuan–Cagayan de Oro–Iligan Road, Surigao–Davao Coastal Road, Davao–Cotabato Road, and Maria Clara L. Lobregat Highway.
+
+The Strong Republic Nautical Highway links many of the islands' road networks through a series of roll-on/roll-off ferries, some rather small covering short distances and some larger vessels that might travel several hours or more.
+
+Expressways
+
+SCTEX_-_Floridablanca_westbound_(Floridablanca,_Pampanga)(2017-12-17).jpg]] The Philippines has numerous expressways and most of them are located in the main island of the country, Luzon. The first expressway systems in the country are the North Luzon Expressway formerly known as North Diversion Road and the South Luzon Expressway, formerly known as South Super Highway. Both were built in the 1970s, during the presidency of Ferdinand Marcos.
+
+The North Luzon Expressway (NLEX) is a 4 to 8-lane limited-access toll expressway that connects Metro Manila to the provinces of the Central Luzon region. The expressway begins in Quezon City at a cloverleaf interchange with EDSA. It then passes through various cities and municipalities in the provinces of Bulacan and Pampanga. The expressway ends at Mabalacat and merges with the MacArthur Highway, which continues northward into the rest of Central and Northern Luzon.
+
+The South Luzon Expressway (SLEX) is another important expressway in the country, it serves the southern part of Luzon. The expressway is a network of two expressways that connects Metro Manila to the provinces of the Region IV-A in the southern part of Luzon. It starts at the Paco District of Manila then passes through Manila, Makati, Pasay, Paranaque, Taguig and Muntinlupa in Metro Manila; San Pedro, Biñan in Laguna; Carmona in Cavite, then transverses again to Biñan, Santa Rosa, Cabuyao and Calamba in the province of Laguna and ends in Santo Tomas, Batangas.
+
+The Subic-Clark-Tarlac Expressway is another expressway that serves the region of Central Luzon, the expressway is linked to the North Luzon Expressway through the Mabalacat Interchange. Its southern terminus is at the Subic Bay Freeport Zone in Zambales, it passes through the Clark Freeport Zone and its northern terminus is at Brgy. Amucao in Tarlac City. Construction on the expressway began in April 2005, and opened to the public three years later.[9]
+
+The Philippine government and other private sectors are building more plans and proposals to build new expressways through public–private partnership.[10]
+
+Railways
+
+MRT-2_J._Ruiz_Station.jpg of the Manila Light Rail Transit System]] Rail transportation in the Philippines includes services provided by three rapid transit lines and one commuter rail line: the Manila Light Rail Transit System (Lines 1 and 2), Manila Metro Rail Transit System (Line 3) and the PNR Metro South Commuter Line. The government has plans to expand the country's railway footprint from 77 kilometers as of 2017 to more than 320 kilometers by 2022.[11]
+
+The Manila Light Rail Transit System or the LRTA system, is a rapid transit system serving the Metro Manila area, it is the first metro system in Southeast Asia.[12] The system served a total 928,000 passengers each day in 2012.[13][14] Its 31 stations along over 31 kilometers (19 mi) of mostly elevated track form two lines: the original Line 1, and the more modern Line 2 which passes through the cities of Caloocan, Manila, Marikina, Pasay, San Juan and Quezon City. Apart from the LRTA system, the Manila Metro Rail Transit System system also serves Metro Manila. The system is located along the Epifanio de los Santos Avenue (EDSA), one of Metro Manila's main thoroughfares. It has 13 stations along its 16.95 km track form a single line which is the Line 3 which passes through the cities of Makati, Mandaluyong, Pasay and Quezon City. Some of the stations of the system have been retrofitted with escalators and elevators for easier access, and ridership has increased. By 2004, Line 3 had the highest ridership of the three lines, with 400,000 passengers daily.[15]
+
+Philippine National Railways (PNR) operates a commuter line that serves a region from Metro Manila south toward Laguna. PNR, a state-owned railway system of the Philippines, was established during the Spanish Colonial period. It used to provide services on Luzon, connecting northern and southern Luzon with Manila. In 1988, the railway line to northern Luzon became disused and later the services to Bicol were halted although plans to revive the southern line are around as of 2015. Panay Railways is a company that ran rail lines on Panay until 1989 and Cebu until World War II.
+
+
+Water transportation
+
+Pump_Boat.jpg at sunset off of Guimaras.]]
+
+Waterways
+
+3,219 km; limited to shallow-draft (less than 1.5 m) vessels.
+
+River ferries
+
+The Pasig River Ferry Service is a river ferry service that serves Metro Manila, it is also the only water-based transportation that cruised the Pasig River. The entire ferry network had 17 stations operational and 2 lines. The first line was the Pasig River Line which stretched from Plaza Mexico in Intramuros, Manila to Nagpayong station in Pasig. The second line was the Marikina River Line which served the Guadalupe station in Makati up to Santa Elena station in Marikina.
+
+Ferry services
+
+MV_Trisha_Kerstin_2.jpg]] Because it is an island nation, ferry services are an important means of transportation. A range of ships are used, from large cargo ships to small pump boats. Some trips last for a day or two on large overnight ferris such as those operated by 2GO Travel while other trips can last for less than 15 minutes on small, open-air pump boats such as those that cross the Iloilo Strait.
+
+There are numerous shipping companies in the Philippines. Notable companies include 2GO Travel (the successor to Superferry and Negros Navigation) and Trans-Asia Shipping Lines.[16]
+
+Ports and harbors
+
+The busiest port is the Port of Manila, especially the Manila International Cargo Terminal and the Eva Macapagal Port Terminal, both in the pier area of Manila. Other cities with bustling ports and piers include Bacolod City, Batangas City, Cagayan de Oro, Cebu City, Davao City, Butuan, Iligan, Iloilo City, Jolo, Legazpi City, Lucena City, Puerto Princesa, San Fernando, Subic, Zamboanga City, Cotabato City, General Santos City, Allen, Ormoc, Ozamiz, Surigao and Tagbilaran. Most of these terminals comprise the Strong Republic Nautical Highway, a nautical system conceptualized under the term of President Gloria Macapagal Arroyo where land vehicles can use the roll-on/roll-off (ro-ro) ferries to cross between the different islands.
+
+
+Air transportation
+
+Airports
+
+NAIA-Termina-1.jpg]]
+
+Manila, Iloilo, Cebu, Davao, Clark, Subic, Zamboanga and Laoag are the international gateways to the country, with the Ninoy Aquino International Airport (NAIA) in Manila as the main and premier gateway of the country.[17]
+
+The Ninoy Aquino International Airport serves as the premier gateway of the Philippines, it serves the Metro Manila area and its surrounding regions. It is located in the boundary of Parañaque and Pasay in the National Capital Region. In 2012, NAIA became the 34th busiest airport in the world, passenger volume increased to about eight percent to a total of 32.1 million passengers, making it one of the busiest airports in Asia.[18]
+
+The Clark International Airport is also a major gateway to the country, It was originally planned to replace the Ninoy Aquino International Airport as the country's premier airport, amid the plan to shut down the Ninoy Aquino International Airport.[19] The airport mostly serves low-cost carriers that avail themselves of the lower landing fees than those charged at NAIA.
+
+Other important airports in the Philippines are the Mactan-Cebu International Airport in Lapu-Lapu City, Cebu; the Iloilo International Airport in Cabatuan, Iloilo;the Francisco Bangoy International Airport in Davao City; the Zamboanga International Airport in Zamboanga City and the General Santos International Airport in General Santos City.
+
+Airlines
+
+Philippine_Airlines_Airbus_A330-300_Bidini-3.jpg, the flag carrier of the country.]] Philippine Airlines (PAL) is the national flag carrier of the Philippines and is the first commercial airline in Asia.[20] Philippine Airlines remains as the country's biggest airline company, it has the largest number of international flights to the Philippines as well as domestic flights.[21] , Philippine Airlines flies to 8 domestic and 58 international destinations in 33 countries and territories across Asia, North America, South America, Africa, Oceania and Europe.[22][23][24] The airlines operates hubs in Clark, Manila, Cebu, and Davao.
+
+Cebu Pacific is the low fare leader in the country, and is the country's leading domestic airline, flying to 37 domestic destinations. Since the launching of its international operations in November 2001, flies to 27 destinations in 15 countries and territories across Asia and Oceania.[25] , the airline operates hubs in Manila, Cebu and Davao.[26]
+
+Other low-cost carriers in the country include Cebgo, PAL Express, and Philippines AirAsia. These airlines have routes to several tourist destinations in the country.
+
+
+Automobiles
+
+The country's love affair with the automobile started during the 1960s when many Filipinos bought their first automobiles, but interest dwindled during the period of martial law. After the return of civil governance, interest in cars rose and during the 1990s, magazines like _Automotion_ started, as did several television shows about automobiles. In 2002, _C!_, another automotive magazine, was introduced, since _Automotion_ closed down. Around 2004, _Top Gear Philippines_ entered the car magazine market. Automobile exhibits displaying mainstream to custom-built vehicles are common.
+
+The Philippines' automobile industry started during the American Colonial Period from 1898 to 1946, with the introduction of American-made cars, which have been sold in the Philippines ever since. An import substitution policy was developed for the 1950s, which led to the prohibition of and then punishingly high tariffs on the import of fully built-up cars (CBUs) from 1951 until 1972.[27] During the 1973 oil crisis, Marcos advised Filipinos to buy smaller, more efficient vehicles with four-cylinder engines. In the early 1970s, the local Volkswagen assembler attempted to build a native national car, the "Volkswagen Sakbayan" (short for _sasakyangkatutubongbayan_), but this did not last long.[28] In 1972 the government instituted the Progressive Car Manufacturing Program (PCMP), a system with scheduled increases in local parts content requirement which also allowed program participants to import a certain proportion of CBU vehicles.[29] The original participants were General Motors, Ford, PAMCOR (a Chrysler/Mitsubishi joint venture), Delta Motors Corporation (Toyota), and Nissan Motors Philippines.
+
+The AUV
+
+In the 1970s, the first Asian Utility Vehicles (AUV, local versions of the Basic Utility Vehicle project then in vogue) With full manufacturing and assembly capabilities, each of the five PCMP participants were spurred to produce vehicles completely from local materials, designed for local needs. In terms of design, all AUV's body parts were flat stamped (no compound curves) requiring minimum investment in tooling and simplifying repairs.
+
+The most successful of the AUV's in Thailand were the Toyota Tamaraw and Ford Fiera. From the chassis cab, Ford and Toyota designed numerous body styles for specific uses for small business' such as farmers and fishermen. Affordability was a target for all AUV's. To solve this, Ford prepared project studies for varied uses. They had a financial arrangement with Citibank to give additional consideration if the applicant would follow the project study. Delta/Toyota also developed a local SUV mainly for military use, the Delta Mini Cruiser. After the early 1980s financial collapse, three of the PCMP members withdrew, leaving only Nissan and PAMCOR.[30] In 1987 PCMP was replaced by the new "Car Development Program" (CDP), with lower local parts requirements. In 1990 a people's car program was added, followed by a luxury car program. The original PCMP members returned in the 1990s after the People Power Revolution ousted Marcos in 1986, and eventually no less than thirteen manufacturers vied for a market limited to around 100,000 cars per year. During the 1997 Asian financial crisis several makers withdrew as sales declined, becoming de facto CBU importers rather than assemblers. Since 1998 the Philippine automotive manufacturing policy has been in flux, severely undermined by the preponderance of lightly used cars from Japan and South Korea.[31] A new program introduced in 2002, EO 156, actually undermined any local assembly by lowering the sales tax on the cheapest microcars, called "Bantam cars" in the Philippines, which are almost entirely imported from other ASEAN countries or China. Meanwhile, the popular locally assembled AUVs with high Philippine parts content were hit with considerable sales tax increases due to their bigger engines and higher up front prices.[32]
+
+List of automotive manufacturers
+
+Notable Filipino automotive manufacturers include Sarao Motors and Francisco Motors Corporation.[33]
+
+Notable foreign manufacturers with plants in the Philippines include Toyota, Nissan (through Univation Motor Philippines),[34] Mitsubishi, and Foton. Other car brands with presence in the Philippine market include Ford, [35] Mazda,[36] Ssangyong,[37]Kia,[38] Volkswagen,[39] BMW,[40] Honda, Chrysler,[41] and Chery.[42]
+
+Discontinued makers
+
+Daewoo sold moderately in the country until it was forced to pull out due to the Asian Economic Crisis, which led to its bankruptcy and acquisition by GM. Today, many of their cars are sold under the Chevrolet brand.
+
+The Daihatsu Feroza was considered a status symbol during its release in the late 1980s, while the Hijet was a popular taxicab.
+
+Despite being a bestseller worldwide, the Fiat Uno sold poorly in the country. Some sources say that Fiat is coming back to bring the Fiat 500 and Fiat Punto, although no news of such nature has been confirmed.
+
+As of November 2008, Hummers in the Philippines were extremely rare, but were available. The brand was discontinued by GM in early 2010, following its 2009 bankruptcy.
+
+Opel, along with Ford, were the two most popular non-Japanese car companies in the 1960s and 1970s. However, the company pulled out of the country after Martial Law was imposed by the Marcos Administration. Opel returned to the Philippines in the mid-1990s with the Astra, Vectra and Omega, with good sales as a cheap alternative to Japanese cars, but was taken out of the country by its distributor GM Auto Traders to make way for Chevrolet's then-brand new line up (which basically replaced all the cars Opel was selling). Opel Vectras and Astras are still a common sight to see on the roads of Manila, and Tigras popular with enthusiasts.
+
+The Malaysian firm Proton sold only one car in the country before the Asian Economic Crisis forced them out, the Wira.
+
+The lightweight Smart ForTwo city car was supposed to be ideal for Manila's congested roads, but failed due to its relatively high price. It did remain slightly popular with companies who used them for advertising.
+
+In the 1990s, SsangYong became popular for their Musso SUV and the Istana van - both of which were marketed as Mercedes-Benz vehicles. The brand pulled out of the Philippine market in 2012. In January 2016, Ssangyong came back into the Philippine Market with their new distributor, Berjaya Group Malaysia. They debuted in the Philippine Market with 3 models: Tivoli, Korando, and Rodius, with more added when they returned to the local market.[43]
+
+Imported vehicles (Gray market)
+
+Specialty dealerships across the country import various new vehicles from several countries such as the U.S. and UAE. In addition, many pre-owned vehicles are imported from Japan, or Hong Kong - countries that use right-hand-drive vehicles on the left side of the road. Because right-hand-drive vehicles are banned in the country, they are converted to left-hand-drive in conversion bays and freeport zones in Subic, Santa Ana, and Toledo. These vehicles are seen with plate numbers R for Subic, B for Cagayan, K for Cagayan De Oro and Y for Cebu. Smuggling of used cars is rampant, with as many as sixty percent of registrations being of cars not officially imported.[44]
+
+The country made headlines in 2007, when president Gloria Macapagal-Arroyo ordered the immediate destruction of 18 luxury vehicles that were illegally smuggled in the country. The cars, which included four BMWs and a Lincoln Navigator, were crushed by backhoes and other heavy construction vehicles at a depot in the Freeport Zone.[45]
+
+Limousines
+
+Limousines are used by the President & Vice-President of the Philippines, as well as wedding services for wealthy families. Otherwise, they are seldom seen on Philippine roads due to considerations like cost and road traffic conditions but if used, they are utilized for Bridal events or limo services. Limousines include the Chrysler 300C, Lincoln Town Car, Mercedes-Benz E-Class and S-Class, as well as SUV-based limousines such as the Cadillac Escalade and Hummer H2.
+
+
+Jeepneys
+
+Jeepney_in_Legazpi_City.JPG]] JEEPNEYS are the most popular means of public transportation in the Philippines.[46] They were originally made from US military jeeps left over from World War II[47] and are known for their flamboyant decoration and crowded seating. They have become a ubiquitous symbol of Filipino culture.
+
+Original jeepneys were simply refurbished military jeeps by Willys & Ford, modern jeepneys are now produced by independently owned workshops and factories in the Philippines with surplus engines and parts coming from Japan. In the central island of Cebu, the bulk of jeepneys are built from second-hand Japanese trucks, originally intended for cargo. These are euphemistically known as "surplus" trucks.
+
+There are two classes of jeepney builders in the Philippines.[48] The backyard builders produce 1-5 vehicles a month, source their die-stamped pieces from one of the larger manufacturers, and work with used engines and chassis from salvage yards (usually the Isuzu 4BA1, 4BC2, 4BE1 series diesel engines or the Mitsubishi Fuso 4D30 diesel engines). The second type is the large volume manufacturer. They have two subgroups: the PUJ, or "public utility jeep," and the large volume metal-stamping companies that supply parts as well as complete vehicles.
+
+The jeepney builders in the past were mostly based in Cebu City and Las Piñas. The largest manufacturer of vintage-style army jeepneys is MD Juan. Other makers include Armak Motors (San Pablo, Laguna), Celestial Motors (San Pablo, Laguna), Hebron Motors, LGS Motors, Malagueña (Imus, Cavite), Mega (Lipa, Batangas), Morales Motors (San Mateo, Rizal), and Sarao Motors (Las Piñas). Another manufacturer, PBJ Motors, manufactured jeepneys in Pampanga using techniques derived from Sarao Motors. Armak sells remanufactured trucks and vehicles as an adjunct, alongside its jeepneys.
+
+
+Issues
+
+EDSA-Orense_with_Line_3_train_(Guadalupe,_Makati;_2014-12-03)_(1).jpg.]]
+
+Traffic congestion
+
+Traffic congestion is an issue, especially on Metro Manila. Increasing car sales and lack of mass transit and highways cause most traffic congestion, and is feared to make Metro Manila "uninhabitable" by 2020.[49] A survey made by Waze called Metro Manila the "worst traffic on Earth".[50]
+
+Economic losses due to traffic congestion costs about ₱3 billion, as of 2012.[51] By 2030, over ₱6 billion will be lost in the Philippines' economy due to traffic congestion, according to JICA.[52]
+
+
+See also
+
+-   Department of Transportation
+-   Department of Public Works and Highways
+-   Transportation in Metro Manila
+-   List of bus companies of the Philippines
+-   Taxicabs of the Philippines
+-   Public Utility Vehicle Modernization Program
+
+
+References
+
+Transportation_in_the_Philippines
+
+[1]
+
+[2]
+
+[3]
+
+[4]
+
+[5]
+
+[6]
+
+[7]
+
+[8]
+
+[9]
+
+[10]
+
+[11]
+
+[12]
+
+[13]
+
+[14]
+
+[15]
+
+[16]
+
+[17]
+
+[18]
+
+[19]
+
+[20]
+
+[21] 1, Philippine Airlines. Retrieved January 2013.
+
+[22]
+
+[23]
+
+[24]
+
+[25]  Abouth CEB
+
+[26]
+
+[27]
+
+[28] Ofreneo, p. 1
+
+[29]
+
+[30] Ofreneo, p. 10
+
+[31] Ofreneo, cover page
+
+[32] Ofreneo, p. 11
+
+[33]
+
+[34] 2
+
+[35] 3
+
+[36]
+
+[37] http://www.topgear.com.ph/news/industry-news/ssangyong-to-make-grand-comeback-to-ph-market-3-models-to-be-launched-a00058-20160126?ref=tag
+
+[38] Columbian Autocar Corporation
+
+[39] 4
+
+[40] 5
+
+[41] 6
+
+[42]
+
+[43]
+
+[44] Ofreneo, p. 8
+
+[45] Philippine Government Destroys P30 Million Worth of Smuggled Vehicles
+
+[46]
+
+[47]
+
+[48]
+
+[49]
+
+[50]
+
+[51]
+
+[52]

@@ -1,0 +1,128 @@
+A MILITARY ORDINARIATE is an ecclesiastical jurisdiction of the Catholic Church, of the Latin or an Eastern church, responsible for the pastoral care of Catholics serving in the armed forces of a nation.
+
+Until 1986, they were called "military vicariates" and had a status similar to that of apostolic vicariates, which are headed by a bishop who receives his authority by delegation from the Pope. The apostolic constitution _Spirituali militum curae_ of 21 April 1986 raised their status, declaring that the bishop who heads one of them is an "ordinary", holding authority by virtue of his office, and not by delegation from another person in authority.[1] It likened the military vicariates to dioceses.[2] Each of them is headed by a bishop, who may have the personal rank of archbishop. If the bishop is a diocesan rather than a titular bishop, he is likely to delegate the daily functions to an auxiliary bishop or a lower cleric.
+
+Some nations have military ordinariates of the Anglican Communion, Lutheranism, and Eastern Orthodoxy.[3]
+
+The personal ordinariates for Anglicans entering the Catholic Church announced on 20 October 2009 are similar in some ways to the existing military ordinariates.[4] But the jurisdiction of military ordinariates is cumulative to that of the diocesan bishops.[5]
+
+
+List of Catholic military ordinariates
+
++----------+--------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Country  | Military Ordinariate                             | Notes                                                                                                                                                                                                  |
++==========+==================================================+========================================================================================================================================================================================================+
+| Africa   |                                                  |                                                                                                                                                                                                        |
++----------+--------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|          | Military Ordinariate of Kenya                    | created military vicariate and first military vicar appointment 20 January 1964; elevated to a military ordinariate 21 July 1986                                                                       |
++----------+--------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|          | Military Ordinariate of South Africa             | created military vicariate and first military vicar appointment 17 May 1951; elevated to a military ordinariate 21 July 1986; it is vested in the Archbishop of Pretoria                               |
++----------+--------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|          | Military Ordinariate of Uganda                   | created military vicariate and first military vicar appointment 20 January 1964; elevated to a military ordinariate 21 July 1986; vested in a Metropolitan                                             |
++----------+--------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Americas |                                                  |                                                                                                                                                                                                        |
++----------+--------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|          | Military Bishopric of Argentina                  | created military vicariate 8 July 1957; first military vicar appointment in 1957; elevated to a military ordinariate 21 July 1986                                                                      |
++----------+--------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|          | Military Bishopric of Bolivia                    | created military vicariate 19 March 1961; first appointment military vicar 26 July 1961; elevated to a military ordinariate 21 July 1986                                                               |
++----------+--------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|          | Military Ordinariate of Brazil                   | created military vicariate and first military vicar appointment 6 November 1950; elevated to a military ordinariate 21 July 1986                                                                       |
++----------+--------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|          | Military Ordinariate of Canada                   | first military bishop appointment 20 September 1939; created military vicariate 17 February 1951; elevated to a military ordinariate 21 July 1986                                                      |
++----------+--------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|          | Military Bishopric of Chile                      | created military vicariate 3 May 1910; first military vicar appointment 27 May 1910; elevated to a military ordinariate 21 July 1986                                                                   |
++----------+--------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|          | Military Bishopric of Colombia                   | created military vicariate 13 October 1949; first military vicar appointment 14 July 1950; elevated to a military ordinariate 21 July 1986                                                             |
++----------+--------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|          | Military Bishopric of Dominican Republic         | created military vicariate 23 January 1958; first military vicar appointment 1958; elevated to a military ordinariate 21 July 1986                                                                     |
++----------+--------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|          | Military Bishopric of Ecuador                    | created military vicariate 30 March 1983; first military vicar appointment 5 August 1983; elevated to a military ordinariate 21 July 1986                                                              |
++----------+--------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|          | Military Bishopric in El Salvador                | created military vicariate 25 March 1968; first military vicar appointment 4 November 1968; elevated to a military ordinariate 21 July 1986                                                            |
++----------+--------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|          | Military Bishopric of Paraguay                   | created military vicariate 20 December 1961; first military vicar appointment 7 December 1965; elevated to a military ordinariate 21 July 1986                                                         |
++----------+--------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|          | Military Bishopric of Peru                       | created military vicariate 15 May 1943; first military vicar appointment 13 January 1945; elevated to a military ordinariate 21 July 1986                                                              |
++----------+--------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|          | Archdiocese for the Military Services, USA       | first military bishop appointment 24 November 1917; created military vicariate in November 1939; elevated to a military ordinariate 21 July 1986; headed by an Archbishop with three Auxiliary Bishops |
++----------+--------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|          | Military Ordinariate of Venezuela                | created military ordinariate 31 October 1995; first military ordinary appointment 11 February 1996                                                                                                     |
++----------+--------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Asia     |                                                  |                                                                                                                                                                                                        |
++----------+--------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|          | Military Ordinariate of Indonesia                | created military vicariate 25 December 1949; first military vicar appointment 1949; elevated to a military ordinariate 21 July 1986                                                                    |
++----------+--------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|          | Military Ordinariate of the Philippines          | created military vicariate 8 December 1950; first military vicar appointment 10 December 1951; elevated to a military ordinariate 21 July 1986                                                         |
++----------+--------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|          | Military Ordinariate of South Korea              | created military vicariate and first military vicar appointment 22 November 1983; elevated to a military ordinariate 21 July 1986                                                                      |
++----------+--------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Europe   |                                                  |                                                                                                                                                                                                        |
++----------+--------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|          | Military Ordinariate of Austria                  | first military bishop appointment in 1773; created military vicariate 21 February 1959; elevated to a military ordinariate 21 July 1986                                                                |
++----------+--------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|          | Military Ordinariate of Bosnia and Herzegovina   | created military ordinariate 1 February 2011                                                                                                                                                           |
++----------+--------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|          | Military Ordinariate of Belgium                  | created military vicariate 7 September 1957; first military vicar appointment in 1957; elevated to a military ordinariate 21 July 1986; vested in the Archbishop of Mechelen and Primate of Belgium    |
++----------+--------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|          | Military Ordinariate of Croatia                  | created military ordinariate and first military ordinary appointment 25 April 1997                                                                                                                     |
++----------+--------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|          | Diocese of the French Armed Forces               | first military bishop appointment in 1949; created military vicariate 26 July 1952; elevated to a military ordinariate 21 July 1986                                                                    |
++----------+--------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|          | Military Ordinariate of Germany                  | first military bishop appointment 22 May 1868; created military vicariate 20 July 1933; elevated to a military ordinariate 21 July 1986                                                                |
++----------+--------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|          | Military Ordinariate of Hungary                  | first military bishop appointment 23 March 1920; in abeyance from 1947 to 1994; created a military ordinariate 18 April 1994                                                                           |
++----------+--------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|          | Military Ordinariate in Italy                    | created military vicariate 6 March 1925; first military vicar appointment 23 April 1929; elevated to a military ordinariate 21 July 1986                                                               |
++----------+--------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|          | Defence Forces Chaplaincy Service                | Provides pastoral care, spiritual support and guidance to all members of the Defence Forces at home and on duty overseas.                                                                              |
++----------+--------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|          | Military Ordinariate of Lithuania                | created military ordinariate and first military vicar appointment 25 November 2000                                                                                                                     |
++----------+--------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|          | Military Ordinariate of the Netherlands          | created military vicariate and first military vicar appointment 16 April 1957; elevated to a military ordinariate 21 July 1986                                                                         |
++----------+--------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|          | Military Ordinariate of Poland                   | created military vicariate and first military vicar appointment 5 February 1919; suspended from 1947 to 1991; elevated to a military ordinariate 1991                                                  |
++----------+--------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|          | Military Ordinariate of Portugal                 | created military vicariate 29 May 1966; first military vicar appointment 1966; elevated to a military ordinariate 21 July 1986                                                                         |
++----------+--------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|          | Military Ordinariate of Slovakia                 | created military ordinariate and first military vicar appointment 20 January 2003                                                                                                                      |
++----------+--------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|          | Military Vicariate of Slovenia                   | created military vicariate and first military vicar appointment 21 September 2000                                                                                                                      |
++----------+--------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|          | Military Archbishopric of Spain                  | first appointment military bishop 4 June 1819; created military vicariate 5 August 1950; elevated to a military ordinariate 21 July 1986; headed by an archbishop                                      |
++----------+--------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|          | Bishopric of the Forces                          | first military bishop appointment 30 October 1917; created military vicariate 21 November 1953; elevated to a military ordinariate 21 July 1986                                                        |
++----------+--------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Oceania  |                                                  |                                                                                                                                                                                                        |
++----------+--------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|          | Catholic Diocese of the Australian Defence Force | first military bishop appointment in 1912; created military vicariate 6 March 1969; elevated to a military ordinariate 21 July 1986                                                                    |
++----------+--------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|          | Military Ordinariate of New Zealand              | created military vicariate and first military vicar appointment 28 October 1976; elevated to a military ordinariate 21 July 1986; currently vested in the Metropolitan of Wellington                   |
++----------+--------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+
+
+See also
+
+-   -   Military chaplain
+-   Patron saints of the military
+-   Blue Mass
+
+
+References
+
+
+External links
+
+-   Military Ordinariates in the world by GCatholic.org
+-   Catholic Hierarchy.org
+
+Military_ordinariates
+
+[1] _Code of Canon Law_, canon 134 §1
+
+[2] _Spirituali militum curae_, I §1
+
+[3] See, for example, this Anglican military ordinariate.
+
+[4] Note of the CDF about personal ordinariates for Anglicans entering the Catholic Church
+
+[5] _Spirituali militum curae_, IV

@@ -1,0 +1,93 @@
+POPE ANASTASIUS II (died 19 November 498) was Pope from 24 November 496 to his death in 498.[1] He was an important figure in trying to end the Acacian schism, but his efforts resulted in the Laurentian schism, which followed his death. Anastasius was born in Rome, the son of a priest,[2] and is buried in St. Peter's Basilica.[3]
+
+
+Acacian schism and conciliation
+
+The church had been in a serious doctrinal dispute since 484, between the Eastern and Western churches of Christianity, known as the Acacian schism. Pope Felix III (483–492) and Pope Gelasius I (492–496) had generally taken hardline stances towards the Eastern church and had excommunicated many of the major religious figures including Acacius, the Patriarch of Constantinople. Efforts at reducing the problem by Zeno were not recognized by Felix III or Gelasius I and so there was a large schism between the churches. Upon the death of Gelasius I, Anastasius II was named pope largely with support from a faction that wanted to improve relations between the West and the Eastern churches and end the schism.[4][5]
+
+Upon being named pope, Anastasius II immediately sent two bishops to Constantinople to meet with the Byzantine Emperor Anastasius I, who had the same name as the pope, and work on an agreement to end the Acacian schism.[6] Anastasius II indicated in a letter that he was willing to accept the baptisms that had been performed by Acacius and to let the issue be decided by the divine rather than by church authorities[7] and Anastasius I seemed similarly willing to cooperate but wanted acceptance of the _Henotikon_, the compromise position developed by Zeno.[8] As a signal of attempting to reduce the tension, Anastasius II was rumored to have given communion to Photinus of Thessalonica, an associate of Acacius.[9]
+
+The result of these conciliatory gestures was to outrage many of the bishops and clergy in Rome and to create a clear division between those who supported moderation toward the Monophysites in the Byzantine Empire and those who opposed such moderation.[10] Because of the communion with Photinus, many in Rome refused to receive communion from Anastasius II and the situation grew to a crisis point.[11]
+
+
+Death and legacy
+
+At the peak of the tension created by these attempts to improve relations between the East and the West, Anastasius II unexpectedly died.[12] For those who opposed his attempts at remedying the schism his death in 498 was seen as divine retribution.[13] The factions that had formed during his rule as pope split decisively from one another and each appointed a rival pope. The faction against conciliation was able to name Symmachus as the pope to follow Anastasius II. However, the important Roman Senator Rufius Postumius Festus, who had been a major instigator for the conciliation attempts of Anastasius II and may have led to his naming as pope, supported a rival papal claim of Laurentius.[14] The Roman church then had its own schism between different factions which made efforts at reducing the schism between the church in Rome and the church in Constantinople impossible.[15]
+
+During the medieval period, Anastasius II was often considered a traitor to the Catholic Church and an apostate. The writer of the _Liber Pontificalis_, supporting the opponents to Anastasius' efforts, argued that Anastasius II's death was divine retribution and that he had broken with the church.[16] Similarly, the _Decretum Gratiani_ writes of the pope that "Anastasius, reproved by God, was smitten by divine command."[17] This medieval view is described by modern commentators as a "legend",[18] a "misinterpretation",[19] a "confused tradition",[20] and "manifestly unjust."[21]
+
+Dante placed Anastasius II in the sixth circle of hell: "_Anastasio papa guardo, lo qual trasse Fotin de la via dritta_" ("I guard Pope Anastasius, he whom Photinus drew from the straight path").[22] However, modern Dante scholars consider this to be a mistake: the person Dante intended to put at that level was the Byzantine emperor of the time, Anastasius I.[23][24][25]
+
+Anastasius II is, with Pope Liberius,[26] one of only two of the first 50 popes not to be canonized.[27] However, Liberius is mentioned in the Greek Menology and is recognized as a saint within the Eastern Orthodox Church.[28]
+
+
+See also
+
+-   List of Catholic saints
+-   List of popes
+
+
+References
+
+
+External links
+
+-   -
+
+Category:498 deaths Category:5th-century archbishops Category:Italian popes Category:Ostrogothic Papacy Category:Popes Category:Year of birth unknown Category:Burials at St. Peter's Basilica Category:5th-century popes
+
+[1]
+
+[2]
+
+[3]
+
+[4]
+
+[5]
+
+[6]
+
+[7]
+
+[8]
+
+[9]
+
+[10]
+
+[11]
+
+[12]
+
+[13]
+
+[14]
+
+[15]
+
+[16]
+
+[17]
+
+[18]
+
+[19]
+
+[20]
+
+[21]
+
+[22]
+
+[23]
+
+[24]
+
+[25]
+
+[26] Earliest Pope not yet canonized by the Catholic Church. Liberius is revered as Saint Liberius the Confessor in Eastern Christianity, with a feast day of 27 August.
+
+[27]
+
+[28]

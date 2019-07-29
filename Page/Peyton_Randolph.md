@@ -1,0 +1,75 @@
+US-Colonial_(VA-69)-Virginia-4_Mar_1773_OBV.jpg.]] PEYTON RANDOLPH (September 10, 1721 – October 22, 1775) was a planter and public official from the Colony of Virginia. He served as Speaker of the Virginia House of Burgesses, president of Virginia Conventions, and the first President of the Continental Congress.[1][2]
+
+
+Early life
+
+Randolph was born in Tazewell Hall,[3][4] Williamsburg, Virginia,[5] to a prominent family. His parents were Sir John Randolph,[6] the son of William Randolph, and Susanna Beverley, the daughter of Peter Beverley; his brother was John Randolph. Peyton Randolph was 16 when his father died.
+
+Randolph attended the College of William & Mary, and later studied law at Middle Temple at the Inns of Court in London, becoming a member of the bar in 1743.[7] He lived his adulthood in Williamsburg.
+
+
+Political career
+
+Randolph returned to Williamsburg and was appointed Attorney General of the Colony of Virginia the next year.
+
+He served several terms in the Virginia House of Burgesses, beginning in 1748. It was Randolph's dual roles as attorney general and as burgess that would lead to an extraordinary conflict of interest in 1751.
+
+The new governor, Robert Dinwiddie, had imposed a fee for the certification of land patents, which the House of Burgesses strongly objected to. The House selected Peyton Randolph to represent their cause to Crown authorities in London. In his role as attorney general, though, he was responsible for defending actions taken by the governor. Randolph left for London, over the objections of Governor Dinwiddie, and was replaced for a short time as attorney general by George Wythe. Randolph resumed his post on his return at the behest of Wythe as well as officials in London, who also recommended the Governor drop the new fee.
+
+In 1765, Randolph found himself at odds with a freshman burgess, Patrick Henry, over the matter of a response to the Stamp Act. The House appointed Randolph to draft objections to the act, but his more conservative plan was trumped when Henry obtained passage of five of his seven Virginia Stamp Act Resolutions. This was accomplished at a meeting of the House in which most of the members were absent, and over which Randolph was presiding in the absence of the Speaker.
+
+Randolph resigned as king's attorney (attorney general) in 1766, as fellow Burgesses elected him as their Speaker upon the death of his relative, the powerful Speaker John Robinson. Sitting as the General Court, they also appointed Randolph one of the executors (with George Wythe and Edmund Pendleton) of the former speaker's estate, which was a major financial scandal. As friction between Britain and the colonies progressed, Randolph grew to favor independence. In 1769 the House of Burgesses was dissolved by the Governor, Norborne Berkeley, 4th Baron Botetourt, in response to its actions against the Townshend Acts. In 1773, Randolph chaired the Virginia committee of correspondence. The next Governor, John Murray, 4th Earl of Dunmore, also dissolved the House of Burgesses in 1774 when it showed solidarity with Boston, Massachusetts, following the Boston Port Act. Afterwards, Randolph chaired meetings of the first of five Virginia Conventions of former House members, principally at a Williamsburg tavern, which worked toward responses to the unwelcome tax measures imposed by the British government. On March 21, 1775, he was president of the Second Virginia Convention in Richmond that debated independence (the site of Patrick Henry's famous "give me liberty" speech). In April, Randolph negotiated with Lord Dunmore for gunpowder removed from the Williamsburg arsenal during the Gunpowder Incident, which was a confrontation between the Governor's forces and Virginia militia, led by Patrick Henry. The House of Burgesses was called back by Lord Dunmore one last time in June 1775 to address British Prime Minister Lord North's Conciliatory Resolution. Randolph, who was a delegate to the Continental Congress, returned to Williamsburg to take his place as Speaker. Randolph indicated that the resolution had not been sent to the Congress (it had instead been sent to each colony individually in an attempt to divide them and bypass the Continental Congress). The House of Burgesses rejected the proposal, which was also later rejected by the Continental Congress.[8] Randolph was thus the last Speaker of the House of Burgesses (their role was replaced by the Virginia Conventions and later the House of Delegates in 1776). Randolph also served as the president of the Third Virginia Convention in July 1775, which as a legislative body elected a Committee of Safety to act as the colony's executive since Lord Dunmore had abandoned the capital and took refuge on a British warship. Edmund Pendleton would succeed Randolph as president of the later conventions.
+
+Virginia selected Randolph as one of its delegates to the Continental Congress in Philadelphia in 1774 and 1775. Fellow delegates elected him their president (Speaker) of both the First Continental Congress (which requested that King George III repeal the Coercive Acts) as well as Second Continental Congress (which extended the Olive Branch Petition as a final attempt at reconciliation). However, Randolph fell ill during each term. Henry Middleton of South Carolina succeeded him as president from his resignation on October 22, 1774, until his return on May 10, 1775. He was again elected President of Congress, but Randolph left for Virginia four days later and was succeeded as President by John Hancock. Randolph returned as a Virginia delegate but suffered a fit of apoplexy and died in Philadelphia on October 22, 1775.
+
+
+Death and legacy
+
+His remains were returned to Williamsburg and were interred at the chapel of the College of William and Mary. Because the Continental Congress assumed governmental duties for the American colonies as a whole, such as appointing ambassadors, some consider Randolph to have been the first President of the United States, even though he died before the Declaration of Independence.[9]
+
+The Continental Congress honored Randolph by naming one of the first naval frigates as the USS _Randolph_, as well by naming a fort at the junction of the Ohio and Kanawha Rivers as Fort Randolph.
+
+Randolph County, North Carolina, Randolph, Massachusetts, and Randolph County, Indiana, were named to honor the colonial statesman.
+
+During World War II, the early _Essex_-class aircraft carrier USS _Randolph_ (CV-15) was named for him. Furthermore, the Peyton Randolph House in Colonial Williamsburg was declared a National Historic Landmark in 1970.
+
+
+See also
+
+-   Third Virginia Convention
+-   Fourth Virginia Convention
+
+
+References
+
+
+Further reading
+
+-
+
+
+External links
+
+-   Randolph's Congressional Biography
+-   Virginia Colonial Dynasties VA Historical Society {Reference only}
+-
+
+Category:1721 births Category:1775 deaths Category:American people of English descent Category:American people of Scottish descent Category:American planters Category:Beverley family of Virginia Category:College of William & Mary alumni Category:Continental Congressmen from Virginia Category:18th-century American politicians Category:Harrison family of Virginia Category:Members of the Middle Temple Category:Politicians from Williamsburg, Virginia Category:People of Virginia in the American Revolution Peyton Category:Speakers of the Virginia House of Burgesses Category:Virginia lawyers Category:Burials at the College of William & Mary
+
+[1] New York Times
+
+[2] New York Times
+
+[3] Archaeological Excavations of Tazewell Hall Property
+
+[4] Tazewell Hall: A Report of Its 18th Century Appearance
+
+[5] Peyton Randolph – Biographical directory of US Congress
+
+[6] Descendents of Sir John Randolph
+
+[7] Peyton Randolph – Colonial Williamsburg
+
+[8]
+
+[9] http://www.russpickett.com/ushist/uscont.htm

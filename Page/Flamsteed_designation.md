@@ -1,0 +1,55 @@
+A FLAMSTEED DESIGNATION is a combination of a number and constellation name that uniquely identifies most naked eye stars in the modern constellations visible from southern England. They are named for John Flamsteed who first used them while compiling his _Historia Coelestis Britannica_.
+
+
+Description
+
+Flamsteed designations for stars are similar to Bayer designations, except that they use numbers instead of Greek and Roman letters. Each star is assigned a number and the Latin genitive of the constellation it lies in (see 88 modern constellations for a list of constellations and the genitive forms of their names). Flamsteed designations were assigned to 2554 stars. The numbers were originally assigned in order of increasing right ascension within each constellation, but due to the effects of precession they are now slightly out of order in some places.
+
+This method of designating stars first appeared in a preliminary version of John Flamsteed's _Historia Coelestis Britannica_ published by Edmond Halley and Isaac Newton in 1712 without Flamsteed's approval.[1][2] The final version of Flamsteed's catalogue published in 1725[3] after his death omitted the numerical designations altogether. The numbers now in use were assigned by the French astronomer, Joseph Jérôme de Lalande and appeared in his 1783 almanac, _Éphémérides des mouvemens célestes_ which contained a revised edition of Flamsteed’s catalogue.[4] Lalande noted in his Introduction that he got the idea from the unofficial 1712 edition.[5]
+
+Flamsteed designations gained popularity throughout the eighteenth century, and are now commonly used when no Bayer designation exists. Where a Bayer designation with a Greek letter does exist for a star, it is usually used in preference to the Flamsteed designation. (Flamsteed numbers are generally preferred to Bayer designations with _Roman_ letters.) Examples of well-known stars that are usually referred to by their Flamsteed numbers include 51 Pegasi, and 61 Cygni. Flamsteed designations are often used instead of the Bayer designation if the latter contains an extra attached number; for example, "55 Cancri" is more common than "Rho-1 Cancri".
+
+There are examples of stars, such as 10 Ursae Majoris in Lynx, bearing Flamsteed designations for constellations in which they do not lie, just as there are for Bayer designations, because of the compromises that had to be made when the modern constellation boundaries were drawn up.
+
+Flamsteed's catalogue covered only the stars visible from Great Britain, and therefore stars of the far southern constellations have no Flamsteed numbers. Some stars, such as the nearby star 82 Eridani, were named in a major southern-hemisphere catalog called _Uranometria Argentina_, by Benjamin Gould; these are Gould numbers, rather than Flamsteed numbers, and should be differentiated with a G, as in 82 G. Eridani. Except for a handful of cases, Gould numbers are not in common use. Similarly, Flamsteed-like designations assigned by other astronomers (for example, Hevelius) are no longer in general use. (A well-known exception is the globular cluster 47 Tucanae from Bode's catalog.)
+
+84 stars entered in Flamsteed's catalog are errors and proved not to exist in the sky:[6] All of them except 11 Vulpeculae were plotted on his star charts.
+
+-   Flamsteed observed Uranus in 1690 but did not recognize it as a planet and entered it into his catalog as a star called "34 Tauri".
+-   11 Vulpeculae was a nova, now known as CK Vulpeculae.
+-   Many of them were caused by arithmetic errors made by Flamsteed.
+
+
+List of constellations using Flamsteed star designations
+
+There are 52 constellations that primarily use Flamsteed designations. Stars are listed in the appropriate lists for the constellation, as follows:
+
+In addition, several stars in Puppis, and a small number of stars in Centaurus and Lupus, have been given Flamsteed designations.
+
+
+See also
+
+-   Stellar designations and names
+-   Table of stars with Flamsteed designations
+
+
+References
+
+
+External links
+
+-   Flamsteed numbers – where they really came from Ian Ridpath's Star Tales
+
+Category:Astronomical catalogues Flamsteed_objects
+
+[1]
+
+[2]
+
+[3]
+
+[4]
+
+[5]
+
+[6]

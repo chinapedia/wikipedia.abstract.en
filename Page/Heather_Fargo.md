@@ -1,0 +1,118 @@
+HEATHER FARGO (born December 12, 1952) is an American politician who served as mayor and was a former City Council Member of Sacramento, California. She was sworn in as mayor in November 2000, replacing Jimmie R. Yee, and served until December 2008, when she was succeeded by Kevin Johnson.
+
+
+Early life and education
+
+Heather Fargo grew up in Davis, Santa Maria, and Stockton, CA. She graduated from AA Stagg High School. She received a Bachelor of Science degree in Environmental Planning and Management from the University of California, Davis in 1975. In 1981, Fargo earned a Certificate of Completion from the Revenue Sources Management School in Boulder, Colorado. She also completed the State and Local Government Executive Program at the John F. Kennedy School of Government at Harvard University in 1991.
+
+
+City Council Years
+
+Heather Fargo was first elected to the Sacramento City Council in 1989 to a five-year term as Sacramento was transitioning to even year citywide elections. Fargo represented District One which includes Downtown and Natomas. In the September primary, she came in second place to businesswoman Kate Karpilow but beat future City Councilman Ray Tretheway who came in third place and incumbent David Shore who came in fourth place. However, Fargo came back to beat Karpilow in November.
+
+Upon Grantland Johnson's resignation from the County Board of Supervisors in 1994, Fargo decided to run for the Board. In that election, she faced attorney and community activist Roger Dickinson. In a closely fought election, Dickinson narrowly beat Fargo. After that loss she was re-elected in 1994 and 1998. While serving on the city council, (prior to becoming Mayor full-time), she was employed as a manager of the California State Parks Volunteer Program.
+
+
+2000 Mayoral Campaign
+
+Upon the sudden death in November 1999 of Mayor Joe Serna, Jr., Land Park city councilman Jimmie Yee became the acting mayor. Several candidates announced their intentions to run. Other than Fargo, three other council members were also seeking the mayorship. North Sacramento city councilman Rob Kerth who represented an area immediately adjacent to Fargo's also decided to run. In addition, Steve Cohn, the city councilman for East Sacramento ran along with Robbie Waters who represents the Pocket and Greenhaven areas decided to run along with several lesser known candidates that included businessman and attorney Joe Genshlea and community activist Julie Padilla. Fargo, who won 22% of the vote in the primary and Kerth who won 20% of the vote made it into the November runoff, where Fargo was elected with just 53% of the vote. In winning, Fargo became the first Latina mayor of an American city.[1]
+
+
+2004 Mayoral Campaign
+
+Fargo did not face as stiff competition in her 2004 re-election. Her main opponent was Ross W. Relles, Jr., a businessman. Other candidates were Deputy Attorney General Mark Soble and Lorenzo Patino Law School President Leonard Padilla. Virtually unopposed against candidates far less funded, Fargo won solidly in the primary election, thus no runoff was necessary.
+
+
+2008 Mayoral Campaign
+
+The primary election for Mayor took place on 3 June 2008. Fargo received 39% of the vote, while former NBA star and Sacramento native Kevin Johnson received 46% of the vote.[2] Since neither received a majority of the votes, a run off election was scheduled for November 2008, where she was defeated by a margin of 58% to 42%.
+
+During the primary election campaign, Fargo initially claimed that she had the support of all the city councilmembers. Yet, Councilman Robbie Waters, Steve Cohn, and Sandra Sheedy all ended up endorsing Johnson during the primary. On September 4, 2008 only Councilman Kevin McCarty endorsed Heather Fargo.[3]
+
+
+Causes
+
+Environment
+
+Heather Fargo was a founding member and the first secretary of the Sacramento Tree Foundation, which is considered an important voice in Sacramento’s environmental community.
+
+Gun Control
+
+During her tenure Mayor Fargo became a member of the Mayors Against Illegal Guns Coalition,[4] an organization formed in 2006 and co-chaired by New York City mayor Michael Bloomberg and Boston mayor Thomas Menino.
+
+
+Mayoral tenure
+
+Mayor Fargo's tenure as mayor included disagreements with the Maloof family, owners of the NBA's Sacramento Kings, over the building of a new arena.
+
+In 2006, 2007, and 2008, Mayor Fargo was named "Best Local Elected Official" by the readers of _Sacramento Magazine_ in their annual poll.[5]
+
+
+Electoral history
+
+2000 Primary Election for Mayor of Sacramento
+
+  Name            Percentage of the Vote
+  --------------- ------------------------
+  Heather Fargo   21.76%
+  Rob Kerth       20.19%
+  Robbie Waters   18.23%
+  Joe Genshlea    14.68%
+  Julie Padilla   11.68%
+  Steve Cohn      9.08%
+
+2000 General Election for Mayor of Sacramento
+
+  Name            Percentage of the Vote
+  --------------- ------------------------
+  Heather Fargo   54.07%
+  Rob Kerth       45.93%
+
+
+2004 Primary Election for Mayor of Sacramento
+
+  Name                  Percentage of the Vote
+  --------------------- ------------------------
+  Heather Fargo         59.77%
+  Ross W. Relles, Jr.   20.91%
+  Mark Soble            11.54%
+  Leonard Padilla       7.78%
+
+Because Fargo received a majority of the votes in the primary election, no general election was necessary.
+
+2008 Primary Election for Mayor of Sacramento
+
+  Name                Percentage of the Vote
+  ------------------- ------------------------
+  Kevin Johnson       46.58%
+  Heather Fargo       39.65%
+  Leonard Padilla     5.83%
+  Shawn D. Eldredge   3.44%
+  Muriel Strand       2.79%
+
+Johnson and Fargo proceeded to a runoff election on November 5.
+
+2008 General Election for Mayor of Sacramento
+
+  Name            Percentage of the Vote
+  --------------- ------------------------
+  Kevin Johnson   54%
+  Heather Fargo   46%
+
+
+Precincts Reporting - 215 out of 391
+
+
+References
+
+Category:1952 births Category:John F. Kennedy School of Government alumni Category:Living people Category:Mayors of Sacramento, California Category:Politicians from Oakland, California Category:University of California, Davis alumni Category:Women mayors of places in California Category:California Democrats
+
+[1] David Goldfield, _Encyclopedia of American Cities_, v.1. Thousand Oaks: Sage, 2007, p. 881. 9780761928843
+
+[2]
+
+[3] SacBee - McCarty endorsing Fargo for Sacramento mayor
+
+[4]
+
+[5] Best of Sacramento - Sacramento, California
