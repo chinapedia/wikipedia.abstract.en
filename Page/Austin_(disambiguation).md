@@ -43,15 +43,13 @@ United States of America
 -   Austin, Ohio
 -   Austin, Oregon
 -   Austin, Texas
--   Austin County, Texas (note that the city of Austin, Texas is located
-    in Travis County)
+-   Austin County, Texas (note that the city of Austin, Texas is located in Travis County)
 
 
 Schools
 
 -   Austin College, Sherman, Texas
--   University of Texas at Austin, flagship institution of the
-    University of Texas System
+-   University of Texas at Austin, flagship institution of the University of Texas System
 -   Austin Peay State University, Clarksville, Tennessee
 
 
@@ -73,21 +71,16 @@ Entertainment
 
 -   "Austin" (song), a single by Blake Shelton
 -   Austin, a kangaroo Beanie Baby produced by Ty, Inc.
--   Austin the kangaroo from the children's television series _The
-    Backyardigans_
--   Austin Moon, titular character in the television show _Austin &
-    Ally_
+-   Austin the kangaroo from the children's television series _The Backyardigans_
+-   Austin Moon, titular character in the television show _Austin & Ally_
 
 
 Other uses
 
 -   USS _Austin_, three ships
--   Austin station (disambiguation), various public transportation
-    stations
--   _Austin_ (building), a building designed by artist Ellsworth Kelly
-    under construction in Austin, Texas
--   Austin Allegro, a small family car that was manufactured by the
-    Austin-Morris division of British Leyland from 1973 until 1982
+-   Austin station (disambiguation), various public transportation stations
+-   _Austin_ (building), a building designed by artist Ellsworth Kelly under construction in Austin, Texas
+-   Austin Allegro, a small family car that was manufactured by the Austin-Morris division of British Leyland from 1973 until 1982
 
 
 See also

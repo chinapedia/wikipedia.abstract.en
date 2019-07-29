@@ -1,70 +1,28 @@
-ALLAN DWAN (3 April 1885 – 28 December 1981) was a pioneering
-Canadian-born American motion picture director, producer, and
-screenwriter.
+ALLAN DWAN (3 April 1885 – 28 December 1981) was a pioneering Canadian-born American motion picture director, producer, and screenwriter.
 
 
 Early life
 
-Born JOSEPH ALOYSIUS DWAN in Toronto, Ontario, Canada, Dwan, was the
-younger son of commercial traveler of woolen clothing Joseph Michael
-Dwan (1857–1917) and his wife Mary Jane Dwan, née Hunt. The family moved
-to the United States when he was seven years old on 4 December 1892 by
-ferry from Windsor to Detroit, according to his naturalization petition
-of August 1939. His elder brother, Leo Garnet Dwan (1883–1964), became a
-physician.
+Born JOSEPH ALOYSIUS DWAN in Toronto, Ontario, Canada, Dwan, was the younger son of commercial traveler of woolen clothing Joseph Michael Dwan (1857–1917) and his wife Mary Jane Dwan, née Hunt. The family moved to the United States when he was seven years old on 4 December 1892 by ferry from Windsor to Detroit, according to his naturalization petition of August 1939. His elder brother, Leo Garnet Dwan (1883–1964), became a physician.
 
-Allan Dwan studied engineering at the University of Notre Dame and then
-worked for a lighting company in Chicago. He had a strong interest in
-the fledgling motion picture industry, and when Essanay Studios offered
-him the opportunity to become a scriptwriter, he took the job.[1] At
-that time, some of the East Coast movie makers began to spend winters in
-California where the climate allowed them to continue productions
-requiring warm weather. Soon, a number of movie companies worked there
-year-round, and in 1911, Dwan began working part-time in Hollywood.
-While still in New York, in 1917 he was the founding president of the
-East Coast chapter of the Motion Picture Directors Association.[2]
+Allan Dwan studied engineering at the University of Notre Dame and then worked for a lighting company in Chicago. He had a strong interest in the fledgling motion picture industry, and when Essanay Studios offered him the opportunity to become a scriptwriter, he took the job.[1] At that time, some of the East Coast movie makers began to spend winters in California where the climate allowed them to continue productions requiring warm weather. Soon, a number of movie companies worked there year-round, and in 1911, Dwan began working part-time in Hollywood. While still in New York, in 1917 he was the founding president of the East Coast chapter of the Motion Picture Directors Association.[2]
 
 
 Career
 
-Dwan operated Flying A Studios in La Mesa, California from August 1911
-to July 1912.[3][4] Flying A was one of the first motion pictures
-studios in California history. On 12 August 2011, a plaque was unveiled
-on the Wolff building at Third Avenue and La Mesa Boulevard
-commemorating Dwan and the Flying A Studios origins in La Mesa,
-California.
+Dwan operated Flying A Studios in La Mesa, California from August 1911 to July 1912.[3][4] Flying A was one of the first motion pictures studios in California history. On 12 August 2011, a plaque was unveiled on the Wolff building at Third Avenue and La Mesa Boulevard commemorating Dwan and the Flying A Studios origins in La Mesa, California.
 
-After making a series of westerns and comedies, Dwan directed fellow
-Canadian-American Mary Pickford in several very successful movies as
-well as her husband, Douglas Fairbanks, notably in the acclaimed 1922
-_Robin Hood_. Dwan directed Gloria Swanson in eight feature films, and
-one short film made in the short-lived sound-on-film process Phonofilm.
-This short, also featuring Thomas Meighan and Henri de la Falaise, was
-produced as a joke, for the 26 April 1925 "Lambs' Gambol" for The Lambs,
-with the film showing Swanson crashing the all-male club.
+After making a series of westerns and comedies, Dwan directed fellow Canadian-American Mary Pickford in several very successful movies as well as her husband, Douglas Fairbanks, notably in the acclaimed 1922 _Robin Hood_. Dwan directed Gloria Swanson in eight feature films, and one short film made in the short-lived sound-on-film process Phonofilm. This short, also featuring Thomas Meighan and Henri de la Falaise, was produced as a joke, for the 26 April 1925 "Lambs' Gambol" for The Lambs, with the film showing Swanson crashing the all-male club.
 
-Following the introduction of the talkies, Dwan directed child-star
-Shirley Temple in _Heidi_ (1937) and _Rebecca of Sunnybrook Farm_
-(1938).
+Following the introduction of the talkies, Dwan directed child-star Shirley Temple in _Heidi_ (1937) and _Rebecca of Sunnybrook Farm_ (1938).
 
-Dwan helped launch the career of two other successful Hollywood
-directors, Victor Fleming, who went on to direct _The Wizard of Oz_ and
-_Gone With the Wind_, and Marshall Neilan, who became an actor,
-director, writer and producer. Over a long career spanning almost 50
-years, Dwan directed 125 motion pictures, some of which were highly
-acclaimed, such as the 1949 box office hit, _Sands of Iwo Jima_. He
-directed his last movie in 1961.[5]
+Dwan helped launch the career of two other successful Hollywood directors, Victor Fleming, who went on to direct _The Wizard of Oz_ and _Gone With the Wind_, and Marshall Neilan, who became an actor, director, writer and producer. Over a long career spanning almost 50 years, Dwan directed 125 motion pictures, some of which were highly acclaimed, such as the 1949 box office hit, _Sands of Iwo Jima_. He directed his last movie in 1961.[5]
 
-He died in Los Angeles at the age of ninety-six, and is interred in the
-San Fernando Mission Cemetery, Mission Hills, California.
+He died in Los Angeles at the age of ninety-six, and is interred in the San Fernando Mission Cemetery, Mission Hills, California.
 
-Dwan has a star on the Hollywood Walk of Fame at 6263 Hollywood
-Boulevard.
+Dwan has a star on the Hollywood Walk of Fame at 6263 Hollywood Boulevard.
 
-Daniel Eagan of _Film Journal International_ described Dwan as one of
-the early pioneers of cinema, stating that his style "is so basic as to
-seem invisible, but he treats his characters with uncommon sympathy and
-compassion."[6]
+Daniel Eagan of _Film Journal International_ described Dwan as one of the early pioneers of cinema, stating that his style "is so basic as to seem invisible, but he treats his characters with uncommon sympathy and compassion."[6]
 
 
 Partial filmography as director
@@ -124,8 +82,7 @@ Partial filmography as director
 -   _The Coast of Folly_ (1925)
 -   _Night Life of New York_ (1925)
 -   _Stage Struck_ (1925)
--   _Gloria Swanson Dialogue_ (1925) short film made in Phonofilm for
-    The Lambs annual "Gambol" held at Metropolitan Opera House
+-   _Gloria Swanson Dialogue_ (1925) short film made in Phonofilm for The Lambs annual "Gambol" held at Metropolitan Opera House
 -   _Padlocked_ (1926)
 -   _Sea Horses_ (1926)
 -   _Summer Bachelors_ (1926)
@@ -207,10 +164,8 @@ Further reading
 
 -   Brownlow, Kevin, _The Parade's Gone By..._ (1968)
 -   Bogdanovich, Peter, _Allan Dwan: The Last Pioneer_ (1971)
--   Foster, Charles, _Stardust and Shadows: Canadians in Early
-    Hollywood_ (2000)
--   Lombardi, Frederic, _Allan Dwan and the Rise and Decline of the
-    Hollywood Studios_ (2013)
+-   Foster, Charles, _Stardust and Shadows: Canadians in Early Hollywood_ (2000)
+-   Lombardi, Frederic, _Allan Dwan and the Rise and Decline of the Hollywood Studios_ (2013)
 
 Print E-book
 
@@ -219,12 +174,7 @@ External links
 
 -   -   Allan Dwan profile, virtual-history.com; accessed 16 June 2014
 
-Category:1885 births Category:1981 deaths Category:American film
-directors Category:American film producers Category:American male
-screenwriters Category:Western (genre) film directors Category:Canadian
-emigrants to the United States Category:Film directors from Toronto
-Category:Writers from Toronto Category:Disease-related deaths in
-California Category:Burials at San Fernando Mission Cemetery
+Category:1885 births Category:1981 deaths Category:American film directors Category:American film producers Category:American male screenwriters Category:Western (genre) film directors Category:Canadian emigrants to the United States Category:Film directors from Toronto Category:Writers from Toronto Category:Disease-related deaths in California Category:Burials at San Fernando Mission Cemetery
 
 [1]
 

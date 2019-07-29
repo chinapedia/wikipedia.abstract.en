@@ -12,8 +12,7 @@ Africa
 
 Asia
 
--   Adeh, Urmia, also known as Ada, a village in West Azerbaijan
-    Province
+-   Adeh, Urmia, also known as Ada, a village in West Azerbaijan Province
 -   Ada, Karaman, a village in Karaman Province, Turkey
 
 Australia and New Zealand
@@ -24,8 +23,7 @@ Europe
 
 -   Ada, Croatia, a village
 -   Ada, Serbia, a town and municipality
--   Ada Ciganlija or Ada, a river island artificially turned into a
-    peninsula in Belgrade, Serbia
+-   Ada Ciganlija or Ada, a river island artificially turned into a peninsula in Belgrade, Serbia
 
 North America
 
@@ -51,8 +49,7 @@ Outer space
 
 Film and television
 
--   Ada TV, a television channel in the Turkish Republic of Northern
-    Cyprus
+-   Ada TV, a television channel in the Turkish Republic of Northern Cyprus
 -   _Ada_ (film), a 1961 film by Daniel Mann
 -   _Ada... A Way of Life_, a 2008 Bollywood musical by Tanvir Ahmed
 -   Ada (dog actor), a dog that played Colin on the sitcom _Spaced_
@@ -74,28 +71,23 @@ Computer science
 Air travel
 
 -   Ada Air, a regional airline based in Tirana, Albania
--   Ada International Airport or Saipan International Airport, Saipan
-    Island, Northern Mariana Islands
+-   Ada International Airport or Saipan International Airport, Saipan Island, Northern Mariana Islands
 -   Aerolínea de Antioquia, a Colombian airline
--   Airline Deregulation Act, a 1978 US bill removing governmental
-    control from commercial aviation
+-   Airline Deregulation Act, a 1978 US bill removing governmental control from commercial aviation
 
 
 Schools
 
--   Ada, the National College for Digital Skills, a further education
-    college in Tottenham Hale, London
+-   Ada, the National College for Digital Skills, a further education college in Tottenham Hale, London
 -   Ada High School (Ohio), Ada, Ohio
 -   Ada High School (Oklahoma), Ada, Oklahoma
 
 
 People
 
--   Ada (name), a feminine given name and a surname, including a list of
-    people and fictional characters
+-   Ada (name), a feminine given name and a surname, including a list of people and fictional characters
 -   Kawa Ada (born 1982), a Canadian actor, writer and producer
--   Ada Lovelace (1815–1852), a computer scientist sometimes regarded as
-    the first computer programmer
+-   Ada Lovelace (1815–1852), a computer scientist sometimes regarded as the first computer programmer
 
 
 Other uses
@@ -105,8 +97,7 @@ Other uses
 -   Ada Bridge, Belgrade, Serbia
 -   , a cargo vessel built for the London and South Western Railway
 
--   _Ada_ (ship), a wooden ketch, wrecked near Newcastle, New South
-    Wales, Australia
+-   _Ada_ (ship), a wooden ketch, wrecked near Newcastle, New South Wales, Australia
 -   Ada or Ardor: A Family Chronicle, novel by Vladimir Nabokov
 -   Dangme language, spoken in Ghana (ISO 639-2 and 639-3 code "ada")
 -   Ada Health GmbH, a symptom checker app
@@ -120,5 +111,4 @@ See also
 -   Adha (disambiguation)
 -   Ada'a, a _woreda_ in the Oromia Region of Ethiopia
 -   Ade (disambiguation)
--   USS _Little Ada_ (1864), a steamer captured by the Union Navy during
-    the American Civil War
+-   USS _Little Ada_ (1864), a steamer captured by the Union Navy during the American Civil War

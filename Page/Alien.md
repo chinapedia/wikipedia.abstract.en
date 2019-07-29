@@ -1,10 +1,8 @@
 ALIEN primarily refers to:
 
 -   Extraterrestrial life, life which does not originate from Earth
-    -   Specifically, intelligent extraterrestrial beings; see List of
-        alleged extraterrestrial beings
--   Alien (law), a person in a country who is not a national of that
-    country
+    -   Specifically, intelligent extraterrestrial beings; see List of alleged extraterrestrial beings
+-   Alien (law), a person in a country who is not a national of that country
 
 ALIEN(S), or THE ALIEN(S) may also refer to:
 
@@ -27,10 +25,8 @@ Films
 -   _Alien_ (film), a 1979 film by Ridley Scott
 -   _Aliens_ (film), the 1986 sequel by James Cameron
 -   _Alien 3_, third film in the series from 1992 by David Fincher
--   _Alien 2: On Earth_, a 1980 unofficial sequel of the 1979 _Alien_
-    film
--   _The Alien_ (unproduced film), an incomplete 1960s IndianAmerican
-    film
+-   _Alien 2: On Earth_, a 1980 unofficial sequel of the 1979 _Alien_ film
+-   _The Alien_ (unproduced film), an incomplete 1960s IndianAmerican film
 -   _The Alien_ (2016 film), a 2016 Mexican film
 
 Literature
@@ -63,38 +59,31 @@ Songs
 -   "Alien" (Pennywise song)
 -   "Alien" (Third Day song)
 -   "Aliens" (Coldplay song)
--   "My Alien", a song by Simple Plan on the album _No Pads, No
-    Helmets... Just Balls_
+-   "My Alien", a song by Simple Plan on the album _No Pads, No Helmets... Just Balls_
 -   "Alien", a song by Bush on the album _Sixteen Stone_
 -   "Alien", a song by Erasure on the album _Loveboat_
 -   "Alien", a song by Japan on the album _Quiet Life_
 -   "Alien", a song by Lamb on the album _Fear of Fours_
--   "Alien", a song by Nerina Pallot on the album _Dear Frustrated
-    Superstar_
+-   "Alien", a song by Nerina Pallot on the album _Dear Frustrated Superstar_
 -   "Alien", a song by P-Model on the album _Landsale_
 -   "Alien", a song by Thriving Ivory on their self-titled album
--   "Alien", a song by Tokio Hotel on the album _Humanoid_. Also, fans
-    of the band call themselves Aliens
+-   "Alien", a song by Tokio Hotel on the album _Humanoid_. Also, fans of the band call themselves Aliens
 -   "The Aliens", a song by Warlord
 
 Video games
 
--   _Aliens_ (1982 video game), a text-only clone of _Space Invaders_
-    written for the CP/M operating system on the Kaypro computer
+-   _Aliens_ (1982 video game), a text-only clone of _Space Invaders_ written for the CP/M operating system on the Kaypro computer
 -   _Alien_ (Atari 2600), a 1982 maze game based on the 1979 film
 -   _Alien_ (1984 video game), based on the film
--   _Aliens_ (1990 video game), a game by Konami, based on the sequel of
-    the film
--   _Alien: Isolation_, a 2014 video game based on the _Alien_ science
-    fiction horror film series
+-   _Aliens_ (1990 video game), a game by Konami, based on the sequel of the film
+-   _Alien: Isolation_, a 2014 video game based on the _Alien_ science fiction horror film series
 -
 
 Other media
 
 -   _Alien_ (Armenian TV series), a 2017 melodrama series
 -   _The Aliens_ (TV series), 2016 British sci-fi television series
--   _Alien_ (sculpture), a 2012 work by David Breuer-Weil, in
-    Mottisfont, Hampshire, England
+-   _Alien_ (sculpture), a 2012 work by David Breuer-Weil, in Mottisfont, Hampshire, England
 -   _Aliens_ (Dark Horse Comics line)
 
 
